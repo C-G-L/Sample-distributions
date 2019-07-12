@@ -1,0 +1,642 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+827,melpomene,melpomene melpomene Heliconius,,,,desconocido,Braganca BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.05,-46.78333333,Brown
+922,melpomene,melpomene melpomene Heliconius,,,,desconocido,Cucuta COL NS,,,m,,,,,KB 1979,,NEIL ROSSER,,7.9,-72.51666667,Brown
+1109,melpomene,melpomene melpomene Heliconius,,,,desconocido,Mantecal VEN BO,,,m,,,,,KB 1979,,NEIL ROSSER,,6.866666667,-65.63333333,Geonames
+1137,melpomene,melpomene melpomene Heliconius,,,,desconocido,Maues BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.366666667,-57.71666667,Brown
+1212,melpomene,melpomene melpomene Heliconius,,,,desconocido,Puerto Ayacucho VEN AM,,,m,,,,,KB 1979,,NEIL ROSSER,,5.6,-67.6,Brown
+1261,melpomene,melpomene melpomene Heliconius,,,,desconocido,San Fernando VEN AP,,,m,,,,,KB 1979,,NEIL ROSSER,,7.896666667,-67.46722222,Geonames
+1268,melpomene,melpomene melpomene Heliconius,,,,desconocido,San Jose del Guaviare COL GV,,,m,,,,,KB 1979,,NEIL ROSSER,,2.567222222,-72.63777778,www.calle.com
+1447,melpomene,melpomene melpomene Heliconius,,,,descononcido,Tartarugal Grande - 6km N BRA AP,,,m,,,,,KB 1979,,NEIL ROSSER,,1.4306,-50.905825,Google Earth
+1574,melpomene,melpomene melpomene Heliconius,,,,descononcido,"Tumeremo, -5km E VEN BO",,,m,,,,,KB 1979,,NEIL ROSSER,,7.310675,-61.45976944,Google Earth
+4092,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Muchuchachi VEN ME,,,m,,,,,BMNH,,NEIL ROSSER,,8.15,-71.33333333,Brown
+4093,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Paracotos VEN DF,,,m,30,1,1972,McGuiness,BMNH,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+4094,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Bolivar VEN BO,,,m,,,,Bowden,BMNH,,NEIL ROSSER,,8.122222222,-63.54972222,Geonames
+4095,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,hembra,Maipures COL VI,,,m,,1,1899,Cherrie,BMNH,,NEIL ROSSER,,5.195,-67.83388889,Falling Rain
+4096,melpomene,melpomene melpomene Heliconius,,,f. fumosa part. Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,hembra,El Dorado - Sta Elena km 119 VEN BO,800,800,m,20,8,1990,"Neild, A.",BMNH,,NEIL ROSSER,,5.962433333,-61.43179722,Google Earth
+4104,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,hembra,Santa Lucia VEN MI,,,m,,,,"Muter, W.",BMNH,,NEIL ROSSER,,10.30305556,-66.66055556,Geonames
+4105,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,Berbice GUY UB,,,m,,,,,BMNH,,NEIL ROSSER,,5.45,-57.95,Brown
+4106,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,"Essequibo River, Moraballi Creek, GUY",,,m,,10,1929,Oxford University Expedition,BMNH,19-24,NEIL ROSSER,,6.183333333,-58.55,http://www.bio.uu.nl/~herba/Guyana/Plant_Diversity_Guyana/Downloads/Chapter%2003%20Appendix%201.PDF
+4107,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,Aunai GUY UT,,,m,,,,"Whitely, H.",BMNH,,NEIL ROSSER,,5.366666667,-58.88333333,Brown
+4108,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,Demerara GUY ??,,,m,,,,,BMNH,,NEIL ROSSER,,6.8,-58.16666667,www.calle.com
+4109,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,hembra,Bartica GUY CM,,,m,12,2,,,BMNH,,NEIL ROSSER,,6.4,-58.61666667,Brown
+4110,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,Carimang River GUY CM,,,m,,,,"Whitely, H.",BMNH,,NEIL ROSSER,,5.7,-59.63333333,Brown
+4111,melpomene,melpomene melpomene Heliconius,,,,macho,Demerara GUY ??,,,m,,,,,BMNH,,NEIL ROSSER,,6.8,-58.16666667,www.calle.com
+4854,melpomene,melpomene melpomene Heliconius,,,f. trimacula,macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+4855,melpomene,melpomene melpomene Heliconius,,,f. trimacula,hembra,St Laurent du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+5557,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,"Rio Guachaca, COL MA",50,50,m,9,7,1971,Adams & Bernard,BMNH,,NEIL ROSSER,,11.26666667,-73.81666667,http://www.tageo.com/index-e-co-v-18-d-m826082.htm?Rio+guachaca
+5561,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Onaca COL MA,2000,2000,ft,,,,"Engelke, C.",BMNH,,NEIL ROSSER,,11.18333333,-74.06666667,Brown
+5562,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Rio Frio COL MA,,,m,7,8,1927,"Salt, G.",BMNH,,NEIL ROSSER,,10.91666667,-74.16666667,Geonames
+5563,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Pueblo Viejo COL MA,,,m,,,,Simons,BMNH,,NEIL ROSSER,,10.98333333,-73.45,Brown
+5566,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Rio Negro (Fassl) COL,,,m,,,,,BMNH,,NEIL ROSSER,,4.25,-73.75,Mallet and Jackson 1980
+5567,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Tucurinca COL MA,,,m,3,9,1897,Havier?,BMNH,,NEIL ROSSER,,10.65,-74.16666667,Google Earth
+5569,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Onaca COL MA,,,m,,,,"Engelke, C.",BMNH,end 6 - beg 8,NEIL ROSSER,,11.18333333,-74.06666667,Brown
+5570,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,El Banco COL MA,,,m,,,,"Allen, C.",BMNH,,NEIL ROSSER,,9.016666667,-73.98333333,Brown
+5571,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Peperital - Buenavista COL ME,400,1300,m,,1,1897,Burger,BMNH,16-18,NEIL ROSSER,,4.162222222,-73.663275,Google Earth
+5572,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Villavicencio COL ME,400,400,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+5574,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,San Martin COL ME,,,m,,,,"Child, G.D.",BMNH,,NEIL ROSSER,,3.7,-73.7,Brown
+5575,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Pueblo Bello COL EC,1100,1100,m,1,8,1971,Adams & Bernard,BMNH,,NEIL ROSSER,,10.41666667,-73.58333333,Brown
+5576,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Los Clavos Rio COL EC,350,350,m,2,8,1971,Adams & Bernard,BMNH,,NEIL ROSSER,,10.16666667,-73.41666667,Brown
+5577,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,"Rio Guachaca, COL MA",0,0,m,9,7,1971,Adams & Bernard,BMNH,,NEIL ROSSER,,11.26666667,-73.81666667,http://www.tageo.com/index-e-co-v-18-d-m826082.htm?Rio+guachaca
+5578,melpomene,melpomene melpomene Heliconius,,,ID? flagrans or vulcanus? Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,El Campano COL MA,1300,1300,m,4,7,1971,Adams & Bernard,BMNH,,NEIL ROSSER,,11.11432222,-74.09986111,Antweb reference
+5586,melpomene,melpomene melpomene Heliconius,,,f. fumosa part. Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,San Martin COL ME,,,m,,,,"Child, G.D.",BMNH,,NEIL ROSSER,,3.7,-73.7,Brown
+5588,melpomene,melpomene melpomene Heliconius,,,f. fumosa part. -note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,San Fernando VEN AP,,,m,,,1896,Laglaize,BMNH,,NEIL ROSSER,,7.896666667,-67.46722222,Geonames
+5590,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,"Las Cruces, Colon VEN TA",250,750,ft,24,12,1929,,BMNH,,NEIL ROSSER,,8.080555556,-72.24777778,Geonames
+5591,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,San Esteban VEN CA,,,m,,6,1909,"Klages, S.M.",BMNH,,NEIL ROSSER,,10.43333333,-68.01666667,Brown
+5592,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Quebrada Gonzalez VEN ME,4500,4500,ft,15,8,1938,Hanbury Tracey,BMNH,,NEIL ROSSER,,8.148797222,-71.19316667,Google Earth + Falling Rain
+5593,melpomene,melpomene melpomene Heliconius,,,,macho,"Hetia (=Hitia), Berbice River GUY",,,m,9,7,1914,Patoir,BMNH,,NEIL ROSSER,,5.8,-57.75,Geonames
+5594,melpomene,melpomene melpomene Heliconius,,,,macho,Parika GUY EW,,,m,,2,1936,"Hall, A.",BMNH,,NEIL ROSSER,,6.866666667,-58.41666667,Brown
+5595,melpomene,melpomene melpomene Heliconius,,,,hembra,Friendship GUY ??,,,m,22,3,1915,Patoir,BMNH,,NEIL ROSSER,,6.666666667,-58.16666667,Brown
+5597,melpomene,melpomene melpomene Heliconius,,,f. lucia (Cramer? - Stoll in Lamas),macho,Berg - en - Dal SUR BR,,,m,,,,,BMNH,July?,NEIL ROSSER,,5.15,-55.06666667,Brown
+5598,melpomene,melpomene melpomene Heliconius,,,,macho,Paramaribo SUR PM,,,m,,1,1892,"Ellacombe, G.W.",BMNH,,NEIL ROSSER,,5.833333333,-55.16666667,Brown
+5599,melpomene,melpomene melpomene Heliconius,,,f. fumosa part. Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,Caracas  VEN DF,,,m,,,,Maj. A. Pam,BMNH,,NEIL ROSSER,,10.5,-66.91666667,Brown
+5600,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,Mocotone VEN,,,m,,,,,BMNH,,NEIL ROSSER,,8.09806,-71.3675,Geonames
+5601,melpomene,melpomene melpomene Heliconius,,,,macho,Bersaba SUR PA,,,m,,,1898,Michael,BMNH,,NEIL ROSSER,,5.533333333,-55.05,Brown
+5602,melpomene,melpomene melpomene Heliconius,,,,macho,Saramacca River SUR BR,,,m,,,,Dyer,BMNH,,NEIL ROSSER,,5.25,-55.25,Brown 1979
+5603,melpomene,melpomene melpomene Heliconius,,,Note was labelled melpomene vulcanus Heliconius in BM amended - see map notes.,macho,Cayenne FRG CY,,,m,,,,,BMNH,,NEIL ROSSER,,4.933333333,-52.33333333,Brown
+5604,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+5605,melpomene,melpomene melpomene Heliconius,,,Appears in BM as melpomene flagrans Heliconius - unclear what this should be - i've called it melpomene melpomene for the time being - see map notes,hembra,Cayenne FRG CY,,,m,,,,,BMNH,,NEIL ROSSER,,4.933333333,-52.33333333,Brown
+5606,melpomene,melpomene melpomene Heliconius,,,,hembra,St Laurent du Maroni FRG LM,,,m,,,1915,,BMNH,07-Sep,NEIL ROSSER,,5.5,-54.03333333,Brown
+5607,melpomene,melpomene melpomene Heliconius,,,,macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+5608,melpomene,melpomene melpomene Heliconius,,,,hembra,Roches de Kourou FRG,,,m,,8,,,BMNH,,NEIL ROSSER,,5.109236111,-52.60560278,Geonames + adjusted using Google Earth
+5609,melpomene,melpomene melpomene Heliconius,,,,macho,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.55,-53.93333333,Brown
+5610,melpomene,melpomene melpomene Heliconius,,,f. luteipicta,hembra,Godebert - Maroni FRG,,,m,,,,,BMNH,,NEIL ROSSER,,5.516666667,-53.96666667,Geonames
+5611,melpomene,melpomene melpomene Heliconius,,,,macho,Juhuty BRA AM,,,m,,4,1905,"Mathan, M. de",BMNH,,NEIL ROSSER,,-3.683333333,-56.56666667,Copied from NIMA
+5613,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+5614,melpomene,melpomene melpomene Heliconius,,,,macho,Santarem BRA PA,,,m,,,,"Smith, D.",BMNH,,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+5615,melpomene,melpomene melpomene Heliconius,,,,macho,Urumanzal BRA PA,,,m,22,7,1954,Cambridge University Amazon Expedition,BMNH,,NEIL ROSSER,,-1.941666667,-54.73833333,"Urumanzal produces two obscure internet references, one of them saying it is 40km from Alenquer. Coordinates are for Alenquer."
+5616,melpomene,melpomene melpomene Heliconius,,,,macho,Barreiros de Curua 50 km east of Santarem,,,m,,,,,BMNH,,NEIL ROSSER,,-2.39095,-54.09458611,Geonames + Google Earth
+5617,melpomene,melpomene melpomene Heliconius,,,,macho,Maranham BRA MH,,,m,,,,"Belt, T.",BMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+5618,melpomene,melpomene melpomene Heliconius,,,,macho,Taperinha BRA PA,,,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,-0.866666667,-47.81666667,NIMA
+5619,melpomene,melpomene melpomene Heliconius,,,f. collis,macho,Bas Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.25,-54.25,Brown 1979
+5620,melpomene,melpomene melpomene Heliconius,,,f. collis,macho,Maroni Lower FRG,,,m,,,1920,,BMNH,08-Sep,NEIL ROSSER,,5.25,-54.25,Brown 1979
+5621,melpomene,melpomene melpomene Heliconius,,,f. faivrei,macho,St. Mangucul (?) FRG,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+5623,melpomene,melpomene melpomene Heliconius,,,,macho,Piquia BRA PA,,,m,16,8,1954,Cambridge University Amazon Expedition,BMNH,,NEIL ROSSER,,-2.666666667,-54.96666667,
+5624,melpomene,melpomene melpomene Heliconius,,,,macho,Monte Alegre BRA PA,,,m,28,7,1954,Cambridge University Amazon Expedition,BMNH,,NEIL ROSSER,,-2.016666667,-54.06666667,NIMA
+5625,melpomene,melpomene melpomene Heliconius,,,f. atrosecta,macho,Ipanema BRA PA,,,m,28,5,1893,,BMNH,,NEIL ROSSER,,-2.433333333,-54.75,Brown
+5628,melpomene,melpomene melpomene Heliconius,,,f. atrosecta,macho,Trombetas BRA PA,,,m,,,,,BMNH,,NEIL ROSSER,,-1.885277778,-55.62333333,NIMA
+5629,melpomene,melpomene melpomene Heliconius,,,f. atrosecta,macho,Santarem BRA PA,,,m,,1,1878,"Mathan, M. de",BMNH,,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+5631,melpomene,melpomene melpomene Heliconius,,,f. karschi,macho,Suapure Rio VEN BO,,,m,,,,,BMNH,,NEIL ROSSER,,7.233333333,-65.16666667,www.calle.com
+5632,melpomene,melpomene melpomene Heliconius,,,,macho,Huanc. PER,,,m,,,,Fruhstorfer J,BMNH,,NEIL ROSSER,,,,unknown
+5634,melpomene,melpomene melpomene Heliconius,,,,macho,Berg - en - Dal SUR BR,,,m,,,,Michaelis,BMNH,,NEIL ROSSER,,5.15,-55.06666667,Brown
+5644,melpomene,melpomene melpomene Heliconius,,,,macho,R�gina FRI CY,,,m,,,,,BMNH,,NEIL ROSSER,,4.316666667,-52.13333333,Geonames
+5645,melpomene,melpomene melpomene Heliconius,,,f. diana,hembra,Godebert - Maroni FRG,,,m,,,,,BMNH,,NEIL ROSSER,,5.516666667,-53.96666667,Geonames
+5646,melpomene,melpomene melpomene Heliconius,,,f. diana,hembra,Roches de Kourou FRG,,,m,,8,,,BMNH,,NEIL ROSSER,,5.109236111,-52.60560278,Geonames + adjusted using Google Earth
+5647,melpomene,melpomene melpomene Heliconius,,,f. rubroflammea,macho,Guatimala FRG CY,,,m,,,,,BMNH,,NEIL ROSSER,,5.15,-52.63333333,Brown
+5648,melpomene,melpomene melpomene Heliconius,,,f. mutablis,macho,Serpa BRA AM,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-3.166666667,-58.26666667,Brown
+5685,melpomene,melpomene melpomene Heliconius,,,f. tyche with small patch in cell end and narrower red band.,macho,"Gourdonville, Kourou river",,,m,,,,,BMNH,,NEIL ROSSER,,5.016666667,-52.65,Geonames
+5700,melpomene,melpomene melpomene Heliconius,ST,"hippolyte Heliconius melpomene (Heliconius, H.W. Bates 1862)",f. hippolyte,hembra,Serpa BRA AM,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-3.166666667,-58.26666667,Brown
+5701,melpomene,melpomene melpomene Heliconius,,,f. hippolyte,macho,San Agostino 125 miles east of Manaus BRA,,,m,,,,,BMNH,,NEIL ROSSER,,-3.593347222,-61.37713889,Google Earth
+5704,melpomene,melpomene melpomene Heliconius,,,f. hippolyte,hembra,Alter do Chao Santarem BRA,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-2.503611111,-54.9525,Geonames
+5724,melpomene,melpomene melpomene Heliconius,,,f. hippolyte,macho,Para BRA PA,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-1.45,-48.4833,Falling Rain
+5725,melpomene,melpomene melpomene Heliconius,,,f. hippolyte,macho,Maranham BRA MH,,,m,,,,,BMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+5727,melpomene,melpomene melpomene Heliconius,HT,"tyche Heliconius melpomene (Heliconius, H.W. Bates 1862)",,macho,Serpa BRA AM,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-3.166666667,-58.26666667,Brown
+10527,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,4,1959,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10528,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,9,1985,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10531,melpomene,melpomene melpomene Heliconius,,,,macho,Santarem BRA PA,,,m,3,3,1985,,MGCL/FLMNH,,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+10533,melpomene,melpomene melpomene Heliconius,,,,hembra,Sao Luiz BRA MA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10534,melpomene,melpomene melpomene Heliconius,,,,hembra,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10535,melpomene,melpomene melpomene Heliconius,,,,hembra,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10536,melpomene,melpomene melpomene Heliconius,,,,macho,Maranhao BRA MH,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10537,melpomene,melpomene melpomene Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10538,melpomene,melpomene melpomene Heliconius,,,burchelli x melpomene,macho,Sao Luiz BRA MA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10539,melpomene,melpomene melpomene Heliconius,,,,macho,Maranhao BRA MH,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10540,melpomene,melpomene melpomene Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10541,melpomene,melpomene melpomene Heliconius,,,,macho,Cayenne 14km N FRG,,,m,26,3,1986,Parkinson,MGCL/FLMNH,,NEIL ROSSER,,4.960063889,-52.43291944,Google Earth
+10542,melpomene,melpomene melpomene Heliconius,,,,hembra,"Hab. Vidal, 2.5km Ramire FRG",,,m,30,3,1986,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,4.883333333,-52.28333333,Geonames
+10543,melpomene,melpomene melpomene Heliconius,,,,macho,"Cayenne 2km N, bridge on Kourou Hwy FRG CY",,,m,30,3,1986,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,4.900663889,-52.36395,Google Earth
+10544,melpomene,melpomene melpomene Heliconius,,,,macho,Tonogrande FRG,,,m,18,6,1991,Kassarov,MGCL/FLMNH,,NEIL ROSSER,,4.833333333,-52.45,Geonames
+10584,melpomene,melpomene melpomene Heliconius,,,ab. karschi,hembra,St Laurent du Maroni FRG LM,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10585,melpomene,melpomene melpomene Heliconius,,,ab. karschi,hembra,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10586,melpomene,melpomene melpomene Heliconius,,,ab. karschi,hembra,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10587,melpomene,melpomene melpomene Heliconius,,,ab. karschi,hembra,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10588,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10589,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10590,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10591,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10592,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10593,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10594,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10595,melpomene,melpomene melpomene Heliconius,,,ab. karschi,macho,Orapu River FRG,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,4.65,-52.33333333,Geonames
+10625,melpomene,melpomene melpomene Heliconius,,,,hembra,Para BRA PA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-1.45,-48.4833,Falling Rain
+10626,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,5,1983,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10627,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,15,10,1990,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10629,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,6,1950,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10630,melpomene,melpomene melpomene Heliconius,,,,macho,"Gabrielle Creek, Eskol FRG",,,m,16,12,1997,Finkelstein,MGCL/FLMNH,,NEIL ROSSER,,4.716666667,-52.28333333,www.mycologia.org
+10633,melpomene,melpomene melpomene Heliconius,,,,macho,Villavicencio COL ME,,,m,9,11,1943,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10634,melpomene,melpomene melpomene Heliconius,,,,macho,Villavicencio COL ME,800,1200,m,13,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10642,melpomene,melpomene melpomene Heliconius,,,,macho,Servita COL ME,1200,1200,m,28,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+10643,melpomene,melpomene melpomene Heliconius,,,,hembra,Villavicencio COL ME,800,1200,m,12,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10644,melpomene,melpomene melpomene Heliconius,,,,hembra,Villavicencio COL ME,1400,1400,m,18,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10645,melpomene,melpomene melpomene Heliconius,,,,macho,Villavicencio COL ME,,,m,31,8,1943,Hovanitz,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10646,melpomene,melpomene melpomene Heliconius,,,,macho,Servita COL ME,1000,1200,m,29,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+10647,melpomene,melpomene melpomene Heliconius,,,,macho,Ocoa COL ME,,,m,4,12,1943,,MGCL/FLMNH,,NEIL ROSSER,,4.118888889,-73.2725,Geonames
+10648,melpomene,melpomene melpomene Heliconius,,,,macho,Cementerro COL ME,,,m,27,10,1943,,MGCL/FLMNH,,NEIL ROSSER,,4.153333333,-73.635,Geonames
+10649,melpomene,melpomene melpomene Heliconius,,,,macho,Servita COL ME,1200,1200,m,28,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+10650,melpomene,melpomene melpomene Heliconius,,,,macho,Monte Carlo COL ME,,,m,5,11,1943,,MGCL/FLMNH,,NEIL ROSSER,,4.109702778,-73.2787,Google Earth
+10651,melpomene,melpomene melpomene Heliconius,,,,hembra,Servita COL ME,1200,1200,m,28,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+10652,melpomene,melpomene melpomene Heliconius,,,,macho,Ocoa COL ME,,,m,4,12,1943,,MGCL/FLMNH,,NEIL ROSSER,,4.118888889,-73.2725,Geonames
+10653,melpomene,melpomene melpomene Heliconius,,,,macho,Servita COL ME,1000,1200,m,29,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+10655,melpomene,melpomene melpomene Heliconius,,,,hembra,Villavicencio COL ME,800,1200,m,12,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10656,melpomene,melpomene melpomene Heliconius,,,,macho,Villavicencio COL ME,,,m,12,1,1944,Hovanitz,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+10657,melpomene,melpomene melpomene Heliconius,,,,macho,Santarem BRA PA,,,m,,10,1919,,MGCL/FLMNH,Oct-31,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+10658,melpomene,melpomene melpomene Heliconius,,,,hembra,Santarem BRA PA,,,m,,10,1919,,MGCL/FLMNH,Oct-31,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+10659,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,3,1959,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10660,melpomene,melpomene melpomene Heliconius,,,,macho,Santarem BRA PA,,,m,,10,1919,,MGCL/FLMNH,Oct-31,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+10661,melpomene,melpomene melpomene Heliconius,,,,macho,Santarem BRA PA,,,m,,10,1919,,MGCL/FLMNH,Oct-31,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+10663,melpomene,melpomene melpomene Heliconius,,,,macho,Mujo BRA PA,,,m,,11,1921,,MGCL/FLMNH,,NEIL ROSSER,,-2.683333333,-54.63333333,Brown
+10664,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,11,1921,,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10665,melpomene,melpomene melpomene Heliconius,,,,macho,Mujo BRA PA,,,m,21,11,1921,,MGCL/FLMNH,,NEIL ROSSER,,-2.683333333,-54.63333333,Brown
+10666,melpomene,melpomene melpomene Heliconius,,,,macho,Mujo BRA PA,,,m,,11,1921,,MGCL/FLMNH,,NEIL ROSSER,,-2.683333333,-54.63333333,Brown
+10667,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,1,6,1958,MAZ,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10668,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,10,6,1967,MAZ,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10669,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,1,6,1958,MAZ,MGCL/FLMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+10681,melpomene,melpomene melpomene Heliconius,,,,macho,Omai GUY MP,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.433333333,-58.75,Brown
+10682,melpomene,melpomene melpomene Heliconius,,,,hembra,Roches de Kourou FRG,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.109236111,-52.60560278,Geonames + adjusted using Google Earth
+10683,melpomene,melpomene melpomene Heliconius,,,,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+10684,melpomene,melpomene melpomene Heliconius,,,,macho,Surinam River SUR,,,m,,11,1922,Dyer,MGCL/FLMNH,01-Jun,NEIL ROSSER,,5.25,-55.25,Brown 1979
+10686,melpomene,melpomene melpomene Heliconius,,,,hembra,Demerara river GUY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,6.25,-58.25,Brown 1979
+10688,melpomene,melpomene melpomene Heliconius,,,,macho,Yuma VEN CA,550,550,m,18,7,1981,"Miller, L. D.",MGCL/FLMNH,,NEIL ROSSER,,10.1,-67.7,Brown
+10689,melpomene,melpomene melpomene Heliconius,,,,hembra,Las Delicias VEN AR,600,600,m,26,7,1981,"Miller, L. D.",MGCL/FLMNH,,NEIL ROSSER,,10.2875,-67.565,Geonames
+10690,melpomene,melpomene melpomene Heliconius,,,,macho,Yuma VEN CA,550,550,m,18,7,1981,"Miller, L. D.",MGCL/FLMNH,,NEIL ROSSER,,10.1,-67.7,Brown
+10691,melpomene,melpomene melpomene Heliconius,,,,macho,San Esteban 3km SW VEN CA,200,200,m,28,7,1981,"Miller, L. D.",MGCL/FLMNH,,NEIL ROSSER,,10.45279167,-68.03530556,Google Earth
+10692,melpomene,melpomene melpomene Heliconius,,,,macho,San Esteban VEN CA,,,m,,,1920,"Hall, A.",MGCL/FLMNH,08-Sep,NEIL ROSSER,,10.43333333,-68.01666667,Brown
+10694,melpomene,melpomene melpomene Heliconius,,,,macho,Puerto Cabello VEN CA,,,m,26,12,1920,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,10.46666667,-68.01666667,Brown
+10695,melpomene,melpomene melpomene Heliconius,,,,macho,Caracas  VEN DF,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,10.5,-66.91666667,Brown
+10697,melpomene,melpomene melpomene Heliconius,,,,macho,Demerara river GUY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,6.25,-58.25,Brown 1979
+10698,melpomene,melpomene melpomene Heliconius,,,,macho,New Amsterdam GUY EB,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,6.25,-57.51666667,Geonames
+14190,melpomene,melpomene melpomene Heliconius,,,,unknown,El Tucuco VEN ZU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.7,-72.76666667,Brown
+15910,melpomene,melpomene melpomene Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+15911,melpomene,melpomene melpomene Heliconius,,,,unknown,Arapiuns Rio BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.3,-55,NIMA
+16296,melpomene,melpomene melpomene Heliconius,,,"f. hippolyte. This specimen was originally entered as melpomene madeira Heliconius, but amended given the form",unknown,Apoquital Rio (Maues) BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.383611111,-57.71861111,Geonames
+16297,melpomene,melpomene melpomene Heliconius,,,"f. hippolyte. This specimen was originally entered as melpomene madeira Heliconius, but amended given the form",unknown,Maues BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.366666667,-57.71666667,Brown
+16897,melpomene,melpomene melpomene Heliconius,,,,unknown,Sierra Nevada de Santa Marta COL MA,1400,1400,m,,,,Adams & Bernard,NHM Accesions - draws 9050,,NEIL ROSSER,,10.75,-74.25,Brown 1979
+17070,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17071,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17072,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17073,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17074,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17075,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17076,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17077,melpomene,melpomene melpomene Heliconius,,,,unknown,Paracotos VEN DF,,,m,,,1972,McGuiness,NHM Accesions - draws 9063,,NEIL ROSSER,,10.27138889,-66.95277778,Geonames
+17155,melpomene,melpomene melpomene Heliconius,,,,unknown,Apoteri GUY,,,m,,,,Bedford Russell,NHM Accesions - draws 111772,,NEIL ROSSER,,4.033333333,-58.58333333,unknown
+17158,melpomene,melpomene melpomene Heliconius,,,f. diana. This specimen was originally entered as melpomene meriana Heliconius but diana is part of melpomene melpomene. Assumed error,unknown,Apoteri GUY,,,m,,,,Bedford Russell,NHM Accesions - draws 111772,,NEIL ROSSER,,4.033333333,-58.58333333,unknown
+17160,melpomene,melpomene melpomene Heliconius,,,,unknown,Atkinson Airfield Nr. Georgetown GUY,,,m,,,,Bedford Russell,NHM Accesions - draws 111772,,NEIL ROSSER,,6.498333333,-58.25388889,Geonames
+24545,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,20,3,1991,"Salazar, J.",FLMNH,,Neil Rosser,,4.213,-73.795,Mavarez et al.
+24546,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,20,3,1991,"Salazar, J.",FLMNH,,Neil Rosser,,4.213,-73.795,Mavarez et al.
+24547,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",1100,1100,m,,2,1991,"Salazar, J.",FLMNH,,Neil Rosser,,4.213,-73.795,Mavarez et al.
+24549,melpomene,melpomene melpomene Heliconius,,,,macho,Villavicencio COL ME,,,m,3,1,1994,"Salazar, J.",FLMNH,,Neil Rosser,,4.15,-73.63333333,Brown
+24550,melpomene,melpomene melpomene Heliconius,,,,macho,Caqueta COL CQ,,,m,,10,1984,"Salazar, J.",FLMNH,,Neil Rosser,,9.533333333,-75.43333333,www.calle.com
+24551,melpomene,melpomene melpomene Heliconius,,,,macho,Perija Sierra de VEN ZU,,,m,23,5,1969,,FLMNH,,Neil Rosser,,10.25,-72.75,Brown 1979
+24552,melpomene,melpomene melpomene Heliconius,,,,macho,El Hatillo VEN MI,1200,1200,m,,9,1978,"Kahlheber, D.",FLMNH,,Neil Rosser,,10.42491111,-66.81303611,Google Earth
+24553,melpomene,melpomene melpomene Heliconius,,,,macho,El Tama VEN TA,600,600,m,19,6,1993,,FLMNH,,Neil Rosser,,7.578494444,-72.12768889,unknown
+24554,melpomene,melpomene melpomene Heliconius,,,,macho,Via Chorro del Indio VEN TA,1000,1000,m,18,6,1993,,FLMNH,,Neil Rosser,,7.709044444,-72.19031667,Google Earth + Geonames
+24555,melpomene,melpomene melpomene Heliconius,,,,macho,San Felix VEN TA,250,250,m,25,3,1992,,FLMNH,,Neil Rosser,,8.117777778,-72.25527778,Geonames
+24556,melpomene,melpomene melpomene Heliconius,,,,macho,Lauraca Rio VEN TA,450,450,m,23,3,1992,,FLMNH,,Neil Rosser,,8.133055556,-72.23388889,Geonames
+24557,melpomene,melpomene melpomene Heliconius,,,,macho,La Fria - San Juan de Colon km7 VEN TA,450,450,m,25,3,1992,,FLMNH,,Neil Rosser,,8.149727778,-72.22238611,Google Earth
+24558,melpomene,melpomene melpomene Heliconius,,,,macho,Palmichal VEN CA,780,780,m,25,2,1992,,FLMNH,,Neil Rosser,,10.30305556,-68.22694444,Geonames
+24559,melpomene,melpomene melpomene Heliconius,,,,hembra,Palmichal VEN CA,780,780,m,8,3,1992,,FLMNH,,Neil Rosser,,10.30305556,-68.22694444,Geonames
+24560,melpomene,melpomene melpomene Heliconius,,,,macho,Palmichal VEN CA,780,780,m,28,2,1992,,FLMNH,,Neil Rosser,,10.30305556,-68.22694444,Geonames
+24561,melpomene,melpomene melpomene Heliconius,,,,macho,Palmichal VEN CA,780,780,m,25,2,1992,,FLMNH,,Neil Rosser,,10.30305556,-68.22694444,Geonames
+24562,melpomene,melpomene melpomene Heliconius,,,,macho,Palmichal VEN CA,780,780,m,25,2,1992,,FLMNH,,Neil Rosser,,10.30305556,-68.22694444,Geonames
+24563,melpomene,melpomene melpomene Heliconius,,,,macho,Palmichal VEN CA,780,780,m,26,2,1992,,FLMNH,,Neil Rosser,,10.30305556,-68.22694444,Geonames
+24564,melpomene,melpomene melpomene Heliconius,,,,macho,El Dorado - Sta Elena km 27 VEN BO,,,m,,,,,FLMNH,,Neil Rosser,,6.490822222,-61.54769167,Google Earth
+24565,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24566,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24567,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24568,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24569,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24570,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24571,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24572,melpomene,melpomene melpomene Heliconius,,,,macho,San Francisco VEN MO,500,500,m,15,11,1993,,FLMNH,,Neil Rosser,,10.1,-63.63333333,geonames
+24573,melpomene,melpomene melpomene Heliconius,,,,macho,Elysee FRI SL,,,m,1,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+24574,melpomene,melpomene melpomene Heliconius,,,,hembra,Elysee FRI SL,,,m,23,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+24575,melpomene,melpomene melpomene Heliconius,,,,hembra,Elysee FRI SL,,,m,23,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+24576,melpomene,melpomene melpomene Heliconius,,,,macho,Brownsberg SUR BRO,,,m,26,7,1994,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+24577,melpomene,melpomene melpomene Heliconius,,,,hembra,Brownsberg SUR BRO,,,m,26,7,1994,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+24578,melpomene,melpomene melpomene Heliconius,,,,hembra,Lelydorp SUR WA,,,m,16,7,1995,"Jongerling, E.",FLMNH,,Neil Rosser,,5.7,-55.23333333,Geonames
+24579,melpomene,melpomene melpomene Heliconius,,,,hembra,Lelydorp SUR WA,,,m,15,5,1993,,FLMNH,,Neil Rosser,,5.7,-55.23333333,Geonames
+24580,melpomene,melpomene melpomene Heliconius,,,,hembra,Zanderij - Colakreek SUR PA,,,m,12,5,1989,"Jongerling, E.",FLMNH,,Neil Rosser,,5.516666667,-55.23333333,Geonames
+24581,melpomene,melpomene melpomene Heliconius,,,,macho,Singrilantie SUR ??,,,m,18,9,1992,"Jongerling, E.",FLMNH,,Neil Rosser,,5.409691667,-55.33333333,Google Earth + http://www.hotforum.nl/forum/cabadaro/128604/grondenrechten-in-suriname//
+24582,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,7,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24583,melpomene,melpomene melpomene Heliconius,,,,hembra,Terra Santa BRA PA,,,m,,9,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24584,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,9,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24585,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,7,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24586,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,9,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24587,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,7,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24588,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,7,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24589,melpomene,melpomene melpomene Heliconius,,,,macho,Terra Santa BRA PA,,,m,,9,1991,,FLMNH,,Neil Rosser,,-2.104166667,-56.48694444,Geonames
+24590,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24591,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24592,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24593,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24594,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,3,1994,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24595,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24596,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,,,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24597,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24598,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24599,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24600,melpomene,melpomene melpomene Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24601,melpomene,melpomene melpomene Heliconius,,,,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24602,melpomene,melpomene melpomene Heliconius,,,,macho,Santarem BRA PA,,,m,,,1988,,FLMNH,01-Jun,Neil Rosser,,-2.433333333,-54.71666667,Brown
+24603,melpomene,melpomene melpomene Heliconius,,,,hembra,Arapiuns Rio BRA PA,,,m,,3,1984,,FLMNH,,Neil Rosser,,-2.3,-55,NIMA
+24604,melpomene,melpomene melpomene Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+24605,melpomene,melpomene melpomene Heliconius,,,,hembra,Nova Olinda do Norte BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+24606,melpomene,melpomene melpomene Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+24607,melpomene,melpomene melpomene Heliconius,,,,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+24608,melpomene,melpomene melpomene Heliconius,,,,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+24609,melpomene,melpomene melpomene Heliconius,,,,hembra,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+24610,melpomene,melpomene melpomene Heliconius,,,,hembra,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+24611,melpomene,melpomene melpomene Heliconius,,,,hembra,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+24612,melpomene,melpomene melpomene Heliconius,,,,macho,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,02-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24613,melpomene,melpomene melpomene Heliconius,,,,macho,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,02-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24614,melpomene,melpomene melpomene Heliconius,,,,macho,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,02-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24615,melpomene,melpomene melpomene Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24616,melpomene,melpomene melpomene Heliconius,,,Gyandromorph,macho,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24617,melpomene,melpomene melpomene Heliconius,,,HYBRID melpomene x numata,macho,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24618,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24619,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24620,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Curuai-BRA PA,,,m,,,1989,,FLMNH,,Neil Rosser,,-2.271944444,-55.47583333,Geonames
+24623,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,1,1990,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24624,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24625,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1988,,FLMNH,01-Jun,Neil Rosser,,-1.9,-55.51666667,Brown
+24626,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,,,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24627,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Arapucu BRA PA,,,m,,,1990,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24628,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24629,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,9,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24630,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,7,1988,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24632,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Curuai-BRA PA,,,m,,,1990,,FLMNH,,Neil Rosser,,-2.271944444,-55.47583333,Geonames
+24634,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Arapiuns Rio BRA PA,,,m,,7,1985,,FLMNH,,Neil Rosser,,-2.3,-55,NIMA
+24636,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24637,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24638,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24639,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24640,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24641,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Obidos BRA PA,,,m,16,8,1985,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24642,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,,1988,,FLMNH,01-Jun,Neil Rosser,,-1.9,-55.51666667,Brown
+24644,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Arapiuns Rio BRA PA,,,m,,3,1988,,FLMNH,,Neil Rosser,,-2.3,-55,NIMA
+24645,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Canuma BRA AM,,,m,,6,1991,,FLMNH,,Neil Rosser,,-6.133333333,-60.16666667,NIMA
+24646,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Rio Tapa Jos Santa Cruz BRA PA,,,m,,6,1990,,FLMNH,,Neil Rosser,,-3.236213889,-55.29656111,Geonames + Google Earth
+24648,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Juruty BRA PA,,,m,,,1985,,FLMNH,,Neil Rosser,,-3.683333333,-56.56666667,NIMA
+24649,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+24650,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Rio Tapa Jos Santa Cruz BRA PA,,,m,,5,1990,,FLMNH,,Neil Rosser,,-3.236213889,-55.29656111,Geonames + Google Earth
+24651,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Santarem BRA PA,,,m,,4,1990,,FLMNH,,Neil Rosser,,-2.433333333,-54.71666667,Brown
+24653,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Santarem BRA PA,,,m,,2,1986,,FLMNH,,Neil Rosser,,-2.433333333,-54.71666667,Brown
+24654,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Rio Tapa Jos Santa Cruz BRA PA,,,m,,6,1990,,FLMNH,,Neil Rosser,,-3.236213889,-55.29656111,Geonames + Google Earth
+24655,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Santarem BRA PA,,,m,,,,,FLMNH,,Neil Rosser,,-2.433333333,-54.71666667,Brown
+24658,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Curuai-BRA PA,,,m,,,1989,,FLMNH,09-Dec,Neil Rosser,,-2.271944444,-55.47583333,Geonames
+24663,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Curua-una Rio BRA PA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-2.4,-54.08333333,NIMA
+25142,melpomene,melpomene melpomene Heliconius,,,melpomene x n. subsp.,hembra,Nova Olinda do Norte BRA AM,,,m,,7,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+25143,melpomene,melpomene melpomene Heliconius,,,melpomene x n. subsp.,hembra,Rio Canuma-BRA-Amazonas,,,m,,6,1991,,FLMNH,,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+25144,melpomene,melpomene melpomene Heliconius,,,melpomene x n. subsp.,hembra,Nova Olinda do Norte BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+25145,melpomene,melpomene melpomene Heliconius,,,melpomene x n. subsp.,hembra,Nova Olinda do Norte BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+29055,melpomene,melpomene melpomene Heliconius,,,,descononcido,Macapa BRA AP,,,m,,,,,KB 1979,,NEIL ROSSER,,0.038888889,-51.06638889,Geonames
+29118,melpomene,melpomene melpomene Heliconius,,,,descononcido,El Retorno COL GU,,,m,,,,,KB 1979,,NEIL ROSSER,,2.330555556,-72.62777778,Geonames
+29125,melpomene,melpomene melpomene Heliconius,,,,descononcido,Calcoene BRA AA,,,m,,,,,KB 1979,,NEIL ROSSER,,2.4975,-50.94861111,Geonames
+29128,melpomene,melpomene melpomene Heliconius,,,,descononcido,Amapa BRA AP,,,m,,,,,KB 1979,,NEIL ROSSER,,2.053333333,-50.79305556,Geonames
+29153,melpomene,melpomene melpomene Heliconius,,,,descononcido,La Culebra - Raudal VEN AM,,,m,,,,,KB 1979,,NEIL ROSSER,,3.6,-65.8,Geonames
+29190,melpomene,melpomene melpomene Heliconius,,,,descononcido,Morico Kreek SUR CO,,,m,,,,,KB 1979,,NEIL ROSSER,,5.766666667,-54.76666667,Geonames
+29217,melpomene,melpomene melpomene Heliconius,,,,descononcido,Ayapel COL CO,,,m,,,,,KB 1979,,NEIL ROSSER,,8.315833333,-75.14555556,Geonames
+29221,melpomene,melpomene melpomene Heliconius,,,,descononcido,El Torno-Hacienda-Monteria COL CO,,,m,,,,,KB 1979,,NEIL ROSSER,,8.344444444,-76.03777778,Geonames
+29224,melpomene,melpomene melpomene Heliconius,,,,descononcido,Grande Rio Campamento VEN BO,,,m,,,,,KB 1979,,NEIL ROSSER,,8.05,-61.63333333,Geonames
+29225,melpomene,melpomene melpomene Heliconius,,,,descononcido,Flores Moradas - Hato VEN GU,,,m,,,,,KB 1979,,NEIL ROSSER,,8.564444444,-67.55,Geonames
+29229,melpomene,melpomene melpomene Heliconius,,,,descononcido,Turbo COL AN,,,m,,,,,KB 1979,,NEIL ROSSER,,8.098055556,-76.73166667,Geonames
+31857,melpomene,melpomene melpomene Heliconius,,,,unknown,Imataca VEN,,,m,,10,2000,,Hoskins - Observation,,NEIL ROSSER,,7.328247222,-61.08944444,Google Earth + Geonames
+31862,melpomene,melpomene melpomene Heliconius,,,,unknown,Jaspe Falls (Quebrada de Jaspe) VEN BO,,,m,,10,2000,,Hoskins - Observation,,NEIL ROSSER,,4.918130556,-61.09017778,Popular tourist site - exact location based on Neild's altitude
+32315,melpomene,melpomene melpomene Heliconius,,,,unknown,"Bavaria Beer factory, Villavicencio, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.176619444,-73.64240833,Google Earth
+32316,melpomene,melpomene melpomene Heliconius,,,,unknown,"Bavaria Beer factory, Villavicencio, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.176619444,-73.64240833,Google Earth
+32317,melpomene,melpomene melpomene Heliconius,,,,unknown,"Bavaria Beer factory, Villavicencio, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.176619444,-73.64240833,Google Earth
+32318,melpomene,melpomene melpomene Heliconius,,,,unknown,"Bavaria Beer factory, Villavicencio, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.176619444,-73.64240833,Google Earth
+32361,melpomene,melpomene melpomene Heliconius,,,,unknown,"Cana, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,7.850241667,-77.64060556,Google Earth
+32475,melpomene,melpomene melpomene Heliconius,,,,unknown,E. bank Mahury R. FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.690533333,-52.32841944,Google Earth
+32480,melpomene,melpomene melpomene Heliconius,,,,unknown,E. Bank of Mahury River FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.690533333,-52.32841944,Google Earth
+32666,melpomene,melpomene melpomene Heliconius,,,,unknown,"Km 16, Rte. N1 FRG",,,m,,,,,Brower,,NEIL ROSSER,,4.975297,-52.442402,Google Earth
+32667,melpomene,melpomene melpomene Heliconius,,,,unknown,"Km 16, Rte. N1 FRG",,,m,,,,,Brower,,NEIL ROSSER,,4.975297,-52.442402,Google Earth
+32668,melpomene,melpomene melpomene Heliconius,,,,unknown,"Km 16, Rte. N1 FRG",,,m,,,,,Brower,,NEIL ROSSER,,4.975297,-52.442402,Google Earth
+32891,melpomene,melpomene melpomene Heliconius,,,,unknown,Pointe Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32892,melpomene,melpomene melpomene Heliconius,,,,unknown,Pointe Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32915,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32916,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32917,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32918,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32919,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32920,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32921,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32922,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32923,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32924,melpomene,melpomene melpomene Heliconius,,,,unknown,Pte. Macouria FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.916666667,-52.36666667,Geonames
+32963,melpomene,melpomene melpomene Heliconius,,,,unknown,"Puerto Obaldia, Comarca de San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,8.666666667,-77.41666667,Geonames
+33005,melpomene,melpomene melpomene Heliconius,,,,unknown,Rio Ipet� PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.948377778,-78.51863056,Google Earth
+33179,melpomene,melpomene melpomene Heliconius,,,,unknown,"Villavicencio-Bogota Rd km 90, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.183238889,-73.695175,Google Earth
+33188,melpomene,melpomene melpomene Heliconius,,,,unknown,"Villavicencio-Bogota Rd km 98, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.162019444,-73.66327222,Google Earth
+33189,melpomene,melpomene melpomene Heliconius,,,,unknown,"Villavicencio-Bogota Rd km 98, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.162019444,-73.66327222,Google Earth
+34354,melpomene,melpomene melpomene Heliconius,,,,descononcido,Cucari Rio BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-53.75,KB 1979
+34374,melpomene,melpomene melpomene Heliconius,,,,descononcido,Gurupi Rio BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.883333333,-46.23333333,NIMA
+34409,melpomene,melpomene melpomene Heliconius,,,,descononcido,"Leon, Rio COL AN",,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-76.75,KB 1979
+34468,melpomene,melpomene melpomene Heliconius,,,,descononcido,Paru Rio BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-52.75,Brown 1979
+34525,melpomene,melpomene melpomene Heliconius,,,,descononcido,Aguas Negras - Boca - Pelapatras VEN BO,,,m,,,,,KB 1979,,NEIL ROSSER,,6.75,-66.25,KB 1979
+34533,melpomene,melpomene melpomene Heliconius,,,,descononcido,Cachiceros Campamento Reserva Forestal Caparo VEN BA,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-71.25,KB 1979
+34548,melpomene,melpomene melpomene Heliconius,,,,descononcido,"Ituribisi Creek, upper GUY",,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-59.25,KB 1979
+34744,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-78.25,KB 1979
+34758,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-54a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.25,KB 1979
+34768,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-53a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-53.25,KB 1979
+34780,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-55a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-55.25,KB 1979
+34790,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-54a N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-54.25,KB 1979
+34808,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-58a N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-58.25,KB 1979
+34824,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-59a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-59.25,KB 1979
+34839,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-69a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-69.25,KB 1979
+34846,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-68a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-68.25,KB 1979
+34853,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-66a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-66.25,KB 1979
+34869,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-63a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-63.25,KB 1979
+34875,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-69a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-69.25,KB 1979
+34882,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-72a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-72.25,KB 1979
+34892,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-71a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-71.25,KB 1979
+34901,melpomene,melpomene melpomene Heliconius,,,,desconocido,7-65a N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-65.25,KB 1979
+34916,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-61a N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-61.25,KB 1979
+34936,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-74a N,,,m,,,,,KB 1979,,NEIL ROSSER,,11.151765,-74.098228,Google Earth
+35191,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-79b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-78.75,KB 1979
+35236,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-54b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-53.75,KB 1979
+35246,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-53b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-52.75,KB 1979
+35254,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-55b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.75,KB 1979
+35270,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-59b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-58.75,KB 1979
+35288,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-59b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-58.75,KB 1979
+35296,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-58b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-57.75,KB 1979
+35312,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-73b N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-72.75,KB 1979
+35318,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-69b N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-68.75,KB 1979
+35325,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-68b N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-67.75,KB 1979
+35333,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-67b N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-66.75,KB 1979
+35343,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-73b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-72.75,KB 1979
+35347,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-71b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-70.75,KB 1979
+35349,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-70b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-69.75,KB 1979
+35353,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-61b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-60.75,KB 1979
+35358,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-72b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-71.75,KB 1979
+35365,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-71b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-70.75,KB 1979
+35374,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-63b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-62.75,KB 1979
+35379,melpomene,melpomene melpomene Heliconius,,,,desconocido,7-72b N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-71.75,KB 1979
+35383,melpomene,melpomene melpomene Heliconius,,,,desconocido,7-66b N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-65.75,KB 1979
+35395,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-68b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-67.75,KB 1979
+35413,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-74b N,,,m,,,,,KB 1979,,NEIL ROSSER,,11.25,-73.75,KB 1979
+35423,melpomene,melpomene melpomene Heliconius,,,,desconocido,7-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-76.75,KB 1979
+35537,melpomene,melpomene melpomene Heliconius,,,,desconocido,4-74b N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-73.75,KB 1979
+35564,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-74b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-73.75,KB 1979
+35779,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-54c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-54.25,KB 1979
+35796,melpomene,melpomene melpomene Heliconius,,,,desconocido,5-52c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-52.25,KB 1979
+35811,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-55c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-55.25,KB 1979
+35825,melpomene,melpomene melpomene Heliconius,,,,desconocido,7-58c N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.75,-58.25,KB 1979
+35847,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-67c N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.505717,-67.230932,Google Earth
+35858,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-69c N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-69.25,KB 1979
+35863,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-66c N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-66.25,KB 1979
+35873,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-71c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-71.25,KB 1979
+35883,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-70c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-70.25,KB 1979
+35895,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-72c N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-72.25,KB 1979
+35905,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-66c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-66.25,KB 1979
+35921,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-74c N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.75,-74.25,KB 1979
+35926,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-73c N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.75,-73.25,KB 1979
+36031,melpomene,melpomene melpomene Heliconius,,,,desconocido,4-51c N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-51.25,KB 1979
+36058,melpomene,melpomene melpomene Heliconius,,,,desconocido,1-51c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-51.25,KB 1979
+36184,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-54d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-53.75,KB 1979
+36200,melpomene,melpomene melpomene Heliconius,,,,desconocido,4-52d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-51.75,KB 1979
+36208,melpomene,melpomene melpomene Heliconius,,,,desconocido,6-60d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-59.75,KB 1979
+36236,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-67d N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.559644,-66.737767,KB 1979
+36247,melpomene,melpomene melpomene Heliconius,,,,desconocido,11-63d N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.75,-62.75,KB 1979
+36254,melpomene,melpomene melpomene Heliconius,,,,desconocido,10-73d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-72.75,KB 1979
+36265,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-73d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-72.75,KB 1979
+36269,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-72d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-71.75,KB 1979
+36273,melpomene,melpomene melpomene Heliconius,,,,desconocido,9-71d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-70.75,KB 1979
+36285,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-72d N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-71.75,KB 1979
+36290,melpomene,melpomene melpomene Heliconius,,,,desconocido,8-62d N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-61.75,KB 1979
+36298,melpomene,melpomene melpomene Heliconius,,,,desconocido,7-62d N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.75,-61.75,KB 1979
+36395,melpomene,melpomene melpomene Heliconius,,,,desconocido,4-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-73.75,KB 1979
+36411,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-73.75,KB 1979
+36455,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-51d N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.75,-50.75,KB 1979
+36458,melpomene,melpomene melpomene Heliconius,,,,desconocido,1-52d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-51.75,KB 1979
+36682,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-56a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-56.25,KB 1979
+36696,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-55a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-55.25,KB 1979
+36708,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-54a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-54.25,KB 1979
+36727,melpomene,melpomene melpomene Heliconius,,,,desconocido,4-55a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-55.25,KB 1979
+37125,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-56b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-55.75,KB 1979
+37130,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-47b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-46.75,KB 1979
+37147,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-55b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-54.75,KB 1979
+37153,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-47b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-46.75,KB 1979
+37523,melpomene,melpomene melpomene Heliconius,,,,desconocido,0-51c  S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-51.25,KB 1979
+37542,melpomene,melpomene melpomene Heliconius,,,,desconocido,1-48c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-48.25,KB 1979
+37563,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-56c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-56.25,KB 1979
+37574,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-55c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-55.25,KB 1979
+37577,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-54c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-54.25,KB 1979
+37613,melpomene,melpomene melpomene Heliconius,,,,desconocido,3-58c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-58.25,KB 1979
+38065,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-57d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-56.75,KB 1979
+38081,melpomene,melpomene melpomene Heliconius,,,,desconocido,2-55d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-54.75,KB 1979
+38131,melpomene,melpomene melpomene Heliconius,,,,desconocido,4-58d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-57.75,KB 1979
+38732,melpomene,melpomene melpomene Heliconius,,,,desconocido,Mision El Rosario VEN ZU,50,50,m,,,,"Joly, Salcedo and Clavijo",MHNL PERU ex Peru,,NEIL ROSSER,,9.2,-72.55,Brown
+38733,melpomene,melpomene melpomene Heliconius,,,,desconocido,San Cristobal VEN TA,1000,1000,m,,,1979,"Hocking, P.",MHNL PERU ex Peru,,NEIL ROSSER,,7.766666667,-72.23333333,Brown
+38734,melpomene,melpomene melpomene Heliconius,,,,desconocido,San Esteban VEN CA,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,10.43333333,-68.01666667,Brown
+38735,melpomene,melpomene melpomene Heliconius,,,,desconocido,"La Trilla, Henri Pittier NP VEN AR",200,200,m,,,,"Lamas, G.",MHNL PERU ex Peru,,NEIL ROSSER,,10.38888889,-67.74611111,Geonames
+38736,melpomene,melpomene melpomene Heliconius,,,,desconocido,St Georges FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.883333333,-51.81666667,Brown
+38737,melpomene,melpomene melpomene Heliconius,,,,desconocido,Saul FRG IN,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.616666667,-53.2,Geonames
+38738,melpomene,melpomene melpomene Heliconius,,,,desconocido,San Cristobal VEN TA,1300,1300,m,,,1975,"Hocking, P.",MHNL PERU ex Peru,,NEIL ROSSER,,7.766666667,-72.23333333,Brown
+38739,melpomene,melpomene melpomene Heliconius,,,,desconocido,"Zona de Reserva del Rio Pueblo Viejo, Rio Chiquito VEN ZU",210,210,m,,,1995,Viloria and Camacho,MHNL PERU ex Peru,,NEIL ROSSER,,10.18333333,-71.05,label
+38740,melpomene,melpomene melpomene Heliconius,,,,desconocido,Oriximina BRA PA,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,-1.765555556,-55.86611111,Geonames
+38742,melpomene,melpomene melpomene Heliconius,,,melpomene x meriana. Susbp NA - amended 1.12.09,desconocido,St Georges saut Maripa FRG IN,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.798438889,-51.88059722,Google Earth
+38743,melpomene,melpomene melpomene Heliconius,,,melpomene x meriana. Susbp NA - amended 1.12.09,desconocido,St Georges FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.883333333,-51.81666667,Brown
+39375,melpomene,melpomene melpomene Heliconius,,,,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39376,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,11,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39377,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39378,melpomene,melpomene melpomene Heliconius,,,,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,11,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39379,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,11,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39380,melpomene,melpomene melpomene Heliconius,,,,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39381,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39382,melpomene,melpomene melpomene Heliconius,,,,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,11,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39383,melpomene,melpomene melpomene Heliconius,,,,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,11,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39384,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39385,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39386,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,11,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39387,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,10,2,1999,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39388,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,31,5,2001,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39389,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,31,5,2001,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39390,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39391,melpomene,melpomene melpomene Heliconius,,,,macho,"Santa Fe, by the river just past village PAN DA",,,m,15,6,2000,,Jiggins,,NEIL ROSSER,,8.651944444,-78.14916667,CJ
+39392,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39393,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39394,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39395,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39396,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39397,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39398,melpomene,melpomene melpomene Heliconius,,,,macho,Savane du Galion FRG,,,m,3,6,2001,,Jiggins,,NEIL ROSSER,,4.791666667,-52.41666667,http://herbier.u-strasbg.fr
+39399,melpomene,melpomene melpomene Heliconius,,,,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,,5.46667,-54.01667,Geonames
+39400,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39401,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39402,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39403,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39493,melpomene,melpomene melpomene Heliconius,,,,Unknown,"Cana, around runway area PAN DA",550,550,m,2,10,2001,,Jiggins,,NEIL ROSSER,,7.7568,-77.6841,Jiggins
+39494,melpomene,melpomene melpomene Heliconius,,,,macho,"Cana, around runway area PAN DA",550,550,m,3,10,2001,,Jiggins,,NEIL ROSSER,,7.7568,-77.6841,Jiggins
+39495,melpomene,melpomene melpomene Heliconius,,,,macho,"Cana, around runway area PAN DA",550,550,m,3,10,2001,,Jiggins,,NEIL ROSSER,,7.7568,-77.6841,Jiggins
+39496,melpomene,melpomene melpomene Heliconius,,,,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,,5.423888889,-53.63194444,CJ
+39497,melpomene,melpomene melpomene Heliconius,,,,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,,5.423888889,-53.63194444,CJ
+39498,melpomene,melpomene melpomene Heliconius,,,,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,,5.423888889,-53.63194444,CJ
+39499,melpomene,melpomene melpomene Heliconius,,,,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,,5.423888889,-53.63194444,CJ
+39528,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39529,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39530,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39531,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39532,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39533,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39534,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39535,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39536,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39537,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39538,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39539,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39540,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39541,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39542,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39543,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39544,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39545,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,13,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39546,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39547,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39548,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39549,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,13,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39550,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39551,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39552,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39553,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39554,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39555,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39556,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39557,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39558,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39559,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39560,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39561,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39562,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,,,,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39563,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39564,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39565,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39566,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39567,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39568,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,12,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39569,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,8,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39570,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,13,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39571,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,13,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39572,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,13,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39573,melpomene,melpomene melpomene Heliconius,,,,hembra,"Pointe Macouria, FRG FRG",,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39574,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39575,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39576,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39577,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39578,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39579,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39580,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39581,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,2,6,2001,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39582,melpomene,melpomene melpomene Heliconius,,,,macho,"Pointe Macouria, FRG FRG",,,m,,,,,Jiggins,,NEIL ROSSER,,4.913888889,-52.35944444,CJ
+39583,melpomene,melpomene melpomene Heliconius,,,,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39584,melpomene,melpomene melpomene Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,11,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+39585,melpomene,melpomene melpomene Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,11,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+39586,melpomene,melpomene melpomene Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,11,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+39587,melpomene,melpomene melpomene Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,11,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+39588,melpomene,melpomene melpomene Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+39590,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39591,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39592,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39593,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39594,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39595,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39596,melpomene,melpomene melpomene Heliconius,,,,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39597,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39598,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39599,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39600,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39601,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39602,melpomene,melpomene melpomene Heliconius,,,,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39603,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39604,melpomene,melpomene melpomene Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39605,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39606,melpomene,melpomene melpomene Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39607,melpomene,melpomene melpomene Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39608,melpomene,melpomene melpomene Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39609,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39610,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39611,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39612,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39613,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39614,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39615,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39616,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39617,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39618,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39619,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39620,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39621,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39622,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39623,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39624,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39625,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39626,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39627,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39628,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39629,melpomene,melpomene melpomene Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39630,melpomene,melpomene melpomene Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39631,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39632,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39633,melpomene,melpomene melpomene Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39635,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39636,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39637,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39638,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39639,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39640,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39641,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39642,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39643,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39644,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39645,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39646,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,hembra,Compte RIver Bridge FRG,,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+39647,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,,4.963333333,-52.42,CJ
+39648,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,,5.46667,-54.01667,Geonames
+39649,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,,5.46667,-54.01667,Geonames
+39650,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope. Subsp NA - amended 1.12.09,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,,5.46667,-54.01667,Geonames
+52331,melpomene,melpomene melpomene Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?)",macho,Bas Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,5.25,-54.25,Brown 1979
+52332,melpomene,melpomene melpomene Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?)",macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,5.4,-54.08333333,Brown
+52333,melpomene,melpomene melpomene Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?)",macho,St Laurent du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,5.5,-54.03333333,Brown
+52334,melpomene,melpomene melpomene Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?)",macho,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,5.55,-53.93333333,Brown
+52335,melpomene,melpomene melpomene Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?)",macho,Godebert - Maroni FRG,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,5.516666667,-53.96666667,Geonames
+52390,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,desconocido,St Georges FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,duplicate,3.883333333,-51.81666667,Brown
+52839,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,duplicate,-3.888055556,-59.09416667,Geonames
+52840,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,duplicate,-3.888055556,-59.09416667,Geonames
+52841,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Nova Olinda do Norte BRA AM,,,m,,1,1994,,FLMNH,,Neil Rosser,duplicate,-3.888055556,-59.09416667,Geonames
+52842,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,hembra,Nova Olinda do Norte BRA AM,,,m,,1,1994,,FLMNH,,Neil Rosser,duplicate,-3.888055556,-59.09416667,Geonames
+52848,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiope,macho,Nova Olinda do Norte BRA AM,,,m,,1,1994,,FLMNH,,Neil Rosser,duplicate,-3.888055556,-59.09416667,Geonames
+52849,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52850,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,1935,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52851,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Kourou FRG CY,,,m,,9,1990,,FLMNH,,Neil Rosser,duplicate,5.15,-52.65,Geonames
+52854,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,hembra,St Laurent du Maroni FRG LM,,,m,,,1935,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52855,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52856,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52857,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,hembra,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52858,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52859,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52861,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Village Galibi FRG LM,,,m,15,5,1988,,FLMNH,,Neil Rosser,duplicate,5.4,-54.11666667,Geonames
+52862,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Roura Fourgassiou FRG,,,m,28,8,1977,,FLMNH,,Neil Rosser,duplicate,4.675036111,-52.31536389,Google Earth
+52864,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,1935,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52865,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,hembra,Guatimala FRG CY,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.15,-52.63333333,Brown
+52866,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Zanderij - Colakreek SUR PA,,,m,12,5,1989,,FLMNH,,Neil Rosser,duplicate,5.516666667,-55.23333333,Geonames
+52867,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52868,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.5,-54.03333333,Brown
+52869,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,hembra,Nouveau Chantier FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.55,-53.93333333,Brown
+52871,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.25,-54.25,Brown 1979
+52872,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,hembra,Kourou FRG CY,,,m,,9,1990,,FLMNH,,Neil Rosser,duplicate,5.15,-52.65,Geonames
+52874,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.25,-54.25,Brown 1979
+52875,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.25,-54.25,Brown 1979
+52878,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,hembra,Guatimala FRG CY,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.15,-52.63333333,Brown
+52879,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.25,-54.25,Brown 1979
+52880,melpomene,melpomene melpomene Heliconius,,,melpomene x thelxiopeia,macho,Guatimala FRG CY,,,m,,,,,FLMNH,,Neil Rosser,duplicate,5.15,-52.63333333,Brown
+52903,melpomene,melpomene melpomene Heliconius,,,melpomene x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,duplicate,-3.366666667,-64.73333333,Brown
+60302,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_363,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,11.184864,-73.65689,LeCrom
+60303,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_364,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,11.028495,-74.0457,LeCrom
+60304,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_365,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.794304,-71.48219,LeCrom
+60305,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_366,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.948495,-73.071321,LeCrom
+60306,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_367,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.488895,-73.657707,LeCrom
+60307,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_368,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.939489,-72.741149,LeCrom
+60308,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_369,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.156081,-73.66299,LeCrom
+60309,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_370,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.816995,-73.736618,LeCrom
+60310,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_371,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.433665,-73.779705,LeCrom
+60311,melpomene,melpomene melpomene Heliconius,,,,unknown,LeCrom_372,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.80808,-74.032287,LeCrom

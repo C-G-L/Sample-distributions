@@ -1,0 +1,356 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+65,melpomene,melpomene amaryllis Heliconius,,,,unknown,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+66,melpomene,melpomene amaryllis Heliconius,,,,unknown,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+67,melpomene,melpomene amaryllis Heliconius,,,,unknown,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+71,melpomene,melpomene amaryllis Heliconius,,,,unknown,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+73,melpomene,melpomene amaryllis Heliconius,,,,male,Venceremos (Primero Baden) PER SM,1630,1630,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.6575,-77.74222222,Mallet lab database
+74,melpomene,melpomene amaryllis Heliconius,,,,male,Venceremos + 4 km (Segundo Baden) PER SM,1780,1780,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.661388889,-77.75222222,Mallet lab database
+75,melpomene,melpomene amaryllis Heliconius,,,,male,Venceremos + 4 km (Segundo Baden) PER SM,1780,1780,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.661388889,-77.75222222,Mallet lab database
+77,melpomene,melpomene amaryllis Heliconius,,,,female,"Puente Serranoyacu, above Rioja PER SM",1200,1200,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+78,melpomene,melpomene amaryllis Heliconius,,,,female,"Puente Serranoyacu, above Rioja PER SM",1200,1200,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+79,melpomene,melpomene amaryllis Heliconius,,,,male,"Puente Serranoyacu, above Rioja PER SM",1200,1200,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+82,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+83,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+84,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+85,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+87,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+88,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+89,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+90,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+91,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+92,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+93,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+94,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+95,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+96,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+97,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+98,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+99,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+100,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+101,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+102,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+103,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+104,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+105,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+106,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+107,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+108,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Verdes Puente PER SM,1100,1100,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+18,melpomene,melpomene amaryllis Heliconius,,,,male,Jorge Ch�vez 1 PER AM,1480,1480,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.671377,-77.722306,Mallet lab database + google Earth
+19,melpomene,melpomene amaryllis Heliconius,,,Hybrid?,male,Jorge Ch�vez 1 PER AM,1480,1480,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.671377,-77.722306,Mallet lab database + google Earth
+20,melpomene,melpomene amaryllis Heliconius,,,,male,Jorge Ch�vez 1 PER AM,1480,1480,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.671377,-77.722306,Mallet lab database + google Earth
+22,melpomene,melpomene amaryllis Heliconius,,,,unknown,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+40,melpomene,melpomene amaryllis Heliconius,,,,unknown,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.424,-76.335,Jiggins
+47,melpomene,melpomene amaryllis Heliconius,,,,male,"Ba�os Termales / Waqanki Orquidea R�o, Moyobamba PER SM",1300,1300,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.083333333,-76.98833333,Mallet lab database
+48,melpomene,melpomene amaryllis Heliconius,,,,male,"Ba�os Termales / Waqanki Orquidea R�o, Moyobamba PER SM",1300,1300,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.083333333,-76.98833333,Mallet lab database
+49,melpomene,melpomene amaryllis Heliconius,,,,male,"Ba�os Termales / Waqanki Orquidea R�o, Moyobamba PER SM",1300,1300,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.083333333,-76.98833333,Mallet lab database
+50,melpomene,melpomene amaryllis Heliconius,,,,male,"Nuevo San Miguel, Moyobamba PER SM",1040,1040,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.083333333,-76.94194444,Mallet lab database
+204,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Biodiversidad UNSM, Km-17.2 Tarapoto-Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.461833333,-76.29188889,SIMPSON GPS 2009
+305,melpomene,melpomene amaryllis Heliconius,,,,male,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.424,-76.335,Jiggins
+308,melpomene,melpomene amaryllis Heliconius,,,,male,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.424,-76.335,Jiggins
+323,melpomene,melpomene amaryllis Heliconius,,,,male,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.424,-76.335,Jiggins
+324,melpomene,melpomene amaryllis Heliconius,,,,male,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.424,-76.335,Jiggins
+342,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Boca Toma R�o Shilcayo, Tarapoto PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.451944444,-76.34611111,Mallet lab database
+343,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Boca Toma R�o Shilcayo, Tarapoto PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.451944444,-76.34611111,Mallet lab database
+344,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Boca Toma R�o Shilcayo, Tarapoto PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.451944444,-76.34611111,Mallet lab database
+357,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,500,500,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+358,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,500,500,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+359,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,500,500,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+360,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,500,500,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+378,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,500,500,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+381,melpomene,melpomene amaryllis Heliconius,,,,male,"Boca Toma R�o Shilcayo, Tarapoto PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.451944444,-76.34611111,Mallet lab database
+382,melpomene,melpomene amaryllis Heliconius,,,,male,"Boca Toma R�o Shilcayo, Tarapoto PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.451944444,-76.34611111,Mallet lab database
+389,melpomene,melpomene amaryllis Heliconius,,,,unknown,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+399,melpomene,melpomene amaryllis Heliconius,,,,female,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+402,melpomene,melpomene amaryllis Heliconius,,,,female,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+403,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+404,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+405,melpomene,melpomene amaryllis Heliconius,,,,unknown,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+406,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+407,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+408,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+409,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+410,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+411,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+412,melpomene,melpomene amaryllis Heliconius,,,,female,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+413,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+414,melpomene,melpomene amaryllis Heliconius,,,,male,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+425,melpomene,melpomene amaryllis Heliconius,,,,male,"Urahuasha, Tarapoto PER SM",750,750,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+427,melpomene,melpomene amaryllis Heliconius,,,,male,"Urahuasha, Tarapoto PER SM",750,750,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+442,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Urahuasha, Tarapoto PER SM",750,750,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+443,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Urahuasha, Tarapoto PER SM",750,750,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+447,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Chumia, Km 14, Shapaja - Chazuta PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.615833333,-76.18611111,Mallet lab database
+467,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Biodiversidad UNSM, Km-17.2 Tarapoto-Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.461833333,-76.29188889,SIMPSON GPS 2009
+482,melpomene,melpomene amaryllis Heliconius,,,,male,"Biodiversidad UNSM, Km-17.2 Tarapoto-Yurimaguas PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.461833333,-76.29188889,SIMPSON GPS 2009
+543,melpomene,melpomene amaryllis Heliconius,,,,unknown,Cachiyacu Rio Cumbasa del PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.433333333,-76.38333333,"Gerardo Lamas, unpub. gazetteer"
+638,melpomene,melpomene amaryllis Heliconius,,,,female,Shilcayo Rio PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+639,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+643,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+645,melpomene,melpomene amaryllis Heliconius,,,,male,"Km 5, Shapaja - Chazuta PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.595191667,-76.22130278,Google Earth
+648,melpomene,melpomene amaryllis Heliconius,,,,male,Shilcayo Rio PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+654,melpomene,melpomene amaryllis Heliconius,,,,male,"Km 9, Tarapoto - Yurimaguas - Urahuasha PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+658,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+659,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+660,melpomene,melpomene amaryllis Heliconius,,,,female,Aguas Claras PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.697472222,-77.60852778,Simpson GPS
+661,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Claras PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.697472222,-77.60852778,Simpson GPS
+662,melpomene,melpomene amaryllis Heliconius,,,,male,Aguas Claras PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.697472222,-77.60852778,Simpson GPS
+663,melpomene,melpomene amaryllis Heliconius,,,,male,"Tioyacu, Nuevo Jerusalem PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.288797222,-76.27819167,Google Earth
+666,melpomene,melpomene amaryllis Heliconius,,,,male,Nueva Cajamarca PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.933333333,-77.31666667,"Gerardo Lamas, unpub. gazetteer"
+667,melpomene,melpomene amaryllis Heliconius,,,,male,Nueva Cajamarca PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.933333333,-77.31666667,"Gerardo Lamas, unpub. gazetteer"
+668,melpomene,melpomene amaryllis Heliconius,,,,female,Nueva Cajamarca PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.933333333,-77.31666667,"Gerardo Lamas, unpub. gazetteer"
+669,melpomene,melpomene amaryllis Heliconius,,,,female,Nueva Cajamarca PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.933333333,-77.31666667,"Gerardo Lamas, unpub. gazetteer"
+672,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Km 5, Shapaja - Chazuta PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.595191667,-76.22130278,Google Earth
+673,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Km 5, Shapaja - Chazuta PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.595191667,-76.22130278,Google Earth
+686,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Km 5, Shapaja - Chazuta PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-6.595191667,-76.22130278,Google Earth
+712,melpomene,melpomene amaryllis Heliconius,,,,female,"Puente El Afluente, Camino Nuevo Eden PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.6614,-77.6962,Jiggins
+713,melpomene,melpomene amaryllis Heliconius,,,,female,"Puente El Afluente, Camino Nuevo Eden PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.6614,-77.6962,Jiggins
+714,melpomene,melpomene amaryllis Heliconius,,,,female,"Puente El Afluente, Camino Nuevo Eden PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-5.6614,-77.6962,Jiggins
+738,melpomene,melpomene amaryllis Heliconius,,,,desconocido,Aguaytia PER LO,,,m,,,,,KB 1979,,NEIL ROSSER,,-9.037222222,-75.50916667,Geonames
+5496,melpomene,melpomene amaryllis Heliconius,,,,macho,Chazuta PER SM,,,m,,4,1935,"Klug, G.G.",BMNH,,NEIL ROSSER,,-6.566666667,-76.13333333,"Gerardo Lamas, unpub. gazetteer"
+5498,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto PER SM,,,m,,,,Garlepp,BMNH,,NEIL ROSSER,,-6.483333333,-76.36666667,"Gerardo Lamas, unpub. gazetteer"
+5500,melpomene,melpomene amaryllis Heliconius,,,,macho,Huambo PER AM,3700,3700,ft,,,1880,Stolzmann,BMNH,,NEIL ROSSER,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+5501,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,,,,Baxter,BMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+5502,melpomene,melpomene amaryllis Heliconius,,,,macho,Moyobamba PER SM,,,m,,,1887,"Mathan, M. de",BMNH,1st sem,NEIL ROSSER,,-6.033333333,-76.96666667,"Gerardo Lamas, unpub. gazetteer"
+5503,melpomene,melpomene amaryllis Heliconius,,,,hembra,Jepelacio PER SM,,,m,,6,1934,"Klug, G.G.",BMNH,,NEIL ROSSER,,-6.1,-76.91666667,"Gerardo Lamas, unpub. gazetteer"
+5504,melpomene,melpomene amaryllis Heliconius,,,f. pseudopenelamnda hyb.,macho,Yumbatos PER SM,,,m,,,1933,,BMNH,,NEIL ROSSER,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+5505,melpomene,melpomene amaryllis Heliconius,,,f. pseudopenelamnda hyb.,macho,San Antonio de Cumbasa PER SM,,,m,,,1933,,BMNH,,NEIL ROSSER,,-6.416666667,-76.4,"Gerardo Lamas, unpub. gazetteer"
+5506,melpomene,melpomene amaryllis Heliconius,,,trans. from amaryllis - aglaope,macho,Scuma PER ??,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+5507,melpomene,melpomene amaryllis Heliconius,,,trans. from amaryllis - aglaope,hembra,Yumbatos PER SM,,,m,,,1933,,BMNH,,NEIL ROSSER,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+10314,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,,6,1983,Covell,MGCL/FLMNH,18-26,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10315,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tingo Maria PER HU,,,m,23,6,1982,Covell,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10316,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambillo Grande PER HU,,,m,19,6,1983,"Emmel, et al.",MGCL/FLMNH,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+10317,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria 15 mi S; Puente PER,,,m,23,6,1982,RJW,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-75.95,Google Earth
+10318,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambillo Grande PER HU,,,m,19,6,1983,"Emmel, et al.",MGCL/FLMNH,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+10319,melpomene,melpomene amaryllis Heliconius,,,,macho,"Cueva de las Pavas, 8km s Tingo Maria PER HU",,,m,,6,1983,"Emmel, et al.",MGCL/FLMNH,18-21,NEIL ROSSER,,-9.368333333,-75.97083333,Google Earth
+10320,melpomene,melpomene amaryllis Heliconius,,,,hembra,"Cueva de las Pavas, 8km s Tingo Maria PER HU",2600,2600,ft,13,4,1987,,MGCL/FLMNH,,NEIL ROSSER,,-9.368333333,-75.97083333,Google Earth
+10321,melpomene,melpomene amaryllis Heliconius,,,,macho,"Cueva de las Pavas, 8km s Tingo Maria PER HU",2600,2600,ft,13,4,1987,,MGCL/FLMNH,,NEIL ROSSER,,-9.368333333,-75.97083333,Google Earth
+10322,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambillo 12km S Tingo Maria PER,,,m,25,6,1982,RJW,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-75.95,Google Earth
+10323,melpomene,melpomene amaryllis Heliconius,,,,macho,"Cueva de las Pavas, 8km s Tingo Maria PER HU",,,m,,6,1983,"Emmel, et al.",MGCL/FLMNH,18-21,NEIL ROSSER,,-9.368333333,-75.97083333,Google Earth
+10324,melpomene,melpomene amaryllis Heliconius,,,,macho,"Cueva de las Pavas, 8km s Tingo Maria PER HU",,,m,,6,1983,"Emmel, et al.",MGCL/FLMNH,18-21,NEIL ROSSER,,-9.368333333,-75.97083333,Google Earth
+10442,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambello Chico Canyon PER HU,800,800,m,26,6,1982,"Stevens, M.",MGCL/FLMNH,,NEIL ROSSER,,-9.133333333,-75.95,Brown
+10443,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tambillo Grande PER HU,2400,2400,ft,21,6,1985,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+10444,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tambillo Grande PER HU,2400,2400,ft,22,6,1985,Widders,MGCL/FLMNH,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+10445,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambillo Grande PER HU,2400,2400,ft,22,6,1985,Widders,MGCL/FLMNH,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+10446,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria Parque Nac PER HU,800,800,m,21,6,1982,"Stevens, M.",MGCL/FLMNH,,NEIL ROSSER,,-9.416666667,-76,Label
+10447,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambillo Grande PER HU,2700,2700,ft,19,6,1983,Finkelstein,MGCL/FLMNH,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+10449,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tambello Chico Canyon PER HU,,,m,24,6,1982,Weisner,MGCL/FLMNH,,NEIL ROSSER,,-9.133333333,-75.95,Brown
+10450,melpomene,melpomene amaryllis Heliconius,,,,macho,Huachipa 32 km s PER HU,1200,1200,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-9.6157,-76.03898611,Google Earth
+10451,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tingo Maria 25km S PER HU,,,m,20,6,1982,Elizar,MGCL/FLMNH,,NEIL ROSSER,,-9.495908333,-75.95166111,Google Earth
+10452,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,,11,1969,,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10454,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,25,6,1985,,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10455,melpomene,melpomene amaryllis Heliconius,,,,macho,Tambello Chico Canyon PER HU,800,800,m,20,6,1983,"Stevens, M.",MGCL/FLMNH,,NEIL ROSSER,,-9.133333333,-75.95,Brown
+10456,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,8,4,1969,,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10457,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,12,6,1968,,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10458,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,8,7,1979,,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10459,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,8,7,1979,,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10461,melpomene,melpomene amaryllis Heliconius,,,,macho,Parque Nacional Las Cuevas de la Lechuza PER HU,,,m,28,3,1981,"Miller, JY",MGCL/FLMNH,,NEIL ROSSER,,-9.266622222,-75.98519167,Google Earth
+10462,melpomene,melpomene amaryllis Heliconius,,,,macho,Jepelacio PER HU,1100,1100,m,,5,1939,,MGCL/FLMNH,,NEIL ROSSER,,-6.116666667,-76.95,Geonames
+10463,melpomene,melpomene amaryllis Heliconius,,,,macho,Jepelacio PER HU,1100,1100,m,,5,1939,,MGCL/FLMNH,,NEIL ROSSER,,-6.116666667,-76.95,Geonames
+10464,melpomene,melpomene amaryllis Heliconius,,,,macho,Juanjui PER SM,,,m,,8,1935,,MGCL/FLMNH,,NEIL ROSSER,,-7.183333333,-76.73333333,"Gerardo Lamas, unpub. gazetteer"
+10466,melpomene,melpomene amaryllis Heliconius,,,,macho,Yurimaguas PER LO,,,m,21,9,1932,"Klug, G.G.",MGCL/FLMNH,,NEIL ROSSER,,-5.9,-76.1,"Gerardo Lamas, unpub. gazetteer"
+10468,melpomene,melpomene amaryllis Heliconius,,,,macho,Juanjui PER SM,,,m,,8,1935,,MGCL/FLMNH,,NEIL ROSSER,,-7.183333333,-76.73333333,"Gerardo Lamas, unpub. gazetteer"
+10469,melpomene,melpomene amaryllis Heliconius,,,,macho,Juanjui PER SM,,,m,,8,1935,,MGCL/FLMNH,,NEIL ROSSER,,-7.183333333,-76.73333333,"Gerardo Lamas, unpub. gazetteer"
+10470,melpomene,melpomene amaryllis Heliconius,,,,macho,Jepelacio PER HU,1100,1100,m,,5,1939,,MGCL/FLMNH,,NEIL ROSSER,,-6.116666667,-76.95,Geonames
+10471,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,,5,1979,Rosier,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10472,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,11,12,1969,JS,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10473,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,,5,1979,Rosier,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10475,melpomene,melpomene amaryllis Heliconius,,,,macho,Moyotta PER SM,,,m,17,7,1948,"Klug, G.G.",MGCL/FLMNH,,NEIL ROSSER,,-6.033333333,-76.96666667,"Gerardo Lamas, unpub. gazetteer"
+10476,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,,9,1964,SO,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10477,melpomene,melpomene amaryllis Heliconius,,,,hembra,Jepelacio PER HU,1100,1100,m,,5,1939,,MGCL/FLMNH,,NEIL ROSSER,,-6.116666667,-76.95,Geonames
+10479,melpomene,melpomene amaryllis Heliconius,,,,hembra,Boqueron Abad PER UC,,,m,21,3,1962,JS,MGCL/FLMNH,,NEIL ROSSER,,-9.073843,-75.68692,Google Earth
+10480,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,9,1,1961,JS,MGCL/FLMNH,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+10481,melpomene,melpomene amaryllis Heliconius,,,,macho,Las palmas 10mi SW PER HU,1000,1000,m,26,9,1954,,MGCL/FLMNH,,NEIL ROSSER,,-9.473572222,-76.06339444,Google Earth
+10482,melpomene,melpomene amaryllis Heliconius,,,,macho,Las palmas 1 km s 14 km s tingo maria PER HU,,,m,29,3,1981,"Miller, J.Y.",MGCL/FLMNH,,NEIL ROSSER,,-9.364111111,-75.97879444,Google Earth
+10484,melpomene,melpomene amaryllis Heliconius,,,,macho,Parque Nacional Las Cuevas de la Lechuza PER HU,,,m,28,3,1981,"Miller, J.Y.",MGCL/FLMNH,,NEIL ROSSER,,-9.266622222,-75.98519167,Google Earth
+10486,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria 5 km vic PER HU,,,m,,3,1981,"Miller, J.Y.",MGCL/FLMNH,,NEIL ROSSER,,-9.3,-75.98333333,Geonames
+10487,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria 5 km vic PER HU,,,m,,3,1981,"Miller, J.Y.",MGCL/FLMNH,,NEIL ROSSER,,-9.3,-75.98333333,Geonames
+14188,melpomene,melpomene amaryllis Heliconius,,,,unknown,Tambillo Grande PER HU,2400,2400,ft,,,1985,Widders,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-9.383333333,-75.98333333,"Gerardo Lamas, unpub. gazetteer"
+14189,melpomene,melpomene amaryllis Heliconius,,,,unknown,"Cueva de las Pavas, 8km s Tingo Maria PER HU",700,700,m,,,1983,"Stevens, M.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-9.368333333,-75.97083333,Google Earth
+15924,melpomene,melpomene amaryllis Heliconius,,,,unknown,Tingo Maria PER HU,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+15925,melpomene,melpomene amaryllis Heliconius,,,,unknown,Rondos Rio PER HU,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-9.316666667,-76.03333333,"Gerardo Lamas, unpub. gazetteer"
+16956,melpomene,melpomene amaryllis Heliconius,,,These were entered as melpomene rosina Heliconius - assumed misID's for amaryllis,unknown,Tarapoto PER SM,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,-6.483333333,-76.36666667,"Gerardo Lamas, unpub. gazetteer"
+16957,melpomene,melpomene amaryllis Heliconius,,,These were entered as melpomene rosina Heliconius - assumed misID's for amaryllis,unknown,Tarapoto PER SM,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,-6.483333333,-76.36666667,"Gerardo Lamas, unpub. gazetteer"
+16958,melpomene,melpomene amaryllis Heliconius,,,These were entered as melpomene rosina Heliconius - assumed misID's for amaryllis,unknown,Tarapoto PER SM,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,-6.483333333,-76.36666667,"Gerardo Lamas, unpub. gazetteer"
+25569,melpomene,melpomene amaryllis Heliconius,,,,macho,Huambo PER AM,,,m,,7,1989,,FLMNH,,Neil Rosser,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+25570,melpomene,melpomene amaryllis Heliconius,,,,macho,Huambo PER AM,,,m,,9,1986,,FLMNH,,Neil Rosser,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+25571,melpomene,melpomene amaryllis Heliconius,,,,macho,Huambo PER AM,,,m,,9,1986,,FLMNH,,Neil Rosser,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+25573,melpomene,melpomene amaryllis Heliconius,,,,macho,Rodriguez de Mendoza PER SM,,,m,,,1987,,FLMNH,01-Jun,Neil Rosser,,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"
+25574,melpomene,melpomene amaryllis Heliconius,,,,macho,Rodriguez de Mendoza PER SM,,,m,10,10,1985,,FLMNH,,Neil Rosser,,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"
+25575,melpomene,melpomene amaryllis Heliconius,,,,macho,Rodriguez de Mendoza PER SM,,,m,,6,1994,,FLMNH,,Neil Rosser,,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"
+25576,melpomene,melpomene amaryllis Heliconius,,,,macho,Rodriguez de Mendoza PER SM,,,m,,6,1994,,FLMNH,,Neil Rosser,,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"
+25577,melpomene,melpomene amaryllis Heliconius,,,,macho,Rodriguez de Mendoza PER SM,,,m,,6,1994,,FLMNH,,Neil Rosser,,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"
+25578,melpomene,melpomene amaryllis Heliconius,,,,macho,Florida PER SM,2000,2000,m,,2,1994,,FLMNH,,Neil Rosser,,,,unknown
+25579,melpomene,melpomene amaryllis Heliconius,,,,hembra,Florida PER SM,2000,2000,m,,2,1994,,FLMNH,,Neil Rosser,,,,unknown
+25580,melpomene,melpomene amaryllis Heliconius,,,,macho,Florida PER SM,2000,2000,m,,2,1994,,FLMNH,,Neil Rosser,,,,unknown
+25581,melpomene,melpomene amaryllis Heliconius,,,,macho,Florida PER SM,2000,2000,m,,2,1994,,FLMNH,,Neil Rosser,,,,unknown
+25582,melpomene,melpomene amaryllis Heliconius,,,,macho,Florida PER SM,2000,2000,m,,2,1994,,FLMNH,,Neil Rosser,,,,unknown
+25583,melpomene,melpomene amaryllis Heliconius,,,,macho,Saposoa PER SM,,,m,,1,1989,,FLMNH,,Neil Rosser,,-6.933333333,-76.76666667,"Gerardo Lamas, unpub. gazetteer"
+25584,melpomene,melpomene amaryllis Heliconius,,,,macho,Pumayacu PER SM,,,m,,9,1933,,FLMNH,,Neil Rosser,,-5.94167,-76.65028,Geonames
+25585,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,670,670,m,,5,1996,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25586,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,670,670,m,,5,1996,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25587,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,670,670,m,,3,1990,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25588,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,670,670,m,,7,1995,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25589,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,670,670,m,,8,1995,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25590,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,670,670,m,,7,1995,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25591,melpomene,melpomene amaryllis Heliconius,,,,macho,"Tingo Maria, Region Corvinilla PER HU",700,700,m,,,,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25592,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,20,7,1987,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25593,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,20,5,1997,"Buche, M.",FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+25594,melpomene,melpomene amaryllis Heliconius,,,,macho,Cayumba PER HU,1000,1000,m,5,8,1997,"Buche, M.",FLMNH,,Neil Rosser,,-7.55,-76.78333333,www.calle.com
+25595,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,13,6,1988,,FLMNH,,Neil Rosser,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+32417,melpomene,melpomene amaryllis Heliconius,,,,unknown,Chazuta PER,,,m,,,,,Brower,,NEIL ROSSER,,-6.574166667,-76.13666667,Geonames
+32430,melpomene,melpomene amaryllis Heliconius,,,,unknown,Chumia (Shapaja Chazuta) PER,,,m,,,,,Brower,,NEIL ROSSER,,-6.615833333,-76.18611111,Mallet Lab Database
+32433,melpomene,melpomene amaryllis Heliconius,,,,unknown,Chumia PER,,,m,,,,,Brower,,NEIL ROSSER,,-6.615833333,-76.18611111,Mallet Lab Database
+33104,melpomene,melpomene amaryllis Heliconius,,,,unknown,Shilcayo Rio PER SM,,,m,,,,,Brower,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+33155,melpomene,melpomene amaryllis Heliconius,,,,unknown,Tingo Maria PER HU,,,m,,,,,Brower,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+33156,melpomene,melpomene amaryllis Heliconius,,,,unknown,Tingo Maria PER HU,,,m,,,,,Brower,,NEIL ROSSER,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+36572,melpomene,melpomene amaryllis Heliconius,,,,desconocido,6-76a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-76.25,KB 1979
+36593,melpomene,melpomene amaryllis Heliconius,,,,desconocido,7-76a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.75,-76.25,KB 1979
+37019,melpomene,melpomene amaryllis Heliconius,,,,desconocido,6-77b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-76.75,KB 1979
+37400,melpomene,melpomene amaryllis Heliconius,,,,desconocido,6-77c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.25,-77.25,KB 1979
+37413,melpomene,melpomene amaryllis Heliconius,,,,desconocido,6-76c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.25,-76.25,KB 1979
+37894,melpomene,melpomene amaryllis Heliconius,,,,desconocido,6-77d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.25,-76.75,KB 1979
+37907,melpomene,melpomene amaryllis Heliconius,,,,desconocido,6-76d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.25,-75.75,KB 1979
+37922,melpomene,melpomene amaryllis Heliconius,,,,desconocido,7-77d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.25,-76.75,KB 1979
+37954,melpomene,melpomene amaryllis Heliconius,,,,desconocido,9-76d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-9.25,-75.75,KB 1979
+39372,melpomene,melpomene amaryllis Heliconius,,,,hembra,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39373,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39374,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39404,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39405,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39406,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39407,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39408,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39409,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39410,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39411,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39412,melpomene,melpomene amaryllis Heliconius,,,,hembra,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39413,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39414,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39415,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1300,1300,m,19,8,2002,,Jiggins,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+39416,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Aguas Verdes, above Rioja PER SM",1200,1200,m,28,8,2002,,Jiggins,,NEIL ROSSER,,-5.6846,-77.6576,Jiggins
+39417,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Aguas Verdes, above Rioja PER SM",1200,1200,m,28,8,2002,,Jiggins,,NEIL ROSSER,,-5.6846,-77.6576,Jiggins
+39418,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Aguas Verdes, above Rioja PER SM",1200,1200,m,28,8,2002,,Jiggins,,NEIL ROSSER,,-5.6846,-77.6576,Jiggins
+39419,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Aguas Verdes, above Rioja PER SM",1200,1200,m,28,8,2002,,Jiggins,,NEIL ROSSER,,-5.6846,-77.6576,Jiggins
+39420,melpomene,melpomene amaryllis Heliconius,,,,hembra,"Puente Aguas Verdes, above Rioja PER SM",1200,1200,m,28,8,2002,,Jiggins,,NEIL ROSSER,,-5.6846,-77.6576,Jiggins
+39421,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente El Afluente, Camino Nuevo Eden PER SM",1500,1500,m,29,8,2002,,Jiggins,,NEIL ROSSER,,-5.6614,-77.6962,Jiggins
+39422,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente El Afluente, Camino Nuevo Eden PER SM",1500,1500,m,29,8,2002,,Jiggins,,NEIL ROSSER,,-5.6614,-77.6962,Jiggins
+39423,melpomene,melpomene amaryllis Heliconius,,,,macho,"Puente El Afluente, Camino Nuevo Eden PER SM",1500,1500,m,,,,,Jiggins,,NEIL ROSSER,,-5.6614,-77.6962,Jiggins
+39424,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Rio Serranoyacu, above Rioja PER SM",1300,1300,m,27,8,2002,,Jiggins,,NEIL ROSSER,,-5.6745,-77.6748,Jiggins
+39425,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Rio Serranoyacu, above Rioja PER SM",1300,1300,m,27,8,2002,,Jiggins,,NEIL ROSSER,,-5.6745,-77.6748,Jiggins
+39426,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Rio Serranoyacu, above Rioja PER SM",1300,1300,m,27,8,2002,,Jiggins,,NEIL ROSSER,,-5.6745,-77.6748,Jiggins
+39427,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Rio Serranoyacu, above Rioja PER SM",1300,1300,m,27,8,2002,,Jiggins,,NEIL ROSSER,,-5.6745,-77.6748,Jiggins
+39428,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Rio Serranoyacu, above Rioja PER SM",1300,1300,m,27,8,2002,,Jiggins,,NEIL ROSSER,,-5.6745,-77.6748,Jiggins
+39429,melpomene,melpomene amaryllis Heliconius,,,,Unknown,"Puente Rio Serranoyacu, above Rioja PER SM",1300,1300,m,27,8,2002,,Jiggins,,NEIL ROSSER,,-5.6745,-77.6748,Jiggins
+39430,melpomene,melpomene amaryllis Heliconius,,,,macho,"Tarapoto, Rio Shilcayo PER SM",300,300,m,25,8,2002,,Jiggins,,NEIL ROSSER,,-6.4645,-76.3514,Jiggins
+39431,melpomene,melpomene amaryllis Heliconius,,,,macho,"Tarapoto, Rio Shilcayo PER SM",300,300,m,25,8,2002,,Jiggins,,NEIL ROSSER,,-6.4645,-76.3514,Jiggins
+39432,melpomene,melpomene amaryllis Heliconius,,,,macho,"Tarapoto-Yurimaguas (Km15), Tunel Cumbre, Fondo Biodiversidad PER SM",,,m,18,8,2002,,Jiggins,,NEIL ROSSER,,-6.4584,-76.2877,Jiggins
+39433,melpomene,melpomene amaryllis Heliconius,,,,macho,"Tarapoto-Yurimaguas (Km15), Tunel Cumbre, Fondo Biodiversidad PER SM",,,m,18,8,2002,,Jiggins,,NEIL ROSSER,,-6.4584,-76.2877,Jiggins
+39434,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,,-6.424,-76.335,Jiggins
+39435,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,,-6.424,-76.335,Jiggins
+39436,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,,-6.424,-76.335,Jiggins
+39437,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,,-6.424,-76.335,Jiggins
+39438,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,,-6.424,-76.335,Jiggins
+42062,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,22,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42063,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,22,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42066,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,22,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42067,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42068,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42072,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42073,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42074,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42075,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42079,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42080,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,23,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42092,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42093,melpomene,melpomene amaryllis Heliconius,,,,hembra,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42094,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42095,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42096,melpomene,melpomene amaryllis Heliconius,,,,hembra,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42097,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42098,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42099,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42100,melpomene,melpomene amaryllis Heliconius,,,,macho,Shilcayo Rio PER SM,582,582,m,28,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+42126,melpomene,melpomene amaryllis Heliconius,,,,macho,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+42127,melpomene,melpomene amaryllis Heliconius,,,,macho,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+42128,melpomene,melpomene amaryllis Heliconius,,,,macho,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+42129,melpomene,melpomene amaryllis Heliconius,,,,macho,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+42130,melpomene,melpomene amaryllis Heliconius,,,,hembra,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+42131,melpomene,melpomene amaryllis Heliconius,,,,macho,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,,-6.466666667,-76.33472222,Mallet lab database
+42139,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1240,1240,m,31,8,2009,,Mallet,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+42140,melpomene,melpomene amaryllis Heliconius,,,,macho,"La Antenta, Km-14.7 Tarapoto - Yurimaguas PER SM",1240,1240,m,31,8,2009,,Mallet,,NEIL ROSSER,,-6.459305556,-76.29813889,SIMPSON GPS 2009
+42212,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42213,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42214,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42215,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42216,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42217,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42218,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42227,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42228,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 5 Sep 09 PER SM,478,478,m,5,9,2009,,Mallet,,NEIL ROSSER,,-6.475888889,-76.3475,SIMPSON GPS 2009
+42232,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 7 & 18 Sep 09 PER SM,380,380,m,7,9,2009,,Mallet,,NEIL ROSSER,,-6.477722222,-76.35163889,SIMPSON GPS 2009
+42253,melpomene,melpomene amaryllis Heliconius,,,,macho,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,8,9,2009,,Mallet,,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+42254,melpomene,melpomene amaryllis Heliconius,,,,macho,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,8,9,2009,,Mallet,,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+42255,melpomene,melpomene amaryllis Heliconius,,,HYBRID,macho,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,8,9,2009,,Mallet,,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+42256,melpomene,melpomene amaryllis Heliconius,,,,macho,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,8,9,2009,,Mallet,,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+42257,melpomene,melpomene amaryllis Heliconius,,,,hembra,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,8,9,2009,,Mallet,,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+42424,melpomene,melpomene amaryllis Heliconius,,,,macho,"El Tunel trail, Km-18 Tarapoto-Yurimaguas PER SM",1041,1041,m,17,9,2009,,Mallet,,NEIL ROSSER,,-6.453027778,-76.28641667,SIMPSON GPS 2009
+42425,melpomene,melpomene amaryllis Heliconius,,,,macho,"El Tunel trail, Km-18 Tarapoto-Yurimaguas PER SM",1041,1041,m,17,9,2009,,Mallet,,NEIL ROSSER,,-6.453027778,-76.28641667,SIMPSON GPS 2009
+42426,melpomene,melpomene amaryllis Heliconius,,,,macho,"El Tunel trail, Km-18 Tarapoto-Yurimaguas PER SM",1041,1041,m,17,9,2009,,Mallet,,NEIL ROSSER,,-6.453027778,-76.28641667,SIMPSON GPS 2009
+42427,melpomene,melpomene amaryllis Heliconius,,,,macho,"El Tunel trail, Km-18 Tarapoto-Yurimaguas PER SM",1041,1041,m,17,9,2009,,Mallet,,NEIL ROSSER,,-6.453027778,-76.28641667,SIMPSON GPS 2009
+42435,melpomene,melpomene amaryllis Heliconius,,,,hembra,"Biodiversidad UNSM, Km-17.2 Tarapoto-Yurimaguas PER SM",903,903,m,17,9,2009,,Mallet,,NEIL ROSSER,,-6.461833333,-76.29188889,SIMPSON GPS 2009
+42448,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 7 & 18 Sep 09 PER SM,380,380,m,18,9,2009,,Mallet,,NEIL ROSSER,,-6.477722222,-76.35163889,SIMPSON GPS 2009
+42449,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tarapoto - Urahuasha trail 7 & 18 Sep 09 PER SM,380,380,m,18,9,2009,,Mallet,,NEIL ROSSER,,-6.477722222,-76.35163889,SIMPSON GPS 2009
+42450,melpomene,melpomene amaryllis Heliconius,,,,hembra,Tarapoto - Urahuasha trail 7 & 18 Sep 09 PER SM,380,380,m,18,9,2009,,Mallet,,NEIL ROSSER,,-6.477722222,-76.35163889,SIMPSON GPS 2009
+42451,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto - Urahuasha trail 7 & 18 Sep 09 PER SM,380,380,m,18,9,2009,,Mallet,,NEIL ROSSER,,-6.477722222,-76.35163889,SIMPSON GPS 2009
+42452,melpomene,melpomene amaryllis Heliconius,,,,macho,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,19,9,2009,,Mallet,,NEIL ROSSER,,-5.680416667,-77.68036111,Mallet lab database
+42654,melpomene,melpomene amaryllis Heliconius,,,ver ubicaci�n macho hembra,macho,La Divisoria E de PER UC,,,m,1,Agosto,1963,"Hocking, P.",MHNL PERU,1.viii.63,Lilia Campos,,-9.15,-75.8,"Gerardo Lamas, unpub. gazetteer"
+43412,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto PER SM,,,m,,,,,MHNL PERU,,Lidia Sulca,,-6.483333333,-76.36666667,"Gerardo Lamas, unpub. gazetteer"
+43413,melpomene,melpomene amaryllis Heliconius,,,,macho,Juanjui PER SM,,,m,14,Mayo,1975,"Schunke, J.M.",MHNL PERU,15.v.75,Lidia Sulca,,-7.183333333,-76.73333333,"Gerardo Lamas, unpub. gazetteer"
+43414,melpomene,melpomene amaryllis Heliconius,,,,macho,Rioja PER SM,,,m,23,Mayo,1975,"Schunke, J.M.",MHNL PERU,23.v.75,Lidia Sulca,,-6.066666667,-77.16666667,"Gerardo Lamas, unpub. gazetteer"
+43415,melpomene,melpomene amaryllis Heliconius,,,,macho,Lamas - Urcopata PER SM,,,m,17,Setiembre,1975,"Lamas, G.",MHNL PERU,17.ix.75,Lidia Sulca,,-6.4,-76.53333333,"Gerardo Lamas, unpub. gazetteer"
+43416,melpomene,melpomene amaryllis Heliconius,,,,macho,Lamas - Urcopata PER SM,,,m,17,Setiembre,1975,"Lamas, G.",MHNL PERU,17.ix.75,Lidia Sulca,,-6.4,-76.53333333,"Gerardo Lamas, unpub. gazetteer"
+43417,melpomene,melpomene amaryllis Heliconius,,,,macho,Rioja PER SM,,,m,22,Mayo,1975,"Schunke, J.M.",MHNL PERU,22.v.75,Lidia Sulca,,-6.066666667,-77.16666667,"Gerardo Lamas, unpub. gazetteer"
+43418,melpomene,melpomene amaryllis Heliconius,,,,macho,Rioja PER SM,,,m,23,Mayo,1975,"Schunke, J.M.",MHNL PERU,23.v.75,Lidia Sulca,,-6.066666667,-77.16666667,"Gerardo Lamas, unpub. gazetteer"
+43419,melpomene,melpomene amaryllis Heliconius,,,,macho,Tarapoto PER SM,,,m,31,Agosto,1968,"Lamas, G.",MHNL PERU,31.viii.68,Lidia Sulca,,-6.483333333,-76.36666667,"Gerardo Lamas, unpub. gazetteer"
+43420,melpomene,melpomene amaryllis Heliconius,,,,macho,Merced de Locro PER HU,,,m,6,Diciembre,1968,"Hocking, P.",MHNL PERU,6.xii.68,Lidia Sulca,,-9.15,-76.06666667,"Gerardo Lamas, unpub. gazetteer"
+43421,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,13,Agosto,1983,"Cordova, J.",MHNL PERU,13.viii.83,Lidia Sulca,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+43422,melpomene,melpomene amaryllis Heliconius,,,,macho,Tingo Maria PER HU,,,m,18,Junio,1973,"Schunke, J.M.",MHNL PERU,18.vi.73,Lidia Sulca,,-9.3,-76,"Gerardo Lamas, unpub. gazetteer"
+43423,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Tarapoto - Yurimaguas km 55 PER SM,,,m,,,,"Mallet, J.",MHNL PERU,11.xi.87,Lidia Sulca,,-6.331202778,-76.28756389,Google Earth
+43424,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Yumbatos PER SM,,,m,,,,"Mallet, J.",MHNL PERU,7.xi.87,Lidia Sulca,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+43425,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Tarapoto - Yurimaguas km 55 PER SM,,,m,,,,"Mallet, J.",MHNL PERU,5.xi.87,Lidia Sulca,,-6.331202778,-76.28756389,Google Earth
+43426,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Tarapoto - Yurimaguas km 41.5 (old) PER SM,,,m,,,,"Mallet, J.",MHNL PERU,5.xi.87,Lidia Sulca,,-6.422861111,-76.25496667,Google Earth
+43427,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Shapajilla PER SM,,,m,10,Noviembre,1987,"Mallet, J.",MHNL PERU,10.xi.87,Lidia Sulca,,-6.322736,-76.310358,Map of San Martin
+43428,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Boqueron del Padre Abad Abra PER UC,,,m,13,Julio,1974,"Schunke, J.M.",MHNL PERU,13.vii.74,Lidia Sulca,,-9.073843,-75.68692,Google Earth
+43429,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Cinchona (Hda) PER HU,,,m,,,,,MHNL PERU,,Lidia Sulca,,-9.2,-75.81666667,"Gerardo Lamas, unpub. gazetteer"
+43430,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Yumbatos PER SM,,,m,,Mayo,2005,"Calder�n, B.",MHNL PERU,v.05,Lidia Sulca,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+43431,melpomene,melpomene amaryllis Heliconius,,,Specimen originally listed as an aglaope hybrid - think must be mistake by L Sulcre. locality seems OK - see collecting date.,macho,"Rodr�guez de Mendoza - Omia km 12,8 PER AM",,,m,29,Octubre,1987,"Mallet, J.",MHNL PERU,29.x.87,Lidia Sulca,,-6.454633333,-77.40444444,Google Earth
+43432,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Lamas - Urcopata PER SM,,,m,17,Setiembre,1975,"Lamas, G.",MHNL PERU,17.ix.75,Lidia Sulca,,-6.4,-76.53333333,"Gerardo Lamas, unpub. gazetteer"
+43433,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Yumbatos PER SM,,,m,,Noviembre,2004,"Calder�n, B.",MHNL PERU,xi.04,Lidia Sulca,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+43434,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Yumbatos PER SM,,,m,,Noviembre,2004,"Calder�n, B.",MHNL PERU,xi.04,Lidia Sulca,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+43435,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope Heliconius. Ssp NA amanded 30.11.09,macho,Yumbatos PER SM,,,m,,Noviembre,2004,"Calder�n, B.",MHNL PERU,xi.04,Lidia Sulca,,-6.316666667,-76.28333333,"Gerardo Lamas, unpub. gazetteer"
+52258,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,macho,Boqueron del Padre Abad Abra PER UC,700,700,m,13,Agosto,1974,"Schunke, J.M.",MHNL PERU,13.viii.74,Lilia Campos,duplicate,-9.073843,-75.68692,Google Earth
+52259,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,macho,Boqueron del Padre Abad Abra PER UC,600,600,m,18,Agosto,1974,"Schunke, J.M.",MHNL PERU,18.viii.74,Lilia Campos,duplicate,-9.073843,-75.68692,Google Earth
+52260,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,macho,Aguaytia PER UC,,,m,19,Agosto,1974,"Schunke, J.M.",MHNL PERU,19.viii.74,Lilia Campos,duplicate,-9.033333333,-75.5,"Gerardo Lamas, unpub. gazetteer"
+52261,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,macho,Boqueron del Padre Abad Abra PER UC,,,m,16,Noviembre,1964,"Hocking, P.",MHNL PERU,16.xi.64,Lilia Campos,duplicate,-9.073843,-75.68692,Google Earth
+52336,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,unknown,Pongo de Caynarachi PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-6.335277778,-76.25416667,Mallet lab database
+52337,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,unknown,"Puente Serranoyacu, above Rioja PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-5.680416667,-77.68036111,Mallet lab database
+52338,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,female,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-6.424,-76.335,Jiggins
+52339,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,male,Tarapoto-Yurinaguas (Km28) PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-6.424,-76.335,Jiggins
+52340,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,unknown,Pucayaquillo Qbda PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-6.586111111,-76.21805556,Whinnet et al.
+52341,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,macho,"Urahuasha - Cesar's chacra, Km-8 Tarapoto-Yurimaguas PER SM",500,800,m,30,8,2009,,Mallet,,NEIL ROSSER,duplicate,-6.466666667,-76.33472222,Mallet lab database
+52342,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,macho,"Puente Serranoyacu, above Rioja PER SM",1201,1201,m,8,9,2009,,Mallet,,NEIL ROSSER,duplicate,-5.680416667,-77.68036111,Mallet lab database
+52343,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,macho,"Km-103.1 Tarapoto-Yurimaguas - road to Micaela Bastida, 2.5 km in PER LO",185,185,m,24,9,2009,,Mallet,,NEIL ROSSER,duplicate,-5.983694444,-76.22008333,SIMPSON GPS 2009
+52344,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis. Taken by LL to Peru for ref.,unknown,Aguas Verdes Puente PER SM,,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-5.683333333,-77.65,"Gerardo Lamas, unpub. gazetteer"
+52345,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,hembra,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,duplicate,-6.424,-76.335,Jiggins
+52346,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,macho,Tarapoto-Yurinaguas (Km28) PER SM,,,m,21,8,2002,,Jiggins,,NEIL ROSSER,duplicate,-6.424,-76.335,Jiggins
+52347,melpomene,melpomene amaryllis Heliconius,,,amaryllis x aglaope,male,Shilcayo Rio PER SM,500,500,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-6.466666667,-76.35,"Gerardo Lamas, unpub. gazetteer"
+52368,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,female,"Km 15, Nuevo Lima - Nuevo Tarapoto PER SM",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-7.155956,-76.376319,Google Earth
+55738,melpomene,melpomene amaryllis Heliconius,,,,,Huacamahillo Peru San Mart�n,500,500,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.401666667,-76.4035,TABD record
+55741,melpomene,melpomene amaryllis Heliconius,,,,,Huacamahillo Peru San Mart�n,500,500,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.401666667,-76.4035,TABD record
+55743,melpomene,melpomene amaryllis Heliconius,,,,,Rancho Vista Peru San Mart�n,665,665,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.440333333,-76.35466667,TABD record
+55748,melpomene,melpomene amaryllis Heliconius,,,,,Rancho Vista Peru San Mart�n,665,665,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.440333333,-76.35466667,TABD record
+55749,melpomene,melpomene amaryllis Heliconius,,,,,Rancho Vista Peru San Mart�n,665,665,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.440333333,-76.35466667,TABD record
+55757,melpomene,melpomene amaryllis Heliconius,,,,,Takiwasi Peru San Mart�n,465,465,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.454666667,-76.34266667,TABD record
+55768,melpomene,melpomene amaryllis Heliconius,,,,,Urahuasha Peru San Mart�n,530,530,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.469666667,-76.33816667,TABD record
+55775,melpomene,melpomene amaryllis Heliconius,,,,,Juliampampa Peru San Mart�n,925,925,m,,,,,no data TABD ZZZ,,NEIL ROSSER,,-6.434666667,-76.32616667,TABD record
+62082,melpomene,melpomene amaryllis Heliconius,,,agalaope x amaryllis,male,"Puesto de Control 106, Parque Nacional Cordillera Azul PER LO",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-7.304444444,-75.585,Mallet lab database
+62083,melpomene,melpomene amaryllis Heliconius,,,aglaope x amaryllis,male,"R�o Pauya/R�o Cushabatay confluence, PNCAZ PER LO",,,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,duplicate,-7.155,-75.72333333,Mallet lab database

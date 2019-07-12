@@ -1,0 +1,554 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+767,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Arima BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.791111111,-63.63305556,Geonames
+809,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Benjamin Constant BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.383333333,-70.03333333,Brown
+832,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Branco Rio BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-67.36666667,NIMA
+1042,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Jaru BRA RO,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.45,-62.03333333,Brown
+1068,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Labrea BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.266666667,-64.78333333,Brown
+1099,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Manacapuru BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.299722222,-60.62055556,Geonames
+1138,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Maues BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.366666667,-57.71666667,Brown
+1336,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Sao Paulo de Olivenca BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+1362,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Tarauaca BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.15,-70.76666667,Brown
+1379,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Tonantins BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.866666667,-67.8,Brown
+1421,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Yahuas Territory PER LO,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.35,-71.98333333,"Gerardo Lamas, unpub. gazetteer"
+1476,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Manaus - Porto Velho km245 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.710997222,-61.29129167,Google Earth
+1527,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Acara Lago BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.385319444,-62.50255556,Google Earth
+1530,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Manaus - Porto Velho km507 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.432655556,-62.86500833,Google Earth
+1534,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Manaus - Porto Velho km 519 BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.520902778,-62.92588889,Google Earth
+1587,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Banheiro - Igarape BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.516666667,-63,Wikipedia (Type locality)
+1594,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Paraiso Lago BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.521422222,-62.91703889,Google Earth + Geonames
+1605,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,"Humaita, - a Labrea km 32 BRA AM",,,m,,,,,KB 1979,,NEIL ROSSER,,-7.535577778,-63.1536,Google Earth
+1612,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,"Humaita 20km E, - 25km E BRA AM",,,m,,,,,KB 1979,,NEIL ROSSER,,-7.561475,-62.85452778,Google Earth
+1644,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Santo Antonio falls above BRA RO,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.808238889,-63.94455833,Google Earth
+1681,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,Cotapino ECD NA,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.7,-77.46666667,Geonames
+4885,melpomene,melpomene malleti Heliconius,,,f. ecuadorensis  Was down as ecuadorensis amended to malleti on JM's advice - he said probable plesseni x malleti hybrid,macho,Napo ECD NA,,,m,,10,1927,"Spillmann, W.",BMNH,,NEIL ROSSER,,-1.05,-77.78333333,Falling Rain
+4887,melpomene,melpomene malleti Heliconius,,,f. ecuadorensis   Was down as ecuadorensis amended to malleti on JM's advice  he said probable plesseni x malleti hybrid,macho,Tena ECD NA,700,700,m,2,2,1977,Samson,BMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+4890,melpomene,melpomene malleti Heliconius,,,f. ecuadorensis  Was down as ecuadorensis amended to malleti on JM's advice he said probable plesseni x malleti hybrid,hembra,Osayacu ECD NA,1000,1000,m,3,11,1977,Samson,BMNH,,NEIL ROSSER,,-0.766666667,-77.78333333,Falling Rain
+4891,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Osayacu ECD NA,1000,1000,m,3,11,1977,Samson,BMNH,,NEIL ROSSER,,-0.766666667,-77.78333333,Falling Rain
+4892,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Rio Pishcobamba via Vilcabamba ECD LO,1600,1600,m,5,12,1977,Samson,BMNH,,NEIL ROSSER,,-4.273538889,-79.20461389,Geonames + Google Earth
+4893,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Rio Pishcobamba via Vilcabamba ECD LO,1600,1600,m,5,12,1977,Samson,BMNH,,NEIL ROSSER,,-4.273538889,-79.20461389,Geonames + Google Earth
+4894,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Archidona ECD NA,,,m,,4,1899,"Goodfellow, W.",BMNH,,NEIL ROSSER,,-0.916666667,-77.8,Brown
+4896,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Napo ECD NA,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.05,-77.78333333,Falling Rain
+4897,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Zarayaquilio ECD,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+4898,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Ila Rio ECD NA,,,m,15,8,1934,,BMNH,,NEIL ROSSER,,-1.1,-77.95,Geonames
+4899,melpomene,melpomene malleti Heliconius,,,f. agalaope,hembra,Pastaza Rio Upper ECD PA,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.538391667,-78.06732222,Google Earth
+4900,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Aguano ECD NA,,,m,,,,Simson,BMNH,,NEIL ROSSER,,-1.066666667,-77.55,Brown
+4952,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Chambireyacu PER LO,,,m,,,1885,"Mathan, M. de",BMNH,06-Aug,NEIL ROSSER,,-4.533333333,-74.76666667,"Gerardo Lamas, unpub. gazetteer"
+4967,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Nauta PER LO,,,m,,,,,BMNH,,NEIL ROSSER,,-4.5,-73.58333333,"Gerardo Lamas, unpub. gazetteer"
+5525,melpomene,melpomene malleti Heliconius,HT,"iris Heliconius melpomene (Heliconius, H.H. Riffarth 1907)",f. iris hyb.,macho,Pastaza Rio Upper ECD PA,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.538391667,-78.06732222,Google Earth
+5527,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Pebas PER LO,,,m,,,1913,,BMNH,,NEIL ROSSER,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+5529,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Guajara-Mirim BOL BE,,,m,4,10,1929,"Fountaine, M.",BMNH,,NEIL ROSSER,,-10.8,-65.38333333,Geonames
+5534,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Teffe BRA AM,,,m,,,1879,"Mathan, M. de",BMNH,7bre - 8bre,NEIL ROSSER,,-3.366666667,-64.73333333,Brown
+5535,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Calama BRA RO,,,m,,,1907,"Hoffmanns, W.",BMNH,08-Oct,NEIL ROSSER,,-8.033333333,-62.86666667,Brown
+5536,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Manaus BRA AM,,,m,,,,,BMNH,May?,NEIL ROSSER,,-3.116666667,-60.03333333,Brown
+5537,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Humayta BRA AM,,,m,,,1906,"Hoffmanns, W.",BMNH,07-Sep,NEIL ROSSER,,-7.509722222,-63.02,NIMA
+5538,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Hyutanahan BRA AM,,,m,,11,1913,"Wickham, E.H.W.",BMNH,,NEIL ROSSER,,-7.683333333,-65.78333333,Brown
+5540,melpomene,melpomene malleti Heliconius,,,f. agalaope,hembra,Sao Paulo de Olivenca BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+5541,melpomene,melpomene malleti Heliconius,,,f. agalaope,hembra,Sena Madureira BRA AC,,,m,,12,1913,"Wickham, E.H.W.",BMNH,,NEIL ROSSER,,-9.083333333,-68.68333333,Brown
+5542,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Allianca BRA AC,,,m,,9,1913,"Wickham, E.H.W.",BMNH,,NEIL ROSSER,,-6.566666667,-64.38333333,Brown
+5543,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Cavallo Cocho PER LO,,,m,,,1884,"Mathan, M. de",BMNH,05-Jul,NEIL ROSSER,,-3.916666667,-70.51666667,"Gerardo Lamas, unpub. gazetteer"
+5544,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Pebas PER LO,,,m,,,,Hauxwell,BMNH,,NEIL ROSSER,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+5546,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,hembra,Yahuas terr PER LO,,,m,,,,,BMNH,,NEIL ROSSER,,-3,-71.5,Brown
+5547,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,hembra,Pebas PER LO,,,m,,,,,BMNH,,NEIL ROSSER,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+5548,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Maues BRA AM,,,m,,7,1932,"Moss, A.M.",BMNH,,NEIL ROSSER,,-3.366666667,-57.71666667,Brown
+5549,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Maues BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-3.366666667,-57.71666667,Brown
+5550,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Teffe BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-3.366666667,-64.73333333,Brown
+5552,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Humayta BRA AM,,,m,,,1906,"Hoffmanns, W.",BMNH,07-Sep,NEIL ROSSER,,-7.509722222,-63.02,NIMA
+5553,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,macho,Calama BRA RO,,,m,,,1907,"Hoffmanns, W.",BMNH,08-Oct,NEIL ROSSER,,-8.033333333,-62.86666667,Brown
+5554,melpomene,melpomene malleti Heliconius,,,trans. Agalaope / vicinus. Ssp. NA - amended 1.12.09,hembra,Aveiro BRA PA,,,m,,,,,BMNH,,NEIL ROSSER,,-3.605555556,-55.33166667,Geonames
+5558,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Porto Velho BRA RO,,,m,16,9,1929,"Fountaine, M.",BMNH,,NEIL ROSSER,,-8.75,-63.88333333,Brown
+5559,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,San Antonio falls above Rio Madeira BRA RO,,,m,,,1913,"Moffat, R.U.",BMNH,15/9 - 31/10,NEIL ROSSER,,-8.866666667,-64.05,Brown
+5560,melpomene,melpomene malleti Heliconius,,,f. agalaope,macho,Ilha das Araras BRA AM,,,m,4,6,1874,,BMNH,,NEIL ROSSER,,-5.2,-60.55,Geonames
+10186,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10187,melpomene,melpomene malleti Heliconius,,,,macho,Venezia via ECD NA,550,550,m,,2,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.041272222,-77.699025,http://www.umsl.edu/~renners/siparuna/book.html + Google Earth
+10188,melpomene,melpomene malleti Heliconius,,,,hembra,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10189,melpomene,melpomene malleti Heliconius,,,,macho,Venezia via ECD NA,550,550,m,,2,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.041272222,-77.699025,http://www.umsl.edu/~renners/siparuna/book.html + Google Earth
+10190,melpomene,melpomene malleti Heliconius,,,,macho,Venezia via ECD NA,550,550,m,,2,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.041272222,-77.699025,http://www.umsl.edu/~renners/siparuna/book.html + Google Earth
+10191,melpomene,melpomene malleti Heliconius,,,,hembra,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10192,melpomene,melpomene malleti Heliconius,,,,hembra,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10193,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10194,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10195,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10196,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10200,melpomene,melpomene malleti Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+10207,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10208,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10209,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10210,melpomene,melpomene malleti Heliconius,,,,macho,Coca Rio ECD NA,300,300,m,,6,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+10211,melpomene,melpomene malleti Heliconius,,,,hembra,Sadzayacu ECD OR,,,m,,11,1967,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.183333333,-77.83333333,unrecorded - darwin_ecuador_MECN
+10212,melpomene,melpomene malleti Heliconius,,,,macho,Latas ECD NA,460,460,m,,2,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+10213,melpomene,melpomene malleti Heliconius,,,,macho,Layaico ECD ZC,1000,1000,m,27,11,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,,,unknown
+10214,melpomene,melpomene malleti Heliconius,,,,hembra,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10215,melpomene,melpomene malleti Heliconius,,,,hembra,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10216,melpomene,melpomene malleti Heliconius,,,,macho,El Chaco ECD NA,1500,1500,m,,11,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.333333333,-77.81666667,www.calle.com
+10217,melpomene,melpomene malleti Heliconius,,,,macho,Latas ECD NA,460,460,m,,2,1971,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+10218,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10219,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10220,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10221,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10222,melpomene,melpomene malleti Heliconius,,,,hembra,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10223,melpomene,melpomene malleti Heliconius,,,,hembra,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10224,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10225,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10226,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10227,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10228,melpomene,melpomene malleti Heliconius,,,Was down as ecuadorensis amended to malleti on JM's advice he said probable plesseni x malleti hybrid,hembra,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10229,melpomene,melpomene malleti Heliconius,,,Was down as ecuadorensis amended to malleti on JM's advice he said probable plesseni x malleti hybrid,hembra,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10230,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10231,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,20,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10232,melpomene,melpomene malleti Heliconius,,,,hembra,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10233,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10234,melpomene,melpomene malleti Heliconius,,,,macho,"Puyo 50km S, Vera Cruz ECD TU",,,m,25,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.899336111,-77.95621389,Google Earth
+10235,melpomene,melpomene malleti Heliconius,,,,hembra,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10236,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10237,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10238,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10239,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10240,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10241,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10242,melpomene,melpomene malleti Heliconius,,,,macho,"Puyo 50km S, Vera Cruz ECD TU",,,m,25,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.899336111,-77.95621389,Google Earth
+10245,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10246,melpomene,melpomene malleti Heliconius,,,,hembra,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10247,melpomene,melpomene malleti Heliconius,,,,hembra,Tena ECD NA,,,m,9,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10248,melpomene,melpomene malleti Heliconius,,,,hembra,Tena ECD NA,,,m,23,1,1985,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+10264,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10265,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10266,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10267,melpomene,melpomene malleti Heliconius,,,,macho,Puerto Misahualli ECD NA,,,m,6,11,1983,"Jenkins, D. & J.",MGCL/FLMNH,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+10391,melpomene,melpomene malleti Heliconius,,,Was down as ecuadorensis amended to malleti on JM's advice  he said probable plesseni x malleti hybrid,macho,Sadzayacu ECD OR,,,m,,9,1967,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.183333333,-77.83333333,unrecorded - darwin_ecuador_MECN
+10395,melpomene,melpomene malleti Heliconius,,,Was down as ecuadorensis amended to malleti on JM's advice  he said probable plesseni x malleti hybrid,macho,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10396,melpomene,melpomene malleti Heliconius,,,Was down as ecuadorensis amended to malleti on JM's advice  he said probable plesseni x malleti hybrid,macho,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10550,melpomene,melpomene malleti Heliconius,HT,"gisela Heliconius melpomene (Heliconius, F.W. Niepelt 1908)??",TYPE? f. gisela (HYBRID) - note originally entered as melpomene plesseni Heliconius - assumed error given form.,macho,Arajuno Rio ECD NA,1000,1000,m,1,5,1941,Macintyre,MGCL/FLMNH,,NEIL ROSSER,,-1.233333333,-77.7,Brown
+15913,melpomene,melpomene malleti Heliconius,,,,unknown,Latas ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+15915,melpomene,melpomene malleti Heliconius,,,,unknown,Pano ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.86666667,Brown
+15916,melpomene,melpomene malleti Heliconius,,,,unknown,Napo ECD NA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.05,-77.78333333,Falling Rain
+15917,melpomene,melpomene malleti Heliconius,,,,unknown,Puyo ECD PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+16249,melpomene,melpomene malleti Heliconius,,,f. iris hyb.,unknown,Puerto Misahualli ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+16253,melpomene,melpomene malleti Heliconius,,,,unknown,Misahualli ECD NA,1700,1700,ft,,,1998,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.95,-77.8,Brown
+16255,melpomene,melpomene malleti Heliconius,,,,unknown,Puyo - Arajuno rd km 37 ECD PA,1000,1000,m,,,2001,Godefroi And Busby,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.368333333,-77.70166667,Pinas db
+16256,melpomene,melpomene malleti Heliconius,,,,unknown,Anaconda Is. e of ECD,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.066869444,-77.55096667,Google Earth
+16257,melpomene,melpomene malleti Heliconius,,,,unknown,Puyo 25 km E of ECD PA,2500,2500,ft,,,,Stevens,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.480783333,-77.81296389,Google Earth
+16258,melpomene,melpomene malleti Heliconius,,,,unknown,Pitirishca ECD PA,800,800,m,,,2000,Godefroi And Busby,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.805,-77.82083333,Map
+16259,melpomene,melpomene malleti Heliconius,,,,unknown,Coca ECD NA,850,850,ft,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.466666667,-76.98333333,Brown
+16262,melpomene,melpomene malleti Heliconius,,,,unknown,Misahualli ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.95,-77.8,Brown
+16264,melpomene,melpomene malleti Heliconius,,,,unknown,"Laguna Taracoa, Rio Napo ECD NA",800,800,ft,,,1980,"Stevens, CM",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.45,-76.78333333,"Mycologia, Vol. 86, No. 3 (May - Jun., 1994), pp. 436-446"
+16265,melpomene,melpomene malleti Heliconius,,,,unknown,Puyo - Arajuno rd km 42 ECD PA,1000,1000,m,,,2000,Godefroi and Busby,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.330338889,-77.70990278,Google Earth
+16278,melpomene,melpomene malleti Heliconius,,,Note - appeared as melpomene aglaope Heliconius - amended given locality,unknown,Nova Olinda do Norte BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.888055556,-59.09416667,Geonames
+16910,melpomene,melpomene malleti Heliconius,,,Assumed to be malleti although I don't have a picture here due to lack of internet,unknown,Puerto Orellana ECD NA,350,350,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.466666667,-76.96666667,Geonames
+17114,melpomene,melpomene malleti Heliconius,,,f. aglaope   - Note - was down as aglaope - amended following JM,unknown,Coca (Bristow) ECD NA,350,350,m,3,5,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-0.5,-77,label
+17115,melpomene,melpomene malleti Heliconius,,,f. aglaope   Note - was down as aglaope - amended following JM,unknown,Napo 8km S ECD NA,515,515,m,15,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.106011111,-77.79226944,Google earth
+25422,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25423,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,11,2,1995,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25424,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25425,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25426,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25427,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,,8,1994,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25428,melpomene,melpomene malleti Heliconius,,,,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25430,melpomene,melpomene malleti Heliconius,,,,macho,Pano ECD NA,600,600,m,25,3,1991,,FLMNH,,Neil Rosser,,-1.033333333,-77.86666667,Brown
+25431,melpomene,melpomene malleti Heliconius,,,,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25432,melpomene,melpomene malleti Heliconius,,,,hembra,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25433,melpomene,melpomene malleti Heliconius,,,,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25434,melpomene,melpomene malleti Heliconius,,,,hembra,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25435,melpomene,melpomene malleti Heliconius,,,,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25436,melpomene,melpomene malleti Heliconius,,,,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25437,melpomene,melpomene malleti Heliconius,,,,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25438,melpomene,melpomene malleti Heliconius,,,,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25439,melpomene,melpomene malleti Heliconius,,,,hembra,Llandia Rio ECD PA,700,700,m,,10,,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25440,melpomene,melpomene malleti Heliconius,,,,macho,Apuya ECD NA,,,m,,9,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25441,melpomene,melpomene malleti Heliconius,,,,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25442,melpomene,melpomene malleti Heliconius,,,,macho,Puyo - Tena rd km 25 ECD PA,,,m,,,1991,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25443,melpomene,melpomene malleti Heliconius,,,,macho,El Pununo ECD NA,600,600,m,16,7,1990,,FLMNH,,Neil Rosser,,-1.021666667,-77.67,Map
+25444,melpomene,melpomene malleti Heliconius,,,,hembra,Rio Chauluyacu ECD NA,700,700,m,10,8,1971,,FLMNH,,Neil Rosser,,-0.718333333,-77.67833333,http://www.flmnh.ufl.edu/butterflies
+25445,melpomene,melpomene malleti Heliconius,,,,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25446,melpomene,melpomene malleti Heliconius,,,,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,9,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25447,melpomene,melpomene malleti Heliconius,,,,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25448,melpomene,melpomene malleti Heliconius,,,,macho,Panseloma? ECD NA?,,,m,,,,,FLMNH,,Neil Rosser,,,,unknown
+25449,melpomene,melpomene malleti Heliconius,,,,macho,El Capricho ECD NA,900,900,m,15,11,1996,,FLMNH,,Neil Rosser,,-1.186666667,-77.74666667,Map
+25450,melpomene,melpomene malleti Heliconius,,,,hembra,San Jose ECD NA,800,800,m,29,6,1990,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+25451,melpomene,melpomene malleti Heliconius,,,,hembra,San Jose ECD NA,800,800,m,28,6,1990,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+25452,melpomene,melpomene malleti Heliconius,,,,macho,Zarzayacu ECO NAP,800,800,m,9,11,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25453,melpomene,melpomene malleti Heliconius,,,,macho,Zarzayacu ECO NAP,600,600,m,21,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25454,melpomene,melpomene malleti Heliconius,,,,hembra,Llandia Rio ECD PA,1000,1000,m,13,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25455,melpomene,melpomene malleti Heliconius,,,,macho,Llandia Rio ECD PA,1000,1000,m,16,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25456,melpomene,melpomene malleti Heliconius,,,,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25457,melpomene,melpomene malleti Heliconius,,,,macho,Tiputini Rio ECD NA,300,300,m,10,4,1998,"Neild, A.",FLMNH,,Neil Rosser,,-0.741666667,-76.88333333,Map
+25458,melpomene,melpomene malleti Heliconius,,,,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25459,melpomene,melpomene malleti Heliconius,,,,hembra,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25460,melpomene,melpomene malleti Heliconius,,,,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25461,melpomene,melpomene malleti Heliconius,,,,hembra,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25462,melpomene,melpomene malleti Heliconius,,,,hembra,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25463,melpomene,melpomene malleti Heliconius,,,,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25464,melpomene,melpomene malleti Heliconius,,,,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25465,melpomene,melpomene malleti Heliconius,,,,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25466,melpomene,melpomene malleti Heliconius,,,,macho,La Bonita ECD SU,,,m,,12,1995,,FLMNH,,Neil Rosser,,0.478333333,-77.545,Map
+25467,melpomene,melpomene malleti Heliconius,,,,hembra,La Bonita ECD SU,,,m,,12,1995,,FLMNH,,Neil Rosser,,0.478333333,-77.545,Map
+25468,melpomene,melpomene malleti Heliconius,,,,macho,La Bonita ECD SU,,,m,,12,1995,,FLMNH,,Neil Rosser,,0.478333333,-77.545,Map
+25469,melpomene,melpomene malleti Heliconius,,,,hembra,Hollin Rio ECD NA,1350,1350,m,17,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-0.696666667,-77.7275,Map
+25470,melpomene,melpomene malleti Heliconius,,,,macho,Hollin Rio ECD NA,1350,1350,m,14,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-0.696666667,-77.7275,Map
+25471,melpomene,melpomene malleti Heliconius,,,,hembra,Hollin Rio ECD NA,1350,1350,m,14,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-0.696666667,-77.7275,Map
+25472,melpomene,melpomene malleti Heliconius,,,,macho,Pimpilala ECD NA,700,700,m,14,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.071666667,-77.935,Map
+25473,melpomene,melpomene malleti Heliconius,,,,macho,Pacayacu ECD PA,,,m,21,5,1937,"Schultze-Rhonhof, A.",FLMNH,,Neil Rosser,,-1.633333333,-77.6,Geonames
+25518,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,2,1985,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25519,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25520,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,,,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25521,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,,,m,,,,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25522,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25523,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,100,100,m,,8,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25524,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,9,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25525,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25526,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,7,1987,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25527,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25528,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,,,m,,,,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25529,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,9,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25530,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,,,m,,8,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25531,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,3,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25532,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25533,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,8,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25534,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,,,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25535,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25536,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,1,1983,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25537,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,2,1979,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25538,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,3,1979,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25539,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,4,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25540,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,hembra,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25541,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,,,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25542,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25543,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,2,1986,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25544,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,2,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25545,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Nuevo Remanso PER LO,,,m,,7,1995,,FLMNH,,Neil Rosser,,-4.216666667,-70.03333333,Label
+25546,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Nuevo Remanso PER LO,,,m,,7,1995,,FLMNH,,Neil Rosser,,-4.216666667,-70.03333333,Label
+25547,melpomene,melpomene malleti Heliconius,,,aglaope x cognatus    Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,100,100,m,,10,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25548,melpomene,melpomene malleti Heliconius,,,aglaope x cognatus    Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,10,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25549,melpomene,melpomene malleti Heliconius,,,aglaope x cognatus    Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,10,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+25568,melpomene,melpomene malleti Heliconius,,,HYBRID _ melpomene x numata    Note - was down as aglaope - amended following JM,hembra,Itaya Rio PER LO,,,m,28,11,1997,,FLMNH,,Neil Rosser,,-3.783333333,-73.18333333,"Gerardo Lamas, unpub. gazetteer"
+28921,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Araxa-Fazenda-km 117 Rio Branco a Xapuri,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.59468889,-67.94141667,Google Earth
+28928,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Rio Branco a Xapuri km 157 BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.66836111,-68.25704444,Google Earth
+29119,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,El Retorno COL GU,,,m,,,,,KB 1979,,NEIL ROSSER,,2.330555556,-72.62777778,Geonames
+32929,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,unknown,"Puerto Misahualli, Napo Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.033333333,-77.66666667,Geonames
+32930,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,unknown,"Puerto Misahualli, Napo Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.033333333,-77.66666667,Geonames
+32931,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,unknown,"Puerto Misahualli, Napo Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.033333333,-77.66666667,Geonames
+32933,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,unknown,"Puerto Napo, Napo Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.05,-77.78333333,Geonames
+34275,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Codajas BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.836666667,-62.05694444,Geonames
+34288,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Coari BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.085,-63.14139,Geonames
+34294,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Nova Olinda BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.5825,-64.33638889,Geonames
+34304,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Eirunepe - San Felipe BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.660277778,-69.87361111,Geonames
+34486,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Preto-Igarape-Territorio Ticunas BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-69.75,KB 1979
+34501,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Sepatini BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-65.25,KB 1979
+34506,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Tabocal - Rio Purus BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-61.75,KB 1979
+34507,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,descononcido,Tapiche Rio Upper PER LO,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.75,-73.75,KB 1979
+35049,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,1-75a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-75.25,KB 1979
+35065,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,0-77a N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-77.25,KB 1979
+35565,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,3-74b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-73.75,KB 1979
+35607,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,1-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-76.75,KB 1979
+36412,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,3-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-73.75,KB 1979
+36423,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,2-76d N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.75,-75.75,KB 1979
+36434,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,1-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-76.75,KB 1979
+36543,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,4-73a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-73.25,KB 1979
+36551,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,5-78a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.75,-78.25,KB 1979
+36630,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,11-65a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-65.25,KB 1979
+36744,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,6-61a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-61.25,KB 1979
+36758,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,7-64a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.75,-64.25,KB 1979
+36759,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,8-72a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-72.25,KB 1979
+36766,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,8-62a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-62.25,KB 1979
+36785,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,9-63a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-63.25,KB 1979
+36968,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,1-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-77.75,KB 1979
+36977,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,2-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-77.75,KB 1979
+37002,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,5-74b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.75,-73.75,KB 1979
+37164,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,5-67b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.75,-66.75,KB 1979
+37179,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,8-73b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-72.75,KB 1979
+37188,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,9-73b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-72.75,KB 1979
+37195,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,9-64b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-63.75,KB 1979
+37208,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,11-69b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-68.75,KB 1979
+37354,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,1-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-78.25,KB 1979
+37388,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,5-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.25,-78.25,KB 1979
+37596,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,3-60c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-60.25,KB 1979
+37640,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,10-67c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-67.25,KB 1979
+37764,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,0-75d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-74.75,KB 1979
+37783,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,4-70d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-69.75,KB 1979
+37819,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,0-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-77.75,KB 1979
+37831,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,0-77d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-76.75,KB 1979
+37847,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,1-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-77.75,KB 1979
+37868,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,3-72d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-71.75,KB 1979
+37876,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene cognata Heliconius - according to Jim this should be aglaope - see map notes. NOTE Jim said based on locality this should be malleti,desconocido,4-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-77.75,KB 1979
+37877,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,4-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-77.75,KB 1979
+38104,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,3-65d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-64.75,KB 1979
+38114,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,3-60d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-59.75,KB 1979
+38122,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,4-60d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-59.75,KB 1979
+38160,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,5-61d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.25,-60.75,KB 1979
+38176,melpomene,melpomene malleti Heliconius,,,Appears in Brown as melpomene aglaope Heliconius - according to Jim this should be malleti - see map notes.,desconocido,8-63d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.25,-62.75,KB 1979
+38717,melpomene,melpomene malleti Heliconius,,,Was down as ecuadorensis amended to malleti on JM's advice  he said probable plesseni x malleti hybrid,desconocido,Tuyano R�o EDC NA,500,500,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.033333333,-77.6,darwin_ecuador_pinas2
+38718,melpomene,melpomene malleti Heliconius,,,,desconocido,Misahualli ECD NA,470,470,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.95,-77.8,Brown
+38719,melpomene,melpomene malleti Heliconius,,,,desconocido,Misahualli ECD NA,500,500,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.95,-77.8,Brown
+38720,melpomene,melpomene malleti Heliconius,,,,desconocido,Latas ECD NA,500,500,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+38722,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,desconocido,"Muyo 9.5 km n, km 471 PER AM",400,400,m,,,1986,"Mallet, J., H. Eeley",MHNL PERU ex Peru,,NEIL ROSSER,,-5.336330556,-78.450225,Google Earth
+38723,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,desconocido,Falso Paquisha PER AM,800,800,m,,,,"Lamas, G.",MHNL PERU ex Peru,,NEIL ROSSER,,-3.966666667,-78.41666667,"Gerardo Lamas, unpub. gazetteer"
+38724,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,desconocido,Chiriaco PER AM,300,300,m,,,,"Lamas, G.",MHNL PERU ex Peru,,NEIL ROSSER,,-5.166666667,-78.29333333,www.calle.com
+39464,melpomene,melpomene malleti Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,20,11,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+39465,melpomene,melpomene malleti Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,25,11,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+39466,melpomene,melpomene malleti Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,9,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+39467,melpomene,melpomene malleti Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,11,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+39468,melpomene,melpomene malleti Heliconius,,,,macho,"Baeza, in river by cementerio, ECD",1800,1800,m,,,,,Jiggins,,NEIL ROSSER,,-0.460955556,-77.90275556,Google Earth
+39469,melpomene,melpomene malleti Heliconius,,,,hembra,"Baeza, in river by cementerio, ECD",1800,1800,m,,,,,Jiggins,,NEIL ROSSER,,-0.460955556,-77.90275556,Google Earth
+39470,melpomene,melpomene malleti Heliconius,,,,macho,Napo Wildlife Center community Anangu ECD OR,230,230,m,2,12,2005,,Jiggins,,NEIL ROSSER,,-0.4937,-76.4468,Jiggins
+39471,melpomene,melpomene malleti Heliconius,,,,hembra,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,23,5,2001,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39472,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,22,5,2001,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39473,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,22,5,2001,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39474,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,22,5,2001,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39475,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,22,5,2001,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39476,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,22,5,2001,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39477,melpomene,melpomene malleti Heliconius,,,,hembra,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39478,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39479,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+39480,melpomene,melpomene malleti Heliconius,,,,macho,"Rio Quijos, Baeza-Lago Agrio ECD NA",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-0.181944444,-77.68472222,CJ
+43351,melpomene,melpomene malleti Heliconius,,,,macho,Yanamono PER LO,,,m,27,Julio,1984,"Lamas, G., J. Mallet",MHNL PERU,27.vii.84,Lidia Sulca,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+43352,melpomene,melpomene malleti Heliconius,,,,macho,Castana PER LO,,,m,29,Octubre,1993,"Lamas, G.",MHNL PERU,29.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43353,melpomene,melpomene malleti Heliconius,,,,macho,Shihua Qbda PER LO,,,m,30,Agosto,1995,"Callegari, C.",MHNL PERU,30.viii.95,Lidia Sulca,,-3.666666667,-73.28333333,Google Earth
+43354,melpomene,melpomene malleti Heliconius,,,,macho,Padre Isla PER LO,,,m,6,Junio,1990,"Lamas, G",MHNL PERU,6.vi.90,Lidia Sulca,,-3.716666667,-73.21666667,"Gerardo Lamas, unpub. gazetteer"
+43355,melpomene,melpomene malleti Heliconius,,,,macho,Sucusari Rio PER LO,,,m,22,Setiembre,1995,"Grados, J.",MHNL PERU,22.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43446,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,macho,Urakusa 2 km w PER AM,,,m,15,Noviembre,1996,"Lamas, G.",MHNL PERU,15.xi.96,Lidia Sulca,,-4.716666667,-78.06666667,"Gerardo Lamas, unpub. gazetteer"
+43448,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,macho,Imacita nr PER AM,,,m,3,Julio,1984,"Mallet, J.",MHNL PERU,3.vii.84,Lidia Sulca,,-5.066666667,-78.33333333,"Gerardo Lamas, unpub. gazetteer"
+43450,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Puerto Miguel PER LO,,,m,2,Mayo,1988,"Hornabrook , C.",MHNL PERU,2.v.88,Lidia Sulca,,-4.531375,-73.43599167,Google Earth
+43453,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,macho,Muyuna PER LO,,,m,25,Octubre,1973,"Chang, F.",MHNL PERU,25.x.73,Lidia Sulca,,-4.300097222,-73.28272222,Google Earth
+43455,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,macho,Chiriaco PER AM,,,m,7,Julio,1984,"Mallet, J.",MHNL PERU,7.vii.84,Lidia Sulca,,-5.166666667,-78.29333333,www.calle.com
+52320,melpomene,melpomene malleti Heliconius,,,trans. from amaryllis - aglaope,macho,Scuma PER ??,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,,,unknown
+52466,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope    Note - was down as aglaope - amended following JM,macho,Pebas PER LO,,,m,,7,1992,,FLMNH,,Neil Rosser,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52467,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope    Note - was down as aglaope - amended following JM,macho,Pebas PER LO,,,m,,7,1992,,FLMNH,,Neil Rosser,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52468,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope    Note - was down as aglaope - amended following JM,macho,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52469,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope    Note - was down as aglaope - amended following JM,macho,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52470,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope    Note - was down as aglaope - amended following JM,macho,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52471,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope    Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,10,1987,,FLMNH,,Neil Rosser,duplicate,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+52472,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope   Note - was down as aglaope - amended following JM,macho,Iquitos PER LO,,,m,,8,1988,,FLMNH,,Neil Rosser,duplicate,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+52473,melpomene,melpomene malleti Heliconius,,,n. subsp. x aglaope NOTE - was down as aglaope amended to malleti following Jim,macho,Sao Paulo de Olivenca BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,duplicate,-3.466666667,-68.95,Brown
+52630,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52631,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Mera ECD PA,,,m,15,12,1995,,FLMNH,,Neil Rosser,duplicate,-1.466666667,-78.1,Brown
+52632,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1000,1000,m,13,11,1996,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52633,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Macas ECD MS,,,m,,1,1991,,FLMNH,,Neil Rosser,duplicate,-2.316666667,-78.11666667,Brown
+52634,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52635,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52636,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52637,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52638,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Mera ECD PA,,,m,29,11,1993,,FLMNH,,Neil Rosser,duplicate,-1.466666667,-78.1,Brown
+52639,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52640,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52641,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52642,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52643,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52644,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52645,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52646,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52647,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,3,1993,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52648,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52649,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52650,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52651,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.375261111,-77.94956944,Google Earth
+52652,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52653,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52654,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52655,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,6,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52656,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52657,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52658,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52659,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km 8 ECD PA,,,m,20,7,1992,,FLMNH,,Neil Rosser,duplicate,-1.536813889,-78.03436667,Google Earth
+52660,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Mera ECD PA,,,m,15,12,1995,,FLMNH,,Neil Rosser,duplicate,-1.466666667,-78.1,Brown
+52661,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52662,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Yantana ECD PA,,,m,20,7,1992,,FLMNH,,Neil Rosser,duplicate,-1.752558333,-77.84041944,http://www.tropicos.org/Specimen/1781524 + Google Earth
+52663,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.375261111,-77.94956944,Google Earth
+52664,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52665,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52666,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,10,4,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52667,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,30,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52668,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52669,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52670,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52671,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52672,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52673,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,,,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52674,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52675,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52676,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52677,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52678,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52679,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52680,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52681,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52682,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52683,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,1,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52684,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,29,10,1996,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52685,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52686,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52687,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52688,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,13,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52689,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52690,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52691,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52692,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,15,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52693,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52694,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52695,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52696,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52697,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52698,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,10,9,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52699,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52700,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52701,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52702,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52703,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52704,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,9,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52705,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52706,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52707,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52708,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52709,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52710,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Yantana ECD PA,1000,1000,m,3,3,1992,,FLMNH,,Neil Rosser,duplicate,-1.752558333,-77.84041944,http://www.tropicos.org/Specimen/1781524 + Google Earth
+52711,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52712,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52713,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km 8 ECD PA,800,800,m,10,2,1997,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.536813889,-78.03436667,Google Earth
+52714,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52715,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52716,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Yantana ECD PA,1000,1000,m,10,3,1992,,FLMNH,,Neil Rosser,duplicate,-1.752558333,-77.84041944,http://www.tropicos.org/Specimen/1781524 + Google Earth
+52717,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52718,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,6,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52719,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52720,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,31,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52721,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52722,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,28,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52723,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Bobonaza Rio ECD PA,900,900,m,23,9,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.45525,-77.83318333,Google Earth
+52724,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52725,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52726,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52727,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52728,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52729,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52730,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52731,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52732,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52733,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52734,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,800,800,m,19,6,1991,,FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52735,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52736,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,,,m,13,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52737,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52738,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52739,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52740,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52741,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52742,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52743,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,16,12,1991,,FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52744,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52745,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52746,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,30,7,1991,,FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52747,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,14,6,1973,Vel�stegui.,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52748,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1000,1000,m,,,,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52749,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52750,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.45525,-77.83318333,Google Earth
+52751,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52752,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,900,900,m,,6,1994,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52753,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,15,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52754,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 25 ECD PA,,,m,,,1991,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52755,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52756,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,16,11,1996,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52757,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52758,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52759,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52760,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52761,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52762,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,San Jorge ECD PA,,,m,5,4,1991,,FLMNH,,Neil Rosser,duplicate,,,unknown
+52763,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52764,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52765,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52766,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52767,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52768,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.375261111,-77.94956944,Google Earth
+52769,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,1,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52770,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,San Jose ECD NA,800,800,m,4,6,1990,,FLMNH,,Neil Rosser,duplicate,-0.5,-77.28333333,Geonames
+52771,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,16,1,1937,"Schultze-Rhonhof, A.",FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52772,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,,12,1991,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52773,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,San Jose ECD NA,800,800,m,2,6,1990,,FLMNH,,Neil Rosser,duplicate,-0.5,-77.28333333,Geonames
+52774,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-0.983333333,-77.81666667,www.calle.com
+52775,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-0.983333333,-77.81666667,www.calle.com
+52776,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-1.033333333,-77.66666667,www.calle.com
+52777,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-1.033333333,-77.66666667,www.calle.com
+52778,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Apuya ECD NA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52779,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52780,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Zarzayacu ECO NAP,550,550,m,20,9,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.163333333,-77.83333333,Map
+52781,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,500,500,m,21,9,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.163333333,-77.83333333,Map
+52782,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,500,500,m,20,9,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.163333333,-77.83333333,Map
+52783,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,San Jose ECD NA,800,800,m,4,6,1990,,FLMNH,,Neil Rosser,duplicate,-0.5,-77.28333333,Geonames
+52784,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52785,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52786,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,13,2,1992,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52787,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Canelos rio Bo ECU PA,,,m,24,12,1991,,FLMNH,,Neil Rosser,duplicate,-1.583333333,-77.75,Brown
+52788,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52789,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,duplicate,-1.66415,-78.00938889,Google Earth
+52790,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,,,1991,,FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52791,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,800,800,m,26,6,1991,,FLMNH,,Neil Rosser,duplicate,-1.805,-77.82083333,Map
+52792,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52793,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,duplicate,-2.316666667,-78.11666667,Brown
+52794,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-1.033333333,-77.66666667,www.calle.com
+52795,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,San Francisco ECD TU,,,m,3,5,1991,,FLMNH,,Neil Rosser,duplicate,-1.408523,-78.259556,Google Earth + Map from Neuk
+52796,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,San Jose ECD NA,,,m,7,6,1993,,FLMNH,,Neil Rosser,duplicate,-0.5,-77.28333333,Geonames
+52797,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,,,m,29,10,1991,,FLMNH,,Neil Rosser,duplicate,-1.163333333,-77.83333333,Map
+52798,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Apuya ECD NA,,,m,26,5,1993,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52799,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,,12,1991,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52800,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,28,9,1992,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52801,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Pimpilala ECD NA,700,700,m,16,9,1995,,FLMNH,,Neil Rosser,duplicate,-1.071666667,-77.935,Map
+52802,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,El Pununo ECD NA,600,600,m,27,6,1990,,FLMNH,,Neil Rosser,duplicate,-1.021666667,-77.67,Map
+52803,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,520,520,m,4,8,1991,,FLMNH,,Neil Rosser,duplicate,-1.163333333,-77.83333333,Map
+52804,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,El Capricho ECD NA,850,850,m,26,10,1996,,FLMNH,,Neil Rosser,duplicate,-1.186666667,-77.74666667,Map
+52805,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Topo ECD TU,1200,1200,m,2,3,1991,,FLMNH,,Neil Rosser,duplicate,-1.416666667,-78.16666667,Brown
+52806,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52807,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,18,3,1991,,FLMNH,,Neil Rosser,duplicate,-1.033333333,-77.66666667,www.calle.com
+52808,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Pimpilala ECD NA,800,800,m,18,5,1991,,FLMNH,,Neil Rosser,duplicate,-1.071666667,-77.935,Map
+52809,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,La Vitahua ECD TU,,,m,,,1991,,FLMNH,,Neil Rosser,duplicate,-1.45,-78.15,Neuk enq
+52810,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Yanahurco ECD NA,,,m,,9,1978,,FLMNH,,Neil Rosser,duplicate,-0.016666667,-77.71666667,range
+52811,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-1.033333333,-77.66666667,www.calle.com
+52812,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,duplicate,-1.033333333,-77.66666667,www.calle.com
+52813,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Hollin Rio ECD NA,1350,1350,m,17,9,1995,,FLMNH,,Neil Rosser,duplicate,-0.696666667,-77.7275,Map
+52814,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,duplicate,-1.316666667,-77.9,Map
+52815,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,11,9,1992,,FLMNH,,Neil Rosser,duplicate,-1.105,-77.77833333,Map
+52816,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,duplicate,-1.370394444,-77.94076111,Google Earth
+52817,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,La Vitahua ECD TU,,,m,,,1991,,FLMNH,,Neil Rosser,duplicate,-1.45,-78.15,Neuk enq
+52818,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,5,1993,,FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52819,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,16,11,1996,"Neild, A.",FLMNH,,Neil Rosser,duplicate,-1.328333333,-77.93333333,Map
+52820,melpomene,melpomene malleti Heliconius,,,malleti x plesseni,hembra,Mera ECD PA,,,m,,6,1995,,FLMNH,,Neil Rosser,duplicate,-1.466666667,-78.1,Brown
+53648,melpomene,melpomene malleti Heliconius,,,NOTE Jim said based on locality this should be malleti,unknown,PSTA PER AM,800,900,m,,,,,Lamas - RAP Cordilllera del Condor,,NEIL ROSSER,,-4.016667,-78.4,Lamas RAP Cordillera del Condor report
+54276,melpomene,melpomene malleti Heliconius,,,"Lista preliminar de las mariposas diurnas Lepidoptera : Rhopalocera que habitan en el departamento del Putumayo. Notas sobre la distribuci�n en la zona andina SALAZAR ESCOBAR, Juli�n A. NOTE - entered as melpomene aglaope Heliconius - amended by JM",desconocido,Putumayo Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,,,
+54277,melpomene,melpomene malleti Heliconius,,,"An illustrated list of the type-specimens of the Heliconiinae [Lepidoptera : Hymphalidae] in the British Museum [Natural History] ACKERY, Phillip R.;SMILES, Robert L. NOTE - entered as melpomene aglaope Heliconius - amended following JM",Macho,Mocoa R�o Mocoa Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,1.148888889,-76.64777778,Species link
+54278,melpomene,melpomene malleti Heliconius,,,"An illustrated list of the type-specimens of the Heliconiinae [Lepidoptera : Hymphalidae] in the British Museum [Natural History] ACKERY, Phillip R.;SMILES, Robert L.  NOTE - entered as melpomene aglaope Heliconius - amended following JM",Macho,Mocoa R�o Mocoa Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,1.148888889,-76.64777778,Species link
+54279,melpomene,melpomene malleti Heliconius,,,"An illustrated list of the type-specimens of the Heliconiinae [Lepidoptera : Hymphalidae] in the British Museum [Natural History] ACKERY, Phillip R.;SMILES, Robert L.   NOTE - entered as melpomene aglaope Heliconius - amended following JM",Macho,Mocoa R�o Mocoa Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,1.148888889,-76.64777778,Species link
+54280,melpomene,melpomene malleti Heliconius,,,"An illustrated list of the type-specimens of the Heliconiinae [Lepidoptera : Hymphalidae] in the British Museum [Natural History] ACKERY, Phillip R.;SMILES, Robert L. NOTE appeared as aglaope - amended given locality.",Macho,R�o Negro afluente R�o Amazonas Colombia,,,m,,,,Felder,Specieslink - FPR-Colombia,,NEIL ROSSER,,1.5,-66.94833333,Species link
+54981,melpomene,melpomene malleti Heliconius,,,,macho,"Parque Nacional Sangay: Rio Shankaime, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.95,-77.86666667,Parque Nacional Sangay Website
+55030,melpomene,melpomene malleti Heliconius,,,,macho,"Parque Nacional Sangay: Camino al rio Pastaza, Pastaza",,,m,,,,,Parque Nacional Sangay ZZZ,12 mars �,NEIL ROSSER,,-1.9,-77.8,Parque Nacional Sangay Website
+55038,melpomene,melpomene malleti Heliconius,,,,macho,"Parque Nacional Sangay: Camino al rio Pastaza, Pastaza",,,m,,,,,Parque Nacional Sangay ZZZ,14 mars �,NEIL ROSSER,,-1.9,-77.8,Parque Nacional Sangay Website
+54608,melpomene,melpomene malleti Heliconius,,,Note - was down as aglaope - amended following JM,unknown,Jatun Sacha ECD,400,450,m,,,,,"Journal of Research on the Lepidoptera 35:42�60, 1",,NEIL ROSSER,,-1.066666667,-77.6,http://www.jatunsacha.org/texto1.php?id_submenu1=4&id_menu=3&id_submenu2=1
+54894,melpomene,melpomene malleti Heliconius,,,,unknown,"Yasuni Research Station, ECD NA",200,500,m,,,,,Temporal abundance patterns of butterfl y communit,,NEIL ROSSER,,-0.671388889,-76.40055556,http://www.biologia.puce.edu.ec/natura.php?c=226&inPMAIN=2
+55606,melpomene,melpomene malleti Heliconius,,,,,R�o Arajuno Ecuador Napo,400,400,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.233333333,-77.7,TABD record
+55639,melpomene,melpomene malleti Heliconius,,,,,Reserva de Producci�n Faun�stica ECUADOR Orellana,250,250,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.316667,-75.783333,http://www.birdlife.org/datazone/sites/index.html?action=SitHTMDetails.asp&sid=14559&m=0
+55891,melpomene,melpomene malleti Heliconius,,,,,Tipirishca Ecuador Pastaza,850,850,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.8,-77.8,TABD record
+56029,melpomene,melpomene malleti Heliconius,,,,,Jatun Sacha Ecuador Napo,400,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56030,melpomene,melpomene malleti Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56031,melpomene,melpomene malleti Heliconius,,,,,Savi�o Ecuador Napo,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,,,
+56033,melpomene,melpomene malleti Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56034,melpomene,melpomene malleti Heliconius,,,,,R�o Latas Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.73333333,TABD record
+56035,melpomene,melpomene malleti Heliconius,,,,,R�o Tuyano Ecuador Napo,380,380,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.033333333,-77.6,TABD record
+56037,melpomene,melpomene malleti Heliconius,,,,,R�o Arajuno Ecuador Napo,400,400,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.233333333,-77.7,TABD record
+56038,melpomene,melpomene malleti Heliconius,,,,,Lumbaqui Ecuador Sucumb�os,500,500,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.045555556,-77.33666667,GPS
+56041,melpomene,melpomene malleti Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56042,melpomene,melpomene malleti Heliconius,,,,,El Auca Ecuador Napo,180,180,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.583333333,-75.61666667,TABD record
+56043,melpomene,melpomene malleti Heliconius,,,,,Savi�o Ecuador Napo,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,,,
+56044,melpomene,melpomene malleti Heliconius,,,,,Parahuacu Ecuador Napo,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.06264,-76.717224,Google Earth + http://www.texaco.com/sitelets/inspections/en/information/
+56045,melpomene,melpomene malleti Heliconius,,,,,El Auca Ecuador Napo,180,180,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.583333333,-75.61666667,TABD record
+56047,melpomene,melpomene malleti Heliconius,,,,,R�o Arajuno Ecuador Napo,400,400,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.233333333,-77.7,TABD record
+56048,melpomene,melpomene malleti Heliconius,,,,,R�o Latas Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.73333333,TABD record
+56049,melpomene,melpomene malleti Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56050,melpomene,melpomene malleti Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56052,melpomene,melpomene malleti Heliconius,,,,,Lumbaqui Ecuador Sucumb�os,500,500,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.045555556,-77.33666667,GPS
+56053,melpomene,melpomene malleti Heliconius,,,,,R�o Latas Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.73333333,TABD record
+59823,melpomene,melpomene malleti Heliconius,,,,unknown,Caqueta Rio COL,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,1.25,-76.25,Brown 1979
+59824,melpomene,melpomene malleti Heliconius,,,,unknown,Caqueta Rio COL,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,1.25,-76.25,Brown 1979
+59827,melpomene,melpomene malleti Heliconius,,,vicinus x malleti,unknown,Puerto Narino COL AM,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,-3.75,-70.36666667,Brown
+60409,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_470,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.287579,-73.160889,LeCrom
+60410,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_471,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.451666,-74.715806,LeCrom
+60411,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_472,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.084424,-75.344805,LeCrom
+60412,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_473,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.273757,-76.552137,LeCrom
+60413,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_474,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,0.810066,-76.688387,LeCrom
+60414,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_475,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,0.682606,-76.976271,LeCrom
+60415,melpomene,melpomene malleti Heliconius,,,,unknown,LeCrom_476,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,0.513391,-76.303809,LeCrom

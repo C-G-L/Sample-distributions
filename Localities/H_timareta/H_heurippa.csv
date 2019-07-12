@@ -1,0 +1,61 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+3131,heurippa,heurippa Heliconius,,,,macho,Rio Negro (Fassl) COL,800,800,m,,,,Fassl,BMNH,,NEIL ROSSER,,4.25,-73.75,Mallet and Jackson 1980
+3133,heurippa,heurippa Heliconius,,,,macho,Susumuco COL CU,,,m,,9,1917,,BMNH,,NEIL ROSSER,,4.2,-73.73333333,Brown
+3134,heurippa,heurippa Heliconius,,,,macho,Susumuco COL CU,,,m,29,12,1916,,BMNH,,NEIL ROSSER,,4.2,-73.73333333,Brown
+3140,heurippa,heurippa Heliconius,,,,hembra,Rio Negro (Fassl) COL,800,800,m,,,,Fassl,BMNH,,NEIL ROSSER,,4.25,-73.75,Mallet and Jackson 1980
+3141,heurippa,heurippa Heliconius,,,,hembra,Rio Negro (Fassl) COL,800,800,m,,,,Fassl,BMNH,,NEIL ROSSER,,4.25,-73.75,Mallet and Jackson 1980
+3142,heurippa,heurippa Heliconius,,,,hembra,Susumuco COL CU,,,m,,12,1916,,BMNH,,NEIL ROSSER,,4.2,-73.73333333,Brown
+3145,heurippa,heurippa Heliconius,,,,macho,Villavicencio COL ME,,,m,,9,1924,Apoll. Maria,BMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+3146,heurippa,heurippa Heliconius,,,,macho,Villavicencio - Mt Redondo COL ME,400,1300,m,,,1897,Burger,BMNH,early March - early April,NEIL ROSSER,,4.200533333,-73.782775,Google Earth
+3147,heurippa,heurippa Heliconius,,,,macho,Villavicencio - Mt Redondo COL ME,400,1300,m,,,1897,Burger,BMNH,early March - early April,NEIL ROSSER,,4.200533333,-73.782775,Google Earth
+3148,heurippa,heurippa Heliconius,,,,macho,Medina COL CN,,,m,,12,1916,,BMNH,,NEIL ROSSER,,4.516666667,-73.35,Brown
+3149,heurippa,heurippa Heliconius,,,,hembra,Villavicencio COL ME,,,m,,12,1924,Apoll. Maria,BMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+3150,heurippa,heurippa Heliconius,,,,hembra,Villavicencio COL ME,,,m,,,,,BMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+3151,heurippa,heurippa Heliconius,,,,hembra,Villavicencio - Mt Redondo COL ME,,,m,,,1897,Burger,BMNH,early March - early April,NEIL ROSSER,,4.200533333,-73.782775,Google Earth
+3152,heurippa,heurippa Heliconius,,,,hembra,Villavicencio - Rio Ocoor COL ME,350,400,m,,1,1897,Burger,BMNH,11-13 Jan,NEIL ROSSER,,4.25,-73.75,Brown 1979
+3153,heurippa,heurippa Heliconius,,,,hembra,Susumuco COL CU,,,m,29,12,1916,,BMNH,,NEIL ROSSER,,4.2,-73.73333333,Brown
+7102,heurippa,heurippa Heliconius,,,,macho,Servita COL ME,1200,1200,m,28,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+7103,heurippa,heurippa Heliconius,,,,macho,Servita COL ME,1200,1200,m,29,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+7104,heurippa,heurippa Heliconius,,,,hembra,Servita COL ME,1200,1200,m,28,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.183333333,-73.7,www.calle.com
+7105,heurippa,heurippa Heliconius,,,,hembra,Villavicencio COL ME,800,1200,m,28,1,1944,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+7106,heurippa,heurippa Heliconius,,,,macho,Villavicencio COL ME,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+7107,heurippa,heurippa Heliconius,,,,macho,Villavicencio COL ME,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+7108,heurippa,heurippa Heliconius,,,,hembra,Villavicencio COL ME,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,4.15,-73.63333333,Brown
+7109,heurippa,heurippa Heliconius,,,,hembra,Susumuco COL CU,,,m,25,11,1918,,MGCL/FLMNH,,NEIL ROSSER,,4.2,-73.73333333,Brown
+7110,heurippa,heurippa Heliconius,,,,macho,Medina COL CN,,,m,,2,1920,,MGCL/FLMNH,,NEIL ROSSER,,4.516666667,-73.35,Brown
+21045,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,25,Mar,1989,,FLMNH,,Samuel Landrian,,4.213,-73.795,Mavarez et al.
+21046,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,,Feb,1991,,FLMNH,,Samuel Landrian,,4.213,-73.795,Mavarez et al.
+21047,heurippa,heurippa Heliconius,,,,hembra,Villavicencio COL ME,,,m,,Mar,1989,,FLMNH,,Samuel Landrian,,4.15,-73.63333333,Brown
+21048,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,,Feb,1991,,FLMNH,,Samuel Landrian,,4.213,-73.795,Mavarez et al.
+21049,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,,Feb,1991,,FLMNH,,Samuel Landrian,,4.213,-73.795,Mavarez et al.
+21052,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,,,,,FLMNH,,Samuel Landrian,,4.213,-73.795,Mavarez et al.
+33178,heurippa,heurippa Heliconius,,,,unknown,"Villavicencio-Bogota Rd km 90, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.183238889,-73.695175,Google Earth
+33186,heurippa,heurippa Heliconius,,,,unknown,"Villavicencio-Bogota Rd km 98, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.162019444,-73.66327222,Google Earth
+33187,heurippa,heurippa Heliconius,,,,unknown,"Villavicencio-Bogota Rd km 98, Meta COL",,,m,,,,,Brower,,NEIL ROSSER,,4.162019444,-73.66327222,Google Earth
+35536,heurippa,heurippa Heliconius,,,,desconocido,4-74b N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-73.75,KB 1979
+35558,heurippa,heurippa Heliconius,,,,desconocido,3-75b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.198651,-74.547734,KB 1979
+35986,heurippa,heurippa Heliconius,,,,desconocido,5-73c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.71724,-73.322684,KB 1979
+36394,heurippa,heurippa Heliconius,,,,desconocido,4-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-73.75,KB 1979
+39324,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal (just after shrine towards Villavicencio), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39325,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39326,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39327,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal (just before shrine towards Villavicencio, lower site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al
+39328,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39329,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39330,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39331,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39332,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39333,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39334,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39335,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39336,heurippa,heurippa Heliconius,,,,macho,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+39337,heurippa,heurippa Heliconius,,,,hembra,"Virgen de Chirajara near Guayabetal U (just before shrine towards Villavicencio, upper site), COL CU",,,m,28,2,1998,,Jiggins,,NEIL ROSSER,,4.213,-73.795,Mavarez et al.
+53628,heurippa,heurippa Heliconius,,,This specimen added following pers. comm from Linares he says it is present there and this is the southern most point of it's range - see map notes.,macho,Cubarral (heurippa) COL ME,,,m,,,,,Linares - pers. com.,,NEIL ROSSER,,3.729255,-73.859435,Google Earth
+53629,heurippa,heurippa Heliconius,,,This specimen added following pers. comm from Linares he says it is present there and this is the northern most point of it's range - see map notes.,macho,Yopal (heurippa) COL CU,,,m,,,,,Linares - pers. com.,,NEIL ROSSER,,5.389991,-72.489714,unknown
+54248,heurippa,heurippa Heliconius,,,"Algo sobre helic�nidos colombianos [continuaci�n] APOLINAR MARIA, Hno.",desconocido,Villavicencio R�o Guatiqu�a Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,4.153333333,-73.635,Species link
+54249,heurippa,heurippa Heliconius,,,"Algo sobre helic�nidos colombianos [continuaci�n] APOLINAR MARIA, Hno.",desconocido,Villavicencio R�o Guatiqu�a Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,4.153333333,-73.635,Species link
+54250,heurippa,heurippa Heliconius,,,"Algo sobre helic�nidos colombianos [continuaci�n] APOLINAR MARIA, Hno.",desconocido,Medina Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,4.5,-73.35,Species link
+59848,heurippa,heurippa Heliconius,,,,unknown,Pipiral COL ME,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,4.2,-73.76666667,Brown
+59849,heurippa,heurippa Heliconius,,,,unknown,Santa Maria COL BY,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,4.883333333,-73.26666667,Brown
+60421,heurippa,heurippa Heliconius,,,,unknown,LeCrom_482,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.3734,-73.499895,LeCrom
+60422,heurippa,heurippa Heliconius,,,,unknown,LeCrom_483,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.448793,-73.879712,LeCrom

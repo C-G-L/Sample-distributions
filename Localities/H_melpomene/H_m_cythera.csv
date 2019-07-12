@@ -1,0 +1,124 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+5458,melpomene,melpomene cythera Heliconius,ST,"modesta Heliconius melpomene (Heliconius, H.H. Riffarth 1900)",ab. modesta hyb,macho,Paramba ECD IM,,,m,,,,,BMNH,,NEIL ROSSER,,0.816666667,-78.35,Brown
+5459,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Cachabe ECD ES,,,m,,1,1897,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,1.05,-78.8,Brown
+5460,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Palmar ECD MA,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+5461,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Santa Ana Maria ECD LR,,,m,,,,"Buchwald, L. von",BMNH,,NEIL ROSSER,,-0.966666667,-79.41666667,Brown
+5462,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Quevedo ECD LR,,,m,,,,"Buchwald, L. von",BMNH,,NEIL ROSSER,,-1.016666667,-79.45,Brown
+5465,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Balzapamba ECD BO,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+5466,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Los Llanos ECD CH,,,m,,,1906,,BMNH,07-Sep,NEIL ROSSER,,-2.05,-78.96666667,Brown
+5468,melpomene,melpomene cythera Heliconius,,,f. cythera,macho,Chimbo ECD CH,1000,1000,ft,,7,1897,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,-2.233333333,-79.11666667,Brown
+5469,melpomene,melpomene cythera Heliconius,,,f. cythera,hembra,Loja environs ECD LO,,,m,,,1885,Gaujon,BMNH,,NEIL ROSSER,,-4.066666667,-79.2,Map
+5470,melpomene,melpomene cythera Heliconius,HT,"concinna Heliconius (Heliconius, H.F.E.J. Stichel 1906)","melpomene cythera x cydno alithea. Species was orginally entered as melpomene xenoclea - unclear why. Amended to cythera 1.12.09, and corresponding duplicate for cydno alithea created.",macho,Balzapamba ECD BO,,,m,,,,,BMNH,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+10401,melpomene,melpomene cythera Heliconius,,,,macho,Balzapamba ECD BO,,,m,,,,"Rosenberg, W.F.H.",MGCL/FLMNH,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+10403,melpomene,melpomene cythera Heliconius,,,,macho,Palmar ECD MA,200,200,m,13,4,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10404,melpomene,melpomene cythera Heliconius,,,,macho,Palmar ECD MA,200,200,m,6,4,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10405,melpomene,melpomene cythera Heliconius,,,,macho,Piedras ECD EL,300,300,m,5,7,1941,,MGCL/FLMNH,,NEIL ROSSER,,-3.633333333,-79.91083333,large map
+10406,melpomene,melpomene cythera Heliconius,,,,macho,Toachi Rio ECD PI,800,800,m,,11,1939,,MGCL/FLMNH,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+10407,melpomene,melpomene cythera Heliconius,,,,macho,Palmar ECD MA,200,200,m,5,4,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10408,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,500,500,m,25,1,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10409,melpomene,melpomene cythera Heliconius,,,,macho,La Lorena ECD PI,550,550,m,28,2,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.265402778,-79.10773611,Google Earth
+10410,melpomene,melpomene cythera Heliconius,,,,macho,Toachi Rio ECD PI,,,m,,11,1939,,MGCL/FLMNH,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+10411,melpomene,melpomene cythera Heliconius,,,,macho,Balzapamba ECD BO,630,630,m,,6,1938,,MGCL/FLMNH,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+10412,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,500,500,m,28,1,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10413,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo ECD PI,900,900,m,,1,1969,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10414,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,500,500,m,18,12,1940,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10415,melpomene,melpomene cythera Heliconius,,,,macho,Paramba ECD IM,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,0.816666667,-78.35,Brown
+10417,melpomene,melpomene cythera Heliconius,,,,macho,San Pablo ECD PI,1100,1100,m,,6,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,,,unknown
+10418,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,500,500,m,4,1,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10419,melpomene,melpomene cythera Heliconius,,,,macho,Palmar ECD MA,200,200,m,11,6,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10421,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,500,500,m,20,12,1940,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10422,melpomene,melpomene cythera Heliconius,,,,macho,Palmar ECD MA,200,200,m,12,4,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10424,melpomene,melpomene cythera Heliconius,,,,macho,Toachi Rio ECD PI,900,900,m,,1,1969,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+10426,melpomene,melpomene cythera Heliconius,,,,macho,Vilcabamba ECD LO,1500,1500,m,,7,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+10427,melpomene,melpomene cythera Heliconius,,,Hybrid?,macho,Palmar ECD MA,200,200,m,6,6,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10428,melpomene,melpomene cythera Heliconius,,,,hembra,Santo Domingo de los Colorados ECD PI,500,500,m,12,12,1940,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+10429,melpomene,melpomene cythera Heliconius,,,,hembra,Vilcabamba ECD LO,1500,1500,m,,7,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+10430,melpomene,melpomene cythera Heliconius,,,,hembra,San Pablo ECD PI,1100,1100,m,,6,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,,,unknown
+10432,melpomene,melpomene cythera Heliconius,,,,hembra,Palmar ECD MA,200,200,m,23,4,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+10434,melpomene,melpomene cythera Heliconius,,,,hembra,Palenque Rio ECD LR,,,m,15,10,1972,Dodson,MGCL/FLMNH,,NEIL ROSSER,,-0.6,-79.36666667,Brown
+10435,melpomene,melpomene cythera Heliconius,,,,hembra,San Pablo ECD PI,1100,1100,m,,6,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,,,unknown
+10436,melpomene,melpomene cythera Heliconius,,,,hembra,Vilcabamba ECD LO,1500,1500,m,,7,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+10438,melpomene,melpomene cythera Heliconius,,,,hembra,La Puntilla ECD GU,,,m,,4,1964,Mrs. Lafrebre,MGCL/FLMNH,,NEIL ROSSER,,-2.197255556,-79.85917222,Google Earth
+10439,melpomene,melpomene cythera Heliconius,,,,hembra,"Rio Maizito, Palmar ECD PI",,,m,9,5,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.233333333,-79.33333333,Geonames
+10440,melpomene,melpomene cythera Heliconius,,,,hembra,Lorro nr Pinas ECD EL,1500,1500,m,22,12,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-3.681497222,-79.68176944,Google Earth
+10441,melpomene,melpomene cythera Heliconius,,,,hembra,Palmar ECD MA,200,200,m,27,4,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+15837,melpomene,melpomene cythera Heliconius,,,,unknown,Santo Domingo ECD PI,500,500,m,,,1972,Coll. Grobar,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-79.15,Brown
+15839,melpomene,melpomene cythera Heliconius,,,,unknown,Rte. Gun El Triumfo parroquia Chontamarca ECD CA,500,500,m,,,1980,Porion- Betrand,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.512016667,-79.27266111,Google Earth
+16196,melpomene,melpomene cythera Heliconius,,,Hybrid - cydno x melpomene (haenschi x cythera?). Note - was not assigned to species - amended 30.11.09,unknown,Palenque Rio ECD LR,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.6,-79.36666667,Brown
+16831,melpomene,melpomene cythera Heliconius,,,,unknown,Balzapamba ECD BO,,,m,,,,"Haensch, R.",NHM Accessions - draw 7986,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+16858,melpomene,melpomene cythera Heliconius,,,,unknown,Paramba ECD IM,3500,3500,ft,,2,1897,"Rosenberg, W.F.H.",NHM Accesions - draws 9049,,NEIL ROSSER,,0.816666667,-78.35,Brown
+16906,melpomene,melpomene cythera Heliconius,,,,unknown,Palenque Rio ECD LR,400,400,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.6,-79.36666667,Brown
+16907,melpomene,melpomene cythera Heliconius,,,,unknown,La Crespa ECD MA,800,800,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.866666667,-79.86666667,Brown
+16992,melpomene,melpomene cythera Heliconius,,,,unknown,Santo Domingo de los Colorados ECD PI,,,m,,,,,NHM Accesions - draws 9054,,NEIL ROSSER,,-0.25,-79.15,Brown
+17127,melpomene,melpomene cythera Heliconius,,,f. concinna,unknown,Troncal 2km E ECD,370,370,m,24,3,1975,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,-2.416666667,-79.25,label
+25159,melpomene,melpomene cythera Heliconius,,,,macho,Alluriquin ECD PI,,,m,27,5,1936,,FLMNH,,Neil Rosser,,-0.316666667,-78.98333333,Brown
+25160,melpomene,melpomene cythera Heliconius,,,,macho,San Carlos de los Colorados Hda ECD PI,,,m,1,6,1936,,FLMNH,,Neil Rosser,,-0.419413889,-78.94241389,Studies in the Genus Elaphoglossum - Bell 1955
+25161,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,600,600,m,,,,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+25162,melpomene,melpomene cythera Heliconius,,,,hembra,Santo Domingo de los Colorados ECD PI,600,600,m,,,,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+25163,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,600,600,m,,,,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+25164,melpomene,melpomene cythera Heliconius,,,,hembra,Santo Domingo de los Colorados ECD PI,600,600,m,,,,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+25165,melpomene,melpomene cythera Heliconius,,,,macho,Meme ECD PI,800,800,m,,6,1988,"Pena, J.",FLMNH,,Neil Rosser,,-0.057697222,-78.974375,Google Earth
+25166,melpomene,melpomene cythera Heliconius,,,,macho,Tinalandia ECD PI,900,900,m,,6,1989,,FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+25167,melpomene,melpomene cythera Heliconius,,,,macho,Alluriquin ECD PI,,,m,,6,1994,,FLMNH,,Neil Rosser,,-0.316666667,-78.98333333,Brown
+25168,melpomene,melpomene cythera Heliconius,,,,macho,Naranjal ECD GU,,,m,,9,1994,,FLMNH,,Neil Rosser,,-2.65,-79.61666667,Brown
+25169,melpomene,melpomene cythera Heliconius,,,,macho,Rio Cristal ECD ZA,1000,1000,m,,1,1990,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,neuk enq
+25170,melpomene,melpomene cythera Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,,,m,,3,1997,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+25171,melpomene,melpomene cythera Heliconius,,,,macho,Chacorita ECU LO,,,m,,,1991,,FLMNH,,Neil Rosser,,,,unknown
+25172,melpomene,melpomene cythera Heliconius,,,,macho,Lita ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.866666667,-78.46666667,darwin_ecuador_pinas2
+25173,melpomene,melpomene cythera Heliconius,,,,hembra,Lita ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.866666667,-78.46666667,darwin_ecuador_pinas2
+25174,melpomene,melpomene cythera Heliconius,,,,macho,Lita ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.866666667,-78.46666667,darwin_ecuador_pinas2
+25175,melpomene,melpomene cythera Heliconius,,,,macho,Lita ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.866666667,-78.46666667,darwin_ecuador_pinas2
+25176,melpomene,melpomene cythera Heliconius,,,,macho,Naranjal Rio ECD IM,,,m,,8,1995,,FLMNH,,Neil Rosser,,0.351388889,-78.91694444,http://www.checklist.org.br/getpdf?NGD031-06
+29245,melpomene,melpomene cythera Heliconius,,,,descononcido,Flavio Alfaro ECD MA,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.4,-79.91666667,Geonames
+33131,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33132,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33133,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33134,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33135,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33136,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33137,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33138,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33139,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33140,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33141,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33142,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33143,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33144,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33145,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33146,melpomene,melpomene cythera Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+35026,melpomene,melpomene cythera Heliconius,,,,desconocido,1-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-78.25,KB 1979
+35060,melpomene,melpomene cythera Heliconius,,,,desconocido,0-79a N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-79.25,KB 1979
+35616,melpomene,melpomene cythera Heliconius,,,,desconocido,1-79b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-78.75,KB 1979
+36022,melpomene,melpomene cythera Heliconius,,,,desconocido,1-78c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-78.25,KB 1979
+36442,melpomene,melpomene cythera Heliconius,,,,desconocido,1-80d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-79.75,KB 1979
+36471,melpomene,melpomene cythera Heliconius,,,,desconocido,1-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-79.25,KB 1979
+36483,melpomene,melpomene cythera Heliconius,,,,desconocido,2-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-79.25,KB 1979
+36500,melpomene,melpomene cythera Heliconius,,,,desconocido,4-80a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-80.25,KB 1979
+36508,melpomene,melpomene cythera Heliconius,,,,desconocido,4-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-79.25,KB 1979
+36945,melpomene,melpomene cythera Heliconius,,,,desconocido,2-80b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-79.75,KB 1979
+36952,melpomene,melpomene cythera Heliconius,,,,desconocido,2-79b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-79,KB 1979
+36957,melpomene,melpomene cythera Heliconius,,,,desconocido,4-80b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-79.75,KB 1979
+37322,melpomene,melpomene cythera Heliconius,,,,desconocido,0-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-79.25,KB 1979
+37332,melpomene,melpomene cythera Heliconius,,,,desconocido,1-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-79.25,KB 1979
+37340,melpomene,melpomene cythera Heliconius,,,,desconocido,2-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-79.25,KB 1979
+37791,melpomene,melpomene cythera Heliconius,,,,desconocido,0-79d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-78.75,KB 1979
+37802,melpomene,melpomene cythera Heliconius,,,,desconocido,2-80d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-79.75,KB 1979
+37810,melpomene,melpomene cythera Heliconius,,,,desconocido,2-79d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.178341,-78.975899,Google Earth
+38708,melpomene,melpomene cythera Heliconius,,,,desconocido,Santo Domingo de los Colorados ECD PI,700,700,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.25,-79.15,Brown
+38709,melpomene,melpomene cythera Heliconius,,,,desconocido,Naranjal ECD GU,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,-2.65,-79.61666667,Brown
+38710,melpomene,melpomene cythera Heliconius,,,,desconocido,Alluriquin ECD PI,700,700,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.316666667,-78.98333333,Brown
+39441,melpomene,melpomene cythera Heliconius,,,,macho,"Alluriquin, ECD PI",,,m,,,,,Jiggins,,NEIL ROSSER,,-0.319722222,-79.33694444,CJ
+39442,melpomene,melpomene cythera Heliconius,,,,macho,"Alluriquin, ECD PI",,,m,,,,,Jiggins,,NEIL ROSSER,,-0.319722222,-79.33694444,CJ
+39443,melpomene,melpomene cythera Heliconius,,,,macho,"Hacienda Hesperia, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-0.333055556,-78.82388889,Falling Rain
+39444,melpomene,melpomene cythera Heliconius,,,,macho,Mindo - Cinto Road ECD PI,1200,1200,m,13,2,2002,,Jiggins,,NEIL ROSSER,,-0.032558,-78.797693,Google Earth
+39445,melpomene,melpomene cythera Heliconius,,,,macho,Mindo - Cinto Road ECD PI,1200,1200,m,13,2,2002,,Jiggins,,NEIL ROSSER,,-0.032558,-78.797693,Google Earth
+39446,melpomene,melpomene cythera Heliconius,,,,macho,Mindo - Cinto Road ECD PI,1200,1200,m,13,2,2002,,Jiggins,,NEIL ROSSER,,-0.032558,-78.797693,Google Earth
+39447,melpomene,melpomene cythera Heliconius,,,,macho,Mindo - Cinto Road ECD PI,1200,1200,m,14,2,2002,,Jiggins,,NEIL ROSSER,,-0.032558,-78.797693,Google Earth
+39448,melpomene,melpomene cythera Heliconius,,,,hembra,Mindo - Cinto Road ECD PI,1200,1200,m,14,2,2002,,Jiggins,,NEIL ROSSER,,-0.032558,-78.797693,Google Earth
+39449,melpomene,melpomene cythera Heliconius,,,,macho,Mindo - Cinto Road ECD PI,1200,1200,m,14,2,2002,,Jiggins,,NEIL ROSSER,,-0.032558,-78.797693,Google Earth
+39450,melpomene,melpomene cythera Heliconius,,,,hembra,"Pedro Vicente Maldonado, ECD PI",,,m,16,5,2001,,Jiggins,,NEIL ROSSER,,0.117777778,-79.59,CJ
+55839,melpomene,melpomene cythera Heliconius,,,,male,"R�o San Jacinto, nr El Para�so, km 76 Naranjal-Machala rd. Ecuador Ca�ar",130,130,m,19,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-3.193055556,-79.73888889,GPS
+56011,melpomene,melpomene cythera Heliconius,,,,,Alluriqu�n Ecuador Pichincha,800,800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.316666667,-78.98333333,TABD record
+56012,melpomene,melpomene cythera Heliconius,,,,,Estaci�n Bilsa Ecuador Esmeraldas,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.36,-79.7,http://www.teamnetwork.org/en/field_stations/estaci%C3%B3n-biol%C3%B3gica-bilsa
+56013,melpomene,melpomene cythera Heliconius,,,,,Cochancay Ecuador Ca�ar,350,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.4,-79.33333,Geonames
+56014,melpomene,melpomene cythera Heliconius,,,,,El Copal Ecuador Cotopaxi,950,950,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.866666667,-79.16666667,large map

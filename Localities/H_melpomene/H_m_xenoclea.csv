@@ -1,0 +1,153 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+1,melpomene,melpomene xenoclea Heliconius,,,,female,"Camino a Catorata del Tirol, San Ramon PER JU",795,795,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-11.10861111,-75.34361111,Mallet lab database
+6,melpomene,melpomene xenoclea Heliconius,,,,male,"Monte Olivo, R�o Pampa Hermosa, nr Satipo PER JU",840,840,m,,,,,Mallet,date may be available on this specimen - see Mallet database.,NEIL ROSSER,,-11.23944444,-74.74277778,Mallet lab database
+1162,melpomene,melpomene xenoclea Heliconius,,,,desconocido,Obenteni PER UC,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-74.21666667,"Gerardo Lamas, unpub. gazetteer"
+5472,melpomene,melpomene xenoclea Heliconius,,,trans. from euryades to xenoclea see draw 116 (KB?),macho,Perene Rio PER JU,,,m,,,1920,,BMNH,08-Sep,NEIL ROSSER,,-11.15,-74.3,"Gerardo Lamas, unpub. gazetteer"
+5473,melpomene,melpomene xenoclea Heliconius,,,trans. from euryades to xenoclea see draw 116 (KB?),macho,La Merced  PER JU,2500,2500,ft,,,1903,Watkins & Tomlinson,BMNH,05-Jun,NEIL ROSSER,,-11.05,-75.31666667,"Gerardo Lamas, unpub. gazetteer"
+5474,melpomene,melpomene xenoclea Heliconius,,,trans. from euryades to xenoclea see draw 116 (KB?),macho,Montana PER JU,,,m,,,,Grant Duff,BMNH,about 1905,NEIL ROSSER,,-10.88333333,-75.21666667,Geonames
+5475,melpomene,melpomene xenoclea Heliconius,ST,"confluens Heliconius cydno (Heliconius, H. Neustetter 1928)",trans. from euryades to xenoclea see draw 116 (KB?),macho,Pichis Road PER PA,3000,3000,ft,,,1904,Watkins & Tomlinson,BMNH,,NEIL ROSSER,,-10.25,-74.75,Brown 1979
+5476,melpomene,melpomene xenoclea Heliconius,,,trans. from euryades to xenoclea see draw 116 (KB?),hembra,Chanchamayo PER JU,,,m,,,,,BMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+5477,melpomene,melpomene xenoclea Heliconius,ST,"confluens Heliconius cydno (Heliconius, H. Neustetter 1928)",trans. from euryades to xenoclea see draw 116 (KB?),hembra,Colorado Rio PER JU,2500,2500,ft,,,1904,Watkins & Tomlinson,BMNH,,NEIL ROSSER,,-10.96083333,-75.315,Geonames
+5478,melpomene,melpomene xenoclea Heliconius,,,,macho,Colorado Rio PER JU,2500,2500,ft,,,,,BMNH,,NEIL ROSSER,,-10.96083333,-75.315,Geonames
+5479,melpomene,melpomene xenoclea Heliconius,,,,macho,El Porvenir PER PA,,,m,,,,,BMNH,,NEIL ROSSER,,-10.73333333,-75.18333333,"Gerardo Lamas, unpub. gazetteer"
+5480,melpomene,melpomene xenoclea Heliconius,,,,macho,Pozuzo  PER PA,,,m,,,,,BMNH,,NEIL ROSSER,,-10.11666667,-75.53333333,"Gerardo Lamas, unpub. gazetteer"
+5481,melpomene,melpomene xenoclea Heliconius,,,,macho,San Luis de Shuaro PER JU,2250,2250,ft,,11,1919,,BMNH,,NEIL ROSSER,,-10.88333333,-75.28333333,"Gerardo Lamas, unpub. gazetteer"
+5483,melpomene,melpomene xenoclea Heliconius,,,,macho,Perene Rio PER JU,,,m,,,1920,,BMNH,08-Sep,NEIL ROSSER,,-11.15,-74.3,"Gerardo Lamas, unpub. gazetteer"
+5484,melpomene,melpomene xenoclea Heliconius,,,,macho,San Remon PER,3000,3000,ft,,8,1903,Watkins & Tomlinson,BMNH,,NEIL ROSSER,,-11.13333333,-75.35,Lamas unpublished
+5485,melpomene,melpomene xenoclea Heliconius,,,,macho,Utcuyacu PER JU,5000,5000,ft,,7,1919,"Watkins, C.",BMNH,,NEIL ROSSER,,-11.18333333,-75.46666667,"Gerardo Lamas, unpub. gazetteer"
+5486,melpomene,melpomene xenoclea Heliconius,,,,macho,La Merced  PER JU,2500,3500,ft,,,1919,"Watkins, C.",BMNH,10-Nov,NEIL ROSSER,,-11.05,-75.31666667,"Gerardo Lamas, unpub. gazetteer"
+5487,melpomene,melpomene xenoclea Heliconius,,,,hembra,Chanchamayo PER JU,,,m,,,,,BMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+5490,melpomene,melpomene xenoclea Heliconius,,,f. hyperblea Dyar?? Not in Lamas!,macho,Huancabamba PER PA,,,m,,,,,BMNH,,NEIL ROSSER,,-10.38333333,-75.55,"Gerardo Lamas, unpub. gazetteer"
+5491,melpomene,melpomene xenoclea Heliconius,HT,"superba Heliconius melpomene (Heliconius, P.I. Lathy 1906)",superba is a xenoclea / aglaope trans. KB 1974.,macho,Colorado Rio PER JU,2500,2500,ft,,9,1903,Watkins & Tomlinson,BMNH,,NEIL ROSSER,,-10.96083333,-75.315,Geonames
+5528,melpomene,melpomene xenoclea Heliconius,,,xenoclea X cognata. Ssp NA - amended 1.12.09,macho,Umaripuniz Rio PER PA,3100,3100,ft,,,,,BMNH,,NEIL ROSSER,,-10.31666667,-75.38333333,"Gerardo Lamas, unpub. gazetteer"
+10576,melpomene,melpomene xenoclea Heliconius,,,f. confluens,macho,Chanchamayo PER JU,,,m,,,1911,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10578,melpomene,melpomene xenoclea Heliconius,,,f. confluens,hembra,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10579,melpomene,melpomene xenoclea Heliconius,,,f. confluens,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10580,melpomene,melpomene xenoclea Heliconius,,,f. confluens,hembra,Chuchurras PER PA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-10.15,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+10596,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10597,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10598,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10599,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10600,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10604,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10605,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10607,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10608,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10611,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,25,10,1961,JS,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10614,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10615,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10616,melpomene,melpomene xenoclea Heliconius,,,,hembra,Inca Perene PER JU,4000,4000,ft,,,1902,Watkins,MGCL/FLMNH,08-Oct,NEIL ROSSER,,-10.88333333,-75.21666667,Geonames
+10617,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,25,10,1961,JS,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10618,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10619,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10620,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,Watkins,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10621,melpomene,melpomene xenoclea Heliconius,,,,hembra,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+10623,melpomene,melpomene xenoclea Heliconius,,,,macho,Cahuapanas PER PA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-10.09444444,-74.99222222,Falling Rain
+10624,melpomene,melpomene xenoclea Heliconius,,,,macho,Chanchamayo PER JU,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+15840,melpomene,melpomene xenoclea Heliconius,,,,unknown,Chanchamayo PER JU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+15842,melpomene,melpomene xenoclea Heliconius,,,,unknown,Villa Capiri PER,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-11.12972222,-74.67277778,Geonames
+15843,melpomene,melpomene xenoclea Heliconius,,,f. confluens,unknown,Chanchamayo PER JU,700,1100,m,,,,Coll. Grober,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+16165,melpomene,melpomene xenoclea Heliconius,,,,unknown,Chanchamayo PER JU,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+16166,melpomene,melpomene xenoclea Heliconius,,,,unknown,Oxapampa PER PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-10.58333333,-75.4,"Gerardo Lamas, unpub. gazetteer"
+16824,melpomene,melpomene xenoclea Heliconius,,,,unknown,Chanchamayo PER JU,,,m,,,1920,,NHM Accessions - draw 7986,07-Aug,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+16829,melpomene,melpomene xenoclea Heliconius,,,,unknown,Chanchamayo PER JU,,,m,,,1898,Schunke,NHM Accessions - draw 7986,,NEIL ROSSER,,-11.06666667,-75.31666667,Brown
+17051,melpomene,melpomene xenoclea Heliconius,,,,unknown,La Merced  PER JU,,,m,,,,,NHM Accesions - draws 9062,,NEIL ROSSER,,-11.05,-75.31666667,"Gerardo Lamas, unpub. gazetteer"
+17053,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",unknown,Oxapampa PER ??,,,m,,,,,NHM Accesions - draws 9062,,NEIL ROSSER,,-10.86726667,-75.379025,Google Earth
+25664,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25665,melpomene,melpomene xenoclea Heliconius,,,,hembra,Satipo PER JU,,,m,,,1987,,FLMNH,01-Jun,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25666,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25667,melpomene,melpomene xenoclea Heliconius,,,,hembra,Satipo PER JU,,,m,,6,1987,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25668,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,2,1994,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25669,melpomene,melpomene xenoclea Heliconius,,,,hembra,Satipo PER JU,,,m,,,1987,,FLMNH,01-Jun,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25670,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,2,1994,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25671,melpomene,melpomene xenoclea Heliconius,,,,hembra,Shanki (Rio Satipo) PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.16666667,-74.45,"Gerardo Lamas, unpub. gazetteer"
+25673,melpomene,melpomene xenoclea Heliconius,,,,macho,Oxapampa PER PA,,,m,,1,1988,,FLMNH,,Neil Rosser,,-10.58333333,-75.4,"Gerardo Lamas, unpub. gazetteer"
+25674,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25675,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,,1987,,FLMNH,01-Jun,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25676,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25677,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,8,1988,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25678,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,2,1994,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25679,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,2,1994,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25680,melpomene,melpomene xenoclea Heliconius,,,,macho,Shanki (Rio Satipo) PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.16666667,-74.45,"Gerardo Lamas, unpub. gazetteer"
+25681,melpomene,melpomene xenoclea Heliconius,,,,macho,Satipo PER JU,,,m,,10,1990,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25682,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Satipo PER JU,,,m,,,,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25683,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Satipo PER JU,,,m,,2,1994,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25684,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,450,450,m,25,8,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25685,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Shima PER JU,,,m,23,1,1997,,FLMNH,,Neil Rosser,,-10.76666667,-73.73333333,"Gerardo Lamas, unpub. gazetteer"
+25686,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Satipo PER JU,,,m,,2,1994,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25687,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Satipo PER JU,,,m,,8,1986,,FLMNH,,Neil Rosser,,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+25688,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,450,450,m,,7,1997,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25689,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,450,450,m,,8,1986,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25690,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,,3,1998,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25692,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Puyemi Rio PER JU,,,m,,5,1988,,FLMNH,,Neil Rosser,,-11.37562222,-73.83156944,Google Earth
+25693,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,,1,1998,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25694,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,17,3,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25696,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,hembra,Atalaya PER UC,,,m,,9,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25697,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,25,4,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25698,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,,4,1997,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25699,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,,4,1997,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25700,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,,4,1997,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25701,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,,4,1997,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25702,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,24,4,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25703,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,9,5,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+25704,melpomene,melpomene xenoclea Heliconius,,,xenoclea x schunkei,macho,Atalaya PER UC,,,m,2,2,1996,,FLMNH,,Neil Rosser,,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+36610,melpomene,melpomene xenoclea Heliconius,,,,desconocido,11-75a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-75.25,KB 1979
+36614,melpomene,melpomene xenoclea Heliconius,,,,desconocido,12-74a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.75,-74.25,KB 1979
+37053,melpomene,melpomene xenoclea Heliconius,,,,desconocido,11-75b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-74.75,KB 1979
+37057,melpomene,melpomene xenoclea Heliconius,,,,desconocido,13-74b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.75,-73.75,KB 1979
+37431,melpomene,melpomene xenoclea Heliconius,,,,desconocido,10-75c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-75.25,KB 1979
+37444,melpomene,melpomene xenoclea Heliconius,,,,desconocido,11-75c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.25,-75.25,KB 1979
+37455,melpomene,melpomene xenoclea Heliconius,,,,desconocido,11-74c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.25,-74.25,KB 1979
+37964,melpomene,melpomene xenoclea Heliconius,,,,desconocido,10-76d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-75.75,KB 1979
+37973,melpomene,melpomene xenoclea Heliconius,,,,desconocido,10-75d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-74.75,KB 1979
+37984,melpomene,melpomene xenoclea Heliconius,,,,desconocido,11-75d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.25,-74.75,KB 1979
+43356,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,Cacazu PER PA,,,m,25,Setiembre,1982,"Hocking, P.",MHNL PERU,25.ix.82,Lidia Sulca,,-10.66666667,-75.11666667,"Gerardo Lamas, unpub. gazetteer"
+43357,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,Lobo PER PA,,,m,,Setiembre,1993,"Hocking, P",MHNL PERU,24-29.ix.93,Lidia Sulca,,-10.36666667,-75.25,"Gerardo Lamas, unpub. gazetteer"
+43358,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,La Merced  PER JU,,,m,,,,,MHNL PERU,1932,Lidia Sulca,,-11.05,-75.31666667,"Gerardo Lamas, unpub. gazetteer"
+43359,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,Shanki PER JU,,,m,,,,"Rojas, H",MHNL PERU,viii.75,Lidia Sulca,,-11.16666667,-74.45,"Gerardo Lamas, unpub. gazetteer"
+43360,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,Palcazu PER HU,500,500,m,25,Setiembre,1992,"Hocking, P.",MHNL PERU,25.ix.92,Lidia Sulca,,-9.883333333,-74.93333333,Brown
+43361,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,Cacazu PER PA,700,700,m,,,,"Hocking, P.",MHNL PERU,25.ix.82,Lidia Sulca,,-10.66666667,-75.11666667,"Gerardo Lamas, unpub. gazetteer"
+43362,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,macho,Palcazu PER HU,,,m,,Setiembre,1988,"Hocking, P.",MHNL PERU,28-30.ix.88,Lidia Sulca,,-9.883333333,-74.93333333,Brown
+43363,melpomene,melpomene xenoclea Heliconius,,,xenoclea x aglaope. Ssp NA - amended 1.12.09,hembra,Palcazu PER HU,,,m,13,Mayo,1997,"Hocking, P.",MHNL PERU,13.v.97,Lidia Sulca,,-9.883333333,-74.93333333,Brown
+43364,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Chuchurras PER PA,,,m,,,,,MHNL PERU,,Lidia Sulca,,-10.15,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43365,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Puerto Union PER JU,,,m,,,,"Lamas, G.",MHNL PERU,8.viii.75,Lidia Sulca,,-10.95,-75.21666667,"Gerardo Lamas, unpub. gazetteer"
+43366,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,San Luis de Shuaro PER JU,,,m,,Agosto,1944,"Ridout, B.V.",MHNL PERU,viii.44,Lidia Sulca,,-10.88333333,-75.28333333,"Gerardo Lamas, unpub. gazetteer"
+43367,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,San Ramon PER JU,,,m,,,,,MHNL PERU,Praeli,Lidia Sulca,,-11.13333333,-75.35,"Gerardo Lamas, unpub. gazetteer"
+43368,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,El Albergue PER JU,,,m,,,,"Lamas, G",MHNL PERU,3.vi.69,Lidia Sulca,,-10.95,-75.28333333,"Gerardo Lamas, unpub. gazetteer"
+43369,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Chuchurras PER PA,,,m,,,,,MHNL PERU,,Lidia Sulca,,-10.15,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43370,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaopeWas entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Puerto Aldea PER JU,,,m,,,,"Lamas, G.",MHNL PERU,8.viii.75,Lidia Sulca,,-10.9,-74.91666667,"Gerardo Lamas, unpub. gazetteer"
+43371,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Obenteni PER UC,,,m,,,,,MHNL PERU,iv.55,Lidia Sulca,,-10.75,-74.21666667,"Gerardo Lamas, unpub. gazetteer"
+43373,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Marankiari PER JU,,,m,,,,"Vellard,J.",MHNL PERU,29.vii.47,Lidia Sulca,,-11.16666667,-74.53333333,"Gerardo Lamas, unpub. gazetteer"
+43374,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Puerto Union PER JU,,,m,,,,"Lamas, G.",MHNL PERU,8.viii.75,Lidia Sulca,,-10.95,-75.21666667,"Gerardo Lamas, unpub. gazetteer"
+43376,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Chanchamayo valle de PER JU,,,m,,,,"Schunke, J.M.",MHNL PERU,6.vi.74,Lidia Sulca,,-11.05,-75.31666667,"Gerardo Lamas, unpub. gazetteer"
+43377,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Yurinaqui Alto Enenas PER PA,,,m,,,,"Hocking, P.",MHNL PERU,31.x.65,Lidia Sulca,,-10.75,-75.21666667,"Gerardo Lamas, unpub. gazetteer"
+43378,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Chuchurras PER PA,,,m,,,,,MHNL PERU,,Lidia Sulca,,-10.15,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43379,melpomene,melpomene xenoclea Heliconius,,,"Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,San Luis de Shuaro PER JU,,,m,,,,"Ridout, B.V.",MHNL PERU,viii.44,Lidia Sulca,,-10.88333333,-75.28333333,"Gerardo Lamas, unpub. gazetteer"
+52263,melpomene,melpomene xenoclea Heliconius,HT,"rubescens Heliconius melpomene (Heliconius, H.F.E.J. Stichel 1906)",Transitions from xenoclea to aglaope,macho,Chuchurras PER PA,320,320,m,,,,"Hoffmanns, W.",BMNH,,NEIL ROSSER,duplicate,-10.15,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+52264,melpomene,melpomene xenoclea Heliconius,,,Transitions from xenoclea to aglaope,macho,Umaripuniz Rio PER PA,3100,3100,ft,,,,,BMNH,,NEIL ROSSER,duplicate,-10.31666667,-75.38333333,"Gerardo Lamas, unpub. gazetteer"
+52266,melpomene,melpomene xenoclea Heliconius,,,Transitions from xenoclea to aglaope,macho,Huancabamba PER PA,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-10.38333333,-75.55,"Gerardo Lamas, unpub. gazetteer"
+52821,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,5,6,1996,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52822,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,20,4,1996,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52823,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,3,5,1996,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52824,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,450,450,m,,8,1996,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52825,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Puyemi Rio PER JU,,,m,,5,1988,,FLMNH,,Neil Rosser,duplicate,-11.37562222,-73.83156944,Google Earth
+52826,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Rio Quipachari-PER-Ucayali,300,300,m,25,2,1995,,FLMNH,,Neil Rosser,duplicate,-11.63187778,-74.01194722,Geonames + Google Earth
+52827,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,hembra,Atalaya PER UC,450,450,m,,6,1996,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52828,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,450,450,m,,8,1996,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52829,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,,7,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52830,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,2,2,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52831,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,10,1,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52832,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,,7,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52833,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,,7,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52834,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,,7,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52835,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,,4,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52836,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,,4,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52837,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,macho,Atalaya PER UC,,,m,12,2,1997,,FLMNH,,Neil Rosser,duplicate,-10.73333333,-73.76666667,"Gerardo Lamas, unpub. gazetteer"
+52838,melpomene,melpomene xenoclea Heliconius,,,schunkei x xenoclea,hembra,Satipo PER JU,,,m,,,1987,,FLMNH,01-Jun,Neil Rosser,duplicate,-11.25,-74.63333333,"Gerardo Lamas, unpub. gazetteer"
+53021,melpomene,melpomene xenoclea Heliconius,,,"trans. from euryades to xenoclea see draw 116 (KB?)  Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Perene Rio PER JU,,,m,,,1920,,BMNH,08-Sep,NEIL ROSSER,duplicate,-11.15,-74.3,"Gerardo Lamas, unpub. gazetteer"
+53022,melpomene,melpomene xenoclea Heliconius,,,"trans. from euryades to xenoclea see draw 116 (KB?)  Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,La Merced  PER JU,2500,2500,ft,,,1903,Watkins & Tomlinson,BMNH,05-Jun,NEIL ROSSER,duplicate,-11.05,-75.31666667,"Gerardo Lamas, unpub. gazetteer"
+53023,melpomene,melpomene xenoclea Heliconius,,,"trans. from euryades to xenoclea see draw 116 (KB?)  Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Montana PER JU,,,m,,,,Grant Duff,BMNH,about 1905,NEIL ROSSER,duplicate,-10.88333333,-75.21666667,Geonames
+53024,melpomene,melpomene xenoclea Heliconius,ST,"confluens Heliconius cydno (Heliconius, H. Neustetter 1928)","trans. from euryades to xenoclea see draw 116 (KB?) Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",macho,Pichis Road PER PA,3000,3000,ft,,,1904,Watkins & Tomlinson,BMNH,,NEIL ROSSER,duplicate,-10.25,-74.75,Brown 1979
+53025,melpomene,melpomene xenoclea Heliconius,,,"trans. from euryades to xenoclea see draw 116 (KB?) Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",hembra,Chanchamayo PER JU,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-11.06666667,-75.31666667,Brown
+53026,melpomene,melpomene xenoclea Heliconius,ST,"confluens Heliconius cydno (Heliconius, H. Neustetter 1928)","trans. from euryades to xenoclea see draw 116 (KB?) Was entered as euryades - Jim says these likely trans between xenocles and aglaope, said just give them as xenoclea",hembra,Colorado Rio PER JU,2500,2500,ft,,,1904,Watkins & Tomlinson,BMNH,,NEIL ROSSER,duplicate,-10.96083333,-75.315,Geonames
+54390,melpomene,melpomene xenoclea Heliconius,,,,unknown,"Q. Victoria, Peru",1800,1800,m,,Aug,2004,,www.neutron.phys.ethz.ch/Lepidoptera,,NEIL ROSSER,,-13.36491,-72.896487,Google Earth

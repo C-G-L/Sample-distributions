@@ -1,0 +1,43 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+920,cydno,cydno cordula Heliconius,,,,desconocido,Cucuta COL NS,,,m,,,,,KB 1979,,NEIL ROSSER,,7.9,-72.51666667,Brown
+1626,cydno,cydno cordula Heliconius,,,,descononcido,"Ocana a Tibu, km77 antes Tibu COL NS",,,m,,,,,KB 1979,,NEIL ROSSER,,8.600391667,-73.14253333,Google Earth
+3883,cydno,cydno cordula Heliconius,,,"This specimen was entered as cydno zelinde Heliconius, but this doesnt fit with zelinde's distrib. My guess is that it was a misID for cordula - they look very similar and cordula is known from Tame.",macho,Tame COL AR,,,m,1,7,1976,"Cooper, M.",BMNH,,NEIL ROSSER,,6.462222222,-71.73888889,Falling Rain
+3960,cydno,cydno cordula Heliconius,,,,macho,Muchuchachi VEN ME,,,m,,,,,BMNH,,NEIL ROSSER,,8.15,-71.33333333,Brown
+3961,cydno,cydno cordula Heliconius,ST,"flaveola Heliconius cydno (Heliconius, J.J. Joicey & W.J. Kaye 1917)",,macho,Mocotone VEN,,,m,,,,,BMNH,,NEIL ROSSER,,8.09806,-71.3675,Geonames
+3962,cydno,cydno cordula Heliconius,,,,hembra,"La Parada, Pirineos VEN TA",1200,1200,m,16,8,1987,"Neild, A.",BMNH,,NEIL ROSSER,,7.776891667,-72.189,Geonames + Google Earth
+3963,cydno,cydno cordula Heliconius,,,!PHOTO!,?,El Tukuko VEN ZU,200,200,m,10,8,1990,"Neild, A.",BMNH,,NEIL ROSSER,,9.828791667,-72.79655833,"Kasmera 34(1): 25 - 30, 2006"
+18983,cydno,cydno cordula Heliconius,,,,macho,Via Chorro del Indio VEN TA,,,m,,May,1982,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+18985,cydno,cydno cordula Heliconius,,,,macho,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18986,cydno,cydno cordula Heliconius,,,,hembra,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18987,cydno,cydno cordula Heliconius,,,,macho,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18988,cydno,cydno cordula Heliconius,,,,macho,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18989,cydno,cydno cordula Heliconius,,,,hembra,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18990,cydno,cydno cordula Heliconius,,,,macho,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18991,cydno,cydno cordula Heliconius,,,,macho,La Fundacion VEN TAC,,,m,26,Mar,1992,,FLMNH,,Samuel Landrian,,7.788888889,-71.85666667,Geonames
+18992,cydno,cydno cordula Heliconius,,,,macho,Via Chorro del Indio VEN TA,,1300,m,,May,1987,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+18993,cydno,cydno cordula Heliconius,,,,macho,Via Chorro del Indio VEN TA,,,m,,May,1982,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+18994,cydno,cydno cordula Heliconius,,,,macho,Mucuy VEN ME,,,m,10,Jan,1989,,FLMNH,,Samuel Landrian,,8.621666667,-71.06472222,Geonames
+18995,cydno,cydno cordula Heliconius,,,,hembra,Via Chorro del Indio VEN TA,,,m,,Sep,1984,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+18996,cydno,cydno cordula Heliconius,,,,macho,Via Chorro del Indio VEN TA,,1100,m,,Sep,1984,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+18998,cydno,cydno cordula Heliconius,,,,macho,Via Chorro del Indio VEN TA,,1300,m,,May,1987,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+18999,cydno,cydno cordula Heliconius,,,,hembra,Via Chorro del Indio VEN TA,,1300,m,,May,1987,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+19000,cydno,cydno cordula Heliconius,,,,macho,Via Chorro del Indio VEN TA,,1100,m,,Jun,1985,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+19001,cydno,cydno cordula Heliconius,,,,hembra,Via Chorro del Indio VEN TA,,1100,m,,Jun,1985,,FLMNH,,Samuel Landrian,,7.709044444,-72.19031667,Google Earth + Geonames
+19002,cydno,cydno cordula Heliconius,,,,macho,San Cristobal/Chu  VEN TA,,,m,,,,,FLMNH,,Samuel Landrian,,7.766666667,-72.23333333,Brown
+19003,cydno,cydno cordula Heliconius,,,,macho,La Parada VEN TA,,,m,,Jul,1987,,FLMNH,,Samuel Landrian,,7.776891667,-72.189,Geonames + Google Earth
+19004,cydno,cydno cordula Heliconius,,,,macho,Frio Rio VEN TA,,,m,,Mar,1985,,FLMNH,,Samuel Landrian,,7.578494444,-72.12768889,unknown
+29200,cydno,cydno cordula Heliconius,,,,descononcido,Tame COL AR,,,m,,,,,KB 1979,,NEIL ROSSER,,6.462222222,-71.73888889,Falling Rain
+29203,cydno,cydno cordula Heliconius,,,,descononcido,Tunebia COL BO,,,m,,,,,KB 1979,,NEIL ROSSER,,6.783333333,-72.08333333,Geonames
+34881,cydno,cydno cordula Heliconius,,,"cordula/ssp.nov. Subsp. not assigned, amended 30.11.09",desconocido,8-72a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-72.25,KB 1979
+34891,cydno,cydno cordula Heliconius,,,,desconocido,8-71a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-71.25,KB 1979
+35342,cydno,cydno cordula Heliconius,,,"cordula/ssp.nov. Subsp. not assigned, amended 30.11.09",desconocido,9-73b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-72.75,KB 1979
+35357,cydno,cydno cordula Heliconius,,,,desconocido,8-72b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-71.75,KB 1979
+35868,cydno,cydno cordula Heliconius,,,"cordula/ssp.nov. Subsp. not assigned, amended 30.11.09",desconocido,9-72c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-72.25,KB 1979
+35871,cydno,cydno cordula Heliconius,,,,desconocido,9-71c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-71.25,KB 1979
+35894,cydno,cydno cordula Heliconius,,,,desconocido,8-72c N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-72.25,KB 1979
+36253,cydno,cydno cordula Heliconius,,,"cordula/ssp.nov. Subsp. not assigned, amended 30.11.09",desconocido,10-73d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-72.75,KB 1979
+36284,cydno,cydno cordula Heliconius,,,,desconocido,8-72d N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-71.75,KB 1979
+54723,cydno,cydno cordula Heliconius,,,,unknown,"Barro Negro, Casanare Colombia",1050,1050,m,,,,,Ecological divergence and speciation in Heliconius,,NEIL ROSSER,,6.018333,-72.096389,Naisbit PhD
+59809,cydno,cydno cordula Heliconius,,,,unknown,El Tama COL NS,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,7.4,-72.4,Geonames
+60277,cydno,cydno cordula Heliconius,,,,unknown,LeCrom_338,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,7.266198,-72.192922,LeCrom
+60278,cydno,cydno cordula Heliconius,,,,unknown,LeCrom_339,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.295117,-72.692668,LeCrom

@@ -1,0 +1,249 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+810,melpomene,melpomene vicina Heliconius,,,,desconocido,Benjamin Constant BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.383333333,-70.03333333,Brown
+1238,melpomene,melpomene vicina Heliconius,,,,desconocido,Rio Morona PER LOR,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.733091667,-77.06576944,Google Earth
+1269,melpomene,melpomene vicina Heliconius,,,,desconocido,San Jose del Guaviare COL GV,,,m,,,,,KB 1979,,NEIL ROSSER,,2.567222222,-72.63777778,www.calle.com
+1335,melpomene,melpomene vicina Heliconius,,,,desconocido,Sao Paulo de Olivenca BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+1378,melpomene,melpomene vicina Heliconius,,,,desconocido,Tonantins BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.866666667,-67.8,Brown
+3111,melpomene,melpomene vicina Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+3112,melpomene,melpomene vicina Heliconius,,,,macho,Teffe BRA AM,,,m,,,1879,"Mathan, M. de",BMNH,7bre 8bre,NEIL ROSSER,,-3.366666667,-64.73333333,Brown
+3315,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-2.866666667,-67.8,Brown
+10520,melpomene,melpomene vicina Heliconius,,,,macho,Yacopi COL,,,m,,4,1913,,MGCL/FLMNH,,NEIL ROSSER,,,,
+16830,melpomene,melpomene vicina Heliconius,,,,unknown,Tefe BRA AM,,,m,,,1879,"Mathan, M. de",NHM Accessions - draw 7986,1879,NEIL ROSSER,,-3.366666667,-64.73333333,Brown
+24782,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,29,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24783,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24784,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,12,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24785,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24786,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,15,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24787,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,24,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24788,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,10,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24789,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,23,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24790,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24791,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,16,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24792,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,20,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24793,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,3,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24794,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,22,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24795,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24796,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,12,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24797,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,16,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24798,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,15,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24799,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,24,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24800,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,16,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24801,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24802,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,22,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24803,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,15,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24804,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,3,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24805,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,6,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24806,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,2,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24807,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,23,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24808,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,24,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24809,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24810,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24811,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,8,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24812,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24813,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,20,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24814,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,6,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24815,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,22,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24816,melpomene,melpomene vicina Heliconius,,,,hembra,Tonantins BRA AM,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24817,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,15,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24818,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,7,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24819,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24820,melpomene,melpomene vicina Heliconius,,,,macho,Tonantins BRA AM,,,m,12,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24821,melpomene,melpomene vicina Heliconius,,,,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24822,melpomene,melpomene vicina Heliconius,,,,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24823,melpomene,melpomene vicina Heliconius,,,,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24824,melpomene,melpomene vicina Heliconius,,,,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24825,melpomene,melpomene vicina Heliconius,,,,macho,"Jutai, Rio Japura BRA AM",,,m,24,2,1994,,FLMNH,,Neil Rosser,,-2.7475,-66.7675,Neuk Enquiry
+24826,melpomene,melpomene vicina Heliconius,,,,macho,Tamaniqua BRA AM,,,m,,11,1993,,FLMNH,,Neil Rosser,,-2.633333333,-65.73333333,Geonames
+24827,melpomene,melpomene vicina Heliconius,,,,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+24828,melpomene,melpomene vicina Heliconius,,,,macho,Leticia COL AM,,,m,,8,1991,"Buche, M.",FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+24829,melpomene,melpomene vicina Heliconius,,,,hembra,Leticia COL AM,,,m,,8,1991,"Buche, M.",FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+24830,melpomene,melpomene vicina Heliconius,,,,macho,Benjamin Constant BRA AM,,,m,,12,1990,,FLMNH,,Neil Rosser,,-4.383333333,-70.03333333,Brown
+24831,melpomene,melpomene vicina Heliconius,,,,macho,Santa Isabel do Rio Negro BRA AM,,,m,,10,1992,,FLMNH,,Neil Rosser,,-0.413888889,-65.01916667,Geonames
+24832,melpomene,melpomene vicina Heliconius,,,,hembra,Barcelos- BRA- Amazonas,,,m,,10,1992,,FLMNH,,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24833,melpomene,melpomene vicina Heliconius,,,,macho,Barcelos- BRA- Amazonas,,,m,,8,1992,,FLMNH,,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24834,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,15,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24835,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,8,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24836,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24837,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,15,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24838,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24839,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,15,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24840,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,16,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24841,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,8,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24842,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,25,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24843,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24844,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,23,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24845,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,8,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24846,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,12,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24847,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,24,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24848,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,24,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24849,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,16,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24850,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24851,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,27,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24852,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24853,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24854,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,La Pedrera COL AM,,,m,24,2,1992,,FLMNH,,Neil Rosser,,-1.3,-69.7,Brown
+24855,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Iquitos PER LO,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+24856,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Sao Paulo de Olivenca BRA AM,,,m,15,6,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+24857,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,16,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24858,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,,11,1991,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24859,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,29,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24860,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Tonantins BRA AM,,,m,6,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24861,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,10,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24862,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Tonantins BRA AM,,,m,5,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+24863,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,2-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24864,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,2-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+24865,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Rio Solimoes Sao Joao BRA AM,,,m,15,2,1993,,FLMNH,,Neil Rosser,,,,unknown
+24866,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+24867,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+24868,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,macho,Santa Isabel do Rio Negro BRA AM,,,m,,10,1992,,FLMNH,,Neil Rosser,,-0.413888889,-65.01916667,Geonames
+24869,melpomene,melpomene vicina Heliconius,,,vicinus x n. subsp.,hembra,Manaus BRA AM,,,m,,1,1936,,FLMNH,,Neil Rosser,,-3.116666667,-60.03333333,Brown
+24883,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24884,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24885,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24886,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24887,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24888,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24889,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,18,1,1990,Paganini,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24890,melpomene,melpomene vicina Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24891,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24892,melpomene,melpomene vicina Heliconius,,,,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24893,melpomene,melpomene vicina Heliconius,,,,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24894,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24895,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24896,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24897,melpomene,melpomene vicina Heliconius,,,,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24898,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24899,melpomene,melpomene vicina Heliconius,,,,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24900,melpomene,melpomene vicina Heliconius,,,,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24901,melpomene,melpomene vicina Heliconius,,,,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24902,melpomene,melpomene vicina Heliconius,,,,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24903,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24904,melpomene,melpomene vicina Heliconius,,,,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24905,melpomene,melpomene vicina Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24906,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24907,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24908,melpomene,melpomene vicina Heliconius,,,,hembra,Alvaraes BRA AM,,,m,6,8,1990,"Zoller, W.",FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24909,melpomene,melpomene vicina Heliconius,,,,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24910,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24911,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24912,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24913,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24914,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24915,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24916,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24917,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24918,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24919,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24920,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24921,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24922,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24923,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Nogueira BRA AM,,,m,11,10,1995,,FLMNH,,Neil Rosser,,-3.300936111,-64.77955278,Google Earth
+24924,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24925,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24926,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24927,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24928,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24929,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24930,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24931,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24932,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24933,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24934,melpomene,melpomene vicina Heliconius,,,vicina x n. subsp,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24935,melpomene,melpomene vicina Heliconius,,,melpomene x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24936,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24937,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24938,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24939,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24940,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24941,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24942,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24943,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24944,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Nogueira BRA AM,,,m,2,8,1990,,FLMNH,,Neil Rosser,,-3.300936111,-64.77955278,Google Earth
+24945,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24946,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24947,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24948,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24949,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24950,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24951,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Nogueira BRA AM,,,m,11,10,1995,,FLMNH,,Neil Rosser,,-3.300936111,-64.77955278,Google Earth
+24952,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24953,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24954,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24955,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24956,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Nogueira BRA AM,,,m,11,10,1995,,FLMNH,,Neil Rosser,,-3.300936111,-64.77955278,Google Earth
+24957,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24958,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,6,8,1990,"Zoller, W.",FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24959,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24960,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,6,8,1990,"Zoller, W.",FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24961,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24962,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24963,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24964,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24965,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24966,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24967,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24968,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24969,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24970,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24971,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24972,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24973,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24974,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24975,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24976,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24977,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24978,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24979,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24980,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24981,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24982,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,12,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24983,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Tefe BRA AM,,,m,,12,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24984,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,10,1996,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24985,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,hembra,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+24986,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,12,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24987,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,12,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+24988,melpomene,melpomene vicina Heliconius,,,n.subsp. x vicinus,macho,Tefe BRA AM,,,m,,12,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+25129,melpomene,melpomene vicina Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+25130,melpomene,melpomene vicina Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+25131,melpomene,melpomene vicina Heliconius,,,,macho,Rio Canuma-BRA-Amazonas,,,m,,,1990,,FLMNH,9-Nov,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+29120,melpomene,melpomene vicina Heliconius,,,,descononcido,El Retorno COL GU,,,m,,,,,KB 1979,,NEIL ROSSER,,2.330555556,-72.62777778,Geonames
+29249,melpomene,melpomene vicina Heliconius,,,,descononcido,Tapurucuara-Santa Isabel BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.413888889,-65.01916667,Geonames
+33206,melpomene,melpomene vicina Heliconius,,,,descononcido,Moura BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.45,-61.63333333,Neuk enq
+34485,melpomene,melpomene vicina Heliconius,,,,descononcido,Preto-Igarape-Territorio Ticunas BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-69.75,KB 1979
+35054,melpomene,melpomene vicina Heliconius,,,,desconocido,1-70a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-70.25,KB 1979
+35087,melpomene,melpomene vicina Heliconius,,,,desconocido,0-67a N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-67.25,KB 1979
+36542,melpomene,melpomene vicina Heliconius,,,,desconocido,4-73a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-73.25,KB 1979
+36942,melpomene,melpomene vicina Heliconius,,,,desconocido,4-71b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-70.75,KB 1979
+37597,melpomene,melpomene vicina Heliconius,,,,desconocido,3-60c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-60.25,KB 1979
+37763,melpomene,melpomene vicina Heliconius,,,,desconocido,0-75d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-74.75,KB 1979
+37784,melpomene,melpomene vicina Heliconius,,,,desconocido,4-70d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-69.75,KB 1979
+37867,melpomene,melpomene vicina Heliconius,,,,desconocido,3-72d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-71.75,KB 1979
+38105,melpomene,melpomene vicina Heliconius,,,,desconocido,3-65d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-64.75,KB 1979
+38721,melpomene,melpomene vicina Heliconius,,,,desconocido,Tonantins BRA AM,100,100,m,,,,Buche,MHNL PERU ex Peru,,NEIL ROSSER,,-2.866666667,-67.8,Brown
+52322,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,hembra,San Carlos VEN AM,100,100,m,,3,1994,"Neild, A.",FLMNH,17-May,Neil Rosser,duplicate,1.916666667,-67.05,Brown
+52323,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,macho,San Carlos VEN AM,100,100,m,,3,1994,"Neild, A.",FLMNH,17-May,Neil Rosser,duplicate,1.916666667,-67.05,Brown
+52324,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,hembra,San Carlos VEN AM,100,100,m,,3,1994,"Neild, A.",FLMNH,17-May,Neil Rosser,duplicate,1.916666667,-67.05,Brown
+52325,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,macho,San Carlos VEN AM,100,100,m,,3,1994,"Neild, A.",FLMNH,17-May,Neil Rosser,duplicate,1.916666667,-67.05,Brown
+52326,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,hembra,San Carlos VEN AM,100,100,m,,3,1994,"Neild, A.",FLMNH,17-May,Neil Rosser,duplicate,1.916666667,-67.05,Brown
+52327,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,macho,Santa Rosa VEN AM,,,m,10,3,1994,"Neild, A.",FLMNH,,Neil Rosser,duplicate,1.48722,-66.91139,Geonames
+52328,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,macho,Santa Rosa VEN AM,,,m,10,3,1994,"Neild, A.",FLMNH,,Neil Rosser,duplicate,1.48722,-66.91139,Geonames
+52329,melpomene,melpomene vicina Heliconius,,,anduzei x vicinus,macho,San Carlos VEN AM,100,100,m,,3,1994,"Neild, A.",FLMNH,17-May,Neil Rosser,duplicate,1.916666667,-67.05,Brown
+52361,melpomene,melpomene vicina Heliconius,,,H. melpomene anduzei x H. melpomene vicina,hembra,"San Carlos to Solano Track, km1 VEN AM",100,100,m,,3,1994,"Neild, A.",BMNH,17-May,NEIL ROSSER,duplicate,1.919525,-67.04955833,Google Earth
+52391,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Allianca BRA AC,,,m,,9,1913,"Wickham, E.H.W.",BMNH,,NEIL ROSSER,duplicate,-6.566666667,-64.38333333,Brown
+52392,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Cavallo Cocho PER LO,,,m,,,1884,"Mathan, M. de",BMNH,5-Jul,NEIL ROSSER,duplicate,-3.916666667,-70.51666667,"Gerardo Lamas, unpub. gazetteer"
+52393,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Pebas PER LO,,,m,,,,Hauxwell,BMNH,,NEIL ROSSER,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52395,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,hembra,Yahuas terr PER LO,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-3,-71.5,Brown
+52396,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,hembra,Pebas PER LO,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+52397,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Maues BRA AM,,,m,,7,1932,"Moss, A.M.",BMNH,,NEIL ROSSER,duplicate,-3.366666667,-57.71666667,Brown
+52398,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Maues BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-3.366666667,-57.71666667,Brown
+52399,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Teffe BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-3.366666667,-64.73333333,Brown
+52401,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Humayta BRA AM,,,m,,,1906,"Hoffmanns, W.",BMNH,7-Sep,NEIL ROSSER,duplicate,-7.509722222,-63.02,NIMA
+52402,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,macho,Calama BRA RO,,,m,,,1907,"Hoffmanns, W.",BMNH,8-Oct,NEIL ROSSER,duplicate,-8.033333333,-62.86666667,Brown
+52403,melpomene,melpomene vicina Heliconius,,,trans. Agalaope / vicinus,hembra,Aveiro BRA PA,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-3.605555556,-55.33166667,Geonames
+54550,melpomene,melpomene vicina Heliconius,,,,unknown,Bajo R�o Caquet� y Apaporis COL AM,,,m,,,,,Pinzon MARIPOSAS del Bajo R�o Caquet� y Apaporis,,NEIL ROSSER,,-1.212727,-69.622792,pinzon poster
+59825,melpomene,melpomene vicina Heliconius,,,,unknown,Guaviare PROVINCE,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,3.916666667,-67.84333333,www.calle.com
+59826,melpomene,melpomene vicina Heliconius,,,,unknown,Quebrada El Ayo COL AM,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,-3.864335,-70.047069,Google Earth
+59828,melpomene,melpomene vicina Heliconius,,,vicinus x malleti,unknown,Puerto Narino COL AM,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,duplicate,-3.75,-70.36666667,Brown
+60406,melpomene,melpomene vicina Heliconius,,,,unknown,LeCrom_467,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.945151,-72.205853,LeCrom
+60407,melpomene,melpomene vicina Heliconius,,,,unknown,LeCrom_468,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.143031,-72.621198,LeCrom
+60408,melpomene,melpomene vicina Heliconius,,,,unknown,LeCrom_469,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,-2.499093,-69.729017,LeCrom

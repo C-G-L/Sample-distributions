@@ -1,0 +1,197 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+808,elevatus,elevatus elevatus Heliconius,,,,desconocido,Benjamin Constant BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.383333333,-70.03333333,Brown
+991,elevatus,elevatus elevatus Heliconius,,,,desconocido,Florida COL AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.133333333,-73.91666667,Brown
+999,elevatus,elevatus elevatus Heliconius,,,,desconocido,Fonte Boa BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.516666667,-66.08333333,Brown
+1333,elevatus,elevatus elevatus Heliconius,,,,desconocido,Sao Paulo de Olivenca BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+1420,elevatus,elevatus elevatus Heliconius,,,,desconocido,Yahuas Territory PER LO,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.35,-71.98333333,"Gerardo Lamas, unpub. gazetteer"
+16551,elevatus,elevatus elevatus Heliconius,,,Was labelled elevatus pseudocupidineus Heliconius - JM thought probable error for elevatus elevatus,unknown,Mendez - Santiago rd km 40 ECD MS,750,750,m,,,1996,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.987469444,-78.21384722,Google Earth
+16555,elevatus,elevatus elevatus Heliconius,,,Was labelled elevatus pseudocupidineus Heliconius - JM thought probable error for elevatus elevatus,unknown,Pumayacu Rio Macas ECD MS,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.316666667,-78.11666667,Geonames
+16557,elevatus,elevatus elevatus Heliconius,,,,unknown,Pitirishca ECD PA,800,800,m,,,2000,godefroi and busby,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.805,-77.82083333,Map
+16774,elevatus,elevatus elevatus Heliconius,,,,unknown,Chazuta PER SM,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-6.566666667,-76.13333333,"Gerardo Lamas, unpub. gazetteer"
+16775,elevatus,elevatus elevatus Heliconius,,,,unknown,Yurimaguas PER LO,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-5.9,-76.1,"Gerardo Lamas, unpub. gazetteer"
+16776,elevatus,elevatus elevatus Heliconius,,,,unknown,Iquitos PER LO,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+16777,elevatus,elevatus elevatus Heliconius,,,,unknown,Pebas PER LO,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+20463,elevatus,elevatus elevatus Heliconius,,,,macho,Tonantins BRA AM,,,m,,Nov,1991,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20478,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,,Nov,1991,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20479,elevatus,elevatus elevatus Heliconius,,,,macho,Tonantins BRA AM,,,m,16,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20480,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,12,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20481,elevatus,elevatus elevatus Heliconius,,,,macho,Tonantins BRA AM,,,m,30,Dec,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20482,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,10,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20483,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,1,Nov,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20484,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20485,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20486,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Aug,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20487,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,11,Aug,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20488,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,24,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20489,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,25,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20490,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20491,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Jan,1987,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20492,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20493,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,14,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20494,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,29,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20495,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20496,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,30,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20497,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,20,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20498,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,16,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20499,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,20,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20500,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,,Jan,1994,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20501,elevatus,elevatus elevatus Heliconius,,,,hembra,Tonantins BRA AM,,,m,26,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20502,elevatus,elevatus elevatus Heliconius,,,,hembra,Foz do Jutal-BRA Amazonas,,,m,,Oct,1993,,FLMNH,,Samuel Landrian,,-2.733333333,-66.95,Geonames
+20503,elevatus,elevatus elevatus Heliconius,,,,hembra,Foz do Jutal-BRA Amazonas,,,m,,Oct,1993,,FLMNH,,Samuel Landrian,,-2.733333333,-66.95,Geonames
+20504,elevatus,elevatus elevatus Heliconius,,,,hembra,Amatura-Bra-Amazonas,,,m,,Nov,1993,,FLMNH,,Samuel Landrian,,-3.364166667,-68.19777778,Geonames
+20505,elevatus,elevatus elevatus Heliconius,,,,hembra,Fonte Boa BRA AM,,,m,,Nov,1994,,FLMNH,,Samuel Landrian,,-2.516666667,-66.08333333,Brown
+20506,elevatus,elevatus elevatus Heliconius,,,,hembra,Fonte Boa BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-2.516666667,-66.08333333,Brown
+20507,elevatus,elevatus elevatus Heliconius,,,,hembra,Rio Solimoes Sao Joao BRA AM,,,m,22,Nov,1993,,FLMNH,,Samuel Landrian,,,,unknown
+20508,elevatus,elevatus elevatus Heliconius,,,,hembra,Sao Paulo de Olivenca BRA AM,,,m,9,Jun,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20509,elevatus,elevatus elevatus Heliconius,,,,hembra,Sao Paulo de Olivenca BRA AM,,,m,13,Jun,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20510,elevatus,elevatus elevatus Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,13,Jun,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20511,elevatus,elevatus elevatus Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,Jul,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20512,elevatus,elevatus elevatus Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,Jul,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20513,elevatus,elevatus elevatus Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,Jun,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20514,elevatus,elevatus elevatus Heliconius,,,,macho,Tefe BRA AM,,,m,,,1988,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+20515,elevatus,elevatus elevatus Heliconius,,,,macho,Lago Tefe SW BRA AM,,,m,5,Oct,1995,,FLMNH,,Samuel Landrian,,-3.6609,-64.84185278,Google Earth
+20516,elevatus,elevatus elevatus Heliconius,,,,hembra,Lago Tefe SW BRA AM,,,m,5,Oct,1995,,FLMNH,,Samuel Landrian,,-3.6609,-64.84185278,Google Earth
+20517,elevatus,elevatus elevatus Heliconius,,,,hembra,Tefe BRA AM,,,m,,Oct,1996,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+20518,elevatus,elevatus elevatus Heliconius,,,,hembra,Tefe BRA AM,,,m,,Oct,1996,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+20519,elevatus,elevatus elevatus Heliconius,,,,macho,Alvaraes BRA AM,,,m,,Jan,1993,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20520,elevatus,elevatus elevatus Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20521,elevatus,elevatus elevatus Heliconius,,,,macho,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20522,elevatus,elevatus elevatus Heliconius,,,,macho,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20523,elevatus,elevatus elevatus Heliconius,,,,macho,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20524,elevatus,elevatus elevatus Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20525,elevatus,elevatus elevatus Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20526,elevatus,elevatus elevatus Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20527,elevatus,elevatus elevatus Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,Oct,1994,,FLMNH,,Samuel Landrian,,-3.220833333,-64.80416667,Geonames
+20528,elevatus,elevatus elevatus Heliconius,,,,macho,Iquitos PER LO,,,m,,Jul,1994,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20529,elevatus,elevatus elevatus Heliconius,,,,hembra,Pebas PER LO,,,m,,Jul,1992,,FLMNH,,Samuel Landrian,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+20530,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Oct,1995,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20531,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Oct,1989,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20532,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Aug,1988,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20533,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Aug,1988,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20534,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Aug,1994,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20535,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Feb,1992,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20536,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20537,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Oct,1989,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20538,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20539,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Sep,1989,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20540,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Aug,1990,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20541,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20542,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Sep,1988,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20543,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Aug,1994,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20544,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Jul,1986,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20545,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Aug,1995,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20546,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20547,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Dec,1986,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20548,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Sep,1986,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20549,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,,,m,,Oct,1990,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20550,elevatus,elevatus elevatus Heliconius,,,,hembra,Requena PER LO,,,m,,Sep,1990,,FLMNH,,Samuel Landrian,,-5.066666667,-73.85,"Gerardo Lamas, unpub. gazetteer"
+20551,elevatus,elevatus elevatus Heliconius,,,,hembra,Angamos PER LO,,,m,,Jul,1993,,FLMNH,,Samuel Landrian,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+20552,elevatus,elevatus elevatus Heliconius,,,,hembra,Leticia COL AM,,,m,3,Apr,1988,"B�che, M.",FLMNH,,Samuel Landrian,,-4.2,-69.93333333,Brown
+20553,elevatus,elevatus elevatus Heliconius,,,,hembra,Leticia COL AM,,,m,,Jan,1991,,FLMNH,,Samuel Landrian,,-4.2,-69.93333333,Brown
+20554,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Oct,1987,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20555,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Feb,1986,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20557,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Jan,1987,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20558,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Jun,1988,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20559,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Dec,1996,Konig F.,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20560,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Iquitos PER LO,,,m,,Oct,1992,,FLMNH,,Samuel Landrian,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+20561,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Nauta PER LO,,,m,,Nov,1990,,FLMNH,,Samuel Landrian,,-4.5,-73.58333333,"Gerardo Lamas, unpub. gazetteer"
+20562,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Nauta PER LO,,,m,,Jun,1984,,FLMNH,,Samuel Landrian,,-4.5,-73.58333333,"Gerardo Lamas, unpub. gazetteer"
+20563,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Samuel Landrian,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+20564,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Pebas PER LO,,,m,,Jul,1992,,FLMNH,,Samuel Landrian,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+20565,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Pebas PER LO,,,m,,Dec,1995,,FLMNH,,Samuel Landrian,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+20566,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Pebas PER LO,,,m,,Jul,1992,,FLMNH,,Samuel Landrian,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+20567,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Leticia COL AM,,,m,3,Apr,1988,,FLMNH,,Samuel Landrian,,-4.2,-69.93333333,Brown
+20568,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Nuevo Remanso PER LO,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-4.216666667,-70.03333333,Label
+20569,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Tonantins BRA AM,,,m,17,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20570,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Tonantins BRA AM,,,m,19,Oct,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20571,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Tonantins BRA AM,,,m,23,Aug,1992,,FLMNH,,Samuel Landrian,,-2.866666667,-67.8,Brown
+20572,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Sao Paulo de Olivenca BRA AM,,,m,,Jul,1994,,FLMNH,,Samuel Landrian,,-3.466666667,-68.95,Brown
+20573,elevatus,elevatus elevatus Heliconius,,,elevatus x taracuanus,hembra,Tefe BRA AM,,,m,,Dec,1995,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+20667,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,,m,25,Oct,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20668,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,520,m,24,Oct,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20669,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,520,m,6,Oct,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20670,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,520,m,19,Aug,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20671,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,520,m,22,Oct,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20672,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,520,m,28,Oct,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20673,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Zarzayacu ECO NAP,,520,m,8,Oct,1991,,FLMNH,,Samuel Landrian,,-1.163333333,-77.83333333,Map
+20674,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Pano ECD NA,,800,m,24,Dec,1991,,FLMNH,,Samuel Landrian,,-1.033333333,-77.86666667,Brown
+20676,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Macas ECD MS,,,m,24,Dec,1991,,FLMNH,,Samuel Landrian,,-2.316666667,-78.11666667,Brown
+20679,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Tana ECD PA,,,m,,,1990,,FLMNH,,Samuel Landrian,,-0.983333333,-77.81666667,www.calle.com
+20680,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Tana ECD PA,,,m,,,1990,,FLMNH,,Samuel Landrian,,-0.983333333,-77.81666667,www.calle.com
+20681,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Apuya ECD NA,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.105,-77.77833333,Map
+20682,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Apuya ECD NA,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.105,-77.77833333,Map
+20683,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Apuya ECD NA,,,m,,May,1991,,FLMNH,,Samuel Landrian,,-1.105,-77.77833333,Map
+20684,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,San Carlo Finca ECD NA,,,m,25,Oct,1996,,FLMNH,,Samuel Landrian,,-1.0875,-77.77833333,Map
+20685,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,San Carlo Finca ECD NA,,,m,25,Oct,1996,"Neild, A.",FLMNH,,Samuel Landrian,,-1.0875,-77.77833333,Map
+20686,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,San Carlo Finca ECD NA,,,m,25,Oct,1996,"Neild, A.",FLMNH,,Samuel Landrian,,-1.0875,-77.77833333,Map
+20687,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Apuya ECD NA,,,m,,May,1991,,FLMNH,,Samuel Landrian,,-1.105,-77.77833333,Map
+20688,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",macho,Puerto Misahualli ECD NA,,,m,,,1991,,FLMNH,,Samuel Landrian,,-1.033333333,-77.66666667,www.calle.com
+20689,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Pacayacu ECD PA,,,m,27,May,1937,,FLMNH,,Samuel Landrian,,-1.633333333,-77.6,Geonames
+20691,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",hembra,Macas ECD MS,,,m,24,Dec,1991,,FLMNH,,Samuel Landrian,,-2.316666667,-78.11666667,Brown
+21574,elevatus,elevatus elevatus Heliconius,,,,hembra,Tefe BRA AM,,,m,,Jun,1997,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+21589,elevatus,elevatus elevatus Heliconius,,,,hembra,Tefe BRA AM,,,m,,Jun,1997,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+21590,elevatus,elevatus elevatus Heliconius,,,,hembra,Tefe BRA AM,,,m,,Jun,1997,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+21591,elevatus,elevatus elevatus Heliconius,,,,hembra,Tefe BRA AM,,,m,,Jun,1997,,FLMNH,,Samuel Landrian,,-3.366666667,-64.73333333,Brown
+31214,elevatus,elevatus elevatus Heliconius,,,,macho,Cachiyacu Rio PER LO,200,200,m,,,,Stuart,BMNH,,Blanca Huertas,,-5.833333333,-76.55,"Gerardo Lamas, unpub. gazetteer"
+31215,elevatus,elevatus elevatus Heliconius,,,,macho,Tabatinga BRA AM,,,m,,,,"Mathan, M. de",BMNH,,Blanca Huertas,,-4.266666667,-69.93333333,Brown
+31216,elevatus,elevatus elevatus Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,Jan,,"Waehner, S.",BMNH,Jan. 1933,Blanca Huertas,,-3.466666667,-68.95,Brown
+31217,elevatus,elevatus elevatus Heliconius,,,,hembra,Pebas PER LO,120,120,m,,,,Mich.,BMNH,,Blanca Huertas,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+31218,elevatus,elevatus elevatus Heliconius,,,,hembra,Sao Paulo de Olivenca BRA AM,,,m,,,,"Mathan, M. de",BMNH,"Juin, Juillet 1883",Blanca Huertas,,-3.466666667,-68.95,Brown
+31222,elevatus,elevatus elevatus Heliconius,,,,hembra,Iquitos PER LO,100,100,m,,Aug,,"Klug, G.",BMNH,Aug-32,Blanca Huertas,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+31223,elevatus,elevatus elevatus Heliconius,,,,macho,Iquitos PER LO,100,100,m,,,,"Klug, G.",BMNH,,Blanca Huertas,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+31224,elevatus,elevatus elevatus Heliconius,,,,macho,Yahuas terr PER LO,,,m,,,,,BMNH,,Blanca Huertas,,-3,-71.5,Brown
+31230,elevatus,elevatus elevatus Heliconius,,,,hembra,Tabatinga BRA AM,,,m,,,,"Mathan, M. de",BMNH,,Blanca Huertas,,-4.266666667,-69.93333333,Brown
+31236,elevatus,elevatus elevatus Heliconius,,,,macho,Florida COL AM,,,m,,Apr,,"Klug, G.",BMNH,iv. 1932,Blanca Huertas,,-1.133333333,-73.91666667,Brown
+31243,elevatus,elevatus elevatus Heliconius,,,,hembra,Sao Paulo de Olivenca BRA AM,,,m,,Jan,,"Waehner, S.",BMNH,Jan. 1933,Blanca Huertas,,-3.466666667,-68.95,Brown
+31246,elevatus,elevatus elevatus Heliconius,,,,macho,Rio Caiari-Uaup�s Amazonas BRAZIL,,,m,15,Oct,,"Schmidt, H.",BMNH,X. 15  1906,Blanca Huertas,,0.75,-69.25,Brown 1979
+31248,elevatus,elevatus elevatus Heliconius,,,,hembra,Ega BRA AM,,,m,,,,"Bates, H.W.",BMNH,,Blanca Huertas,,-3.366666667,-64.7,www.calle.com
+31249,elevatus,elevatus elevatus Heliconius,,,,macho,Tefe BRA AM,,,m,,,,,BMNH,,Blanca Huertas,,-3.366666667,-64.73333333,Brown
+31250,elevatus,elevatus elevatus Heliconius,,,,macho,Tefe BRA AM,,,m,,Jun,,"Hoffmanns, W.",BMNH,Jun-06,Blanca Huertas,,-3.366666667,-64.73333333,Brown
+31251,elevatus,elevatus elevatus Heliconius,,,,macho,Fonte Boa BRA AM,,,m,,Oct,,"Klages, S.M.",BMNH,Oct-06,Blanca Huertas,,-2.516666667,-66.08333333,Brown
+31255,elevatus,elevatus elevatus Heliconius,,,,macho,Pebas PER LO,120,120,m,,,,,BMNH,,Blanca Huertas,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+34287,elevatus,elevatus elevatus Heliconius,,,,descononcido,Coari BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.085,-63.14139,Geonames
+34293,elevatus,elevatus elevatus Heliconius,,,,descononcido,Nova Olinda BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.5825,-64.33638889,Geonames
+34303,elevatus,elevatus elevatus Heliconius,,,,descononcido,Eirunepe - San Felipe BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.660277778,-69.87361111,Geonames
+34484,elevatus,elevatus elevatus Heliconius,,,,descononcido,Preto-Igarape-Territorio Ticunas BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-69.75,KB 1979
+35048,elevatus,elevatus elevatus Heliconius,,,,desconocido,1-75a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-75.25,KB 1979
+35605,elevatus,elevatus elevatus Heliconius,,,,desconocido,1-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-76.75,KB 1979
+36410,elevatus,elevatus elevatus Heliconius,,,,desconocido,3-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-73.75,KB 1979
+36540,elevatus,elevatus elevatus Heliconius,,,,desconocido,4-73a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-73.25,KB 1979
+36569,elevatus,elevatus elevatus Heliconius,,,,desconocido,6-76a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-76.25,KB 1979
+37016,elevatus,elevatus elevatus Heliconius,,,,desconocido,6-77b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-76.75,KB 1979
+37178,elevatus,elevatus elevatus Heliconius,,,,desconocido,8-73b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-72.75,KB 1979
+37187,elevatus,elevatus elevatus Heliconius,,,,desconocido,9-73b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-72.75,KB 1979
+37207,elevatus,elevatus elevatus Heliconius,,,,desconocido,11-69b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-68.75,KB 1979
+37594,elevatus,elevatus elevatus Heliconius,,,,desconocido,3-60c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-60.25,KB 1979
+37632,elevatus,elevatus elevatus Heliconius,,,,desconocido,9-64c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-9.25,-64.25,KB 1979
+37781,elevatus,elevatus elevatus Heliconius,,,,desconocido,4-70d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-69.75,KB 1979
+37866,elevatus,elevatus elevatus Heliconius,,,,desconocido,3-72d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-71.75,KB 1979
+38103,elevatus,elevatus elevatus Heliconius,,,,desconocido,3-65d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-64.75,KB 1979
+38120,elevatus,elevatus elevatus Heliconius,,,,desconocido,4-60d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-59.75,KB 1979
+38187,elevatus,elevatus elevatus Heliconius,,,,desconocido,10-68d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-67.75,KB 1979
+42925,elevatus,elevatus elevatus Heliconius,,,,macho,Iquitos PER LO,,,m,14,Octubre,1994,"Callegari, C.",MHNL PERU,14.x.94,Lidia Sulca,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+42926,elevatus,elevatus elevatus Heliconius,,,,macho,Iquitos - carretera km12 PER LO,,,m,,Enero,1994,"Callegari, C.",MHNL PERU,i.94,Lidia Sulca,,-3.829233333,-73.32591389,Google Earth
+42927,elevatus,elevatus elevatus Heliconius,,,,macho,Sucusari Rio PER LO,,,m,22,Setiembre,1995,"Grados, J.",MHNL PERU,22.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+42928,elevatus,elevatus elevatus Heliconius,,,,macho,Sucusari Rio PER LO,,,m,22,Setiembre,1995,"Grados, J.",MHNL PERU,22.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+42929,elevatus,elevatus elevatus Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,23,Setiembre,1995,"Grados, J.",MHNL PERU,23.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+42930,elevatus,elevatus elevatus Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,23,Setiembre,1995,"Lamas, G.",MHNL PERU,23.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+42931,elevatus,elevatus elevatus Heliconius,,,,hembra,Arcadia PER LO,,,m,6,Noviembre,1993,"Lamas, G.",MHNL PERU,6.xi.93,Lidia Sulca,,-0.989444444,-75.30916667,Label
+42954,elevatus,elevatus elevatus Heliconius,,,Was entered as elevatus lapis Heliconius - JM thought probable error for elevatus elevatus,macho,Tunuya Qbda (Trocha III) PER LO,,,m,14,Julio,2005,"Ram�rez, J.J.",MHNL PERU,14.vii.05,Lidia Sulca,,-7.775555556,-74.68888889,Mallet Lab database
+42955,elevatus,elevatus elevatus Heliconius,,,Was entered as elevatus lapis Heliconius - JM thought probable error for elevatus elevatus,macho,Tunuya Qbda (Trocha III) PER LO,,,m,14,Julio,2005,"Ram�rez, J.J.",MHNL PERU,14.vii.05,Lidia Sulca,,-7.775555556,-74.68888889,Mallet Lab database
+50771,elevatus,elevatus elevatus Heliconius,,,aquilina x elevatus. Caution advised with this duplicate - it was entered as schmassmanni. Assumed elevatus aquilina vs elevatus elevatus.,hembra,Nova Olinda do Norte BRA AM,,,m,,Sep,1992,,FLMNH,,Samuel Landrian,duplicate,-3.888055556,-59.09416667,Geonames
+50772,elevatus,elevatus elevatus Heliconius,,,aquilina x elevatus. Caution advised with this duplicate - it was entered as schmassmanni. Assumed elevatus aquilina vs elevatus elevatus.,hembra,Nova Olinda do Norte BRA AM,,,m,,Jul,1992,,FLMNH,,Samuel Landrian,duplicate,-3.888055556,-59.09416667,Geonames
+50773,elevatus,elevatus elevatus Heliconius,,,aquilina x elevatus. Caution advised with this duplicate - it was entered as schmassmanni. Assumed elevatus aquilina vs elevatus elevatus.,macho,Candelas Do Jam BRA,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,-8.809722222,-63.69555556,Geonames
+50774,elevatus,elevatus elevatus Heliconius,,,aquilina x elevatus. Caution advised with this duplicate - it was entered as schmassmanni. Assumed elevatus aquilina vs elevatus elevatus.,macho,Nova Olinda do Norte BRA AM,,,m,,Jan,1994,,FLMNH,,Samuel Landrian,duplicate,-3.888055556,-59.09416667,Geonames
+50775,elevatus,elevatus elevatus Heliconius,,,aquilina x elevatus. Caution advised with this duplicate - it was entered as schmassmanni. Assumed elevatus aquilina vs elevatus elevatus.,macho,Rio Castanho BRA AM,,,m,,Jun,1993,,FLMNH,,Samuel Landrian,duplicate,-3.822222222,-60.3675,Google Earth
+50776,elevatus,elevatus elevatus Heliconius,,,aquilina x elevatus. Caution advised with this duplicate - it was entered as schmassmanni. Assumed elevatus aquilina vs elevatus elevatus.,macho,Rio Canuma-BRA-Amazonas,,,m,,Sep,1991,,FLMNH,,Samuel Landrian,duplicate,-4,-59.1,Mallet an Neukirchen
+54611,elevatus,elevatus elevatus Heliconius,,,,unknown,Jatun Sacha ECD,400,450,m,,,,,"Journal of Research on the Lepidoptera 35:42�60, 1",,NEIL ROSSER,,-1.066666667,-77.6,http://www.jatunsacha.org/texto1.php?id_submenu1=4&id_menu=3&id_submenu2=1
+54902,elevatus,elevatus elevatus Heliconius,,,"Identified as elevatus willmotti Heliconius, synonymised for time being - see map notes",unknown,"Yasuni Research Station, ECD NA",200,500,m,,,,,Temporal abundance patterns of butterfl y communit,,NEIL ROSSER,,-0.671388889,-76.40055556,http://www.biologia.puce.edu.ec/natura.php?c=226&inPMAIN=2
+59797,elevatus,elevatus elevatus Heliconius,,,,unknown,Araracuara COL CA,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,-0.416666667,-72.31666667,tropicos.org
+59798,elevatus,elevatus elevatus Heliconius,,,,unknown,Araracuara COL CA,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,-0.416666667,-72.31666667,tropicos.org
+60231,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_292,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.602345,-67.629629,LeCrom
+60232,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_293,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,-3.930506,-69.986264,LeCrom
+60233,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_294,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,0.142792,-72.167186,LeCrom
+60234,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_295,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.99911,-72.37621,LeCrom
+60235,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_296,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.36326,-72.925353,LeCrom
+60236,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_297,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.372962,-74.774609,LeCrom
+60237,elevatus,elevatus elevatus Heliconius,,,,unknown,LeCrom_298,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.236706,-76.582694,LeCrom

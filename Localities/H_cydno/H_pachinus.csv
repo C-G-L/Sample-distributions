@@ -1,0 +1,176 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+890,cydno,cydno pachinus Heliconius,,,,desconocido,Coiba Isla PAN VE,,,m,,,,,KB 1979,,NEIL ROSSER,,7.516666667,-81.71666667,Brown
+902,cydno,cydno pachinus Heliconius,,,,desconocido,Corcovado N.P. CRI,,,m,,,,,KB 1979,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+1631,cydno,cydno pachinus Heliconius,,,,descononcido,Rincon - Osa - Camino al Mar,,,m,,,,,KB 1979,,NEIL ROSSER,,8.707263889,-83.48579167,Google Earth
+4220,cydno,cydno pachinus Heliconius,,,,macho,San Mateo CRI AL,,,m,,2,,,BMNH,,NEIL ROSSER,,9.95,-84.53333333,Brown
+4221,cydno,cydno pachinus Heliconius,,,,macho,Pozo Azul de Pirris CRI SJ,,,m,,,1927,,BMNH,,NEIL ROSSER,,9.583333333,-84.33333333,Brown
+4222,cydno,cydno pachinus Heliconius,,,,macho,Pozo Azul de Pirris CRI SJ,,,m,,3,1929,,BMNH,,NEIL ROSSER,,9.583333333,-84.33333333,Brown
+4225,cydno,cydno pachinus Heliconius,,,,macho,Volcan (de Chiriqui) PAN CQ,,,m,,,1898,"Mathan, M. de",BMNH,May - June,NEIL ROSSER,,8.8,-82.54166667,Geonames
+4226,cydno,cydno pachinus Heliconius,,,,hembra,San Mateo CRI AL,,,m,,2,,,BMNH,,NEIL ROSSER,,9.95,-84.53333333,Brown
+4227,cydno,cydno pachinus Heliconius,,,,hembra,Pozo Azul de Pirris CRI SJ,,,m,,,1927,,BMNH,,NEIL ROSSER,,9.583333333,-84.33333333,Brown
+4228,cydno,cydno pachinus Heliconius,,,,hembra,Pozo Azul de Pirris CRI SJ,,,m,,,,,BMNH,,NEIL ROSSER,,9.583333333,-84.33333333,Brown
+4229,cydno,cydno pachinus Heliconius,,,,macho,Boquete PAN CQ,3500,3500,ft,,,,Watson,BMNH,,NEIL ROSSER,,8.783333333,-82.43333333,Brown
+4230,cydno,cydno pachinus Heliconius,,,,macho,Bugaba PAN CQ,,,m,,,,Champion,BMNH,,NEIL ROSSER,,8.483333333,-82.61666667,Brown
+4231,cydno,cydno pachinus Heliconius,,,,macho,Lino PAN CQ,800,800,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,8.8,-82.43333333,Brown
+4235,cydno,cydno pachinus Heliconius,,,,macho,Coiba Isla PAN VE,,,m,3,9,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,7.516666667,-81.71666667,Brown
+4236,cydno,cydno pachinus Heliconius,,,,hembra,Bugaba PAN CQ,800,800,ft,,,,Watson,BMNH,,NEIL ROSSER,,8.483333333,-82.61666667,Brown
+4237,cydno,cydno pachinus Heliconius,,,,hembra,Bugaba PAN CQ,,,m,,,,Champion,BMNH,,NEIL ROSSER,,8.483333333,-82.61666667,Brown
+4238,cydno,cydno pachinus Heliconius,,,,hembra,Lino PAN CQ,800,800,m,,,,Fassl,BMNH,,NEIL ROSSER,,8.8,-82.43333333,Brown
+4240,cydno,cydno pachinus Heliconius,,,,hembra,Volcan (de Chiriqui) PAN CQ,,,m,,,1898,"Mathan, M. de",BMNH,May - June,NEIL ROSSER,,8.8,-82.54166667,Geonames
+4241,cydno,cydno pachinus Heliconius,ST,"pachinus Heliconius cydno (Heliconius, O. Salvin 1871)",,macho,Volcan (de Chiriqui) PAN CQ,,,m,,,,Arc�,BMNH,,NEIL ROSSER,,8.8,-82.54166667,Geonames
+4242,cydno,cydno pachinus Heliconius,ST,"pachinus Heliconius cydno (Heliconius, O. Salvin 1871)",,macho,Volcan (de Chiriqui) PAN CQ,,,m,,,,Arc�,BMNH,,NEIL ROSSER,,8.8,-82.54166667,Geonames
+4243,cydno,cydno pachinus Heliconius,ST,"pachinus Heliconius cydno (Heliconius, O. Salvin 1871)",,macho,Volcan (de Chiriqui) PAN CQ,,,m,,,,Arc�,BMNH,,NEIL ROSSER,,8.8,-82.54166667,Geonames
+4244,cydno,cydno pachinus Heliconius,,,,macho,Sevilla Isla PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,20-23,NEIL ROSSER,,8.249916667,-82.37594722,Geonames + Google Earth
+4245,cydno,cydno pachinus Heliconius,,,,macho,Brava Island PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,26-27,NEIL ROSSER,,8.216666667,-82.28333333,Brown
+4246,cydno,cydno pachinus Heliconius,,,,macho,Parida Island PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,17-19,NEIL ROSSER,,8.116666667,-82.33333333,Brown
+4247,cydno,cydno pachinus Heliconius,,,,macho,Parida Island PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,17-19,NEIL ROSSER,,8.116666667,-82.33333333,Brown
+4249,cydno,cydno pachinus Heliconius,,,,hembra,Chiriqui PAN,,,m,,,,Arc�,BMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+4250,cydno,cydno pachinus Heliconius,,,,hembra,Sevilla Isla PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,20-23,NEIL ROSSER,,8.249916667,-82.37594722,Geonames + Google Earth
+7130,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,1,10,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7131,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,30,9,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7132,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,1,10,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7133,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,29,9,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7134,cydno,cydno pachinus Heliconius,,,,hembra,San Vito CRI PU,1150,1150,m,20,8,1977,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+7135,cydno,cydno pachinus Heliconius,,,,hembra,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,10,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7136,cydno,cydno pachinus Heliconius,,,,hembra,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,30,9,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7137,cydno,cydno pachinus Heliconius,,,,hembra,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,1,10,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7138,cydno,cydno pachinus Heliconius,,,,hembra,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,10,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7139,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,10,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7140,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,30,9,1986,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7141,cydno,cydno pachinus Heliconius,,,,hembra,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,10,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7142,cydno,cydno pachinus Heliconius,,,,hembra,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,10,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+7143,cydno,cydno pachinus Heliconius,,,,hembra,"Buenos Aires 3-6km north, CRI PU",,,m,13,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,9.207488889,-83.32150556,Google Earth
+7144,cydno,cydno pachinus Heliconius,,,,macho,"Charcarita 9.2km S, CRI PU",,,m,12,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,9.927369444,-84.70243056,Google Earth
+7145,cydno,cydno pachinus Heliconius,,,,macho,"Charcarita 9.2km S, CRI PU",,,m,12,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,9.927369444,-84.70243056,Google Earth
+7146,cydno,cydno pachinus Heliconius,,,,macho,"Charcarita 9.2km S, CRI PU",,,m,12,9,1987,"Austin, G.",MGCL/FLMNH,,NEIL ROSSER,,9.927369444,-84.70243056,Google Earth
+7147,cydno,cydno pachinus Heliconius,,,,macho,"Rincon, 2.5 miles SW, CRI PU",,,m,1,3,1967,OTS course,MGCL/FLMNH,,NEIL ROSSER,,8.678508333,-83.47796667,Google Earth
+7148,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,,,m,4,2,1969,,MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+7149,cydno,cydno pachinus Heliconius,,,,hembra,Rincon CRI PU,,,m,8,14,1970,"Valerio, C.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83.48333333,NIMA
+7150,cydno,cydno pachinus Heliconius,,,,hembra,Osa CRI PU,,,m,22,1,1968,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,8.433333333,-83.31666667,www.calle.com/world
+7151,cydno,cydno pachinus Heliconius,,,,hembra,Osa CRI PU,,,m,21,3,1967,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,8.433333333,-83.31666667,www.calle.com/world
+7152,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,1150,1150,m,20,8,1977,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+7153,cydno,cydno pachinus Heliconius,,,,macho,San Vito 6 km s CRI PU,3800,3800,ft,8,11,1966,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+7154,cydno,cydno pachinus Heliconius,,,,macho,San Vito 6 km s CRI PU,3800,3800,ft,7,11,1966,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+7155,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,1150,1150,m,20,8,1977,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+7156,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,1150,1150,m,12,9,1977,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+7157,cydno,cydno pachinus Heliconius,,,,macho,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,,6,1976,"Balciunas, J. K.",MGCL/FLMNH,14-17,NEIL ROSSER,,8.7,-83,Label
+7158,cydno,cydno pachinus Heliconius,,,,macho,California PAN CH,1000,1000,m,27,12,1972,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.783333333,-82.65,Geonames
+7159,cydno,cydno pachinus Heliconius,,,,hembra,San Vito 6 km s CRI PU,4000,4000,ft,,8,1967,,MGCL/FLMNH,Dec-17,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+7160,cydno,cydno pachinus Heliconius,,,,hembra,San Vito CRI PU,1000,1000,m,13,12,1972,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+7161,cydno,cydno pachinus Heliconius,,,,hembra,California PAN CH,,,m,26,12,1972,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.783333333,-82.65,Geonames
+7162,cydno,cydno pachinus Heliconius,,,,hembra,Potrerillos PAN CQ,,,m,9,2,1970,,MGCL/FLMNH,,NEIL ROSSER,,8.8,-82.5,Label
+9761,cydno,cydno pachinus Heliconius,,,,hembra,San Vito de Java CRI PU,,,m,30,12,1969,JMP,MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,Brown
+9762,cydno,cydno pachinus Heliconius,,,,macho,Palmar Norte CRI PU,,,m,16,9,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.966666667,-83.45,Brown
+9763,cydno,cydno pachinus Heliconius,,,,macho,"San Perillo, Osa CRI PU",250,250,ft,,1,1992,"Fratello, S.",MGCL/FLMNH,,NEIL ROSSER,,8.615008333,-83.732625,Google Earth
+9765,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,,,m,28,5,1971,"Taylor, T.",MGCL/FLMNH,,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+9766,cydno,cydno pachinus Heliconius,,,,macho,Chiriqui PAN CQ,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+9767,cydno,cydno pachinus Heliconius,,,,macho,Potrerillos PAN CQ,,,m,28,1,1968,,MGCL/FLMNH,,NEIL ROSSER,,8.8,-82.5,Label
+9768,cydno,cydno pachinus Heliconius,,,,macho,Chiriqui PAN CQ,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+9769,cydno,cydno pachinus Heliconius,,,,macho,Chiriqui PAN CQ,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+11325,cydno,cydno pachinus Heliconius,,,,macho,Potrerillos PAN CQ,3600,3600,ft,24,2,1973,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,8.8,-82.5,Label
+11326,cydno,cydno pachinus Heliconius,,,,macho,Santa Clara PAN CQ,4800,4800,ft,17,7,1976,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,8.816666667,-82.85,Label
+11338,cydno,cydno pachinus Heliconius,,,,hembra,Finca Las Cruces CRI PU,,,m,10,9,1987,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+11339,cydno,cydno pachinus Heliconius,,,,macho,"Charcarita 9.2km SW, CRI PU",,,m,12,9,1987,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,9.927369444,-84.70243056,Google Earth
+11340,cydno,cydno pachinus Heliconius,,,,macho,Villa Neily 4 mi W CRI PU,,,m,5,7,1965,,MGCL/FLMNH,,NEIL ROSSER,,8.652936111,-82.979125,Google Earth
+11341,cydno,cydno pachinus Heliconius,,,,macho,Finca Las Cruces CRI PU,,,m,1,10,1986,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,8.7,-83,Label
+11342,cydno,cydno pachinus Heliconius,,,,macho,"Charcarita 9.2km SW, CRI PU",,,m,12,9,1987,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,9.927369444,-84.70243056,Google Earth
+12085,cydno,cydno pachinus Heliconius,,,,Macho,Z.P. Las Tablas. Las Alturas. CRI,1500,1500,m,,,,"Aguilar, Reinaldo",INBio,01/04/1991	 - 	30/04/1991,NEIL ROSSER,,8.952222222,-82.83638889,INBio
+12123,cydno,cydno pachinus Heliconius,,,,Macho,Perez Zeled�n. Santa Elena. Las Nubes. CRI,1210,1210,m,,,,"Alfaro, Evelio",INBio,23/10/1995	 - 	28/10/1995,NEIL ROSSER,,9.395833333,-83.59555556,INBio
+12131,cydno,cydno pachinus Heliconius,,,,Macho,Perez Zeled�n. Santa Elena. Las Nubes. CRI,1210,1210,m,,,,"Alfaro, Evelio",INBio,23/10/1995	 - 	28/10/1995,NEIL ROSSER,,9.395833333,-83.59555556,INBio
+12154,cydno,cydno pachinus Heliconius,,,,Hembra,"Pto. Jimenez, La Palma Coopeunioro, Alrededores del Albergue Unioro CRI",250,250,m,,,,"Angulo, Luis",INBio,13/03/1995	 - 	22/03/1995,NEIL ROSSER,,8.561388889,-83.50083333,INBio
+12158,cydno,cydno pachinus Heliconius,,,,Hembra,Cerro Mueller CRI,744,744,m,,,,"Angulo, Luis",INBio,28/11/1995	 - 	28/11/1995,NEIL ROSSER,,8.504444444,-83.47138889,INBio
+12302,cydno,cydno pachinus Heliconius,,,,Macho,Fila Pizota CRI,100,200,m,,,,"Azofeifa Zu�iga, Jose Antonio",INBio,07/08/2007	 - 	10/08/2007,NEIL ROSSER,,8.5125,-83.40416667,INBio
+12303,cydno,cydno pachinus Heliconius,,,,Hembra,P.N. Corcovado. Estaci�n Agujas.  CRI,200,300,m,,,,"Azofeifa Zu�iga, Jose Antonio",INBio,05/10/2007	 - 	05/10/2007,NEIL ROSSER,,8.536666667,-83.42555556,INBio
+12341,cydno,cydno pachinus Heliconius,,,,Macho,R�o Bonito 2.3 Km W del Cerro la Gamba CRI,110,110,m,,,,"Barton Salazar, Raul",INBio,26/02/1999	 - 	26/02/1999,NEIL ROSSER,,8.691388889,-83.23888889,INBio
+12361,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Bello, Erick",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+12362,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Bello, Erick",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+12363,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Bello, Erick",INBio,01/07/1990	 - 	31/07/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+12377,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Blanco, Roger",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12378,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Blanco, Roger",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12416,cydno,cydno pachinus Heliconius,,,,Macho,"Sector La Leona, Cerro Puma. CRI",100,300,m,,,,"Caballero, Khanaki",INBio,20/09/2003	 - 	05/10/2003,NEIL ROSSER,,8.454722222,-83.495,INBio
+12438,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.P.C, Mora, Col�n, Hacienda el Rodeo CRI",800,800,m,,,,"Canet, Ruben",INBio,01/08/1982	 - 	01/08/1982,NEIL ROSSER,,9.921388889,-84.27138889,INBio
+12629,cydno,cydno pachinus Heliconius,,,,Hembra,"Coto Brus, Sabalito, Finca Cafrosa, 2Km NW de Mellizas. CRI",1200,1300,m,,,,"Delgado, Roberto",INBio,19/06/1990	 - 	26/07/1990,NEIL ROSSER,,8.891388889,-82.79305556,INBio
+12630,cydno,cydno pachinus Heliconius,,,,Macho,Estacion Altamira. Sendero Los Gigantes. CRI,1300,1400,m,,,,"Delgado, Roberto",INBio,01/05/2004	 - 	31/05/2004,NEIL ROSSER,,9.036111111,-83.02222222,INBio
+12631,cydno,cydno pachinus Heliconius,,,,Hembra,"Coto Brus, Sabalito, Finca Cafrosa, 2Km NW de Mellizas. CRI",1200,1300,m,,,,"Delgado, Roberto",INBio,19/06/1990	 - 	26/07/1990,NEIL ROSSER,,8.891388889,-82.79305556,INBio
+12632,cydno,cydno pachinus Heliconius,,,,Macho,"Coto Brus, Sabalito, Finca Cafrosa, 2Km NW de Mellizas. CRI",1200,1300,m,,,,"Delgado, Roberto",INBio,19/06/1990	 - 	26/07/1990,NEIL ROSSER,,8.891388889,-82.79305556,INBio
+12844,cydno,cydno pachinus Heliconius,,,,Macho,"Reserva R�ospara�so, Albergue Pecar� CRI",405,405,m,,,,"Gamboa R., Billen",INBio,01/05/2006	 - 	04/05/2006,NEIL ROSSER,,9.565,-84.12583333,INBio
+12845,cydno,cydno pachinus Heliconius,,,,Macho,"R.V.S. R�o Piro, Estaci�n Tuva CRI",40,40,m,,,,"Gamboa R., Billen",INBio,15/09/2004	 - 	22/09/2004,NEIL ROSSER,,8.405833333,-83.34222222,INBio
+12846,cydno,cydno pachinus Heliconius,,,,Hembra,Cerro Cangreja. CRI,1305,1305,m,,,,"Gamboa R., Billen",INBio,15/07/2004	 - 	15/07/2004,NEIL ROSSER,,9.725,-84.36944444,INBio
+12847,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Gamboa R., Billen",INBio,05/04/1995	 - 	24/04/1995,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12848,cydno,cydno pachinus Heliconius,,,,Macho,"R.V.S. R�o Piro, Estaci�n Tuva CRI",40,40,m,,,,"Gamboa R., Billen",INBio,15/09/2004	 - 	22/09/2004,NEIL ROSSER,,8.405833333,-83.34222222,INBio
+12907,cydno,cydno pachinus Heliconius,,,,Hembra,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Guti�rrez, Ana",INBio,19/08/1993	 - 	27/08/1993,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+12943,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,23/03/1982	 - 	27/03/1982,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12944,cydno,cydno pachinus Heliconius,,,,Macho,"Sirena, Corcovado Nat. Pk., Osa Peninsula CRI",20,20,m,,,,"Janzen, Daniel H.",INBio,04/07/1977	 - 	14/07/1977,NEIL ROSSER,,8.479166667,-83.58861111,INBio
+12945,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,01/11/1976	 - 	30/11/1976,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12946,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,23/03/1982	 - 	27/03/1982,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12979,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,23/03/1982	 - 	27/03/1982,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12980,cydno,cydno pachinus Heliconius,,,,Macho,"Sirena, Corcovado Nat. Pk., Osa Peninsula CRI",20,20,m,,,,"Janzen, Daniel H.",INBio,16/11/1978	 - 	26/11/1978,NEIL ROSSER,,8.479166667,-83.58861111,INBio
+12981,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,23/03/1982	 - 	27/03/1982,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12982,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,23/03/1982	 - 	27/03/1982,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12983,cydno,cydno pachinus Heliconius,,,,Macho,"Sirena, Corcovado Nat. Pk., Osa Peninsula CRI",20,20,m,,,,"Janzen, Daniel H.",INBio,22/03/1978	 - 	22/03/1978,NEIL ROSSER,,8.479166667,-83.58861111,INBio
+12999,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Maass, Gustavo",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13017,cydno,cydno pachinus Heliconius,,,,Macho,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Marin, Ada",INBio,06/04/1994	 - 	28/04/1994,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+13079,cydno,cydno pachinus Heliconius,,,,Desconocido,"El Rodeo, fila Diamante CRI",900,1000,m,,,,"Mata, Juan",INBio,06/08/2005	 - 	06/08/2005,NEIL ROSSER,,9.901388889,-84.26944444,INBio
+13119,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.L.A.P, Coto Brus, Zona Prot Las Tablas, Est Biol Las Alturas CRI",1550,1550,m,,,,"Mendez, Henry",INBio,16/03/1999	 - 	23/03/1999,NEIL ROSSER,,8.952222222,-82.83472222,INBio
+13157,cydno,cydno pachinus Heliconius,,,,Macho,"Osa, Palmar, San Cristobal. CRI",437,437,m,,,,"Montero, Jos�",INBio,05/06/2005	 - 	05/06/2005,NEIL ROSSER,,8.998611111,-83.48722222,INBio
+13158,cydno,cydno pachinus Heliconius,,,,Macho,"Osa, Ciudad Pto Cort�s, Camino a Cuesta del Burro. CRI",200,200,m,,,,"Montero, Jos�",INBio,04/06/2005	 - 	04/06/2005,NEIL ROSSER,,9.011111111,-83.52444444,INBio
+13159,cydno,cydno pachinus Heliconius,,,,Macho,"Osa, Palmar, San Cristobal. CRI",437,437,m,,,,"Montero, Jos�",INBio,05/06/2005	 - 	05/06/2005,NEIL ROSSER,,8.998611111,-83.48722222,INBio
+13258,cydno,cydno pachinus Heliconius,,,,Hembra,Las Verijas CRI,1500,1600,m,,,,"Moraga, Marcos",INBio,20/02/2008	 - 	25/02/2008,NEIL ROSSER,,9.115833333,-83.095,INBio
+13259,cydno,cydno pachinus Heliconius,,,,Macho,"Estaci�n Pittier, 4.2 Km SW del Cerro Gemelo CRI",1660,1660,m,,,,"Moraga, Marcos",INBio,23/08/1995	 - 	13/09/1995,NEIL ROSSER,,9.025555556,-82.96277778,INBio
+13260,cydno,cydno pachinus Heliconius,,,,Macho,"Golfito, Pque Nal Piedras Blancas, Send a Cerro Nicuesa CRI",579,579,m,,,,"Moraga, Marcos",INBio,26/03/2001	 - 	28/03/2001,NEIL ROSSER,,8.659722222,-83.22694444,INBio
+13261,cydno,cydno pachinus Heliconius,,,,Macho,"Golfito, Pque Nal Piedras Blancas, Send a Cerro Nicuesa CRI",579,579,m,,,,"Moraga, Marcos",INBio,26/03/2001	 - 	28/03/2001,NEIL ROSSER,,8.659722222,-83.22694444,INBio
+13262,cydno,cydno pachinus Heliconius,,,,Hembra,"Golfito, Pque Nal Piedras Blancas, Send a Cerro Nicuesa CRI",579,579,m,,,,"Moraga, Marcos",INBio,26/03/2001	 - 	28/03/2001,NEIL ROSSER,,8.659722222,-83.22694444,INBio
+13263,cydno,cydno pachinus Heliconius,,,,Macho,"P.N. Piedras Blancas, Sector El Tajo. CRI",150,150,m,,,,"Moraga, Marcos",INBio,15/09/2001	 - 	18/09/2001,NEIL ROSSER,,8.669722222,-83.19861111,INBio
+13264,cydno,cydno pachinus Heliconius,,,,Macho,Las Verijas CRI,1500,1600,m,,,,"Moraga, Marcos",INBio,20/02/2008	 - 	25/02/2008,NEIL ROSSER,,9.115833333,-83.095,INBio
+13265,cydno,cydno pachinus Heliconius,,,,Macho,P.N. Piedras Blancas. Estaci�n R�o Bonito. CRI,100,100,m,,,,"Moraga, Marcos",INBio,25/02/1999	 - 	27/02/1999,NEIL ROSSER,,8.684166667,-83.22833333,INBio
+13266,cydno,cydno pachinus Heliconius,,,,Macho,"Ciudad Pto Cort�s, Balsar, La Tigra. CRI",100,200,m,,,,"Moraga, Marcos",INBio,18/08/2005	 - 	18/08/2005,NEIL ROSSER,,8.995833333,-83.51583333,INBio
+13267,cydno,cydno pachinus Heliconius,,,,Hembra,"Fila Ballena, Uvita arriba CRI",450,450,m,,,,"Moraga, Marcos",INBio,26/09/2007	 - 	28/09/2007,NEIL ROSSER,,9.144166667,-83.69416667,INBio
+13361,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Obando, Norman",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13362,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Obando, Norman",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13468,cydno,cydno pachinus Heliconius,,,,Macho,"Garabito, Altos Pochote, limite S. camino a Bijagual. CRI",400,400,m,,,,"Porras Vega, Wendy",INBio,20/07/2004	 - 	20/07/2004,NEIL ROSSER,,9.7625,-84.6,INBio
+13469,cydno,cydno pachinus Heliconius,,,,Macho,"Garabito, Altos Pochote, limite S. camino a Bijagual. CRI",400,400,m,,,,"Porras Vega, Wendy",INBio,20/07/2004	 - 	20/07/2004,NEIL ROSSER,,9.7625,-84.6,INBio
+13534,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Quesada, Freddy A.",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13535,cydno,cydno pachinus Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Quesada, Freddy A.",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13536,cydno,cydno pachinus Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Quesada, Freddy A.",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13537,cydno,cydno pachinus Heliconius,,,,Macho,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Quesada, Freddy A.",INBio,01/08/1991	 - 	31/08/1991,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+13606,cydno,cydno pachinus Heliconius,,,,Macho,"Coto Brus, Sabalito, Finca Cafrosa, 2Km NW de Mellizas. CRI",1300,1300,m,,,,"Ramirez, Marvin",INBio,01/03/1990	 - 	31/03/1990,NEIL ROSSER,,8.891388889,-82.79305556,INBio
+13729,cydno,cydno pachinus Heliconius,,,,Hembra,"Coto Brus, Sabalito, Finca Cafrosa, 2Km NW de Mellizas. CRI",1300,1300,m,,,,"Saborio, Juan Carlos",INBio,01/06/1990	 - 	31/07/1990,NEIL ROSSER,,8.891388889,-82.79305556,INBio
+13730,cydno,cydno pachinus Heliconius,,,,Hembra,"Coto Brus, Sabalito, Finca Cafrosa, 2Km NW de Mellizas. CRI",1300,1300,m,,,,"Saborio, Juan Carlos",INBio,01/06/1990	 - 	31/07/1990,NEIL ROSSER,,8.891388889,-82.79305556,INBio
+19955,cydno,cydno pachinus Heliconius,,,,macho,Chiriqui PAN CQ,,,,,,,,FLMNH,,Samuel Landrian,,8.383333333,-82.33333333,Brown
+19956,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,,,,,Mar,1979,,FLMNH,,Samuel Landrian,,8.833333333,-82.96666667,www.calle.com/world
+19957,cydno,cydno pachinus Heliconius,,,,macho,Las Alturas CRI PU,,,,16,May,1989,,FLMNH,,Samuel Landrian,,8.95,-82.83333333,Google Earth
+19958,cydno,cydno pachinus Heliconius,,,,macho,San Vito CRI PU,,,,,Dec,1981,,FLMNH,,Samuel Landrian,,8.833333333,-82.96666667,www.calle.com/world
+19959,cydno,cydno pachinus Heliconius,,,,macho,Carara CRI PU,,,,20,Jun,1991,,FLMNH,,Samuel Landrian,,9.778355556,-84.57420833,Google Earth
+19960,cydno,cydno pachinus Heliconius,,,,macho,Santa Ana CR,,,,,Dec,1989,,FLMNH,,Samuel Landrian,,9.933333333,-84.18333333,Geonames
+19961,cydno,cydno pachinus Heliconius,,,,macho,Tinamaste CRI SJ,,,,4,May,1993,,FLMNH,,Samuel Landrian,,9.297477778,-83.77125556,Internet taxonomy refs
+19963,cydno,cydno pachinus Heliconius,,,,macho,Tinamaste CRI SJ,,,,4,May,1993,,FLMNH,,Samuel Landrian,,9.297477778,-83.77125556,Internet taxonomy refs
+19964,cydno,cydno pachinus Heliconius,,,,macho,Golfito CRI PU,,,,19,May,1994,,FLMNH,,Samuel Landrian,,8.65,-83.15,www.calle.com/world
+19965,cydno,cydno pachinus Heliconius,,,,macho,Tinamaste CRI SJ,,,,5,may,1993,,FLMNH,,Samuel Landrian,,9.297477778,-83.77125556,Internet taxonomy refs
+32442,cydno,cydno pachinus Heliconius,,,,unknown,Corcovado N.P. CRI,,,m,,,,,Brower,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+33077,cydno,cydno pachinus Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33078,cydno,cydno pachinus Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+34710,cydno,cydno pachinus Heliconius,,,,desconocido,9-83a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-83.25,KB 1979
+34734,cydno,cydno pachinus Heliconius,,,,desconocido,8-82a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-82.25,KB 1979
+35207,cydno,cydno pachinus Heliconius,,,,desconocido,8-83b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.323848,-82.767923,Google Earth
+35219,cydno,cydno pachinus Heliconius,,,,desconocido,8-81b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-80.75,KB 1979
+35729,cydno,cydno pachinus Heliconius,,,,desconocido,10-84c N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-84.25,KB 1979
+35745,cydno,cydno pachinus Heliconius,,,,desconocido,9-83c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-83.25,KB 1979
+35757,cydno,cydno pachinus Heliconius,,,,desconocido,9-82c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.716314,-82.31994,KB 1979
+36124,cydno,cydno pachinus Heliconius,,,,desconocido,10-85d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.834057,-84.666639,Google Earth
+36154,cydno,cydno pachinus Heliconius,,,,desconocido,9-83d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-82.75,KB 1979
+38569,cydno,cydno pachinus Heliconius,,,,desconocido,Llorona CRI PU,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,8.583333333,-83.7,http://www.antweb.org
+38570,cydno,cydno pachinus Heliconius,,,,desconocido,Chepo PAN HE,700,700,m,,,,"Small, G.B.",MHNL PERU ex Peru,,NEIL ROSSER,,7.75,-80.81666667,Label
+39878,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39879,cydno,cydno pachinus Heliconius,,,,hembra,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39880,cydno,cydno pachinus Heliconius,,,,hembra,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39881,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39882,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39883,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39884,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39885,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39886,cydno,cydno pachinus Heliconius,,,,hembra,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39887,cydno,cydno pachinus Heliconius,,,,hembra,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39888,cydno,cydno pachinus Heliconius,,,,hembra,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,8,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39889,cydno,cydno pachinus Heliconius,,,,macho,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,9,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+39890,cydno,cydno pachinus Heliconius,,,,hembra,"Cafe Duran Finca, near Santa Clara, PAN CH",,,m,9,9,2000,,Jiggins,,NEIL ROSSER,,8.838888889,-82.71472222,CJ
+54354,cydno,cydno pachinus Heliconius,,,,unknown,Sirena CRI PU,,,m,,May,2002,,www.neutron.phys.ethz.ch/Lepidoptera,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth

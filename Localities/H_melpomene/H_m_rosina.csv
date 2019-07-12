@@ -1,0 +1,297 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+816,melpomene,melpomene rosina Heliconius,,,,desconocido,Bluefields NIC ZS,,,m,,,,,KB 1979,,NEIL ROSSER,,12.01666667,-83.76666667,Brown
+1298,melpomene,melpomene rosina Heliconius,,,,desconocido,Santa Fe PAN VE,,,m,,,,,KB 1979,,NEIL ROSSER,,8.516666667,-81.08333333,Brown
+1630,melpomene,melpomene rosina Heliconius,,,,descononcido,Rincon - Osa - Camino al Mar,,,m,,,,,KB 1979,,NEIL ROSSER,,8.707263889,-83.48579167,Google Earth
+5422,melpomene,melpomene rosina Heliconius,,,,macho,Chontales NIC CH,,,m,,,,"Belt, T.",BMNH,,NEIL ROSSER,,10.75,-84.25,Brown 1979
+5424,melpomene,melpomene rosina Heliconius,,,,macho,Juan Vinas CRI CA,2500,2500,ft,23,1,1913,"Hall, A.",BMNH,,NEIL ROSSER,,9.9,-83.73333333,Brown
+5425,melpomene,melpomene rosina Heliconius,,,,macho,Carrillo CRI SJ,,,m,,,,,BMNH,,NEIL ROSSER,,10.15,-83.91666667,Brown
+5426,melpomene,melpomene rosina Heliconius,,,,macho,San Carlos CRI AL,,,m,,,,,BMNH,,NEIL ROSSER,,10.33333,-84.43333,Geonames
+5427,melpomene,melpomene rosina Heliconius,,,,macho,Santa Clara Valley CRI LI,1200,1200,ft,,,,Zurcher,BMNH,,NEIL ROSSER,,10.25,-83.75,Brown 1979
+5428,melpomene,melpomene rosina Heliconius,,,,macho,Colombiana CRI LI,300,300,ft,13,11,1924,"Martin, G.A.",BMNH,,NEIL ROSSER,,10.16666667,-83.57666667,Falling Rain
+5429,melpomene,melpomene rosina Heliconius,,,,macho,Las Pavas CRI AL,3250,3250,ft,,12,1926,"Hall, A.",BMNH,,NEIL ROSSER,,10.96666667,-85.08333333,Brown
+5430,melpomene,melpomene rosina Heliconius,,,,macho,Sixaola Rio CRI LI,,,m,,4,,,BMNH,,NEIL ROSSER,,9.556530556,-82.73621389,Google Earth
+5431,melpomene,melpomene rosina Heliconius,,,,macho,Turrialba CRI CA,2000,2000,ft,,,1926,"Hall, A.",BMNH,11-Dec,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+5432,melpomene,melpomene rosina Heliconius,,,,macho,Peralta CRI CA,,,m,12,3,1927,,BMNH,,NEIL ROSSER,,9.966666667,-83.61666667,Brown
+5433,melpomene,melpomene rosina Heliconius,,,,macho,Puerto Limon CRI LI,,,m,,,,"Fountaine, M.",BMNH,,NEIL ROSSER,,9.983333333,-83.06666667,Brown
+5434,melpomene,melpomene rosina Heliconius,,,,macho,Pejivalle CRI CA,2400,2400,ft,24,3,1926,"Jackson, F.W.",BMNH,,NEIL ROSSER,,9.816666667,-83.7,Falling Rain
+5435,melpomene,melpomene rosina Heliconius,,,,macho,San Jose CRI SJ,,,m,,6,1911,"Fountaine, M.",BMNH,,NEIL ROSSER,,9.933333333,-84.08333333,Brown
+5437,melpomene,melpomene rosina Heliconius,,,,macho,Bugaba PAN CQ,800,800,ft,,,,"Watson, A.",BMNH,,NEIL ROSSER,,8.483333333,-82.61666667,Brown
+5438,melpomene,melpomene rosina Heliconius,,,,macho,Veraguas PAN VE,,,m,,,,Arce,BMNH,,NEIL ROSSER,,8.866666667,-80.9,www.calle.com
+5439,melpomene,melpomene rosina Heliconius,,,,macho,Lino PAN CQ,800,800,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,8.8,-82.43333333,Brown
+5440,melpomene,melpomene rosina Heliconius,,,,macho,Lion Hill PAN CN,,,m,,,,McLeannan,BMNH,,NEIL ROSSER,,9.233333333,-79.9,Brown
+5441,melpomene,melpomene rosina Heliconius,,,,macho,"Burica Island [not ""Colombia""] PAN CQ",,,m,4,2,1902,"Batty, J.H.",BMNH,,NEIL ROSSER,,8.016666667,-82.88333333,Brown
+5442,melpomene,melpomene rosina Heliconius,,,,macho,Sevilla Isla PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,20-23,NEIL ROSSER,,8.249916667,-82.37594722,Geonames + Google Earth
+5443,melpomene,melpomene rosina Heliconius,,,,hembra,Chiriqui PAN CQ,,,m,,,,,BMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+5444,melpomene,melpomene rosina Heliconius,,,,hembra,Tole Rio PAN CQ,,,m,,,,"Champion, G.C.",BMNH,,NEIL ROSSER,,8.233333333,-81.68333333,Brown
+5445,melpomene,melpomene rosina Heliconius,,,,hembra,Cebaco Isla PAN VE,,,m,,2,1902,"Batty, J.H.",BMNH,03-Jun,NEIL ROSSER,,7.533333333,-81.15,Brown
+5446,melpomene,melpomene rosina Heliconius,,,,hembra,Insolita Isla PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,,NEIL ROSSER,,8.116666667,-81.73333333,Brown
+10243,melpomene,melpomene rosina Heliconius,,,,macho,Farfan PAN CZ,,,m,27,2,1970,Jae,MGCL/FLMNH,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+10244,melpomene,melpomene rosina Heliconius,,,,macho,Gamboa PAN CN,,,m,13,3,1969,,MGCL/FLMNH,,NEIL ROSSER,,9.116666667,-79.7,www.calle.com
+10249,melpomene,melpomene rosina Heliconius,,,,hembra,Cocoli PAN CO,,,m,5,7,1963,,MGCL/FLMNH,,NEIL ROSSER,,8.983333333,-79.58333333,Geonames
+10250,melpomene,melpomene rosina Heliconius,,,,macho,Limon CRI LI,,,m,,,1904,"Hall, A.",MGCL/FLMNH,09-Oct,NEIL ROSSER,,9.983333333,-83.06666667,Brown
+10251,melpomene,melpomene rosina Heliconius,,,,macho,Chiriqui PAN CQ,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+10253,melpomene,melpomene rosina Heliconius,,,,hembra,Panama Canal PAN,,,m,10,10,1967,Hilton,MGCL/FLMNH,,NEIL ROSSER,,9.109727778,-79.760975,Google Earth
+10254,melpomene,melpomene rosina Heliconius,,,,hembra,Farfan Trail PAN CZ,,,m,19,2,1971,TT,MGCL/FLMNH,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+10255,melpomene,melpomene rosina Heliconius,,,,hembra,Farfan PAN CZ,,,m,27,9,1975,Anderson,MGCL/FLMNH,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+10256,melpomene,melpomene rosina Heliconius,,,,macho,Kobbe Ft PAN CZ,,,m,27,9,1975,Anderson,MGCL/FLMNH,,NEIL ROSSER,,8.912222222,-79.58916667,Geonames
+10257,melpomene,melpomene rosina Heliconius,,,,macho,Farfan PAN CZ,,,m,10,4,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+10258,melpomene,melpomene rosina Heliconius,,,,macho,Gamboa PAN CN,,,m,19,11,1969,,MGCL/FLMNH,,NEIL ROSSER,,9.116666667,-79.7,www.calle.com
+10259,melpomene,melpomene rosina Heliconius,,,,macho,Gamboa PAN CN,,,m,24,11,1969,,MGCL/FLMNH,,NEIL ROSSER,,9.116666667,-79.7,www.calle.com
+10260,melpomene,melpomene rosina Heliconius,,,,hembra,Rincon CRI PU,,,m,4,8,1968,,MGCL/FLMNH,,NEIL ROSSER,,8.7,-83.48333333,NIMA
+10261,melpomene,melpomene rosina Heliconius,,,,macho,Pina PAN CZ,,,m,18,7,1970,,MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+10262,melpomene,melpomene rosina Heliconius,,,,hembra,Canal zone PAN ??,,,m,20,2,1967,,MGCL/FLMNH,,NEIL ROSSER,,9.124094444,-79.75018056,Google Earth
+10263,melpomene,melpomene rosina Heliconius,,,,macho,Summit PAN CZ,,,m,11,11,1969,,MGCL/FLMNH,,NEIL ROSSER,,9.065405556,-79.64649167,Google Earth
+10268,melpomene,melpomene rosina Heliconius,,,,hembra,"Rio Frio, Standard Fruit Company CRI HE",330,330,ft,2,3,1970,Corn,MGCL/FLMNH,,NEIL ROSSER,,10.31954167,-83.87833611,Google Earth
+10269,melpomene,melpomene rosina Heliconius,,,,macho,San Vito 6 km s CRI PU,4000,4000,ft,,8,1967,,MGCL/FLMNH,Dec-17,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+10270,melpomene,melpomene rosina Heliconius,,,,macho,Los Diamantes CRI,,,m,5,3,1966,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,10.22,-83.77,Maize Production Environments Revisited. A GIS-based Approach
+10271,melpomene,melpomene rosina Heliconius,,,,macho,Osa CRI PU,,,m,22,1,1968,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,8.433333333,-83.31666667,www.calle.com/world
+10272,melpomene,melpomene rosina Heliconius,,,,macho,"Rincon, 2.5 miles SW, CRI PU",,,m,,3,1967,OTS course,MGCL/FLMNH,08-Dec,NEIL ROSSER,,8.678508333,-83.47796667,Google Earth
+10273,melpomene,melpomene rosina Heliconius,,,,macho,Turrialba CRI CA,,,m,20,8,1964,Woodruff,MGCL/FLMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+10274,melpomene,melpomene rosina Heliconius,,,,macho,La Selva CRI HE,,,m,23,9,1969,,MGCL/FLMNH,,NEIL ROSSER,,10.45,-83.98333333,Brown
+10275,melpomene,melpomene rosina Heliconius,,,,macho,Turrialba CRI CA,,,m,25,11,1973,"Condie, S.",MGCL/FLMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+10276,melpomene,melpomene rosina Heliconius,,,,macho,Turrialba CRI CA,,,m,12,7,1965,Downey,MGCL/FLMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+10277,melpomene,melpomene rosina Heliconius,,,,hembra,Turrialba CRI CA,,,m,15,9,1973,"Condie, S.",MGCL/FLMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+10278,melpomene,melpomene rosina Heliconius,,,,macho,Pejivalle CRI CA,2000,2000,ft,23,3,1926,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,9.816666667,-83.7,Falling Rain
+10279,melpomene,melpomene rosina Heliconius,,,,hembra,Turrialba CRI CA,,,m,20,7,1973,"Condie, S.",MGCL/FLMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+10280,melpomene,melpomene rosina Heliconius,,,,hembra,Pejivalle CRI CA,2000,2000,ft,23,3,1926,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,9.816666667,-83.7,Falling Rain
+10281,melpomene,melpomene rosina Heliconius,,,,hembra,Pejivalle CRI CA,2000,2000,ft,23,3,1926,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,9.816666667,-83.7,Falling Rain
+10282,melpomene,melpomene rosina Heliconius,,,,hembra,Pejivalle CRI CA,2000,2000,ft,23,3,1926,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,9.816666667,-83.7,Falling Rain
+10283,melpomene,melpomene rosina Heliconius,,,,hembra,Pejivalle CRI CA,,,m,,3,1926,"Kaye, W.J.",MGCL/FLMNH,22-27,NEIL ROSSER,,9.816666667,-83.7,Falling Rain
+10284,melpomene,melpomene rosina Heliconius,,,,hembra,Atenas 6.8 km w CRI AL,,,m,,12,1984,"Austin, G.T.& Murphy, D.D.",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10285,melpomene,melpomene rosina Heliconius,,,,hembra,"Rio Blanco - Petroleo, 5.8km S R Blanco CRI LI",,,m,4,9,1987,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.975383333,-83.14739167,Google Earth
+10286,melpomene,melpomene rosina Heliconius,,,,hembra,Puerto Viejo 10km NW Ruta 36 CRI LI,,,m,13,9,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.992930556,-83.14838056,Geonames
+10287,melpomene,melpomene rosina Heliconius,,,,hembra,Atenas 6.8 km w CRI AL,,,m,19,3,1985,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10288,melpomene,melpomene rosina Heliconius,,,,hembra,"La Virgen del Socorro, Rio Angel CRI AL",,,m,13,4,1989,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,10.28333333,-84.16666667,INBio
+10289,melpomene,melpomene rosina Heliconius,,,,hembra,Atenas 6.8 km w CRI AL,,,m,9,9,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10290,melpomene,melpomene rosina Heliconius,,,,hembra,Atenas 6.8 km w CRI AL,,,m,25,12,1984,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10291,melpomene,melpomene rosina Heliconius,,,,macho,Revantazon Rio CRI CA,,,m,8,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.850236111,-83.65378611,Google Earth
+10292,melpomene,melpomene rosina Heliconius,,,,macho,Revantazon Rio CRI CA,,,m,1,9,1987,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.850236111,-83.65378611,Google Earth
+10293,melpomene,melpomene rosina Heliconius,,,,macho,Santa Clara 3.8km N CRI LI,,,m,5,9,1987,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,10.25098333,-83.732225,Google Earth
+10294,melpomene,melpomene rosina Heliconius,,,,macho,La Selva CRI HE,,,m,14,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,10.45,-83.98333333,Brown
+10295,melpomene,melpomene rosina Heliconius,,,,macho,Germania CRI LI,,,m,10,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,10.15,-83.56666667,Geonames
+10296,melpomene,melpomene rosina Heliconius,,,,macho,"Rio Chirripo Pacifico, 2km N Rivas CRI SJ",,,m,14,9,1987,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.424883333,-83.64490278,Google Earth
+10297,melpomene,melpomene rosina Heliconius,,,,macho,Villa Colon - Hacienda El Rodeo rd CRI SJ,,,m,8,9,1987,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.916144444,-84.25379167,Google Earth
+10298,melpomene,melpomene rosina Heliconius,,,,macho,"Herediana, rd. to Guapiles CRI LI",,,m,10,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,10.13333333,-83.56666667,Geonames
+10299,melpomene,melpomene rosina Heliconius,,,,macho,Germania CRI LI,,,m,15,4,1989,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,10.15,-83.56666667,Geonames
+10300,melpomene,melpomene rosina Heliconius,,,,macho,Playa Bananito CRI LI,,,m,9,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.862163889,-82.95618611,Google Earth
+10301,melpomene,melpomene rosina Heliconius,,,,macho,Rio Blanco NW of Guapiles CRI LI,,,m,11,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,10.278925,-83.82661944,Google Earth
+10302,melpomene,melpomene rosina Heliconius,,,,macho,Atenas 6.8 km w CRI AL,,,m,7,3,1986,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10303,melpomene,melpomene rosina Heliconius,,,,macho,Atenas 6.8 km w CRI AL,,,m,22,3,1985,"Austin, G.T.",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10304,melpomene,melpomene rosina Heliconius,,,,hembra,Atenas 6.8 km w CRI AL,,,m,13,12,1984,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10305,melpomene,melpomene rosina Heliconius,,,,macho,Chilamate CRI HE,,,m,9,9,1988,Covell,MGCL/FLMNH,,NEIL ROSSER,,10.45,-84.06666667,www.calle.com/world
+10306,melpomene,melpomene rosina Heliconius,,,,macho,Selva Verde Finca CRI HE,,,m,5,12,1988,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,10.449575,-84.06854722,Google Earth
+10307,melpomene,melpomene rosina Heliconius,,,,macho,Atenas 6.8 km w CRI AL,,,m,15,12,1984,"Austin, G&A",MGCL/FLMNH,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+10453,melpomene,melpomene rosina Heliconius,,,,macho,Finca El Bejuro CRI HE,,,m,24,9,1986,,MGCL/FLMNH,,NEIL ROSSER,,10.45548333,-84.06206667,Malone 2004 paper
+12087,melpomene,melpomene rosina Heliconius,,,,Macho,"Estacion Sierpe, Sendero a la laguna. CRI",1,120,m,,,,"Aguilar, Reinaldo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,10.37777778,-83.525,INBio
+12088,melpomene,melpomene rosina Heliconius,,,,Macho,"Pococ�, Colorado, Estacion Cuatro Esquinas. CRI",0,10,m,,,,"Aguilar, Reinaldo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,10.53944444,-83.50638889,INBio
+12089,melpomene,melpomene rosina Heliconius,,,,Macho,"Pococ�, Colorado, Estacion Cuatro Esquinas. CRI",0,10,m,,,,"Aguilar, Reinaldo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,10.53944444,-83.50638889,INBio
+12090,melpomene,melpomene rosina Heliconius,,,,Hembra,"Pococ�, Colorado, Estacion Cuatro Esquinas. CRI",0,10,m,,,,"Aguilar, Reinaldo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,10.53944444,-83.50638889,INBio
+12091,melpomene,melpomene rosina Heliconius,,,,Macho,"Pococ�, Colorado, Estacion Cuatro Esquinas. CRI",0,10,m,,,,"Aguilar, Reinaldo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,10.53944444,-83.50638889,INBio
+12174,melpomene,melpomene rosina Heliconius,,,,Hembra,"A.C. Llanuras del Tortuguero, Pococ�, R�o Sardinas, Barra del Colorado CRI",15,15,m,,,,"Araya, Flor",INBio,01/02/1994	 - 	14/02/1994,NEIL ROSSER,,10.64416667,-83.74194444,INBio
+12175,melpomene,melpomene rosina Heliconius,,,,Macho,"A.C. Llanuras del Tortuguero, Pococ�, R�o Sardinas, Barra del Colorado CRI",15,15,m,,,,"Araya, Flor",INBio,01/02/1994	 - 	14/02/1994,NEIL ROSSER,,10.64416667,-83.74194444,INBio
+12176,melpomene,melpomene rosina Heliconius,,,,Macho,"Sardinas, Barra del Colorado, 4 Km NW del Cerro Cocor� CRI",50,50,m,,,,"Araya, Flor",INBio,04/01/1995	 - 	11/01/1995,NEIL ROSSER,,10.64777778,-83.73111111,INBio
+12177,melpomene,melpomene rosina Heliconius,,,,Macho,"Sardinas, Barra del Colorado, 4 Km NW del Cerro Cocor� CRI",50,50,m,,,,"Araya, Flor",INBio,28/01/1995	 - 	12/02/1995,NEIL ROSSER,,10.64777778,-83.73111111,INBio
+12178,melpomene,melpomene rosina Heliconius,,,,Hembra,"Sardinas, Barra del Colorado, 4 Km NW del Cerro Cocor� CRI",50,50,m,,,,"Araya, Flor",INBio,04/01/1995	 - 	11/01/1995,NEIL ROSSER,,10.64777778,-83.73111111,INBio
+12231,melpomene,melpomene rosina Heliconius,,,,Macho,"A.C. Llanuras del Tortuguero, Pococ�, R�o Sardinas, Barra del Colorado CRI",15,15,m,,,,"Araya, Flor",INBio,16/03/1994	 - 	20/03/1994,NEIL ROSSER,,10.64416667,-83.74194444,INBio
+12232,melpomene,melpomene rosina Heliconius,,,,Macho,"A.C. Llanuras del Tortuguero, Pococ�, R�o Sardinas, Barra del Colorado CRI",10,10,m,,,,"Araya, Flor",INBio,11/12/1992	 - 	11/12/1992,NEIL ROSSER,,10.64416667,-83.74194444,INBio
+12233,melpomene,melpomene rosina Heliconius,,,,Hembra,"A.C. Llanuras del Tortuguero, Pococ�, R�o Sardinas, Barra del Colorado CRI",10,10,m,,,,"Araya, Flor",INBio,25/08/1992	 - 	25/08/1992,NEIL ROSSER,,10.64416667,-83.74194444,INBio
+12316,melpomene,melpomene rosina Heliconius,,,,Macho,"A.C.O. Golfito, Reserva Ftal Golfo Dulce, Est Agujas CRI",375,375,m,,,,"Azofeifa Z��iga, Alejandro",INBio,15/04/1996	 - 	22/04/1996,NEIL ROSSER,,8.534722222,-83.42666667,INBio
+12350,melpomene,melpomene rosina Heliconius,,,,Macho,R�o Bonito 2.3 Km W del Cerro la Gamba CRI,110,110,m,,,,"Barton Salazar, Raul",INBio,26/02/1999	 - 	26/02/1999,NEIL ROSSER,,8.691388889,-83.23888889,INBio
+12351,melpomene,melpomene rosina Heliconius,,,,Hembra,"Central, Reserva Biol Hitoy Cerere, 2 Km S de Estaci�n CRI",200,200,m,,,,"Barton Salazar, Raul",INBio,12/10/1999	 - 	12/10/1999,NEIL ROSSER,,9.667222222,-83.02861111,INBio
+12366,melpomene,melpomene rosina Heliconius,,,,Macho,"Estacion Bijagual, 1.5 Km N. Bijagual CRI",500,500,m,,,,"Bello, Erick",INBio,01/07/1990	 - 	31/07/1990,NEIL ROSSER,,9.747222222,-84.56333333,INBio
+12417,melpomene,melpomene rosina Heliconius,,,,Macho,"Golfito, R�o Madrigal. CRI",5,5,m,,,,"Caballero, Khanaki",INBio,18/03/2003	 - 	18/03/2003,NEIL ROSSER,,8.450277778,-83.48972222,INBio
+12512,melpomene,melpomene rosina Heliconius,,,,Desconocido,Manzanillo. CRI,10,10,m,,,,"Chavarr�a, Luc�a",INBio,07/02/2002	 - 	07/02/2002,NEIL ROSSER,,9.633333333,-82.64083333,INBio
+12517,melpomene,melpomene rosina Heliconius,,,,Desconocido,Manzanillo. CRI,10,10,m,,,,"Chavarr�a, Luc�a",INBio,07/02/2002	 - 	07/02/2002,NEIL ROSSER,,9.633333333,-82.64083333,INBio
+12518,melpomene,melpomene rosina Heliconius,,,,Hembra,"Talamanca, Ref de Vida Silvestre Manzanillo-Gandoca CRI",10,10,m,,,,"Chavarr�a, Luc�a",INBio,01/07/2000	 - 	31/08/2000,NEIL ROSSER,,9.582777778,-82.61444444,INBio
+12519,melpomene,melpomene rosina Heliconius,,,,Hembra,"Talamanca, Refugio de Vida Silvestre Manzanillo-Gandoca CRI",0,0,m,,,,"Chavarr�a, Luc�a",INBio,01/07/2000	 - 	31/07/2000,NEIL ROSSER,,9.598055556,-82.60583333,INBio
+12520,melpomene,melpomene rosina Heliconius,,,,Desconocido,Manzanillo. CRI,10,10,m,,,,"Chavarr�a, Luc�a",INBio,07/02/2002	 - 	07/02/2002,NEIL ROSSER,,9.633333333,-82.64083333,INBio
+12611,melpomene,melpomene rosina Heliconius,,,,Macho,"Lepanto, Karen Mogensen, Sendero Principal. CRI",200,300,m,,,,"C�rdenas, You",INBio,01/02/2004	 - 	02/02/2004,NEIL ROSSER,,9.867222222,-85.06,INBio
+12612,melpomene,melpomene rosina Heliconius,,,,Macho,"Lepanto, Karen Mogensen, Sendero Principal. CRI",200,300,m,,,,"C�rdenas, You",INBio,01/02/2004	 - 	02/02/2004,NEIL ROSSER,,9.867222222,-85.06,INBio
+12613,melpomene,melpomene rosina Heliconius,,,,Hembra,"Lepanto, Karen Mogensen, Sendero Principal. CRI",315,315,m,,,,"C�rdenas, You",INBio,24/09/2003	 - 	05/10/2003,NEIL ROSSER,,9.867222222,-85.06,INBio
+12756,melpomene,melpomene rosina Heliconius,,,,Hembra,Finca Pasmompa CRI,400,400,m,,,,"GNP Biodiv. Inv., ?",INBio,01/03/1989	 - 	31/03/1989,NEIL ROSSER,,11.0225,-85.42583333,INBio
+12788,melpomene,melpomene rosina Heliconius,,,,Hembra,"Talamanca, Amubri CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,05/07/1993	 - 	28/07/1993,NEIL ROSSER,,9.519444444,-82.95638889,INBio
+12789,melpomene,melpomene rosina Heliconius,,,,Hembra,"Amubri, Sendero Soki CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,09/08/1995	 - 	30/08/1995,NEIL ROSSER,,9.514722222,-82.95527778,INBio
+12790,melpomene,melpomene rosina Heliconius,,,,Hembra,"Talamanca, Amubri CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,12/10/1992	 - 	30/10/1992,NEIL ROSSER,,9.519444444,-82.95638889,INBio
+12791,melpomene,melpomene rosina Heliconius,,,,Hembra,"Amubri, Sendero Soki CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,03/06/1996	 - 	30/06/1996,NEIL ROSSER,,9.514722222,-82.95527778,INBio
+12792,melpomene,melpomene rosina Heliconius,,,,Macho,"Talamanca, Amubri CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,01/08/1994	 - 	29/08/1994,NEIL ROSSER,,9.519444444,-82.95638889,INBio
+12793,melpomene,melpomene rosina Heliconius,,,,Hembra,"Amubri, Sendero Soki CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,03/07/1995	 - 	28/07/1995,NEIL ROSSER,,9.514722222,-82.95527778,INBio
+12794,melpomene,melpomene rosina Heliconius,,,,Macho,"Amubri, Sendero Soki CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,04/04/1995	 - 	30/04/1995,NEIL ROSSER,,9.514722222,-82.95527778,INBio
+12795,melpomene,melpomene rosina Heliconius,,,,Macho,"Amubri, Sendero Soki CRI",70,70,m,,,,"Gallardo, Gerardina",INBio,01/06/1995	 - 	22/06/1995,NEIL ROSSER,,9.514722222,-82.95527778,INBio
+12862,melpomene,melpomene rosina Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Gamboa R., Billen",INBio,05/04/1995	 - 	24/04/1995,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12989,melpomene,melpomene rosina Heliconius,,,,Macho,"Estaci�n Los Almendros, 12 Km Carretera a Santa Cecilia CRI",280,280,m,,,,"Lopez, Elba",INBio,01/10/1991	 - 	30/11/1991,NEIL ROSSER,,11.03416667,-85.5275,INBio
+13299,melpomene,melpomene rosina Heliconius,,,,Hembra,"Golfito, Pque Nal Piedras Blancas, Est El Bonito, Alrededor de Est CRI",100,100,m,,,,"Moraga, Marcos",INBio,10/06/2000	 - 	10/06/2000,NEIL ROSSER,,8.680555556,-83.22722222,INBio
+13300,melpomene,melpomene rosina Heliconius,,,,Macho,P.N. Piedras Blancas. Estaci�n R�o Bonito. CRI,100,100,m,,,,"Moraga, Marcos",INBio,25/02/1999	 - 	27/02/1999,NEIL ROSSER,,8.684166667,-83.22833333,INBio
+13301,melpomene,melpomene rosina Heliconius,,,,Hembra,Laguna Medio Queso CRI,0,100,m,,,,"Moraga, Marcos",INBio,01/09/2005	 - 	01/09/2005,NEIL ROSSER,,11.03194444,-84.68944444,INBio
+13302,melpomene,melpomene rosina Heliconius,,,,Macho,"Golfito, Pque Nal Piedras Blancas, Est El Bonito, Alrededor de Est CRI",100,100,m,,,,"Moraga, Marcos",INBio,08/05/2000	 - 	16/05/2000,NEIL ROSSER,,8.680555556,-83.22722222,INBio
+13303,melpomene,melpomene rosina Heliconius,,,,Hembra,"Golfito, P.N. Piedras Blancas, Estaci�n El Bonito, Sitio el Mirador. CRI",500,500,m,,,,"Moraga, Marcos",INBio,28/10/2000	 - 	31/10/2000,NEIL ROSSER,,8.680555556,-83.24777778,INBio
+13304,melpomene,melpomene rosina Heliconius,,,,Hembra,"Golfito, Pque Nal Piedras Blancas, Est El Bonito, Alrededor de Est CRI",100,100,m,,,,"Moraga, Marcos",INBio,08/05/2000	 - 	16/05/2000,NEIL ROSSER,,8.680555556,-83.22722222,INBio
+13326,melpomene,melpomene rosina Heliconius,,,,Hembra,Valle La Estrella CRI,100,100,m,,,,"Moreno, Alberth",INBio,01/05/1991	 - 	31/05/1991,NEIL ROSSER,,9.671666667,-83.02777778,INBio
+13493,melpomene,melpomene rosina Heliconius,,,,Macho,"Talamanca, Ref de Vida Silvestre Manzanillo-Gandoca CRI",0,50,m,,,,"Porras Vega, Wendy",INBio,17/05/2004	 - 	22/05/2004,NEIL ROSSER,,9.582777778,-82.61444444,INBio
+13494,melpomene,melpomene rosina Heliconius,,,,Hembra,"Garabito, Altos Pochote, limite S. camino a Bijagual. CRI",400,400,m,,,,"Porras Vega, Wendy",INBio,20/07/2004	 - 	20/07/2004,NEIL ROSSER,,9.7625,-84.6,INBio
+13495,melpomene,melpomene rosina Heliconius,,,,Macho,"Talamanca, Ref de Vida Silvestre Manzanillo-Gandoca CRI",0,50,m,,,,"Porras Vega, Wendy",INBio,17/05/2004	 - 	22/05/2004,NEIL ROSSER,,9.582777778,-82.61444444,INBio
+13496,melpomene,melpomene rosina Heliconius,,,,Macho,"Talamanca, Ref de Vida Silvestre Manzanillo-Gandoca CRI",0,50,m,,,,"Porras Vega, Wendy",INBio,17/05/2004	 - 	22/05/2004,NEIL ROSSER,,9.582777778,-82.61444444,INBio
+13497,melpomene,melpomene rosina Heliconius,,,,Macho,"Pococ�, Agua Fr�a, Send. hacia r�o Sierpe. CRI",20,50,m,,,,"Porras Vega, Wendy",INBio,18/08/2004	 - 	18/08/2004,NEIL ROSSER,,10.39611111,-83.58638889,INBio
+13714,melpomene,melpomene rosina Heliconius,,,,Macho,"Pococ�, Colorado, Sector Cerro Cocor�, 30 Km N de Cariari CRI",160,160,m,,,,"Rojas, Elias",INBio,01/11/1990	 - 	30/11/1990,NEIL ROSSER,,10.59416667,-83.71638889,INBio
+13715,melpomene,melpomene rosina Heliconius,,,,Macho,"Pococ�, Colorado, Sector Cerro Cocor�, 30 Km N de Cariari CRI",160,160,m,,,,"Rojas, Elias",INBio,01/03/1991	 - 	31/03/1991,NEIL ROSSER,,10.59416667,-83.71638889,INBio
+14191,melpomene,melpomene rosina Heliconius,,,,unknown,Rio Blanco NW of Guapiles CRI LI,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,10.278925,-83.82661944,Google Earth
+14221,melpomene,melpomene rosina Heliconius,,,,unknown,Managua NIC MN,,,m,,,1955,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,12.15,-86.28333333,Brown
+16941,melpomene,melpomene rosina Heliconius,,,This was originally entered as melpomene bellula Heliconius - assumed error for rosina given locality,unknown,Taboga Isla PAN PA,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,8.783333333,-79.55,Brown
+16953,melpomene,melpomene rosina Heliconius,,,This was originally entered as melpomene bellula Heliconius - assumed error for rosina given locality,unknown,Francefield PAN CZ,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,9.35,-79.88333333,Geonames
+24726,melpomene,melpomene rosina Heliconius,,,,macho,Manzanillo CRI LI,,,m,9,5,1994,"ten Broek, G.",FLMNH,,Neil Rosser,,9.633333333,-82.64083333,INBio
+24727,melpomene,melpomene rosina Heliconius,,,,macho,Jimenez Rio CR LI,300,300,m,14,6,1991,"Faisthuber, W.",FLMNH,,Neil Rosser,,10.25,-83.6,Geonames
+24728,melpomene,melpomene rosina Heliconius,,,,macho,Santa Ana CR,,,m,,,1988,,FLMNH,,Neil Rosser,,9.933333333,-84.18333333,Geonames
+24729,melpomene,melpomene rosina Heliconius,,,,macho,Manzanillo CRI LI,,,m,9,5,1994,"ten Broek, G.",FLMNH,,Neil Rosser,,9.633333333,-82.64083333,INBio
+24730,melpomene,melpomene rosina Heliconius,,,,macho,Manzanillo CRI LI,,,m,9,5,1994,"ten Broek, G.",FLMNH,,Neil Rosser,,9.633333333,-82.64083333,INBio
+29230,melpomene,melpomene rosina Heliconius,,,Appears in brown as melpomene ca. rosina Heliconius but given the locality (close to Panama) I've left it as rosina - see map notes.,descononcido,Turbo COL AN,,,m,,,,,KB 1979,,NEIL ROSSER,,8.098055556,-76.73166667,Geonames
+31706,melpomene,melpomene rosina Heliconius,,,,unknown,Los Innocentes (Hacienda) CRI GU,,,m,,7,1994,,Hoskins - Observation,,NEIL ROSSER,,11.0315,-85.50011944,Google Earth + tropicos.org
+31714,melpomene,melpomene rosina Heliconius,,,,unknown,Marenco biological station CRI PU,,,m,,7,1994,,Hoskins - Observation,,NEIL ROSSER,,8.67,-83.7,tropicos.org
+31734,melpomene,melpomene rosina Heliconius,,,,unknown,Selva Verde (lodge) CRI,,,m,,7,1994,,Hoskins - Observation,,NEIL ROSSER,,10.449575,-84.06854722,Google Earth
+31948,melpomene,melpomene rosina Heliconius,,,,unknown,Colon island PAN,,,m,,,,,STRI online,,NEIL ROSSER,,9.393394444,-82.27514167,Google Earth
+31971,melpomene,melpomene rosina Heliconius,,,,unknown,Esparza CRI PU,,,m,,,,,"Paper by Lopez and Ibrahim, CATIE 2007",,NEIL ROSSER,,9.983333333,-84.66666667,Geonames
+32241,melpomene,melpomene rosina Heliconius,,,,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32441,melpomene,melpomene rosina Heliconius,,,,unknown,Corcovado N.P. CRI,,,m,,,,,Brower,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+32446,melpomene,melpomene rosina Heliconius,,,,unknown,Corp. Bayano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.168586111,-78.79657778,Google Earth
+32516,melpomene,melpomene rosina Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32767,melpomene,melpomene rosina Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32772,melpomene,melpomene rosina Heliconius,,,,unknown,Madden Dam PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212508333,-79.61655278,Google Earth
+32849,melpomene,melpomene rosina Heliconius,,,,unknown,Parque Metropolitana PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.003494444,-79.55249722,Geonames
+32968,melpomene,melpomene rosina Heliconius,,,,unknown,Puerto Viejo CRI HE,,,m,,,,,Brower,,NEIL ROSSER,,10.44277778,-83.98583333,Geonames
+32969,melpomene,melpomene rosina Heliconius,,,,unknown,Puerto Viejo CRI HE,,,m,,,,,Brower,,NEIL ROSSER,,10.44277778,-83.98583333,Geonames
+33082,melpomene,melpomene rosina Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33083,melpomene,melpomene rosina Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33084,melpomene,melpomene rosina Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33085,melpomene,melpomene rosina Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+34686,melpomene,melpomene rosina Heliconius,,,,desconocido,14-84a N,,,m,,,,,KB 1979,,NEIL ROSSER,,14.25,-84.25,KB 1979
+34696,melpomene,melpomene rosina Heliconius,,,,desconocido,10-85a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-85.25,KB 1979
+34707,melpomene,melpomene rosina Heliconius,,,,desconocido,10-83a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-83.25,KB 1979
+34711,melpomene,melpomene rosina Heliconius,,,,desconocido,9-83a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-83.25,KB 1979
+34722,melpomene,melpomene rosina Heliconius,,,,desconocido,9-79a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-79.25,KB 1979
+34735,melpomene,melpomene rosina Heliconius,,,,desconocido,8-82a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-82.25,KB 1979
+35156,melpomene,melpomene rosina Heliconius,,,,desconocido,10-84b N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-83.75,KB 1979
+35180,melpomene,melpomene rosina Heliconius,,,,desconocido,9-80b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-79.75,KB 1979
+35190,melpomene,melpomene rosina Heliconius,,,,desconocido,9-79b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-78.75,KB 1979
+35200,melpomene,melpomene rosina Heliconius,,,,desconocido,8-82b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-81.75,KB 1979
+35208,melpomene,melpomene rosina Heliconius,,,,desconocido,8-83b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.323848,-82.767923,Google Earth
+35221,melpomene,melpomene rosina Heliconius,,,,desconocido,8-81b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-80.75,KB 1979
+35712,melpomene,melpomene rosina Heliconius,,,,desconocido,11-84c N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.75,-84.25,KB 1979
+35723,melpomene,melpomene rosina Heliconius,,,,desconocido,11-85c N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.75,-85.25,KB 1979
+35730,melpomene,melpomene rosina Heliconius,,,,desconocido,10-84c N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-84.25,KB 1979
+35738,melpomene,melpomene rosina Heliconius,,,,desconocido,10-83c N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-83.25,KB 1979
+35746,melpomene,melpomene rosina Heliconius,,,,desconocido,9-83c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-83.25,KB 1979
+35758,melpomene,melpomene rosina Heliconius,,,,desconocido,9-82c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.716314,-82.31994,KB 1979
+35765,melpomene,melpomene rosina Heliconius,,,,desconocido,8-81c N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-81.25,KB 1979
+35767,melpomene,melpomene rosina Heliconius,,,,desconocido,8-80c N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-80.25,KB 1979
+36125,melpomene,melpomene rosina Heliconius,,,,desconocido,10-85d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.834057,-84.666639,Google Earth
+36134,melpomene,melpomene rosina Heliconius,,,,desconocido,10-84d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-83.75,KB 1979
+36148,melpomene,melpomene rosina Heliconius,,,,desconocido,10-83d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.6769,-82.796558,Google Earth
+36155,melpomene,melpomene rosina Heliconius,,,,desconocido,9-83d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-82.75,KB 1979
+36168,melpomene,melpomene rosina Heliconius,,,,desconocido,9-80d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-79.75,KB 1979
+38707,melpomene,melpomene rosina Heliconius,,,,desconocido,Tortuguero CRI LI,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,10.54026667,-83.502375,Google Earth
+39708,melpomene,melpomene rosina Heliconius,,,,hembra,"Camino de las cruces, PAN PA",,,m,16,9,1998,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39709,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,17,1,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39710,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,17,1,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39711,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,17,1,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39712,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,7,2,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39713,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,16,9,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39714,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,18,11,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39715,melpomene,melpomene rosina Heliconius,,,,macho,"Camino de las cruces, PAN PA",,,m,16,11,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39716,melpomene,melpomene rosina Heliconius,,,,hembra,"Camino de las cruces, PAN PA",,,m,5,1,1999,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+39717,melpomene,melpomene rosina Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+39718,melpomene,melpomene rosina Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+39719,melpomene,melpomene rosina Heliconius,,,,hembra,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+39720,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,16,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39721,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,16,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39722,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,16,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39723,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39724,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39725,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39726,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39727,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39728,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39729,melpomene,melpomene rosina Heliconius,,,,macho,"El Renacer, Gamboa, PAN PA",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39730,melpomene,melpomene rosina Heliconius,,,,hembra,"El Renacer, Gamboa, PAN PA",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39731,melpomene,melpomene rosina Heliconius,,,,hembra,"Forest edge Gamboa near #118, PAN CO",,,m,,,,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+39732,melpomene,melpomene rosina Heliconius,,,,macho,"Forest edge Gamboa, PAN CO",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+39733,melpomene,melpomene rosina Heliconius,,,,macho,"Forest edge Gamboa, PAN CO",80,80,m,17,10,1999,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+39734,melpomene,melpomene rosina Heliconius,,,,macho,"Gamboa #183, PAN CO",,,m,10,9,1998,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+39735,melpomene,melpomene rosina Heliconius,,,,macho,"Gamboa Country Club, PAN CO",,,m,20,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39736,melpomene,melpomene rosina Heliconius,,,,macho,"Gamboa Country Club, PAN CO",,,m,20,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39737,melpomene,melpomene rosina Heliconius,,,,macho,"Gamboa Country Club, PAN CO",,,m,20,8,1998,,Jiggins,,NEIL ROSSER,,9.116666667,-79.7,Falling Rain
+39738,melpomene,melpomene rosina Heliconius,,,,hembra,Madden Hwy 12km from Gamboa turnoff PAN PA,,,m,26,11,1998,,Jiggins,,NEIL ROSSER,,9.112927778,-79.61342222,Google Earth
+39739,melpomene,melpomene rosina Heliconius,,,,hembra,Madden Hwy 4km from Gamboa turnoff PAN PA,,,m,26,11,1998,,Jiggins,,NEIL ROSSER,,9.112927778,-79.61342222,Google Earth
+39740,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.4km, PAN PA",,,m,7,9,1998,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39741,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.4km, PAN PA",,,m,,,,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39742,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.4km, PAN PA",,,m,24,4,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39743,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.5km, PAN PA",,,m,22,8,1998,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39744,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.5km, PAN PA",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39745,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.5km, PAN PA",,,m,18,1,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39746,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.5km, PAN PA",,,m,18,1,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39747,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road 1.5km, PAN PA",,,m,18,1,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39748,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road 1.5km, PAN PA",,,m,18,1,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39749,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.5km, PAN PA",,,m,18,1,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39750,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 1.5km, PAN PA",,,m,18,1,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+39751,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2.5km, PAN PA",,,m,3,11,1998,,Jiggins,,NEIL ROSSER,,9.132777778,-79.7225,Google Earth
+39752,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,21,8,1998,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39753,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,21,8,1998,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39754,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39755,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39756,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,28,9,1998,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39757,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,28,4,1999,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39758,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 2km, PAN PA",,,m,28,4,1999,,Jiggins,,NEIL ROSSER,,9.130555556,-79.72111111,Google Earth
+39759,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+39760,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road 3 km, PAN PA",,,m,4,9,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+39761,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,4,9,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+39762,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,4,9,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+39763,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3.3km, PAN PA",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+39764,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,17,11,1998,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+39765,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,,,,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+39766,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road 3.7km, PAN PA",,,m,16,10,1999,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+39767,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 3.9km, PAN PA",,,m,27,11,1998,,Jiggins,,NEIL ROSSER,,9.1425,-79.72777778,Google Earth
+39768,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 4.3km, PAN PA",,,m,3,11,1998,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+39769,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 4.3km, PAN PA",,,m,4,11,1998,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+39770,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 4.3km, PAN PA",,,m,16,11,1998,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+39771,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road 4.3km, PAN PA",,,m,,,,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+39772,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 4.3km, PAN PA",,,m,16,11,1998,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+39773,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 4.3km, PAN PA",,,m,16,11,1998,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+39774,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 4km, PAN PA",,,m,16,8,1998,,Jiggins,,NEIL ROSSER,,9.1425,-79.72777778,Google Earth
+39775,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road 4km, PAN PA",,,m,4,11,1998,,Jiggins,,NEIL ROSSER,,9.1425,-79.72777778,Google Earth
+39776,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 7km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.161111111,-79.74805556,Google Earth
+39777,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 7km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.161111111,-79.74805556,Google Earth
+39778,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road 7km, PAN CO",,,m,26,1,2000,,Jiggins,,NEIL ROSSER,,9.161111111,-79.74805556,Google Earth
+39779,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road km and nearby, PAN CO",80,80,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39780,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road km and nearby, PAN CO",80,80,m,3,9,1998,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39781,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road km and nearby, PAN CO",80,80,m,31,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39782,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road km and nearby, PAN CO",80,80,m,31,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39783,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road km and nearby, PAN CO",80,80,m,31,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39784,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road km and nearby, PAN CO",80,80,m,11,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39785,melpomene,melpomene rosina Heliconius,,,,_,"Pipeline road km and nearby, PAN CO",80,80,m,11,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39786,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road km and nearby, PAN CO",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39787,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road km and nearby, PAN CO",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39788,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road km and nearby, PAN CO",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39789,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road km and nearby, PAN CO",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39790,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road, PAN CO",80,80,m,21,9,1998,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39791,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road, PAN CO",80,80,m,25,1,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39792,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road, PAN CO",80,80,m,27,2,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39793,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road, PAN CO",80,80,m,6,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39794,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road, PAN CO",80,80,m,6,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39795,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road, PAN CO",80,80,m,6,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39796,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road, PAN CO",80,80,m,27,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39797,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road, PAN CO",80,80,m,27,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39798,melpomene,melpomene rosina Heliconius,,,,_,"Pipeline road, PAN CO",80,80,m,3,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39799,melpomene,melpomene rosina Heliconius,,,,_,"Pipeline road, PAN CO",80,80,m,11,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39800,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road, PAN CO",80,80,m,10,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39801,melpomene,melpomene rosina Heliconius,,,,hembra,"Pipeline road, PAN CO",80,80,m,10,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39802,melpomene,melpomene rosina Heliconius,,,,macho,"Pipeline road, PAN CO",80,80,m,3,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+39803,melpomene,melpomene rosina Heliconius,,,,macho,"Plantation loop road, PAN PA",,,m,29,1,1999,,Jiggins,,NEIL ROSSER,,9.131944444,-79.71138889,
+39804,melpomene,melpomene rosina Heliconius,,,,macho,"Plantation loop road, PAN PA",,,m,8,3,1999,,Jiggins,,NEIL ROSSER,,9.131944444,-79.71138889,
+39805,melpomene,melpomene rosina Heliconius,,,,macho,"Plantation loop road, PAN PA",,,m,21,4,1999,,Jiggins,,NEIL ROSSER,,9.131944444,-79.71138889,
+39806,melpomene,melpomene rosina Heliconius,,,,macho,"Plantation loop road, PAN PA",,,m,,,,,Jiggins,,NEIL ROSSER,,9.131944444,-79.71138889,
+39807,melpomene,melpomene rosina Heliconius,,,,macho,"Santa Fe, by the river just past village PAN DA",,,m,15,6,2000,,Jiggins,,NEIL ROSSER,,8.651944444,-78.14916667,CJ
+39808,melpomene,melpomene rosina Heliconius,,,,hembra,"Santa Rita ridge, PAN CO",,,m,12,2,1998,,Jiggins,,NEIL ROSSER,,9.32,-79.78,Paper by Jiggins
+39809,melpomene,melpomene rosina Heliconius,,,,macho,"Santa Rita ridge, PAN CO",,,m,12,12,1998,,Jiggins,,NEIL ROSSER,,9.32,-79.78,Paper by Jiggins
+54484,melpomene,melpomene rosina Heliconius,,,,unknown,RAAN  PROVINCE,,,m,,,,,Mariposas de Rio San Juan - Jean Michel Maes,,NEIL ROSSER,,,,
+54490,melpomene,melpomene rosina Heliconius,,,,unknown,RAAS  PROVINCE,,,m,,,,,Mariposas de Rio San Juan - Jean Michel Maes,,NEIL ROSSER,,,,
+54511,melpomene,melpomene rosina Heliconius,,,,unknown,R�o San Juan : Refugio Bartola,,,m,,,,,Mariposas de Rio San Juan - Jean Michel Maes,,NEIL ROSSER,,10.972005,-84.33939,Google Earth + paper Barbero
+54512,melpomene,melpomene rosina Heliconius,,,,unknown,R�o San Juan : Refugio Bartola,,,m,,,,,Mariposas de Rio San Juan - Jean Michel Maes,,NEIL ROSSER,,10.972005,-84.33939,Google Earth + paper Barbero
+54525,melpomene,melpomene rosina Heliconius,,,,unknown,San Juan del Norte NIC RSJ,,,m,,,,,Mariposas de Rio San Juan - Jean Michel Maes,,NEIL ROSSER,,10.91666667,-83.7,www.fallingrain.com
+54729,melpomene,melpomene rosina Heliconius,,,,unknown,Pipeline road PAN CN,,,m,,,,,Ecological divergence and speciation in Heliconius,,NEIL ROSSER,,9.187144444,-79.77184444,Google Earth

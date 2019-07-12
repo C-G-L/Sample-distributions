@@ -1,0 +1,220 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+870,besckei,besckei Heliconius,,,,desconocido,Caxambu BRA MG,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.98333333,-44.93333333,Brown
+1014,besckei,besckei Heliconius,,,,desconocido,Guapimirim BRA RJ,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.53333333,-42.98333333,Brown
+1018,besckei,besckei Heliconius,,,,desconocido,Guarapuava BRA PR,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.38333333,-51.45,NIMA
+1078,besckei,besckei Heliconius,,,,desconocido,Leopoldina BRA ME,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.53333333,-42.63333333,NIMA
+1200,besckei,besckei Heliconius,,,,desconocido,Pocos de Caldas BRA ME,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.78333333,-46.55,Brown
+1244,besckei,besckei Heliconius,,,,desconocido,Salobra BRA MS,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.2,-56.53333333,Brown
+1305,besckei,besckei Heliconius,,,,desconocido,Santa Maria BRA RS,,,m,,,,,KB 1979,,NEIL ROSSER,,-29.68333333,-53.8,Brown
+1307,besckei,besckei Heliconius,,,,desconocido,Santa Maria de Taguatinga BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.4,-46.43333333,Brown
+1401,besckei,besckei Heliconius,,,,desconocido,Vicosa BRA ME,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.75,-42.88333333,Brown
+1416,besckei,besckei Heliconius,,,,desconocido,Vila Velha BRA PR,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.13333333,-49.96666667,Brown
+3155,besckei,besckei Heliconius,,,,macho,Nova Friburgo BRA RJ,,,m,,,1884,"Germain, P.",BMNH,Apr - May,NEIL ROSSER,,-22.28333333,-42.55,Brown
+3156,besckei,besckei Heliconius,,,,macho,Nova Friburgo BRA RJ,,,m,,,1884,"Germain, P.",BMNH,Apr - May,NEIL ROSSER,,-22.28333333,-42.55,Brown
+3157,besckei,besckei Heliconius,,,,macho,Petropolis BRA RJ,,,m,,,,,BMNH,,NEIL ROSSER,,-22.53333333,-43.18333333,Brown
+3158,besckei,besckei Heliconius,,,,macho,Rio de Janeiro - National Park BRA RJ,,,m,22,10,1945,"Zik�n, J.",BMNH,,NEIL ROSSER,,-22.94916667,-43.29944444,Geonames
+3159,besckei,besckei Heliconius,,,,macho,Itaquaquetetuba BRA SP,,,m,20,8,,,BMNH,,NEIL ROSSER,,-23.46666667,-46.35,Brown
+3160,besckei,besckei Heliconius,,,,macho,Passa Quatro BRA ME,,,m,3,4,1922,"Zik�n, J.",BMNH,,NEIL ROSSER,,-22.38333333,-44.96666667,Brown
+3161,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,,,,,BMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+3162,besckei,besckei Heliconius,,,,macho,Castro BRA PN,,,m,,,,"Jones, E.D.",BMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+3163,besckei,besckei Heliconius,,,,macho,Theresopolis BRA SC,,,m,,,,Michalis,BMNH,,NEIL ROSSER,,-27.73333333,-48.93333333,NIMA
+3164,besckei,besckei Heliconius,,,,macho,Theresopolis BRA SC,,,m,,,,Michalis,BMNH,,NEIL ROSSER,,-27.73333333,-48.93333333,NIMA
+3165,besckei,besckei Heliconius,,,,macho,Blumenau BRA SC,,,m,,,,,BMNH,,NEIL ROSSER,,-26.91666667,-49.06666667,Brown
+3166,besckei,besckei Heliconius,,,,macho,Jundiahy BRA SP,,,m,,,,,BMNH,,NEIL ROSSER,,-23.18333333,-46.86666667,Falling Rain
+3167,besckei,besckei Heliconius,,,,hembra,Marumba R BRA ME,,,m,25,11,1925,Sehade,BMNH,,NEIL ROSSER,,-17.4,-41.4,NIMA
+3168,besckei,besckei Heliconius,,,,hembra,Nova Friburgo BRA RJ,,,m,,,1884,"Germain, P.",BMNH,Apr-May,NEIL ROSSER,,-22.28333333,-42.55,Brown
+3169,besckei,besckei Heliconius,,,,hembra,Nova Friburgo BRA RJ,,,m,,2,1884,"Germain, P.",BMNH,,NEIL ROSSER,,-22.28333333,-42.55,Brown
+3170,besckei,besckei Heliconius,,,,hembra,Itaquaquetetuba BRA SP,,,m,15,8,,"Townsend, C.H.T.",BMNH,,NEIL ROSSER,,-23.46666667,-46.35,Brown
+3171,besckei,besckei Heliconius,,,,hembra,Sao Paulo BRA SP,,,m,,,,,BMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+3172,besckei,besckei Heliconius,,,,hembra,Teresopolis BRA RJ,,,m,,,,,BMNH,,NEIL ROSSER,,-22.45,-43.01666667,Label
+3173,besckei,besckei Heliconius,,,,hembra,Teresopolis BRA RJ,,,m,,,,,BMNH,,NEIL ROSSER,,-22.45,-43.01666667,Label
+3174,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,,,,"Jones, D.",BMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+3175,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,,,,"Jones, D.",BMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+7164,besckei,besckei Heliconius,,,,macho,Santa Catarina BRA SC,,,m,,1,1970,Kesselring,MGCL/FLMNH,,NEIL ROSSER,,-22.11666667,-45.5,www.calle.com
+7165,besckei,besckei Heliconius,,,,macho,Santa Catarina BRA SC,,,m,,1,1970,Kesselring,MGCL/FLMNH,,NEIL ROSSER,,-22.11666667,-45.5,www.calle.com
+7166,besckei,besckei Heliconius,,,,macho,Santa Catarina BRA SC,,,m,,1,1970,Kesselring,MGCL/FLMNH,,NEIL ROSSER,,-22.11666667,-45.5,www.calle.com
+7167,besckei,besckei Heliconius,,,,macho,Santa Catarina BRA SC,,,m,,1,1970,Kesselring,MGCL/FLMNH,,NEIL ROSSER,,-22.11666667,-45.5,www.calle.com
+7168,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,16,3,1984,"Covell, C.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7169,besckei,besckei Heliconius,,,,macho,Tijucas do Sul km69 BRA PN,,,m,15,3,1984,RJW,MGCL/FLMNH,,NEIL ROSSER,,-25.95452778,-48.91919167,Google Earth
+7170,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,11,3,1984,RJW,MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7171,besckei,besckei Heliconius,,,,macho,Sao Luiz do Puruna BRA PN,,,m,16,3,1984,"Covell, C.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-49.61666667,Geonames
+7172,besckei,besckei Heliconius,,,,hembra,"Rio do Julio, 36km E of Sao Bento do Sul BRA SC",2650,2650,ft,12,3,1984,RJW,MGCL/FLMNH,,NEIL ROSSER,,-26.28333333,-49.11666667,unknown
+7173,besckei,besckei Heliconius,,,,hembra,"Sao Luiz do Purana, 40km W of Curitiba BRA PN",,,m,16,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-49.61666667,Geonames
+7175,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,10,3,1984,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7176,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,10,3,1984,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7177,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,,2,1984,Rank,MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7178,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,10,3,1984,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7179,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,10,3,1984,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7180,besckei,besckei Heliconius,,,,hembra,Joinville BRA SC,,,m,,2,1984,Miers,MGCL/FLMNH,,NEIL ROSSER,,-26.3,-48.86666667,Brown
+7181,besckei,besckei Heliconius,,,,hembra,Sao Bento do Sul BRA SC,,,m,10,3,1984,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7182,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,10,2,,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7183,besckei,besckei Heliconius,,,,macho,Campinas BRA SP,,,m,19,3,1984,"Jenkins, D.W.",MGCL/FLMNH,,NEIL ROSSER,,-22.82611111,-47.06777778,Mallet lab database
+7184,besckei,besckei Heliconius,,,,macho,Fazenda Alpina nr. Joinville BRA SC,,,m,25,2,1985,"Miller, J.Y.",MGCL/FLMNH,],NEIL ROSSER,,-26.30444444,-48.84555556,Geonames
+7185,besckei,besckei Heliconius,,,,macho,Fazenda Alpina nr. Joinville BRA SC,,,m,25,2,1985,"Miller, J.Y.",MGCL/FLMNH,],NEIL ROSSER,,-26.30444444,-48.84555556,Geonames
+7248,besckei,besckei Heliconius,,,,macho,Santa Catarina BRA SC,,,m,8,8,1969,,MGCL/FLMNH,,NEIL ROSSER,,-22.11666667,-45.5,www.calle.com
+7249,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,1,3,1959,,MGCL/FLMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+7250,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,5,4,1959,,MGCL/FLMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+7251,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,15,3,1959,,MGCL/FLMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+7252,besckei,besckei Heliconius,,,,macho,Tijucas do Sul BRA PN,600,600,m,15,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91666667,-49.2,Brown
+7253,besckei,besckei Heliconius,,,,macho,Sao Paulo BRA SP,,,m,15,3,1989,,MGCL/FLMNH,,NEIL ROSSER,,-23.53333333,-46.61666667,Brown
+7254,besckei,besckei Heliconius,,,,hembra,Rio do Sul BRA SC,2650,2650,ft,12,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-27.21666667,-49.65,NIMA
+7255,besckei,besckei Heliconius,,,,hembra,Villa Nova BRA SC,,,m,14,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.29961389,-49.02504444,Google Earth
+7256,besckei,besckei Heliconius,,,,hembra,Tijucas do Sul BRA PN,600,600,m,15,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91666667,-49.2,Brown
+7257,besckei,besckei Heliconius,,,,macho,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7258,besckei,besckei Heliconius,,,,hembra,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7259,besckei,besckei Heliconius,,,,hembra,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7260,besckei,besckei Heliconius,,,,macho,"Sao Luiz do Purana, 40km W of Curitiba BRA PN",900,900,m,16,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-49.61666667,Geonames
+7261,besckei,besckei Heliconius,,,,hembra,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7262,besckei,besckei Heliconius,,,,macho,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7263,besckei,besckei Heliconius,,,,macho,"Sao Luiz do Purana, 40km W of Curitiba BRA PN",900,900,m,16,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-49.61666667,Geonames
+7264,besckei,besckei Heliconius,,,,hembra,Sao Bento do Sul BRA SC,,,m,,2,1984,Rank,MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7265,besckei,besckei Heliconius,,,,macho,Fernandez Pinheiro BRA PN,2600,2600,ft,1,4,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-50.53333333,Brown
+7266,besckei,besckei Heliconius,,,,macho,Jacarei BRA SP,,,m,17,7,1971,F.L.,MGCL/FLMNH,,NEIL ROSSER,,-23.30527778,-45.96583333,Geonames
+7267,besckei,besckei Heliconius,,,,macho,Fernandez Pinheiro BRA PN,2600,2600,ft,1,4,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-50.53333333,Brown
+7268,besckei,besckei Heliconius,,,,macho,Petropolis Independencia BRA RJ,900,900,m,20,1,1974,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-22.53333333,-43.18333333,Brown
+7269,besckei,besckei Heliconius,,,,hembra,"Anapolis north of, Belem - Brasilia km 47 BRA PA",,,m,20,4,1973,,MGCL/FLMNH,,NEIL ROSSER,,-16.14364722,-48.60037778,Google Earth
+7270,besckei,besckei Heliconius,,,,macho,Trombudo Alto BRA SC,,,m,,9,1956,,MGCL/FLMNH,,NEIL ROSSER,,-27.45,-49.85,www.calle.com
+7271,besckei,besckei Heliconius,,,,macho,Tibagy BRA PN,2400,2400,ft,23,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.86666667,-50.41666667,Brown
+7272,besckei,besckei Heliconius,,,,macho,Castro BRA PN,,,m,,,,"Jones, E.D.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7273,besckei,besckei Heliconius,,,,macho,Fernandez Pinheiro BRA PN,2600,2600,ft,1,4,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-25.41666667,-50.53333333,Brown
+7274,besckei,besckei Heliconius,,,,macho,Castro BRA PN,2900,2900,ft,25,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7275,besckei,besckei Heliconius,,,,macho,Itarare BRA SP,2500,2500,ft,8,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.11666667,-49.33333333,Brown
+7276,besckei,besckei Heliconius,,,,macho,Masaranduba BRA SC,,,m,,10,1927,,MGCL/FLMNH,,NEIL ROSSER,,-26.61055556,-49.00833333,Geonames
+7277,besckei,besckei Heliconius,,,,macho,Castro BRA PN,,,m,,,,"Jones, E.D.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7278,besckei,besckei Heliconius,,,,hembra,Castro BRA PN,2900,2900,ft,11,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7279,besckei,besckei Heliconius,,,,macho,Castro BRA PN,2900,2900,m,12,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7280,besckei,besckei Heliconius,,,,macho,Santa Catarina BRA SC,,,m,3,3,1961,G.S,MGCL/FLMNH,,NEIL ROSSER,,-22.11666667,-45.5,www.calle.com
+7281,besckei,besckei Heliconius,,,,macho,Trombudo Alto BRA SC,,,m,,9,1956,,MGCL/FLMNH,,NEIL ROSSER,,-27.45,-49.85,www.calle.com
+7282,besckei,besckei Heliconius,,,,macho,Trombudo Alto BRA SC,,,m,,9,1956,,MGCL/FLMNH,,NEIL ROSSER,,-27.45,-49.85,www.calle.com
+7283,besckei,besckei Heliconius,,,,hembra,Sao Bento do Sul BRA SC,,,m,,2,1984,Rank,MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7284,besckei,besckei Heliconius,,,,macho,Tijucas do Sul BRA PN,600,600,m,15,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91666667,-49.2,Brown
+7285,besckei,besckei Heliconius,,,,macho,Tijucas do Sul BRA PN,600,600,m,15,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91666667,-49.2,Brown
+7286,besckei,besckei Heliconius,,,,macho,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7287,besckei,besckei Heliconius,,,,macho,"Tijucas do Sul km64 Curitiba - Joinville, BRA PN",600,600,m,15,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91976667,-48.93408056,Google Earth
+7288,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,10,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7289,besckei,besckei Heliconius,,,,hembra,Sao Bento do Sul BRA SC,,,m,,2,1984,Rank,MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7290,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,11,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7291,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,,,m,11,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7292,besckei,besckei Heliconius,,,,hembra,"Sao Bento do Sul 14km SE, Rio Vermelho 7km E BRA SC",3350,3550,ft,11,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.27721111,-49.279475,Google Earth
+7293,besckei,besckei Heliconius,,,,hembra,Sao Bento do Sul BRA SC,,,m,11,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7294,besckei,besckei Heliconius,,,,macho,"Sao Bento do Sul 14km SE, Rio Vermelho 7km E BRA SC",3350,3550,ft,11,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.27721111,-49.279475,Google Earth
+7295,besckei,besckei Heliconius,,,,macho,"Sao Bento do Sul 14km SE, Rio Vermelho 7km E BRA SC",3350,3550,ft,11,3,1984,"Emmel, T.C.",MGCL/FLMNH,,NEIL ROSSER,,-26.27721111,-49.279475,Google Earth
+7296,besckei,besckei Heliconius,,,,macho,Tijucas do Sul BRA PN,600,600,m,15,3,1984,"Olson, E.C.",MGCL/FLMNH,,NEIL ROSSER,,-25.91666667,-49.2,Brown
+7299,besckei,besckei Heliconius,,,,macho,Masaranduba BRA SC,,,m,,10,1925,,MGCL/FLMNH,,NEIL ROSSER,,-26.61055556,-49.00833333,Geonames
+7301,besckei,besckei Heliconius,,,,macho,Santa Cruz BRA ES,,,m,,3,1973,"Callaghan, C.J.",MGCL/FLMNH,08-Oct,NEIL ROSSER,,-19.95,-40.15,Brown
+7302,besckei,besckei Heliconius,,,,macho,Santa Cruz BRA ES,,,m,,3,1973,"Callaghan, C.J.",MGCL/FLMNH,08-Oct,NEIL ROSSER,,-19.95,-40.15,Brown
+7303,besckei,besckei Heliconius,,,,macho,Sao Bento do Sul BRA SC,850,850,m,26,2,1985,"Miller, J.Y.",MGCL/FLMNH,,NEIL ROSSER,,-26.25,-49.38333333,Brown
+7304,besckei,besckei Heliconius,,,,macho,Fazenda Alpina nr. Joinville BRA SC,,,m,25,2,1985,"Miller, J.Y.",MGCL/FLMNH,,NEIL ROSSER,,-26.30444444,-48.84555556,Geonames
+7305,besckei,besckei Heliconius,,,,macho,Pinhal BRA SC,,,m,,4,1947,,MGCL/FLMNH,,NEIL ROSSER,,-27.23333333,-51.91666667,NIMA
+7306,besckei,besckei Heliconius,,,,macho,Pinhal BRA SC,,,m,,4,1947,,MGCL/FLMNH,,NEIL ROSSER,,-27.23333333,-51.91666667,NIMA
+7309,besckei,besckei Heliconius,,,,hembra,Serra do Espinhago BRA ME,,,m,,4,1973,"Callaghan, C.J.",MGCL/FLMNH,10-Dec,NEIL ROSSER,,-17.5,-43.5,NIMA
+7310,besckei,besckei Heliconius,,,,hembra,Castro BRA PN,2900,2900,ft,11,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7311,besckei,besckei Heliconius,,,,hembra,Ponta Grossa BRA PN,,,m,,4,1955,,MGCL/FLMNH,,NEIL ROSSER,,-25.1,-50.16666667,Brown
+7312,besckei,besckei Heliconius,,,,hembra,Blumenau BRA SC,,,m,2,10,1937,,MGCL/FLMNH,,NEIL ROSSER,,-26.91666667,-49.06666667,Brown
+7313,besckei,besckei Heliconius,,,,macho,Castro BRA PN,2900,2900,ft,12,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+7314,besckei,besckei Heliconius,,,,macho,Castro BRA PN,2900,2900,ft,15,3,1910,"Kaye, W.J.",MGCL/FLMNH,,NEIL ROSSER,,-24.78333333,-50.01666667,Brown
+16132,besckei,besckei Heliconius,,,,unknown,Faio BRA SC,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+17046,besckei,besckei Heliconius,,,,unknown,Varyia? BRA,,,m,,,,,NHM Accesions - draws 9060,,NEIL ROSSER,,,,unknown
+21054,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21055,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21056,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1990,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21057,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21058,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21059,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21060,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21061,besckei,besckei Heliconius,,,,hembra,Vermelho Rio BRA CAT,,,m,,Mar,1991,,FLMNH,,Samuel Landrian,,-26.3,-49.33333333,Brown
+21062,besckei,besckei Heliconius,,,,hembra,Joinville BRA SC,,,m,25,Dec,1979,,FLMNH,,Samuel Landrian,,-26.3,-48.86666667,Brown
+21063,besckei,besckei Heliconius,,,,hembra,Joinville BRA SC,,,m,,Jan,1984,,FLMNH,,Samuel Landrian,,-26.3,-48.86666667,Brown
+21064,besckei,besckei Heliconius,,,,hembra,Curitiba BRA PN,,,m,15,Oct,1995,,FLMNH,,Samuel Landrian,,-25.41666667,-49.25,Brown
+21065,besckei,besckei Heliconius,,,,hembra,Santa Catarina BRA SC,,,m,1,,,,FLMNH,,Samuel Landrian,,-22.11666667,-45.5,www.calle.com
+29030,besckei,besckei Heliconius,,,,descononcido,Taiozinho BRA SC,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.69754722,-49.93954167,Google Earth + Geonames
+32301,besckei,besckei Heliconius,,,,unknown,"Alto da Serra, Morretes, Curitiba BRA",,,m,,,,,Brower,,NEIL ROSSER,,-25.46666667,-48.81666667,"Falling Rain, co-ords for Morretes"
+34224,besckei,besckei Heliconius,,,,descononcido,Sao Jose del Rey BRA MG,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.13555556,-44.26166667,Geonames
+34236,besckei,besckei Heliconius,,,,descononcido,Ubatuba BRA SP,,,m,,,,,KB 1979,,NEIL ROSSER,,-23.43333333,-45.08333333,Brown
+34242,besckei,besckei Heliconius,,,,descononcido,Eldorado BRA SP,,,m,,,,,KB 1979,,NEIL ROSSER,,-24.52,-48.10805556,Geonames
+34253,besckei,besckei Heliconius,,,,descononcido,Cauna=Santa Cruz de Timbo BRA SC,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.38638889,-50.88361111,Geonames
+34257,besckei,besckei Heliconius,,,,descononcido,Anitapolis BRA SC,,,m,,,,,KB 1979,,NEIL ROSSER,,-27.90194444,-49.12861111,Geonames
+34260,besckei,besckei Heliconius,,,,descononcido,Nova Teutonia BRA SC,,,m,,,,,KB 1979,,NEIL ROSSER,,-27.05,-52.39333333,www.calle.com
+34515,besckei,besckei Heliconius,,,,descononcido,Uruguay-Alto Rio ARG MI,,,m,,,,,KB 1979,,NEIL ROSSER,,-27.25,-54.25,KB 1979
+36661,besckei,besckei Heliconius,,,,desconocido,Santa Cruz de la Sierra BOL SC,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.8,-63.16666667,Brown
+36862,besckei,besckei Heliconius,,,,desconocido,21-46a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.75,-46.25,KB 1979
+36872,besckei,besckei Heliconius,,,,desconocido,22-47a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.75,-47.25,KB 1979
+36874,besckei,besckei Heliconius,,,,desconocido,22-45a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.75,-45.25,KB 1979
+36877,besckei,besckei Heliconius,,,,desconocido,22-43a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.75,-43.25,KB 1979
+36885,besckei,besckei Heliconius,,,,desconocido,23-47a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-47.25,KB 1979
+36888,besckei,besckei Heliconius,,,,desconocido,23-45a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-45.25,KB 1979
+36892,besckei,besckei Heliconius,,,,desconocido,23-44a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-44.25,KB 1979
+36899,besckei,besckei Heliconius,,,,desconocido,23-43a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-43.25,KB 1979
+36918,besckei,besckei Heliconius,,,,desconocido,25-50a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-24.75,-50.25,KB 1979
+36922,besckei,besckei Heliconius,,,,desconocido,26-49a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.75,-49.25,KB 1979
+36926,besckei,besckei Heliconius,,,,desconocido,27-50a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.75,-50.25,KB 1979
+36931,besckei,besckei Heliconius,,,,desconocido,27-49a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.75,-49.25,KB 1979
+37241,besckei,besckei Heliconius,,,,desconocido,16-48b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.75,-47.75,KB 1979
+37263,besckei,besckei Heliconius,,,,desconocido,20-44b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.75,-43.75,KB 1979
+37279,besckei,besckei Heliconius,,,,desconocido,20-41b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.75,-40.75,KB 1979
+37287,besckei,besckei Heliconius,,,,desconocido,21-42b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.75,-41.75,KB 1979
+37292,besckei,besckei Heliconius,,,,desconocido,23-47b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-46.75,KB 1979
+37295,besckei,besckei Heliconius,,,,desconocido,23-46b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-45.75,KB 1979
+37297,besckei,besckei Heliconius,,,,desconocido,23-45b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-44.75,KB 1979
+37299,besckei,besckei Heliconius,,,,desconocido,23-44b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-43.75,KB 1979
+37304,besckei,besckei Heliconius,,,,desconocido,24-47b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-23.75,-46.75,KB 1979
+37308,besckei,besckei Heliconius,,,,desconocido,24-46b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-23.75,-45.75,KB 1979
+37312,besckei,besckei Heliconius,,,,desconocido,26-49b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.75,-48.75,KB 1979
+37315,besckei,besckei Heliconius,,,,desconocido,28-49b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-27.75,-48.75,KB 1979
+37670,besckei,besckei Heliconius,,,,desconocido,16-48c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-16.25,-48.25,KB 1979
+37678,besckei,besckei Heliconius,,,,desconocido,19-44c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.25,-44.25,KB 1979
+37692,besckei,besckei Heliconius,,,,desconocido,20-43c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.25,-43.25,KB 1979
+37709,besckei,besckei Heliconius,,,,desconocido,22-47c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.25,-47.25,KB 1979
+37715,besckei,besckei Heliconius,,,,desconocido,22-43c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.25,-43.25,KB 1979
+37720,besckei,besckei Heliconius,,,,desconocido,23-51c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-23.25,-51.25,KB 1979
+37723,besckei,besckei Heliconius,,,,desconocido,23-46c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-23.25,-46.25,KB 1979
+37739,besckei,besckei Heliconius,,,,desconocido,25-50c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.25,-50.25,KB 1979
+37743,besckei,besckei Heliconius,,,,desconocido,25-49c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.25,-49.25,KB 1979
+37745,besckei,besckei Heliconius,,,,desconocido,26-51c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.25,-51.25,KB 1979
+37750,besckei,besckei Heliconius,,,,desconocido,26-49c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.25,-49.25,KB 1979
+37754,besckei,besckei Heliconius,,,,desconocido,30-51c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-30.25445,-51.31559,Google Earth
+38239,besckei,besckei Heliconius,,,,desconocido,20-44d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.25,-43.75,KB 1979
+38250,besckei,besckei Heliconius,,,,desconocido,21-44d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.25,-43.75,KB 1979
+38262,besckei,besckei Heliconius,,,,desconocido,22-48d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.25,-47.75,KB 1979
+38271,besckei,besckei Heliconius,,,,desconocido,22-45d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.25,-44.75,KB 1979
+38276,besckei,besckei Heliconius,,,,desconocido,22-43d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.25,-42.75,KB 1979
+38282,besckei,besckei Heliconius,,,,desconocido,23-47d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-23.25,-46.75,KB 1979
+38290,besckei,besckei Heliconius,,,,desconocido,25-51d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.25,-50.75,KB 1979
+38292,besckei,besckei Heliconius,,,,desconocido,25-49d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-25.25,-48.75,KB 1979
+38296,besckei,besckei Heliconius,,,,desconocido,26-50d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.25,-49.75,KB 1979
+38303,besckei,besckei Heliconius,,,,desconocido,26-49d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.25,-48.75,KB 1979
+38308,besckei,besckei Heliconius,,,,desconocido,27-50d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-27.25,-49.75,KB 1979
+38311,besckei,besckei Heliconius,,,,desconocido,27-49d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-27.25,-48.75,KB 1979
+38533,besckei,besckei Heliconius,,,,desconocido,"Tijucas do Sul, Vossoroca BRA PN",850,850,m,,,1971,"Mielke, O.",MHNL PERU ex Peru,,NEIL ROSSER,,-25.81292778,-49.10074444,Google Earth + Geonames
+38534,besckei,besckei Heliconius,,,,desconocido,Vicosa BRA ME,648,648,m,,,1963,"Werner, Martins and Silva",MHNL PERU ex Peru,,NEIL ROSSER,,-20.75,-42.88333333,Brown
+38535,besckei,besckei Heliconius,,,,desconocido,"Rio Vermelho, Sao Bento do Sul BRA SC",850,850,m,,,1982,Rank,MHNL PERU ex Peru,,NEIL ROSSER,,-26.282575,-49.33340833,Google Earth
+38536,besckei,besckei Heliconius,,,,desconocido,"Faz. do Bonito, Serra da Bocaina, San Jose de Barreiro BRA SP",,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,-22.71169444,-44.61611111,Google Earth
+51947,besckei,besckei Heliconius,,,HYBRID - ethilla x beskei,macho,Joinville BRA SC,,,m,27,1,1985,,FLMNH,,Neil Rosser,duplicate,-26.3,-48.86666667,Brown
+53755,besckei,besckei Heliconius,,,,desconocido,Cotia Brasil,,,m,17,1,2001,"Keith S. Brown Jr., M�rcio Uehara Prado",Specieslink - SinBiota,,NEIL ROSSER,,-23.55,-46.9333,Species link
+53756,besckei,besckei Heliconius,,,,desconocido,Joan�polis Brasil,,,m,28,2,2001,"Keith S. Brown Jr., M�rcio Uehara Prado",Specieslink - SinBiota,,NEIL ROSSER,,-22.9333,-46.3,Species link
+53757,besckei,besckei Heliconius,,,,desconocido,Grota Funda Brasil,,,m,4,3,2000,"Keith S. Brown Jr., Artur F. Nishibe, Francini Osses, Viviane G. Ferro, Andr� Victor Lucci Freitas, Marcio Uehara-Prado",Specieslink - SinBiota,,NEIL ROSSER,,-23.1833,-46.5333,Species link
+53758,besckei,besckei Heliconius,,,,desconocido,Parque Natural Municipal da Serra do Itapety Brasil,,,m,23,5,2000,"Keith S. Brown Jr., Andr� V. L. Freitas, Marcio Uehara-Prado",Specieslink - SinBiota,,NEIL ROSSER,,-23.4667,-46.15,Species link
+53759,besckei,besckei Heliconius,,,,desconocido,Santa Virg�nia Brasil,,,m,14,3,2001,"Keith S. Brown Jr., Andr� V. L. Freitas, Marcio Uehara-Prado",Specieslink - SinBiota,,NEIL ROSSER,,-21.55,-48.3,Species link
+53760,besckei,besckei Heliconius,,,,desconocido,Jata� Brasil,,,m,20,2,2000,"Keith S. Brown Jr., Andr� Victor Lucci Freitas, Regina Alonso",Specieslink - SinBiota,,NEIL ROSSER,,-21.6167,-47.8167,Species link
+53761,besckei,besckei Heliconius,,,,desconocido,Campos do Jord�o Brasil,,,m,10,2,1968,"Keith S. Brown Jr., Andr� V. L. Freitas, M�rcio Uehara Prado",Specieslink - SinBiota,,NEIL ROSSER,,-22.6833,-45.4667,Species link
+53762,besckei,besckei Heliconius,,,,desconocido,Alto da Serra Brasil,,,m,13,10,2002,"Andr� V. L. Freitas, Ronaldo Francini",Specieslink - SinBiota,,NEIL ROSSER,,-23.8167,-46.5167,Species link
+53763,besckei,besckei Heliconius,,,,desconocido,Usina Salto Grande Brasil,,,m,28,10,2001,"Keith S. Brown Jr., Andr� V. L. Freitas",Specieslink - SinBiota,,NEIL ROSSER,,-22.85,-46.9,Species link
+53764,besckei,besckei Heliconius,,,,desconocido,Cotia Brasil,,,m,15,3,2000,"Keith S. Brown Jr., Andr� V. L. Freitas, M�rcio Uehara Prado",Specieslink - SinBiota,,NEIL ROSSER,,-23.55,-46.9333,Species link
+53765,besckei,besckei Heliconius,,,,desconocido,Morro Grande Brasil,,,m,23,5,2000,"Keith S. Brown Jr., Andr� V. L. Freitas, Marcio Uehara-Prado",Specieslink - SinBiota,,NEIL ROSSER,,-23.65,-46.7833,Species link
+53766,besckei,besckei Heliconius,,,,desconocido,Itapeva Brasil,,,m,24,1,2001,"Keith S. Brown Jr., Andr� V. L. Freitas, M�rcio Uehara Prado",Specieslink - SinBiota,,NEIL ROSSER,,-22.7667,-45.5167,Species link
+53767,besckei,besckei Heliconius,,,,desconocido,Reserva Estadual do Morro Grande Brasil,950,950,m,18,4,2002,"Keith Spalding Brown J�nior, Andr� Victor Lucci Freitas, Marcio Uehara Prado",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-23.666667,-47.016667,Species link
+53768,besckei,besckei Heliconius,,,,desconocido,Parque Estadual Intervales Brasil,950,1200,m,10,1,2003,"Keith Spalding Brown J�nior, Andr� Victor Lucci Freitas",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-24.266667,-48.4,Species link
+53769,besckei,besckei Heliconius,,,,desconocido,Reserva Estadual do Morro Grande Brasil,950,950,m,6,3,2001,"Keith Spalding Brown J�nior, Gustavo Schwartz",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-23.666667,-47.016667,Species link
+53770,besckei,besckei Heliconius,,,,desconocido,Fazenda S�o Sebasti�o do Ribeir�o Grande Brasil,627,627,m,8,2,2001,"Keith Spalding Brown J�nior, Marcio Uehara Prado",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-22.75,-45.466667,Species link
+53771,besckei,besckei Heliconius,,,,desconocido,Parque Estadual Intervales Brasil,950,1200,m,15,1,2002,"Keith Spalding Brown J�nior, Andr� Victor Lucci Freitas, Ronaldo Bastos Francini, Marcio Uehara Prado",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-24.266667,-48.4,Species link
+53772,besckei,besckei Heliconius,,,,desconocido,Parque Estadual de Campos do Jord�o Brasil,1800,1800,m,5,10,2002,"Andr� Victor Lucci Freitas, Marcio Uehara Prado",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-22.666667,-45.45,Species link
+53773,besckei,besckei Heliconius,,,,desconocido,Parque Estadual Intervales Brasil,950,1200,m,10,1,2003,"Keith Spalding Brown J�nior, Andr� Victor Lucci Freitas, Marcio Uehara Prado",Specieslink - ZUEC-LEP,,NEIL ROSSER,,-24.266667,-48.4,Species link
+53774,besckei,besckei Heliconius,,,,desconocido,Esta��o Ecol�gica Jata� Brasil,520,642,m,24,10,2002,Keith Spalding Brown J�nior,Specieslink - ZUEC-LEP,,NEIL ROSSER,,-21.6,-47.8,Species link
+54345,besckei,besckei Heliconius,,,,unknown,Iracambi Atlantic rainforest and conservation centre BRA,,,m,,,,,fm2.fieldmuseum.org/plantguides,,NEIL ROSSER,,-20.928872,-42.539925,iracambi website
+54789,besckei,besckei Heliconius,,,,unknown,Rio Maquine Brazil,130,850,m,,,,,Lista de esp�cies de borboletas da regi�o do vale,,NEIL ROSSER,,-29.583333,-50.266667,CH Iserhard & HP Romanowski
+54799,besckei,besckei Heliconius,,,,unknown,Carvao Brazil,130,300,m,,,,,"Lista de esp�cies de borboletas 
+da regi�o do val",,NEIL ROSSER,,-29.583333,-50.266667,
+54807,besckei,besckei Heliconius,,,,unknown,Garapina Brazil,500,500,m,,,,,"Lista de esp�cies de borboletas 
+da regi�o do val",,NEIL ROSSER,,-29.583333,-50.266667,
+54821,besckei,besckei Heliconius,,,,unknown,Serrinha Brazil,130,850,m,,,,,"Lista de esp�cies de borboletas 
+da regi�o do val",,NEIL ROSSER,,-29.583333,-50.266667,C. A. Iserhard & H. P. Romanowski

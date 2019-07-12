@@ -1,0 +1,73 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+1440,erato,erato etylus Heliconius,,,,desconocido,Zamora ECD ZC,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+6039,erato,erato etylus Heliconius,,,f. insignis,macho,Zamora ECD ZC,3000,4000,ft,,,,"Baron, O.T.",BMNH,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+6040,erato,erato etylus Heliconius,,,f. etylus,macho,"Napo, Rio Napo,  ECD",,,m,,,1927,"Spillmann, W.",BMNH,08-Sep,NEIL ROSSER,,-1.05,-77.78333333,Geonames
+6041,erato,erato etylus Heliconius,,,f. etylus,macho,Rio Verde Grande ECD TU,5000,5000,ft,,1,1912,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.4,-78.3,www.traveljournals.net
+6076,erato,erato etylus Heliconius,,,f. etylus,macho,Churuyacu ECD NA,,,m,,,,Buckley,BMNH,,NEIL ROSSER,,-0.816666667,-77.78333333,Brown
+6077,erato,erato etylus Heliconius,,,f. etylus,macho,Macas ECD MS,,,m,,2,1928,"Spillmann, W.",BMNH,,NEIL ROSSER,,-2.316666667,-78.11666667,Brown
+6078,erato,erato etylus Heliconius,,,f. etylus,macho,Gualaquiza ECD MS,,,m,,,,,BMNH,,NEIL ROSSER,,-3.416666667,-78.6,Brown
+6080,erato,erato etylus Heliconius,,,f. etylus,macho,Zamora ECD ZC,3000,4000,ft,,,,"Baron, O.T.",BMNH,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+6102,erato,erato etylus Heliconius,,,f. etylus,macho,Loja ECD LO,,,m,,,1888,,BMNH,,NEIL ROSSER,,-4,-79.21666667,Brown
+13942,erato,erato etylus Heliconius,,,transitional form,unknown,Coca Rio ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+13944,erato,erato etylus Heliconius,,,transitional form,unknown,Pastaza Rio Upper ECD,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+13945,erato,erato etylus Heliconius,,,transitional form,unknown,Macas ECD MS,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.316666667,-78.11666667,Brown
+16424,erato,erato etylus Heliconius,,,,unknown,Zumbi ECD SZ,700,700,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.891388889,-78.77861111,Geonames
+16425,erato,erato etylus Heliconius,,,,unknown,Layaico ECD ZC,1000,1000,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+16426,erato,erato etylus Heliconius,,,,unknown,Zamora ECD ZC,1000,1000,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+17061,erato,erato etylus Heliconius,,,,unknown,Macas ECD MS,,,m,,,,,NHM Accesions - draws 9062,,NEIL ROSSER,,-2.316666667,-78.11666667,Brown
+17062,erato,erato etylus Heliconius,,,,unknown,Gualaquiza ECD MS,,,m,,,,,NHM Accesions - draws 9062,,NEIL ROSSER,,-3.416666667,-78.6,Brown
+17106,erato,erato etylus Heliconius,,,,unknown,Limon 72km N of ECD,630,630,m,28,3,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-2.583333333,-78.2,label
+17107,erato,erato etylus Heliconius,,,,unknown,Limon 58km N (Rio Chupiataza) ECD,610,610,m,28,3,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-2.466666667,-78.2,label
+17108,erato,erato etylus Heliconius,,,,unknown,Limon 48km N ECD,580,580,m,27,3,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-2.633333333,-78.2,label
+17109,erato,erato etylus Heliconius,,,,unknown,Limon 24km N ECD,770,770,m,27,3,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-2.833333333,-78.31666667,label
+26207,erato,erato etylus Heliconius,,,,macho,Zamora - Loja km 8 ECD ZC,1450,1450,m,22,1,1992,,FLMNH,,Neil Rosser,,-4.034255556,-79.01561667,Google Earth
+26208,erato,erato etylus Heliconius,,,,macho,Zamora - Loja km 3 ECD ZC,1040,1040,m,25,1,1992,,FLMNH,,Neil Rosser,,-4.052280556,-78.97896667,Google Earth
+26209,erato,erato etylus Heliconius,,,,macho,Zamora - Loja km 8 ECD ZC,1450,1450,m,22,1,1992,,FLMNH,,Neil Rosser,,-4.034255556,-79.01561667,Google Earth
+26210,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,980,980,m,28,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26211,erato,erato etylus Heliconius,,,,hembra,Zamora ECD ZC,1000,1000,m,27,1,1992,"Buche, M.",FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26212,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,980,980,m,21,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26213,erato,erato etylus Heliconius,,,,hembra,Zamora ECD ZC,980,980,m,24,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26214,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26215,erato,erato etylus Heliconius,,,,hembra,Zamora ECD ZC,1000,1000,m,27,1,1992,"Buche, M.",FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26216,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26217,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,980,980,m,28,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26218,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26219,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,980,980,m,28,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26220,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,"Buche, M.",FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26221,erato,erato etylus Heliconius,,,,hembra,Zamora ECD ZC,1000,1000,m,27,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26222,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26223,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,980,980,m,20,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26224,erato,erato etylus Heliconius,,,,hembra,Zamora ECD ZC,,,m,,11,1989,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26225,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,"Buche, M.",FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26226,erato,erato etylus Heliconius,,,,hembra,Namirez ECD ZC,900,900,m,26,1,1992,"Buche, M.",FLMNH,,Neil Rosser,,-3.955,-78.84833333,Map
+26227,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,1000,1000,m,27,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26228,erato,erato etylus Heliconius,,,,hembra,Zamora ECD ZC,980,980,m,28,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26229,erato,erato etylus Heliconius,,,,macho,Zamora ECD ZC,980,980,m,28,1,1992,,FLMNH,,Neil Rosser,,-4.066666667,-78.96666667,Brown
+26230,erato,erato etylus Heliconius,,,,macho,Macas ECD MS,950,950,m,30,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+26231,erato,erato etylus Heliconius,,,,hembra,Macas ECD MS,,,m,30,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+26232,erato,erato etylus Heliconius,,,,macho,Macas ECD MS,950,950,m,30,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+26233,erato,erato etylus Heliconius,,,,macho,Gualaquiza ECD MS,900,900,m,5,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-3.416666667,-78.6,Brown
+26234,erato,erato etylus Heliconius,,,,macho,Santiago de Mendez ECU San,950,950,m,2,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-2.715644444,-78.3177,Google Earth
+26235,erato,erato etylus Heliconius,,,,macho,Santiago de Mendez ECD MS,800,800,m,12,10,1997,"Neild, A.",FLMNH,,Neil Rosser,,-2.715644444,-78.3177,Google Earth
+26236,erato,erato etylus Heliconius,,,,macho,Santiago de Mendez km 20 - 43 ECD MS,850,850,m,15,10,1997,"Neild, A.",FLMNH,,Neil Rosser,,-2.857286111,-78.23497778,Google Earth
+26237,erato,erato etylus Heliconius,,,,hembra,Santiago de Mendez ECD MS,800,800,m,12,10,1997,"Neild, A.",FLMNH,,Neil Rosser,,-2.715644444,-78.3177,Google Earth
+33860,erato,erato etylus Heliconius,,,,macho,Old Zamora Road ECD ZC,,,m,9,12,2006,,Jiggins,,NEIL ROSSER,,-3.966675,-79.05941944,Google Earth
+33861,erato,erato etylus Heliconius,,,,macho,"Macas, west of ECD MS",,,m,10,12,2006,,Jiggins,,NEIL ROSSER,,-2.304225,-78.16154167,Jiggins
+33862,erato,erato etylus Heliconius,,,,macho,"Macas, west of ECD MS",,,m,10,12,2006,,Jiggins,,NEIL ROSSER,,-2.304225,-78.16154167,Jiggins
+36519,erato,erato etylus Heliconius,,,,desconocido,3-78a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-78.25,KB 1979
+36986,erato,erato etylus Heliconius,,,,desconocido,3-79b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-78.75,KB 1979
+36993,erato,erato etylus Heliconius,,,,desconocido,4-79b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-78.75,KB 1979
+37373,erato,erato etylus Heliconius,,,,desconocido,2-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-78.25,KB 1979
+37857,erato,erato etylus Heliconius,,,,desconocido,3-79d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-78.75,KB 1979
+42830,erato,erato etylus Heliconius,,,,macho,Condor Cordillera del P.V. 32 PER AM,,,m,23,Noviembre,2003,"Grados, J., A.Asenjo",MHNL PERU,23.xi.03,Lidia Sulca,,-4.016667,-78.4,Lamas Rapid assessment program report
+43008,erato,erato etylus Heliconius,,,,macho,Kegkem Qbda. PER AM,,,m,19,Noviembre,2003,"Grados, J., A.Asenjo",MHNL PERU,19.xi.03,Lidia Sulca,,-3.633333333,-78.3,Lamas Paper
+54968,erato,erato etylus Heliconius,,,,macho,"Parque Nacional Sangay: Mendez, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-2.716666667,-78.4,Parque Nacional Sangay Website
+55047,erato,erato etylus Heliconius,,,,macho,"Parque Nacional Sangay: Sevilla, Macas",,,m,,,,,Parque Nacional Sangay ZZZ,17_fev �,NEIL ROSSER,,-2.316666667,-78.08333333,Parque Nacional Sangay Website
+55098,erato,erato etylus Heliconius,,,,macho,"Parque Nacional Sangay: Rio Tutamangosa, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,30 aout �,NEIL ROSSER,,-2.466666667,-78.2,Parque Nacional Sangay Website
+55110,erato,erato etylus Heliconius,,,,macho,"Parque Nacional Sangay: Rio Miriumi, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,6_sep �,NEIL ROSSER,,-2.433333333,-78.2,Parque Nacional Sangay Website
+55996,erato,erato etylus Heliconius,,,,,R�o Quimi Ecuador Zamora-Chinchipe,900,900,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-3.5,-78.63333333,TABD record
+56001,erato,erato etylus Heliconius,,,,,R�o Bomboiza Ecuador Morona-Santiago,850,850,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-3.433333333,-78.53333333,TABD record
+56005,erato,erato etylus Heliconius,,,,,R�o Bomboiza Ecuador Morona-Santiago,850,850,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-3.433333333,-78.53333333,TABD record
+56006,erato,erato etylus Heliconius,,,,,Quebrada de Chorillos Ecuador Zamora-Chinchipe,1250,1600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.058333333,-78.99388889,GPS
+56032,erato,erato etylus Heliconius,,,,,R�o Bombuscara Ecuador Zamora-Chinchipe,1146,1200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.108,-78.959,TABD record
+56036,erato,erato etylus Heliconius,,,,,R�o Bombuscara Ecuador Zamora-Chinchipe,1146,1200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.108,-78.959,TABD record

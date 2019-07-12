@@ -1,0 +1,166 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+3780,cydno,cydno cydnides Heliconius,,,,macho,Pereira distrito de COL RI,,,m,,,1886,"Valencia, R.M.",BMNH,,NEIL ROSSER,,4.816666667,-75.71666667,Brown
+3781,cydno,cydno cydnides Heliconius,,,,macho,Manizales COL CD,,,m,,,,"Pati�o, A.M.",BMNH,,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+3784,cydno,cydno cydnides Heliconius,,,,macho,Popayan COL CC,,,m,,,,,BMNH,,NEIL ROSSER,,2.45,-76.6,Brown
+3787,cydno,cydno cydnides Heliconius,,,,hembra,Pereira distrito de COL RI,,,m,,,1886,"Valencia, R.M.",BMNH,,NEIL ROSSER,,4.816666667,-75.71666667,Brown
+3788,cydno,cydno cydnides Heliconius,,,,hembra,Manizales COL CD,,,m,,,,"Pati�o, A.M.",BMNH,,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+3791,cydno,cydno cydnides Heliconius,,,,hembra,Popayan COL CC,,,m,,,1897,,BMNH,,NEIL ROSSER,,2.45,-76.6,Brown
+3792,cydno,cydno cydnides Heliconius,,,,hembra,Calima Rio COL VC,,,m,7,3,1968,Kieffer,BMNH,,NEIL ROSSER,,3.933333333,-76.51666667,Brown
+3794,cydno,cydno cydnides Heliconius,,,f. subcydnides,macho,Antigua,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+3795,cydno,cydno cydnides Heliconius,,,f. subcydnides,macho,Frontino COL AN,,,m,,,,"Salmon, T.K.",BMNH,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+3796,cydno,cydno cydnides Heliconius,,,f. subcydnides,macho,Frontino COL AN,,,m,,,,"Salmon, T.K.",BMNH,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+3800,cydno,cydno cydnides Heliconius,,,f. werneri,macho,Cali COL VC,1000,1000,?,,,,,BMNH,,NEIL ROSSER,,3.45,-76.51666667,Brown
+3801,cydno,cydno cydnides Heliconius,,,f. subcydnides,hembra,Frontino COL AN,,,m,,,,"Salmon, T.K.",BMNH,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+3802,cydno,cydno cydnides Heliconius,,,f. subcydnides,hembra,Frontino COL AN,,,m,,,,"Salmon, T.K.",BMNH,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+9273,cydno,cydno cydnides Heliconius,,,f. werneri,macho,Calima Valley 45km w of Buga COL VC,,,m,,8,,,MGCL/FLMNH,1921? 1990?1998?,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9274,cydno,cydno cydnides Heliconius,,,f. albidior / werneri,hembra,Calima COL VC,,,m,,4,1985,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.933333333,-76.51666667,www.calle.com
+9275,cydno,cydno cydnides Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,,2,1989,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9276,cydno,cydno cydnides Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,,8,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9346,cydno,cydno cydnides Heliconius,,,f. werneri,hembra,Calima Dam COL VC,,,m,30,11,1973,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+9347,cydno,cydno cydnides Heliconius,,,f. werneri,macho,Calima Dam COL VC,,,m,30,11,1973,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+9351,cydno,cydno cydnides Heliconius,,,,hembra,Calima Lago COL VC,1400,1400,m,22,10,1983,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,3.883333333,-76.6,Brown
+9352,cydno,cydno cydnides Heliconius,,,,macho,Calima Lago COL VC,1400,1400,m,22,10,1983,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,3.883333333,-76.6,Brown
+9353,cydno,cydno cydnides Heliconius,,,,macho,Calima Dam COL VC,,,m,29,10,1983,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+9354,cydno,cydno cydnides Heliconius,,,,macho,Calima Dam COL VC,,,m,30,11,1973,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+14690,cydno,cydno cydnides Heliconius,,,,unknown,Bravo Rio COL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.893055556,-76.62166667,NIMA
+16003,cydno,cydno cydnides Heliconius,,,,unknown,Manizales COL CD,1900,1900,m,,,,Salazar / Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+16004,cydno,cydno cydnides Heliconius,,,,unknown,"Alto Bonito, Manizales  COL CD",1900,1900,m,,,,Salazar / Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.116666667,-75.5,Geonames
+16005,cydno,cydno cydnides Heliconius,,,,unknown,El Aguila Qbda COL CD,1900,1900,m,,,,Salazar / Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.104069444,-75.50922778,Google Earth
+16006,cydno,cydno cydnides Heliconius,,,,unknown,"Alto Bonito, Manizales  COL CD",,,m,,,,Salazar / Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.116666667,-75.5,Geonames
+16007,cydno,cydno cydnides Heliconius,,,,unknown,Cosumbo River x Pital River COL VC,900,900,m,,,1984,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16009,cydno,cydno cydnides Heliconius,,,,unknown,Calima - Tal COL VC,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,3.89205,-76.500779,Brown
+16805,cydno,cydno cydnides Heliconius,,,,unknown,Manizales COL CD,,,m,,,,"Pati�o, A.M.",NHM Accessions - Swinhoe draw 7550,,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+18928,cydno,cydno cydnides Heliconius,,,,macho,Cali COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18929,cydno,cydno cydnides Heliconius,,,,hembra,Cali COL VC,,,m,8,Jul,1973,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18930,cydno,cydno cydnides Heliconius,,,,hembra,Calima Rio COL VC,,,m,,,1983,,FLMNH,,Samuel Landrian,,3.933333333,-76.51666667,Brown
+18931,cydno,cydno cydnides Heliconius,,,,macho,Calima Rio COL VC,,,m,,,1983,,FLMNH,,Samuel Landrian,,3.933333333,-76.51666667,Brown
+18932,cydno,cydno cydnides Heliconius,,,,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18933,cydno,cydno cydnides Heliconius,,,,macho,Cali COL VC,,,m,15,Jul,1973,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18934,cydno,cydno cydnides Heliconius,,,,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18935,cydno,cydno cydnides Heliconius,,,,macho,Cali COL VC,,,m,3,Mar,1974,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18936,cydno,cydno cydnides Heliconius,,,,macho,El Aguila COL VA,,,m,,Oct,1988,Salazar,FLMNH,,Samuel Landrian,,4.909166667,-76.04305556,Geonames
+18937,cydno,cydno cydnides Heliconius,,,,macho,Guacaica Rio COL CA,,,m,,Aug,1993,Salazar,FLMNH,,Samuel Landrian,,5.106858333,-75.61037222,google Earth
+18938,cydno,cydno cydnides Heliconius,,,,hembra,Guacaica Rio COL CA,,,m,,Aug,1993,Salazar,FLMNH,,Samuel Landrian,,5.106858333,-75.61037222,google Earth
+18939,cydno,cydno cydnides Heliconius,,,,macho,Calima Rio COL VC,,,m,,,1983,,FLMNH,,Samuel Landrian,,3.933333333,-76.51666667,Brown
+29164,cydno,cydno cydnides Heliconius,,,,descononcido,Roldanillo COL VC,,,m,,,,,KB 1979,,NEIL ROSSER,,4.414722222,-76.15472222,Geonames
+33521,cydno,cydno cydnides Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33522,cydno,cydno cydnides Heliconius,,,,hembra,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33523,cydno,cydno cydnides Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33524,cydno,cydno cydnides Heliconius,,,,hembra,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33525,cydno,cydno cydnides Heliconius,,,,hembra,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33526,cydno,cydno cydnides Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33527,cydno,cydno cydnides Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,8,6,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33528,cydno,cydno cydnides Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33529,cydno,cydno cydnides Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+34966,cydno,cydno cydnides Heliconius,,,,desconocido,5-76a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-76.25,KB 1979
+35443,cydno,cydno cydnides Heliconius,,,,desconocido,6-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-75.75,KB 1979
+35493,cydno,cydno cydnides Heliconius,,,,desconocido,5-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-75.75,KB 1979
+35514,cydno,cydno cydnides Heliconius,,,,desconocido,4-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-75.75,KB 1979
+35549,cydno,cydno cydnides Heliconius,,,,desconocido,3-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-76.75,KB 1979
+35571,cydno,cydno cydnides Heliconius,,,,desconocido,2-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-76.75,KB 1979
+35991,cydno,cydno cydnides Heliconius,,,,desconocido,4-76c N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.25,KB 1979
+36367,cydno,cydno cydnides Heliconius,,,,desconocido,4-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.75,KB 1979
+50658,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50659,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50660,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50661,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50662,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,27,Jan,1974,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50663,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL Vc,,,m,27,Jan,1974,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50664,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,13,May,1971,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50665,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50666,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL Vc,,,m,4,Mar,1974,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50667,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50668,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50669,cydno,cydno cydnides Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL Vc,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50670,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,15,Oct,1988,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50671,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50672,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Calima Rio COL VC,,,m,,,1983,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50673,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Bravo Rio COL VC,900,1100,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50674,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50675,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Calima Rio COL VC,,,m,,,1983,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50676,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50677,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50678,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50679,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Calima Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50680,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Calima Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50681,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50682,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50683,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50684,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50685,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Calima Rio COL VC,,,m,,Feb,1986,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50686,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50687,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50688,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50689,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50690,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,2531,Sep,1969,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50691,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50692,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50693,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50694,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50695,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50696,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Calima Rio COL VC,,,m,17,Jun,1988,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50697,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Calima Rio COL VC,,,m,,,1983,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50698,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Bravo Rio COL VC,,,m,Oct-20,May,1988,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50699,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Bravo Rio COL VC,,,m,Oct-20,May,1988,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50700,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50701,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50703,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,24,May,1974,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50704,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50705,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50706,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,1000,m,3,Sep,1967,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50707,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50708,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50709,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50710,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50711,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Bravo Rio COL VC,,,m,Oct-20,May,1986,,FLMNH,,Samuel Landrian,duplicate,3.893055556,-76.62166667,NIMA
+50712,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50713,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,10,Sep,1969,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50714,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Cali COL VC,,,m,25,Sep,1969,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50715,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50716,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Cali COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50717,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,31,Sep,1969,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50718,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50719,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.55,-76.65,Brown
+50720,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Cali COL VC,,,m,10,Jun,1973,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50721,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Cali COL VC,,,m,24,May,1974,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50722,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,3,Jan,1970,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50723,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Cali COL VC,,,m,15,May,1972,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50724,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50725,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50726,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50727,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50728,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Calima Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50729,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50730,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50731,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Cali COL VC,,,m,9,Oct,1973,,FLMNH,,Samuel Landrian,duplicate,3.45,-76.51666667,Brown
+50732,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Calima Rio COL VC,,,m,,Feb,1988,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50733,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50734,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50735,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50736,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Calima Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,duplicate,3.933333333,-76.51666667,Brown
+50737,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50738,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50739,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50740,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50741,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50742,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50743,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50744,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50745,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,hembra,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50746,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+50747,cydno,cydno cydnides Heliconius,,,zelinde x cydnides,macho,Rio Calima Near Rio Bravo COL VC,,,m,,May-Aug,1988,,FLMNH,,Samuel Landrian,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+59805,cydno,cydno cydnides Heliconius,,,,unknown,Circasia COL QU,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,4.61889,-75.63583,Geonames
+59806,cydno,cydno cydnides Heliconius,,,,unknown,Manizales COL CD,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+60264,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_325,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.594154,-75.17051,LeCrom
+60265,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_326,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.520979,-75.431847,LeCrom
+60266,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_327,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.228281,-75.679247,LeCrom
+60267,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_328,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.754388,-75.383064,LeCrom
+60268,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_329,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.379968,-75.373128,LeCrom
+60269,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_330,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.080083,-75.49661,LeCrom
+60270,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_331,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.005111,-75.717114,LeCrom
+60271,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_332,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.836794,-76.268557,LeCrom
+60272,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_333,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.713311,-75.733835,LeCrom
+60273,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_334,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.499078,-75.922332,LeCrom
+60274,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_335,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.162121,-76.300013,LeCrom
+60275,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_336,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.826335,-76.42446,LeCrom
+60276,cydno,cydno cydnides Heliconius,,,,unknown,LeCrom_337,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.743233,-76.636557,LeCrom

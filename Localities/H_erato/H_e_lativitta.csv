@@ -1,0 +1,493 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+811,erato,erato lativitta Heliconius,,,,desconocido,Benjamin Constant BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.383333333,-70.03333333,Brown
+833,erato,erato lativitta Heliconius,,,,desconocido,Branco Rio BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-67.36666667,NIMA
+1000,erato,erato lativitta Heliconius,,,,desconocido,Fonte Boa BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.516666667,-66.08333333,Brown
+1043,erato,erato lativitta Heliconius,,,,desconocido,Jaru BRA RO,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.45,-62.03333333,Brown
+1100,erato,erato lativitta Heliconius,,,,desconocido,Manacapuru BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.299722222,-60.62055556,Geonames
+1239,erato,erato lativitta Heliconius,,,,desconocido,Rio Morona PER LOR,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.733091667,-77.06576944,Google Earth
+1337,erato,erato lativitta Heliconius,,,,desconocido,Sao Paulo de Olivenca BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+1354,erato,erato lativitta Heliconius,,,,desconocido,Sena Madureira BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-9.083333333,-68.68333333,Brown
+1363,erato,erato lativitta Heliconius,,,,desconocido,Tarauaca BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.15,-70.76666667,Brown
+1380,erato,erato lativitta Heliconius,,,,desconocido,Tonantins BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.866666667,-67.8,Brown
+1478,erato,erato lativitta Heliconius,,,,descononcido,Manaus - Porto Velho km245 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.710997222,-61.29129167,Google Earth
+1532,erato,erato lativitta Heliconius,,,,descononcido,Manaus - Porto Velho km507 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.432655556,-62.86500833,Google Earth
+1535,erato,erato lativitta Heliconius,,,,descononcido,Manaus - Porto Velho km 519 BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.520902778,-62.92588889,Google Earth
+1588,erato,erato lativitta Heliconius,,,,descononcido,Banheiro - Igarape BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.516666667,-63,Wikipedia (Type locality)
+1607,erato,erato lativitta Heliconius,,,,descononcido,"Humaita, - a Labrea km 32 BRA AM",,,m,,,,,KB 1979,,NEIL ROSSER,,-7.535577778,-63.1536,Google Earth
+1613,erato,erato lativitta Heliconius,,,,descononcido,"Humaita 20km E, - 25km E BRA AM",,,m,,,,,KB 1979,,NEIL ROSSER,,-7.561475,-62.85452778,Google Earth
+1645,erato,erato lativitta Heliconius,,,,descononcido,Santo Antonio falls above BRA RO,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.808238889,-63.94455833,Google Earth
+6036,erato,erato lativitta Heliconius,HT,"ochracea Heliconius erato (Heliconius, H.H. Riffarth 1907)",f. ochracea,macho,Pastaza Rio Upper ECD,1000,1000,m,,,,,BMNH,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+6037,erato,erato lativitta Heliconius,,,f. ochracea,macho,Apuya ECD NA,550,550,m,15,5,1993,"Neild, A.",BMNH,,NEIL ROSSER,,-1.105,-77.77833333,Map
+6103,erato,erato lativitta Heliconius,,,,macho,Lago Agrio ECD SU,250,250,m,30,11,1977,"Samson, C.P.J.",BMNH,,NEIL ROSSER,,0.111111111,-76.91111111,Geonames
+6104,erato,erato lativitta Heliconius,,,,macho,Osayacu ECD NA,1000,1000,m,3,11,1977,"Samson, C.P.J.",BMNH,,NEIL ROSSER,,-0.766666667,-77.78333333,Falling Rain
+6105,erato,erato lativitta Heliconius,,,,macho,Misahualli ECD NA,500,500,m,3,11,1977,"Samson, C.P.J.",BMNH,,NEIL ROSSER,,-0.95,-77.8,Brown
+6106,erato,erato lativitta Heliconius,,,,macho,Coca ECD NA,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-0.466666667,-76.98333333,Brown
+6107,erato,erato lativitta Heliconius,,,,macho,Archidona ECD NA,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-0.916666667,-77.8,Brown
+6108,erato,erato lativitta Heliconius,,,,hembra,Aguano ECD NA,,,m,,,,Simson,BMNH,,NEIL ROSSER,,-1.066666667,-77.55,Brown
+6109,erato,erato lativitta Heliconius,,,,hembra,Coca ECD NA,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-0.466666667,-76.98333333,Brown
+6112,erato,erato lativitta Heliconius,,,,macho,Pebas PER LO,,,m,,,,Michael,BMNH,1/10/1896 - 1/3/1897,NEIL ROSSER,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+6114,erato,erato lativitta Heliconius,,,,macho,Rentema Falls PER AM,1000,1000,ft,,,,"Pratt, A. & E.",BMNH,,NEIL ROSSER,,-5.483333333,-78.55,"Gerardo Lamas, unpub. gazetteer"
+6119,erato,erato lativitta Heliconius,,,,hembra,Maranon Rio PER ??,,,m,,,1913,,BMNH,,NEIL ROSSER,,-4.433333333,-73.45,"Gerardo Lamas, unpub. gazetteer"
+6133,erato,erato lativitta Heliconius,,,,macho,Guajara-Mirim BOL BE,,,m,4,10,1929,"Fountaine, M.",BMNH,,NEIL ROSSER,,-10.8,-65.38333333,Geonames
+6134,erato,erato lativitta Heliconius,,,,macho,"Santo Paulo, Amazones",,,m,,,1878,"Mathan, M. de",BMNH,"8bre, 9bre",NEIL ROSSER,,-3.45,-68.8,Falling Rain
+6136,erato,erato lativitta Heliconius,,,,macho,Fonte Boa BRA AM,,,m,,7,1907,"Klages, S.M.",BMNH,,NEIL ROSSER,,-2.516666667,-66.08333333,Brown
+6137,erato,erato lativitta Heliconius,,,,macho,Teffe BRA AM,,,m,,,1879,"Mathan, M. de",BMNH,2nd Trimestre,NEIL ROSSER,,-3.366666667,-64.73333333,Brown
+6139,erato,erato lativitta Heliconius,,,,macho,Sena Madureira BRA AC,,,m,,12,1913,"Wickham, E.H.W.",BMNH,,NEIL ROSSER,,-9.083333333,-68.68333333,Brown
+6140,erato,erato lativitta Heliconius,,,,macho,San Antonio falls above Rio Madeira BRA RO,,,m,,,1913,"Moffat, R.U.",BMNH,15/9 - 31/10,NEIL ROSSER,,-8.866666667,-64.05,Brown
+6141,erato,erato lativitta Heliconius,,,,macho,Humayta BRA AM,,,m,,,1906,"Hoffmanns, W.",BMNH,07-Sep,NEIL ROSSER,,-7.509722222,-63.02,NIMA
+6142,erato,erato lativitta Heliconius,,,,macho,Manicore BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-5.816666667,-61.28333333,Brown
+6143,erato,erato lativitta Heliconius,ST,"lativitta Heliconius erato (Heliconius, A.G. Butler 1877)",,macho,Boa Vista - Rio Maderia BRA AM,,,m,1,6,1874,,BMNH,,NEIL ROSSER,,-5.1,-60.4,
+6144,erato,erato lativitta Heliconius,,,,macho,Porto Velho dist. BRA RO,,,m,,,,"Moss, A.M.",BMNH,02-Mar,NEIL ROSSER,,-8.761944444,-63.90388889,Geonames
+6146,erato,erato lativitta Heliconius,,,,hembra,Sao Paulo de Olivenca BRA AM,,,m,,1,1933,Waehner,BMNH,,NEIL ROSSER,,-3.466666667,-68.95,Brown
+6147,erato,erato lativitta Heliconius,,,,hembra,San Joas BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-3.416666667,-68.48333333,Brown
+6148,erato,erato lativitta Heliconius,ST,"lativitta Heliconius erato (Heliconius, A.G. Butler 1877)",,hembra,Ega BRA AM,,,m,,,,Bates,BMNH,,NEIL ROSSER,,-3.366666667,-64.7,www.calle.com
+6149,erato,erato lativitta Heliconius,,,,hembra,Santa Maria dos Marmelos BRA AM,,,m,,5,1913,"Wickham, E.H.W.",BMNH,,NEIL ROSSER,,-6.116666667,-61.85,NIMA
+6151,erato,erato lativitta Heliconius,,,f. perplexa,macho,Mocoa COL PU,,,m,,10,1927,,BMNH,,NEIL ROSSER,,1.15,-76.61666667,Brown
+6152,erato,erato lativitta Heliconius,,,f. anactorina,macho,Estrella COL ??,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+6604,erato,erato lativitta Heliconius,,,trans. lativitta / reductimacula. Ssp NA - amended 1.12.09,macho,Florida COL AM,,,m,,4,1932,"Klug, G.G.",BMNH,,NEIL ROSSER,,-1.133333333,-73.91666667,Brown
+6605,erato,erato lativitta Heliconius,,,trans. lativitta / reductimacula. Ssp NA - amended 1.12.09,macho,Pebas PER LO,,,m,,,,Hauxwell,BMNH,,NEIL ROSSER,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+6606,erato,erato lativitta Heliconius,,,trans. lativitta / reductimacula. Ssp NA - amended 1.12.09,macho,Iquitos PER LO,,,m,,7,1932,"Klug, G.G.",BMNH,,NEIL ROSSER,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+6607,erato,erato lativitta Heliconius,,,trans. lativitta / reductimacula. Ssp NA - amended 1.12.09,macho,Uaupes Rio PER,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+14011,erato,erato lativitta Heliconius,,,,unknown,Coca Rio ECD NA,300,300,m,,,1971,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-76.75,Brown 1979
+14012,erato,erato lativitta Heliconius,,,,unknown,La Mascota ECD TU,1200,1200,m,,,1970,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.385,-78.21,Map
+14013,erato,erato lativitta Heliconius,,,,unknown,Ega BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.366666667,-64.7,www.calle.com
+14014,erato,erato lativitta Heliconius,,,,unknown,Venezia via ECD NA,550,550,m,,,1971,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.041272222,-77.699025,http://www.umsl.edu/~renners/siparuna/book.html + Google Earth
+16154,erato,erato lativitta Heliconius,,,,unknown,Pano ECD NA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.033333333,-77.86666667,Brown
+16155,erato,erato lativitta Heliconius,,,,unknown,Latas ECD NA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+16156,erato,erato lativitta Heliconius,,,,unknown,Puyo ECD PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+16157,erato,erato lativitta Heliconius,,,,unknown,Apuyo ECD NA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.105,-77.77833333,Map
+16158,erato,erato lativitta Heliconius,,,Hybrid form - ochracea,unknown,Latas ECD NA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+16407,erato,erato lativitta Heliconius,,,"f. ochracea?. Originally entered as erato notabilis Heliconius, amended in light of form.",unknown,Pumayacu Rio Macas ECD MS,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.316666667,-78.11666667,Geonames
+16408,erato,erato lativitta Heliconius,,,"f. ochracea?. Originally entered as erato notabilis Heliconius, amended in light of form.",unknown,Puerto Misahualli ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+16409,erato,erato lativitta Heliconius,,,"f. ochracea?. Originally entered as erato notabilis Heliconius, amended in light of form.",unknown,Puerto Napo ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.05,-77.78333333,Brown
+16461,erato,erato lativitta Heliconius,,,,unknown,Latas ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+16463,erato,erato lativitta Heliconius,,,,unknown,Limoncocha ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.4,-76.61666667,www.calle.com
+16465,erato,erato lativitta Heliconius,,,,unknown,Huagrayacu Rio ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.01666667,Brown
+16467,erato,erato lativitta Heliconius,,,,unknown,Explorama (Lodge) PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+16469,erato,erato lativitta Heliconius,,,,unknown,Explorama (Lodge) Bushmaster Trail PER LO,360,360,ft,,,1989,"Emmel, T.C.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+16470,erato,erato lativitta Heliconius,,,,unknown,"Orajones Julian Village, 5mi up Sucasani River Explorama Camp PER LO",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+16471,erato,erato lativitta Heliconius,,,,unknown,Explorama (Lodge) PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+16472,erato,erato lativitta Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+16473,erato,erato lativitta Heliconius,,,,unknown,Iquitos PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+16490,erato,erato lativitta Heliconius,,,Was labelled erato reductimacula Heliconius - JM said error - probably hydara x lativitta,unknown,San Jose del Guaviare COL GV,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.567222222,-72.63777778,www.calle.com
+16519,erato,erato lativitta Heliconius,,,,unknown,Puerto Misahualli ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.66666667,www.calle.com
+16520,erato,erato lativitta Heliconius,,,,unknown,Puyo - Arajuno rd km 37 ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.368333333,-77.70166667,Pinas db
+16521,erato,erato lativitta Heliconius,,,,unknown,Iquitos 50 mi e PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+16522,erato,erato lativitta Heliconius,,,,unknown,Iquitos PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+16523,erato,erato lativitta Heliconius,,,,unknown,Tena ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+16524,erato,erato lativitta Heliconius,,,,unknown,Pumayacu Rio Macas ECD MS,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.316666667,-78.11666667,Geonames
+16525,erato,erato lativitta Heliconius,,,,unknown,"Jungle Amazon Inn, 30mi E of Iquitos PER LO",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.486825,-73.00515,Google Earth
+16526,erato,erato lativitta Heliconius,,,,unknown,Pumayacu Rio Macas ECD MS,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.316666667,-78.11666667,Geonames
+16527,erato,erato lativitta Heliconius,,,,unknown,Rio Napo - Misahualli ECD NA,1700,1700,ft,,,1998,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.033333333,-77.66666667,Geonames
+16528,erato,erato lativitta Heliconius,,,,unknown,Leticia COL AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-4.2,-69.93333333,Brown
+16529,erato,erato lativitta Heliconius,,,,unknown,Tena - Puyo km 20 ECD NA,600,600,m,,,1994,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.128180556,-77.82231389,Google Earth
+16530,erato,erato lativitta Heliconius,,,,unknown,Puyo - Arajuno rd km 42 ECD PA,1000,1000,m,,,2000,godefroi and busby,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.330338889,-77.70990278,Google Earth
+16531,erato,erato lativitta Heliconius,,,,unknown,Limoncocha ECD NA,240,240,m,,,1980,Covell,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.4,-76.61666667,www.calle.com
+16532,erato,erato lativitta Heliconius,,,Appeared as erato luscombei Heliconius - assumed error see map notes,unknown,Explornapo (Camp) PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.25,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+16533,erato,erato lativitta Heliconius,,,Appeared as erato luscombei Heliconius - assumed error see map notes,unknown,Explorama (Lodge) PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+16534,erato,erato lativitta Heliconius,,,Appeared as erato luscombei Heliconius - assumed error see map notes,unknown,Iquitos 3km WNW between Rumacocha and Sta Cruz PER LO,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.726886111,-73.27822778,Google Earth
+17112,erato,erato lativitta Heliconius,,,,unknown,Coca (Bristow) ECD NA,350,350,m,3,5,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-0.5,-77,label
+27529,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,1,1994,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27530,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Rio Castanho BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.822222222,-60.3675,Google Earth
+27531,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Cujubim-BRA-Ro,,,m,,,1991,,FLMNH,,Neil Rosser,,-9.362777778,-62.58527778,Geonames
+27532,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27533,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manacapuru BRA AM,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27534,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27535,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manaus - Manacapuru km4,,,m,31,7,1990,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27536,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manaus - Manacapuru km4,,,m,,10,1991,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27537,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manaus - Manacapuru km4,,,m,31,7,1990,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27538,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manaus - Manacapuru km4,,,m,27,9,1995,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27539,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manaus - Manacapuru km4,,,m,27,9,1995,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27540,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27541,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27542,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27543,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27544,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27545,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27546,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27547,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27548,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Rio Curupira-BRA-Amazonas,,,m,,6,1991,,FLMNH,,Neil Rosser,,,,unknown
+27549,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Rio Curupira-BRA-Amazonas,,,m,,6,1991,,FLMNH,,Neil Rosser,,,,unknown
+27550,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27551,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manaus - Manacapuru km4,,,m,27,9,1995,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27552,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manaus - Manacapuru km4,,,m,31,7,1990,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27553,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manaus - Manacapuru km4,,,m,27,9,1995,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27554,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manaus - Manacapuru km4,,,m,27,9,1995,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27555,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27556,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27557,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27558,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27559,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27560,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27561,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Carvoeiro BRA AM,,,m,26,6,1992,,FLMNH,,Neil Rosser,,-1.383333333,-62,Geonames
+27562,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Manacapuru BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.299722222,-60.62055556,Geonames
+27563,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Carvoeiro BRA AM,,,m,,6,1992,,FLMNH,,Neil Rosser,,-1.383333333,-62,Geonames
+27564,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Moura BRA AM,,,m,,11,1991,,FLMNH,,Neil Rosser,,-1.45,-61.63333333,Neuk enq
+27565,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Manaus - Manacapuru km4,,,m,27,9,1996,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27566,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Carvoeiro BRA AM,,,m,,6,1992,,FLMNH,,Neil Rosser,,-1.383333333,-62,Geonames
+27567,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27568,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tefe BRA AM,,,m,8,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27569,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tefe BRA AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27570,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27571,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27572,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27573,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tefe BRA AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27574,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tefe BRA AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27575,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Amatura-Bra-Amazonas,,,m,,11,1993,,FLMNH,,Neil Rosser,,-3.364166667,-68.19777778,Geonames
+27576,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27577,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27578,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Maraa BRA AM,,,m,,10,1993,,FLMNH,,Neil Rosser,,-1.833333333,-65.36666667,Label
+27579,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Rio Solimoes Sao Joao BRA AM,,,m,20,11,1993,,FLMNH,,Neil Rosser,,,,unknown
+27580,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Rio Solimoes Sao Joao BRA AM,,,m,18,11,1993,,FLMNH,,Neil Rosser,,,,unknown
+27581,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,8,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27582,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,100,100,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27583,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,100,100,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27584,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,100,100,m,,8,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27585,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27586,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,100,100,m,,8,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27587,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27588,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,,,m,,1,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27589,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27590,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,100,100,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27591,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,95,95,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27592,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,,,m,,2,1981,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27593,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,,,m,,4,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27594,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,7,1988,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27595,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,1,1983,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27596,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27597,erato,erato lativitta Heliconius,,,,hembra,Iquitos PER LO,,,m,,1,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27598,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27599,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27600,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27601,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,6,1992,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27602,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27603,erato,erato lativitta Heliconius,,,,macho,Iquitos PER LO,,,m,,2,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27604,erato,erato lativitta Heliconius,,,,macho,Nuevo Remanso PER LO,,,m,,7,1995,,FLMNH,,Neil Rosser,,-4.216666667,-70.03333333,Label
+27605,erato,erato lativitta Heliconius,,,,macho,Nuevo Remanso PER LO,,,m,,7,1995,,FLMNH,,Neil Rosser,,-4.216666667,-70.03333333,Label
+27606,erato,erato lativitta Heliconius,,,,macho,Pebas PER LO,,,m,,7,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27607,erato,erato lativitta Heliconius,,,,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27608,erato,erato lativitta Heliconius,,,,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27609,erato,erato lativitta Heliconius,,,,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27610,erato,erato lativitta Heliconius,,,,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27611,erato,erato lativitta Heliconius,,,,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27612,erato,erato lativitta Heliconius,,,,hembra,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27613,erato,erato lativitta Heliconius,,,,hembra,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27614,erato,erato lativitta Heliconius,,,,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27615,erato,erato lativitta Heliconius,,,,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27616,erato,erato lativitta Heliconius,,,,hembra,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27617,erato,erato lativitta Heliconius,,,,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27618,erato,erato lativitta Heliconius,,,,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27619,erato,erato lativitta Heliconius,,,,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27620,erato,erato lativitta Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,6,6,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+27621,erato,erato lativitta Heliconius,,,,macho,Sao Paulo de Olivenca BRA AM,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+27622,erato,erato lativitta Heliconius,,,,hembra,Tonantins BRA AM,,,m,24,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27623,erato,erato lativitta Heliconius,,,,hembra,Tonantins BRA AM,,,m,1,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27624,erato,erato lativitta Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+27625,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27626,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27627,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27628,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27629,erato,erato lativitta Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+27630,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27631,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27632,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27633,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27634,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27635,erato,erato lativitta Heliconius,,,,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+27636,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,,,"Zoller, W.",FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27637,erato,erato lativitta Heliconius,,,,hembra,Alvaraes BRA AM,,,m,,1,1993,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+27638,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,,,"Zoller, W.",FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27639,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,9,10,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27640,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27641,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27642,erato,erato lativitta Heliconius,,,,hembra,Tefe BRA AM,,,m,,3,1993,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27643,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,12,1995,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27644,erato,erato lativitta Heliconius,,,,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27645,erato,erato lativitta Heliconius,,,,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27646,erato,erato lativitta Heliconius,,,,macho,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27647,erato,erato lativitta Heliconius,,,,hembra,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27648,erato,erato lativitta Heliconius,,,,hembra,Amatura-Bra-Amazonas,,,m,,11,1993,,FLMNH,,Neil Rosser,,-3.364166667,-68.19777778,Geonames
+27649,erato,erato lativitta Heliconius,,,,hembra,Tamaniqua BRA AM,,,m,,12,1993,,FLMNH,,Neil Rosser,,-2.633333333,-65.73333333,Geonames
+27650,erato,erato lativitta Heliconius,,,,macho,Leticia COL AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27651,erato,erato lativitta Heliconius,,,,macho,Leticia COL AM,,,m,,3,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27652,erato,erato lativitta Heliconius,,,,hembra,Leticia COL AM,,,m,,5,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27653,erato,erato lativitta Heliconius,,,,macho,Manaus - Manacapuru km4,,,m,31,7,1990,,FLMNH,,Neil Rosser,,-3.177775,-60.11434444,Google Earth
+27654,erato,erato lativitta Heliconius,,,,macho,Paricatuba BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.116666667,-60.45,Neuk enq
+27655,erato,erato lativitta Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,7,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27656,erato,erato lativitta Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27657,erato,erato lativitta Heliconius,,,,macho,Rio Canuma-BRA-Amazonas,,,m,,9,1991,,FLMNH,,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+27658,erato,erato lativitta Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,1,1994,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27659,erato,erato lativitta Heliconius,,,,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27660,erato,erato lativitta Heliconius,,,,hembra,Rio Castanho BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.822222222,-60.3675,Google Earth
+27661,erato,erato lativitta Heliconius,,,,macho,Tefe BRA AM,,,m,,10,1996,,FLMNH,,Neil Rosser,,-3.366666667,-64.73333333,Brown
+27662,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27663,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27664,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27665,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27666,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27667,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27668,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27669,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Autazes BRA AM,,,m,,10,1994,,FLMNH,,Neil Rosser,,-3.579722222,-59.13055556,Geonames
+27670,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Maues BRA AM,,,m,,10,1994,,FLMNH,,Neil Rosser,,-3.366666667,-57.71666667,Brown
+27671,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27672,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27673,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27674,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,10,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27675,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27676,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27677,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27678,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27679,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,10,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27680,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Rio Canuma-BRA-Amazonas,,,m,,9,1991,,FLMNH,,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+27681,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Rio Canuma-BRA-Amazonas,,,m,,9,1991,,FLMNH,,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+27682,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27683,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,6,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27684,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27685,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27686,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27687,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,2,1993,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27688,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Alvaraes BRA AM,,,m,4,10,1995,,FLMNH,,Neil Rosser,,-3.220833333,-64.80416667,Geonames
+27689,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Foz do Jutal-BRA Amazonas,,,m,,10,1993,,FLMNH,,Neil Rosser,,-2.733333333,-66.95,Geonames
+27690,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Sao Paulo de Olivenca BRA AM,,,m,8,6,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+27691,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Sao Paulo de Olivenca BRA AM,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+27692,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Sao Paulo de Olivenca BRA AM,,,m,,6,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+27693,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Sao Paulo de Olivenca BRA AM,,,m,,8,1994,,FLMNH,,Neil Rosser,,-3.466666667,-68.95,Brown
+27694,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tonantins BRA AM,,,m,,11,1991,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27695,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tonantins BRA AM,,,m,26,8,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27696,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tonantins BRA AM,,,m,6,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27697,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tonantins BRA AM,,,m,13,9,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27698,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tonantins BRA AM,,,m,3,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27699,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Tonantins BRA AM,,,m,9,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27700,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Tonantins BRA AM,,,m,10,10,1992,,FLMNH,,Neil Rosser,,-2.866666667,-67.8,Brown
+27701,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Sucusari Rio PER LO,,,m,,3,1996,,FLMNH,,Neil Rosser,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+27702,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Ampiyacu Rio PER LO,,,m,,3,1991,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27703,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Ampiyacu Rio PER LO,,,m,,3,1991,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27704,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27705,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27706,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27707,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27708,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Pebas PER LO,,,m,,,1992,,FLMNH,,Neil Rosser,,-3.316666667,-71.85,"Gerardo Lamas, unpub. gazetteer"
+27709,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,9,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27710,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Iquitos PER LO,,,m,,8,1982,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27711,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,10,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27712,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,1,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27713,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,11,1990,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27714,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,100,100,m,,8,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27715,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,2,1986,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27716,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,8,1991,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27717,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Iquitos PER LO,,,m,,10,1989,,FLMNH,,Neil Rosser,,-3.75,-73.25,"Gerardo Lamas, unpub. gazetteer"
+27718,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Itaya Rio PER LO,,,m,,11,1990,,FLMNH,,Neil Rosser,,-3.783333333,-73.18333333,"Gerardo Lamas, unpub. gazetteer"
+27719,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Angamos PER LO,,,m,,7,1993,,FLMNH,,Neil Rosser,,-5.15,-72.88333333,"Gerardo Lamas, unpub. gazetteer"
+27720,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Leticia COL AM,,,m,,8,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27721,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,Leticia COL AM,,,m,,3,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27722,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Leticia COL AM,,,m,,3,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27723,erato,erato lativitta Heliconius,,,lativitta x reductimacula,macho,Leticia COL AM,,,m,,3,1991,,FLMNH,,Neil Rosser,,-4.2,-69.93333333,Brown
+27724,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,La Pedrera COL AM,,,m,23,4,1992,"Buche, M.",FLMNH,,Neil Rosser,,-1.3,-69.7,Brown
+27725,erato,erato lativitta Heliconius,,,lativitta x reductimacula,hembra,La Pedrera COL AM,,,m,24,5,1992,"Buche, M.",FLMNH,,Neil Rosser,,-1.3,-69.7,Brown
+27891,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Ariquemes P Velho km 50-BRA-Ron,,,m,,7,1991,,FLMNH,Oct-22,Neil Rosser,,-9.504794444,-63.08165556,Google Earth
+27892,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Ariquemes P Velho km 50-BRA-Ron,,,m,,7,1991,,FLMNH,Oct-22,Neil Rosser,,-9.504794444,-63.08165556,Google Earth
+27893,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Ariquemes P Velho km 50-BRA-Ron,,,m,,7,1991,,FLMNH,Oct-22,Neil Rosser,,-9.504794444,-63.08165556,Google Earth
+27894,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Ariquemes P Velho km 50-BRA-Ron,,,m,,7,1991,,FLMNH,Oct-22,Neil Rosser,,-9.504794444,-63.08165556,Google Earth
+27895,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Cujubim-BRA-Ro,,,m,13,7,1991,,FLMNH,,Neil Rosser,,-9.362777778,-62.58527778,Geonames
+27897,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,10,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27898,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27899,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27900,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Manicore BRA AM,,,m,,10,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27901,erato,erato lativitta Heliconius,,,lativitta x amazona,hembra,Manicore BRA AM,,,m,,11,1990,,FLMNH,,Neil Rosser,,-5.816666667,-61.28333333,Brown
+27902,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27903,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,9,1992,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27904,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Nova Olinda do Norte BRA AM,,,m,,6,1991,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+27905,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Rio Canuma-BRA-Amazonas,,,m,,6,1991,,FLMNH,,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+27906,erato,erato lativitta Heliconius,,,lativitta x amazona,macho,Rio Canuma-BRA-Amazonas,,,m,,,1991,,FLMNH,,Neil Rosser,,-4,-59.1,Mallet an Neukirchen
+28922,erato,erato lativitta Heliconius,,,,descononcido,Araxa-Fazenda-km 117 Rio Branco a Xapuri,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.59468889,-67.94141667,Google Earth
+28929,erato,erato lativitta Heliconius,,,,descononcido,Rio Branco a Xapuri km 157 BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.66836111,-68.25704444,Google Earth
+29259,erato,erato lativitta Heliconius,,,,descononcido,La Chorrera COL AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.444380556,-72.79552778,Google Earth
+32298,erato,erato lativitta Heliconius,,,,unknown,"70 km E. Ariquemes, Rondonia BRA",,,m,,,,,Brower,,NEIL ROSSER,,-9.808638889,-62.44859167,Google Earth
+32299,erato,erato lativitta Heliconius,,,,unknown,"70 km E. Ariquemes, Rondonia BRA",,,m,,,,,Brower,,NEIL ROSSER,,-9.808638889,-62.44859167,Google Earth
+32304,erato,erato lativitta Heliconius,,,,unknown,Archidona ECD NA,,,m,,,,,Brower,,NEIL ROSSER,,-0.916666667,-77.8,Brown
+32305,erato,erato lativitta Heliconius,,,,unknown,Archidona ECD NA,,,m,,,,,Brower,,NEIL ROSSER,,-0.916666667,-77.8,Brown
+32341,erato,erato lativitta Heliconius,,,,unknown,Cacaulandia BRA RO,,,m,,,,,Brower,,NEIL ROSSER,,-10.33916667,-62.89527778,Geonames
+32342,erato,erato lativitta Heliconius,,,,unknown,Cacaulandia BRA RO,,,m,,,,,Brower,,NEIL ROSSER,,-10.33916667,-62.89527778,Geonames
+32343,erato,erato lativitta Heliconius,,,,unknown,Cacaulandia BRA RO,,,m,,,,,Brower,,NEIL ROSSER,,-10.33916667,-62.89527778,Geonames
+32518,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32519,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32520,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32521,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32536,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32537,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32538,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32563,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32564,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32565,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32566,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32567,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32568,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32569,erato,erato lativitta Heliconius,,,,unknown,"Fazenda Rancho Grande (Ariquemes 62km S linha C-20, 7km E B-65) BRA RO",,,m,,,,,Brower,,NEIL ROSSER,,-10.38675278,-62.84351389,Google Earth
+32719,erato,erato lativitta Heliconius,,,Appeared as erato lativitta? Heliconius in Brower database - assumed correct as falls within lativitta's distrib,unknown,"Lago Mamori, Amazonas BRA",,,m,,,,,Brower,,NEIL ROSSER,,-3.66,-60.11472222,Google Earth
+32720,erato,erato lativitta Heliconius,,,Appeared as erato lativitta? Heliconius in Brower database - assumed correct as falls within lativitta's distrib,unknown,"Lago Mamori, Amazonas BRA",,,m,,,,,Brower,,NEIL ROSSER,,-3.66,-60.11472222,Google Earth
+32813,erato,erato lativitta Heliconius,,,,unknown,"off B-65 at Rio Pardo, Rondonia BRA",,,m,,,,,Brower,,NEIL ROSSER,,-10.39624444,-62.90131944,Google Earth
+33216,erato,erato lativitta Heliconius,,,,descononcido,El Encanto COL AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.766666667,-73.2,Geonames
+33239,erato,erato lativitta Heliconius,,,,descononcido,Brasileia BRA AC,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.01611111,-68.74805556,Geonames
+34055,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,17,11,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34056,erato,erato lativitta Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,22,11,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34057,erato,erato lativitta Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,22,11,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34058,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,27,11,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34059,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,7,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34060,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,7,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34061,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,7,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34062,erato,erato lativitta Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,7,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34063,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,8,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34064,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,9,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34065,erato,erato lativitta Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,9,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34066,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,9,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34067,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,9,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34068,erato,erato lativitta Heliconius,,,,macho,Anangu Boca del Rio ECD OR,220,300,m,10,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34069,erato,erato lativitta Heliconius,,,,hembra,Anangu Boca del Rio ECD OR,220,300,m,13,12,2005,,Jiggins,,NEIL ROSSER,,-0.5287,-76.3948,Jiggins
+34070,erato,erato lativitta Heliconius,,,,macho,"Baeza, in river by cementerio, ECD",1800,1800,m,,,,,Jiggins,,NEIL ROSSER,,-0.460955556,-77.90275556,Google Earth
+34071,erato,erato lativitta Heliconius,,,,macho,"San Raphael Falls, Baeza-Lago Agrio ECD NA",,,m,,,,,Jiggins,,NEIL ROSSER,,-0.096666667,-77.58166667,Map
+34290,erato,erato lativitta Heliconius,,,,descononcido,Coari BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.085,-63.14139,Geonames
+34295,erato,erato lativitta Heliconius,,,,descononcido,Nova Olinda BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.5825,-64.33638889,Geonames
+34296,erato,erato lativitta Heliconius,,,,descononcido,Boa Vista - Rio Maderia BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.1,-60.4,
+34305,erato,erato lativitta Heliconius,,,,descononcido,Eirunepe - San Felipe BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.660277778,-69.87361111,Geonames
+34406,erato,erato lativitta Heliconius,,,,descononcido,La Sombra to El Encanto COL AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-73.25,KB 1979
+34487,erato,erato lativitta Heliconius,,,,descononcido,Preto-Igarape-Territorio Ticunas BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-69.75,KB 1979
+34508,erato,erato lativitta Heliconius,,,,descononcido,Tapiche Rio Upper PER LO,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.75,-73.75,KB 1979
+34544,erato,erato lativitta Heliconius,,,,descononcido,Duda Rio COL ME,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-74.25,KB 1979
+34568,erato,erato lativitta Heliconius,,,,descononcido,Peneya Rio COL CA,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-75.25,KB 1979
+34577,erato,erato lativitta Heliconius,,,,descononcido,Rio Solimoes Sao Joao BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,,,unknown
+34589,erato,erato lativitta Heliconius,,,,descononcido,Madre de Dios Rio BOL PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.25,-67.25,KB 1979
+35050,erato,erato lativitta Heliconius,,,,desconocido,1-75a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-75.25,KB 1979
+35066,erato,erato lativitta Heliconius,,,,desconocido,0-77a N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-77.25,KB 1979
+35609,erato,erato lativitta Heliconius,,,,desconocido,1-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-76.75,KB 1979
+36414,erato,erato lativitta Heliconius,,,,desconocido,3-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-73.75,KB 1979
+36426,erato,erato lativitta Heliconius,,,,desconocido,2-76d N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.75,-75.75,KB 1979
+36435,erato,erato lativitta Heliconius,,,,desconocido,1-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-76.75,KB 1979
+36466,erato,erato lativitta Heliconius,,,,desconocido,4-70a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-70.25,KB 1979
+36545,erato,erato lativitta Heliconius,,,,desconocido,4-73a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-73.25,KB 1979
+36552,erato,erato lativitta Heliconius,,,,desconocido,5-78a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.75,-78.25,KB 1979
+36636,erato,erato lativitta Heliconius,,,,desconocido,11-65a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-65.25,KB 1979
+36722,erato,erato lativitta Heliconius,,,,desconocido,4-59a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-59.25,KB 1979
+36745,erato,erato lativitta Heliconius,,,,desconocido,6-61a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-61.25,KB 1979
+36760,erato,erato lativitta Heliconius,,,,desconocido,8-72a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-72.25,KB 1979
+36786,erato,erato lativitta Heliconius,,,,desconocido,9-63a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-63.25,KB 1979
+36940,erato,erato lativitta Heliconius,,,,desconocido,3-70b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-69.75,KB 1979
+36970,erato,erato lativitta Heliconius,,,,desconocido,1-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-77.75,KB 1979
+36980,erato,erato lativitta Heliconius,,,,desconocido,2-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-77.75,KB 1979
+37003,erato,erato lativitta Heliconius,,,,desconocido,5-74b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.75,-73.75,KB 1979
+37074,erato,erato lativitta Heliconius,,,,desconocido,"Carmen, Madre de Dios BOL",,,m,,,,,KB 1979,,NEIL ROSSER,,-11.68333333,-67.85,Geonames
+37165,erato,erato lativitta Heliconius,,,,desconocido,5-67b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.75,-66.75,KB 1979
+37180,erato,erato lativitta Heliconius,,,,desconocido,8-73b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-72.75,KB 1979
+37189,erato,erato lativitta Heliconius,,,,desconocido,9-73b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-72.75,KB 1979
+37197,erato,erato lativitta Heliconius,,,,desconocido,9-64b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.75,-63.75,KB 1979
+37209,erato,erato lativitta Heliconius,,,,desconocido,11-69b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.75,-68.75,KB 1979
+37356,erato,erato lativitta Heliconius,,,,desconocido,1-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-78.25,KB 1979
+37380,erato,erato lativitta Heliconius,,,,desconocido,3-73c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-73.25,KB 1979
+37390,erato,erato lativitta Heliconius,,,,desconocido,5-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.25,-78.25,KB 1979
+37484,erato,erato lativitta Heliconius,,,,desconocido,10-65c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-65.25,KB 1979
+37600,erato,erato lativitta Heliconius,,,,desconocido,3-60c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-60.25,KB 1979
+37641,erato,erato lativitta Heliconius,,,,desconocido,10-67c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.25,-67.25,KB 1979
+37765,erato,erato lativitta Heliconius,,,,desconocido,0-75d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-74.75,KB 1979
+37786,erato,erato lativitta Heliconius,,,,desconocido,4-70d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-69.75,KB 1979
+37820,erato,erato lativitta Heliconius,,,,desconocido,0-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-77.75,KB 1979
+37832,erato,erato lativitta Heliconius,,,,desconocido,0-77d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-76.75,KB 1979
+37849,erato,erato lativitta Heliconius,,,,desconocido,1-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-77.75,KB 1979
+37870,erato,erato lativitta Heliconius,,,,desconocido,3-72d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-71.75,KB 1979
+37878,erato,erato lativitta Heliconius,,,,desconocido,4-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-77.75,KB 1979
+38107,erato,erato lativitta Heliconius,,,,desconocido,3-65d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-64.75,KB 1979
+38124,erato,erato lativitta Heliconius,,,,desconocido,4-60d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-59.75,KB 1979
+38652,erato,erato lativitta Heliconius,,,,desconocido,Latas ECD NA,500,500,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.033333333,-77.73333333,Geonames
+43116,erato,erato lativitta Heliconius,,,,macho,Buenos Aires PER LO,,,m,3,Octubre,1975,"Lobin, W.",MHNL PERU,3.x.75,Lidia Sulca,,-3.75,-73.18333333,"Gerardo Lamas, unpub. gazetteer"
+43117,erato,erato lativitta Heliconius,,,,macho,Bartra PER LO,,,m,15,Setiembre,1979,"D�az, C.",MHNL PERU,15.ix.79,Lidia Sulca,,-2.516666667,-75.76666667,www.calle.com
+43118,erato,erato lativitta Heliconius,,,,macho,Yarana PER LO,,,m,11,Noviembre,1990,"Lequerica, H.",MHNL PERU,11.xi.90,Lidia Sulca,,-4.098611111,-70.64027778,Geonames
+43119,erato,erato lativitta Heliconius,,,,macho,Yanamono PER LO,,,m,22,Julio,1984,"Lamas, G., J. Mallet",MHNL PERU,22.vii.84,Lidia Sulca,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+43120,erato,erato lativitta Heliconius,,,,macho,Callicebus Estacion Biologica PER LO,,,m,19,Enero,1980,"Lamas, G.",MHNL PERU,19.i.80,Lidia Sulca,,-3.9,-73.48333333,"Gerardo Lamas, unpub. gazetteer"
+43121,erato,erato lativitta Heliconius,,,,macho,Castana PER LO,,,m,18,Octubre,1993,"Robbins, R.K.",MHNL PERU,18.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43122,erato,erato lativitta Heliconius,,,,macho,Arcadia PER LO,,,m,6,Noviembre,1993,"Lamas, G.",MHNL PERU,6.xi.93,Lidia Sulca,,-0.989444444,-75.30916667,Label
+43123,erato,erato lativitta Heliconius,,,,macho,Castana PER LO,,,m,29,Octubre,1993,"Lamas, G.",MHNL PERU,29.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43124,erato,erato lativitta Heliconius,,,,macho,Castana PER LO,,,m,29,Octubre,1993,"Lamas, G.",MHNL PERU,29.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43125,erato,erato lativitta Heliconius,,,,macho,Arcadia PER LO,,,m,6,Noviembre,1993,"Lamas, G.",MHNL PERU,6.xi.93,Lidia Sulca,,-0.989444444,-75.30916667,Label
+43126,erato,erato lativitta Heliconius,,,,macho,Arcadia PER LO,,,m,,,,"Robbins, R.K.",MHNL PERU,8.xi.93,Lidia Sulca,,-0.989444444,-75.30916667,Label
+43127,erato,erato lativitta Heliconius,,,,macho,Arcadia PER LO,,,m,6,Noviembre,1993,"Lamas, G.",MHNL PERU,6.xi.93,Lidia Sulca,,-0.989444444,-75.30916667,Label
+43128,erato,erato lativitta Heliconius,,,,macho,Castana PER LO,,,m,23,Octubre,1993,"Robbins, R.K.",MHNL PERU,23.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43129,erato,erato lativitta Heliconius,,,,macho,Aguas Negras PER LO,,,m,1,Marzo,1994,"Robbins, R",MHNL PERU,1.iii.94,Lidia Sulca,,-0.516666667,-75.25,"Gerardo Lamas, unpub. gazetteer"
+43130,erato,erato lativitta Heliconius,,,,macho,Aguas Negras PER LO,,,m,8,Marzo,1994,"Lamas, G",MHNL PERU,8.iii.94,Lidia Sulca,,-0.516666667,-75.25,"Gerardo Lamas, unpub. gazetteer"
+43131,erato,erato lativitta Heliconius,,,non project specimen,macho,Aguas Negras PER LO,,,m,3,Marzo,1994,"Lamas, G; Robbins, R",MHNL PERU,3.iii.94,Lidia Sulca,,-0.516666667,-75.25,"Gerardo Lamas, unpub. gazetteer"
+43132,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,18,Setiembre,1995,"Lamas, G.",MHNL PERU,18.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43133,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,18,Setiembre,1995,"Lamas, G.",MHNL PERU,18.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43134,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,14,Setiembre,1995,"Grados, J.",MHNL PERU,14.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43135,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,22,Setiembre,1995,"Grados, J.",MHNL PERU,22.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43136,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,22,Setiembre,1995,"Lamas, G.",MHNL PERU,22.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43137,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,18,Setiembre,1995,"Lamas, G.",MHNL PERU,18.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43138,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,10,Setiembre,1995,"Lamas, G.",MHNL PERU,10.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43139,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,5,Setiembre,1995,"Grados, J.",MHNL PERU,5.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43140,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,18,Setiembre,1995,"Lamas, G.",MHNL PERU,18.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43141,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,15,Setiembre,1995,"Robbins, R.K.",MHNL PERU,15.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43142,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,19,Setiembre,1995,"Harvey, D.J.",MHNL PERU,19.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43143,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,9,Setiembre,1995,"Lamas, G.",MHNL PERU,9.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43144,erato,erato lativitta Heliconius,,,,macho,Sucusari Rio PER LO,,,m,17,Setiembre,1995,"Lamas, G.",MHNL PERU,17.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43145,erato,erato lativitta Heliconius,,,,macho,Allpahuayo - Mishana Zona Res PER LO,,,m,17,Noviembre,2001,"Ram�rez, J.J.",MHNL PERU,17.xi.01,Lidia Sulca,,-3.958333333,-73.425,Label
+43146,erato,erato lativitta Heliconius,,,,macho,Allpahuayo - Mishana Zona Res PER LO,,,m,28,Noviembre,2001,"Campos, L.",MHNL PERU,28.xi.01,Lidia Sulca,,-3.958333333,-73.425,Label
+43147,erato,erato lativitta Heliconius,,,,macho,Allpahuayo - Mishana Zona Res PER LO,,,m,30,Noviembre,2001,"Ram�rez, J.J.",MHNL PERU,30.xi.01,Lidia Sulca,,-3.958333333,-73.425,Label
+43148,erato,erato lativitta Heliconius,,,,macho,Allpahuayo - Mishana Zona Res PER LO,,,m,9,Agosto,2001,"Campos, L.",MHNL PERU,9.viii.01,Lidia Sulca,,-3.958333333,-73.425,Label
+43149,erato,erato lativitta Heliconius,,,,hembra,Quistococha PER LO,,,m,1,Junio,1983,"Lamas, G",MHNL PERU,1.vi.83,Lidia Sulca,,-3.833333333,-73.31666667,"Gerardo Lamas, unpub. gazetteer"
+43150,erato,erato lativitta Heliconius,,,,macho,Quistococha PER LO,,,m,7,Julio,1984,"Lamas, G",MHNL PERU,7.vii.84,Lidia Sulca,,-3.833333333,-73.31666667,"Gerardo Lamas, unpub. gazetteer"
+43151,erato,erato lativitta Heliconius,,,,hembra,Quistococha PER LO,,,m,11,Junio,1983,"Lamas, G",MHNL PERU,11.vi.83,Lidia Sulca,,-3.833333333,-73.31666667,"Gerardo Lamas, unpub. gazetteer"
+43152,erato,erato lativitta Heliconius,,,,hembra,Yanamono PER LO,,,m,27,Julio,1984,"Lamas, G., J. Mallet",MHNL PERU,27.vii.84,Lidia Sulca,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+43153,erato,erato lativitta Heliconius,,,,hembra,Callicebus Estacion Biologica PER LO,,,m,9,Enero,1980,"Lamas, G.",MHNL PERU,9.i.80,Lidia Sulca,,-3.9,-73.48333333,"Gerardo Lamas, unpub. gazetteer"
+43154,erato,erato lativitta Heliconius,,,,hembra,Puerto Almendras PER LO,,,m,9,Noviembre,1994,"Lamas, G.",MHNL PERU,9.xi.94,Lidia Sulca,,-3.833333333,-73.38333333,"Gerardo Lamas, unpub. gazetteer"
+43155,erato,erato lativitta Heliconius,,,,hembra,Castana PER LO,,,m,18,Octubre,1993,"Lamas, G.",MHNL PERU,18.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43156,erato,erato lativitta Heliconius,,,,hembra,Arcadia PER LO,,,m,10,Noviembre,1993,"Lamas, G.",MHNL PERU,10.xi.93,Lidia Sulca,,-0.989444444,-75.30916667,Label
+43157,erato,erato lativitta Heliconius,,,,hembra,Castana PER LO,,,m,19,Octubre,1993,"Lamas, G.",MHNL PERU,19.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43158,erato,erato lativitta Heliconius,,,,hembra,Castana PER LO,,,m,28,Octubre,1993,"Lamas, G.",MHNL PERU,28.x.93,Lidia Sulca,,-0.8,-75.23333333,"Gerardo Lamas, unpub. gazetteer"
+43159,erato,erato lativitta Heliconius,,,,hembra,Yanamono PER LO,,,m,24,Setiembre,1995,"Grados, J.",MHNL PERU,24.ix.95,Lidia Sulca,,-3.45,-72.85,"Gerardo Lamas, unpub. gazetteer"
+43160,erato,erato lativitta Heliconius,,,Non project specimen,hembra,Aguas Negras PER LO,,,m,3,Marzo,1994,,MHNL PERU,3.iii.94,Lidia Sulca,,-0.516666667,-75.25,"Gerardo Lamas, unpub. gazetteer"
+43161,erato,erato lativitta Heliconius,,,,hembra,Aguas Negras PER LO,,,m,6,Marzo,1994,Non project specimen,MHNL PERU,6.iii.94,Lidia Sulca,,-0.516666667,-75.25,"Gerardo Lamas, unpub. gazetteer"
+43162,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,14,Setiembre,1995,"Lamas, G.",MHNL PERU,14.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43163,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,9,Setiembre,1995,"Grados, J.",MHNL PERU,9.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43164,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,23,Setiembre,1995,"Harvey, D.J.",MHNL PERU,23.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43165,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,8,Setiembre,1995,"Lamas, G.",MHNL PERU,8.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43166,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,13,Setiembre,1995,"Grados, J.",MHNL PERU,13.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43167,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,14,Setiembre,1995,"Robbins, R.K.",MHNL PERU,14.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43168,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,19,Setiembre,1995,"Grados, J.",MHNL PERU,19.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43169,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,9,Setiembre,1995,"Robbins, R.K.",MHNL PERU,9.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43170,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,23,Setiembre,1995,"Harvey, D.J.",MHNL PERU,23.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43171,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,11,Setiembre,1995,"Grados, J.",MHNL PERU,11.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43172,erato,erato lativitta Heliconius,,,,hembra,Sucusari Rio PER LO,,,m,12,Setiembre,1995,"Robbins, R.K.",MHNL PERU,12.ix.95,Lidia Sulca,,-3.233333333,-72.91666667,"Gerardo Lamas, unpub. gazetteer"
+43173,erato,erato lativitta Heliconius,,,,hembra,Allpahuayo - Mishana Zona Res PER LO,,,m,21,Octubre,2001,"Ram�rez, J.J.",MHNL PERU,21.x.01,Lidia Sulca,,-3.958333333,-73.425,Label
+43174,erato,erato lativitta Heliconius,,,,hembra,Allpahuayo - Mishana Zona Res PER LO,,,m,7,Noviembre,2001,"Campos, L.",MHNL PERU,7.xii.01,Lidia Sulca,,-3.958333333,-73.425,Label
+51363,erato,erato lativitta Heliconius,,,trans. amazona / lativitta,macho,Tabatinga BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,duplicate,-4.266666667,-69.93333333,Brown
+51364,erato,erato lativitta Heliconius,,,trans. amazona / lativitta,macho,Santa Caterina BRA,,,m,,6,1913,,BMNH,,NEIL ROSSER,duplicate,,,unknown
+51365,erato,erato lativitta Heliconius,,,trans. amazona / lativitta,macho,Sao Paulo de Olivenca BRA AM,,,m,,7,1934,Waehner,BMNH,,NEIL ROSSER,duplicate,-3.466666667,-68.95,Brown
+51366,erato,erato lativitta Heliconius,,,trans. amazona / lativitta,macho,Araras BRA RO,,,m,4,6,1874,,BMNH,,NEIL ROSSER,duplicate,-10.45,-64.15,Falling Rain
+51367,erato,erato lativitta Heliconius,,,trans. amazona / lativitta,hembra,Humayta BRA AM,,,m,,,1906,"Hoffmanns, W.",BMNH,07-Sep,NEIL ROSSER,duplicate,-7.509722222,-63.02,NIMA
+51368,erato,erato lativitta Heliconius,,,trans. amazona / lativitta,hembra,San Antonio falls above Rio Madeira BRA RO,,,m,,,1913,"Moffat, R.U.",BMNH,15/9 - 31/10,NEIL ROSSER,duplicate,-8.866666667,-64.05,Brown
+54233,erato,erato lativitta Heliconius,,,"Lista preliminar de las mariposas diurnas Lepidoptera : Rhopalocera que habitan en el departamento del Putumayo. Notas sobre la distribuci�n en la zona andina SALAZAR ESCOBAR, Juli�n A.",desconocido,Putumayo Colombia,,,m,,,,,Specieslink - FPR-Colombia,,NEIL ROSSER,,,,
+54980,erato,erato lativitta Heliconius,,,,macho,"Parque Nacional Sangay: rio Shankaime, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.95,-77.86666667,Parque Nacional Sangay Website
+54607,erato,erato lativitta Heliconius,,,,unknown,Jatun Sacha ECD,400,450,m,,,,,"Journal of Research on the Lepidoptera 35:42�60, 1",,NEIL ROSSER,,-1.066666667,-77.6,http://www.jatunsacha.org/texto1.php?id_submenu1=4&id_menu=3&id_submenu2=1
+54891,erato,erato lativitta Heliconius,,,,unknown,"Yasuni Research Station, ECD NA",200,500,m,,,,,Temporal abundance patterns of butterfl y communit,,NEIL ROSSER,,-0.671388889,-76.40055556,http://www.biologia.puce.edu.ec/natura.php?c=226&inPMAIN=2
+55605,erato,erato lativitta Heliconius,,,,,Finca San Carlo Ecuador Napo,600,600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.0875,-77.77833333,Map
+55809,erato,erato lativitta Heliconius,,,,female,"Napo Wildlife Center, Napo trail Ecuador Orellana",240,240,m,16,10,2005,K. Willmott,FLMNH TABD ZZZ,,NEIL ROSSER,,-0.509722222,-76.43694444,GPS
+55817,erato,erato lativitta Heliconius,,,,female,Boca del R�o Ana�gu Ecuador Orellana,240,300,m,13,12,2005,K. Willmott,FLMNH TABD ZZZ,,NEIL ROSSER,,-0.528611111,-76.39472222,GPS
+55886,erato,erato lativitta Heliconius,,,,,Sadsayacu Ecuador Napo,700,650,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.183333333,-77.83333333,TABD record
+55892,erato,erato lativitta Heliconius,,,,,Km 45 v�a Puyo - Arajuno Ecuador Pastaza,1000,1000,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.216666667,-77.66666667,TABD record
+55898,erato,erato lativitta Heliconius,,,,,Km 45 v�a Puyo - Arajuno Ecuador Pastaza,1000,1000,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.216666667,-77.66666667,TABD record
+55917,erato,erato lativitta Heliconius,,,,,Sadsayacu Ecuador Napo,700,650,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.183333333,-77.83333333,TABD record
+55923,erato,erato lativitta Heliconius,,,,,Apuya Ecuador Napo,600,600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.105,-77.77833333,Map
+55924,erato,erato lativitta Heliconius,,,,,Km 45 v�a Puyo - Arajuno Ecuador Pastaza,1000,1000,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.216666667,-77.66666667,TABD record
+55995,erato,erato lativitta Heliconius,,,,,Aguas Negras Ecuador Sucumb�os,200,200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.05,-75.95,TABD record
+55997,erato,erato lativitta Heliconius,,,,,nr. Lago Agrio Ecuador Orellana,250,250,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.111111111,-76.91111111,Geonames
+55998,erato,erato lativitta Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56000,erato,erato lativitta Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+56002,erato,erato lativitta Heliconius,,,,,Palma Oriente Ecuador Napo,1200,1200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.333333333,-77.01666667,TABD record
+56003,erato,erato lativitta Heliconius,,,,,Shushufindi Ecuador Orellana,250,250,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.033333333,-77.13333333,TABD record
+56007,erato,erato lativitta Heliconius,,,,,Jatun Sacha Ecuador Napo,450,450,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.05,-77.58483333,TABD record
+59875,erato,erato lativitta Heliconius,,,,unknown,Mocoa COL PU,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,1.15,-76.61666667,Brown
+59876,erato,erato lativitta Heliconius,,,,unknown,Puerto Narino COL AM,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,-3.75,-70.36666667,Brown
+60532,erato,erato lativitta Heliconius,,,,unknown,LeCrom_593,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.411838,-74.746226,LeCrom
+60533,erato,erato lativitta Heliconius,,,,unknown,LeCrom_594,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.202236,-75.125505,LeCrom
+60534,erato,erato lativitta Heliconius,,,,unknown,LeCrom_595,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.779706,-75.335107,LeCrom
+60535,erato,erato lativitta Heliconius,,,,unknown,LeCrom_596,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,1.357464,-76.506972,LeCrom
+60536,erato,erato lativitta Heliconius,,,,unknown,LeCrom_597,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,0.433573,-76.461871,LeCrom
+60537,erato,erato lativitta Heliconius,,,,unknown,LeCrom_598,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,0.515266,-77.174333,LeCrom
+60538,erato,erato lativitta Heliconius,,,,unknown,LeCrom_599,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,-3.798496,-70.430225,LeCrom
+60539,erato,erato lativitta Heliconius,,,,unknown,LeCrom_600,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,-3.926679,-69.965562,LeCrom

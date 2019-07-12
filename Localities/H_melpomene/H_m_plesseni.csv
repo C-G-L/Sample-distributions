@@ -1,0 +1,386 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+5509,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,Alpayacu ECD PA,3600,3600,ft,,6,1910,,BMNH,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+5510,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,Pastaza Rio Upper ECD PA,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.538391667,-78.06732222,Google Earth
+5511,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,Banos ECD TU,,,m,,,,Gomez,BMNH,,NEIL ROSSER,,-1.4,-78.41666667,Brown
+5512,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,Machay Hda ECU TU,,,m,,,,Stolzmann,BMNH,,NEIL ROSSER,,-1.4,-78.26666667,Geonames
+5513,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,Achiyacu Rio ECD NA,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-1.011666667,-77.905,Map
+5515,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,Puyo ECD PA,3100,3100,ft,,11,1910,,BMNH,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+5516,melpomene,melpomene plesseni Heliconius,,,f. corona,macho,Topo Rio ECD TU,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+5517,melpomene,melpomene plesseni Heliconius,,,,macho,Partidero ECD PA,800,800,m,25,7,1935,,BMNH,,NEIL ROSSER,,-1.433333333,-77.98333333,Brown
+5518,melpomene,melpomene plesseni Heliconius,ST,"pura Heliconius melpomene (Heliconius, F.W. Niepelt 1907)",,hembra,Pastaza Rio Upper ECD PA,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.538391667,-78.06732222,Google Earth
+5523,melpomene,melpomene plesseni Heliconius,ST,"niepelti Heliconius melpomene (Heliconius, H.H. Riffarth 1907)",,macho,Pastaza Rio Upper ECD PA,,,m,,,,,BMNH,,NEIL ROSSER,,-1.538391667,-78.06732222,Google Earth
+10551,melpomene,melpomene plesseni Heliconius,,,,hembra,Tigre Rio ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+10552,melpomene,melpomene plesseni Heliconius,,,,hembra,Huagrayacu Rio ECD PA,900,900,m,17,4,1941,Macintyre,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.01666667,Brown
+10553,melpomene,melpomene plesseni Heliconius,,,,hembra,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10554,melpomene,melpomene plesseni Heliconius,,,,hembra,Topo ECD TU,,,m,8,3,1962,SHO,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+10555,melpomene,melpomene plesseni Heliconius,,,,hembra,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10556,melpomene,melpomene plesseni Heliconius,,,,hembra,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10557,melpomene,melpomene plesseni Heliconius,,,,macho,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10558,melpomene,melpomene plesseni Heliconius,,,,macho,Sadzayacu ECD OR,,,m,,11,1967,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.183333333,-77.83333333,unrecorded - darwin_ecuador_MECN
+10559,melpomene,melpomene plesseni Heliconius,,,,macho,Blanco Rio ECD TU,,,m,,10,1964,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.383333333,-78.33333333,Brown
+10561,melpomene,melpomene plesseni Heliconius,,,,macho,Arajuno Rio ECD NA,1000,1000,m,23,4,1941,"McIntyre, W.C.",MGCL/FLMNH,,NEIL ROSSER,,-1.233333333,-77.7,Brown
+10562,melpomene,melpomene plesseni Heliconius,,,,macho,Huagrayacu Rio ECD PA,900,900,m,16,4,1941,"McIntyre, W.C.",MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.01666667,Brown
+10563,melpomene,melpomene plesseni Heliconius,,,,macho,Sadzayacu ECD OR,,,m,,11,1967,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.183333333,-77.83333333,unrecorded - darwin_ecuador_MECN
+10564,melpomene,melpomene plesseni Heliconius,,,,macho,Sadzayacu ECD OR,,,m,,11,1967,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.183333333,-77.83333333,unrecorded - darwin_ecuador_MECN
+10566,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+10568,melpomene,melpomene plesseni Heliconius,,,,macho,Alpayacu ECD PA,3600,3600,ft,,7,1910,,MGCL/FLMNH,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+10570,melpomene,melpomene plesseni Heliconius,,,,macho,Pastaza Rio Upper ECD,1000,1000,m,,,,Niepelt,MGCL/FLMNH,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+10572,melpomene,melpomene plesseni Heliconius,,,,macho,Arajuno Rio ECD NA,1000,1000,m,23,4,1941,"McIntyre, W.C.",MGCL/FLMNH,,NEIL ROSSER,,-1.233333333,-77.7,Brown
+10573,melpomene,melpomene plesseni Heliconius,,,,macho,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+10574,melpomene,melpomene plesseni Heliconius,,,,macho,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+15844,melpomene,melpomene plesseni Heliconius,,,,unknown,Topo ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+15845,melpomene,melpomene plesseni Heliconius,,,,unknown,Topo ECD TU,1700,1700,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+15846,melpomene,melpomene plesseni Heliconius,,,,unknown,Cashurcu ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,http://www.nhm.ac.uk/research-curation/research/projects/solanaceaesource/taxonomy/specimen-detail.jsp?collection=75
+15847,melpomene,melpomene plesseni Heliconius,,,,unknown,Chianta ECD,1000,1000,m,,,1972,Coll. Grober,FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+15848,melpomene,melpomene plesseni Heliconius,,,,unknown,Apuya ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.105,-77.77833333,Map
+15849,melpomene,melpomene plesseni Heliconius,,,,unknown,Chianta ECD,1300,1300,m,,,1972,Coll. Grober,FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+16822,melpomene,melpomene plesseni Heliconius,,,,unknown,Alpayacu ECD PA,3600,3600,ft,,,,"Palmer, M.G.",NHM Accessions - draw 7986,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+16841,melpomene,melpomene plesseni Heliconius,,,,unknown,Ashpiyaco ECD,,,m,,,,,NHM Accesions - draws 9049,,NEIL ROSSER,,,,unknown
+16904,melpomene,melpomene plesseni Heliconius,,,,unknown,El Chaco 8km N ECD NA,1800,1800,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.286911111,-77.76866111,Google Earth
+16924,melpomene,melpomene plesseni Heliconius,,,,unknown,El Chaco 8km N ECD NA,1800,1800,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.286911111,-77.76866111,Google Earth
+16925,melpomene,melpomene plesseni Heliconius,,,,unknown,El Chaco 8km N ECD NA,1800,1800,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.286911111,-77.76866111,Google Earth
+16926,melpomene,melpomene plesseni Heliconius,,,,unknown,El Chaco 8km N ECD NA,1800,1800,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.286911111,-77.76866111,Google Earth
+16932,melpomene,melpomene plesseni Heliconius,,,,unknown,Antisana Rio lower ECD CO,2000,2000,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.760902778,-78.08759722,Google Earth
+17102,melpomene,melpomene plesseni Heliconius,,,f. plesseni,unknown,Topo Rio (Bristow) ECD,1240,1240,m,13,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.416666667,-78.18333333,label
+17103,melpomene,melpomene plesseni Heliconius,,,f. plesseni,unknown,Topo Rio (Bristow) ECD,1240,1240,m,13,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.416666667,-78.18333333,label
+17104,melpomene,melpomene plesseni Heliconius,,,f. diadema,unknown,Topo Rio (Bristow) ECD,1240,1240,m,13,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.416666667,-78.18333333,label
+17105,melpomene,melpomene plesseni Heliconius,,,f. diadema,unknown,Topo Rio (Bristow) ECD,1240,1240,m,17,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.416666667,-78.18333333,label
+25177,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1250,1250,m,4,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25178,melpomene,melpomene plesseni Heliconius,,,,hembra,Tigre Rio ECD TU,1250,1250,m,12,2,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25179,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1250,1250,m,27,5,1982,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25180,melpomene,melpomene plesseni Heliconius,,,,hembra,Topo ECD TU,1250,1250,m,12,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25181,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1200,1200,m,20,9,1972,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25182,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,,,m,,10,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25183,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1250,1250,m,11,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25184,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1400,1400,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25185,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,,,m,12,6,1973,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25186,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,,,m,,,,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25187,melpomene,melpomene plesseni Heliconius,,,,hembra,Tigre Rio ECD TU,,,m,,,,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25188,melpomene,melpomene plesseni Heliconius,,,,hembra,Tigre Rio ECD TU,1250,1250,m,12,2,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25189,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,,,m,,5,1993,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25190,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1250,1250,m,4,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25191,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,,,m,,5,1993,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25192,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,,,m,,3,1989,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25193,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,,,m,,8,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25194,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1250,1250,m,12,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25195,melpomene,melpomene plesseni Heliconius,,,,macho,Mera ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+25196,melpomene,melpomene plesseni Heliconius,,,,macho,Fatima ECD PA,820,820,m,,2,1992,,FLMNH,,Neil Rosser,,-1.433333333,-77.98333333,Geonames
+25197,melpomene,melpomene plesseni Heliconius,,,,hembra,La Merced ECD TU,2000,2000,m,4,2,1992,,FLMNH,,Neil Rosser,,-1.413333333,-78.31666667,Map
+25198,melpomene,melpomene plesseni Heliconius,,,,hembra,Santa Inez ECD TU,1200,1200,m,,,1990,,FLMNH,,Neil Rosser,,-1.416666667,-78.2,Brown
+25199,melpomene,melpomene plesseni Heliconius,,,,macho,Chinchin Rio ECD TU,2000,2000,m,19,12,1991,,FLMNH,,Neil Rosser,,-1.392461111,-78.33319722,Google Earth
+25200,melpomene,melpomene plesseni Heliconius,,,,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+25201,melpomene,melpomene plesseni Heliconius,,,,hembra,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25202,melpomene,melpomene plesseni Heliconius,,,,macho,Pitirishca ECD PA,1000,1000,m,,,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25203,melpomene,melpomene plesseni Heliconius,,,,hembra,Machay ECD TU,,,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.4,-78.26666667,Geonames
+25204,melpomene,melpomene plesseni Heliconius,,,,macho,Pitirishca ECD PA,1000,1000,m,12,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25205,melpomene,melpomene plesseni Heliconius,,,,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25206,melpomene,melpomene plesseni Heliconius,,,,macho,Pitirishca ECD PA,800,800,m,6,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25207,melpomene,melpomene plesseni Heliconius,,,,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25208,melpomene,melpomene plesseni Heliconius,,,,macho,Santa Inez ECD TU,,,m,,,,,FLMNH,,Neil Rosser,,-1.416666667,-78.2,Brown
+25209,melpomene,melpomene plesseni Heliconius,,,,macho,Santa Inez ECD TU,,,m,,,,,FLMNH,,Neil Rosser,,-1.416666667,-78.2,Brown
+25210,melpomene,melpomene plesseni Heliconius,,,,macho,Pitirishca ECD PA,1000,1000,m,6,10,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25211,melpomene,melpomene plesseni Heliconius,,,,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25212,melpomene,melpomene plesseni Heliconius,,,,hembra,Tigre Rio ECD TU,1250,1250,m,11,2,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25213,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,,,m,4,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25214,melpomene,melpomene plesseni Heliconius,,,,macho,Santa Inez ECD TU,1200,1200,m,,5,1991,,FLMNH,,Neil Rosser,,-1.416666667,-78.2,Brown
+25215,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1200,1200,m,26,6,1989,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25216,melpomene,melpomene plesseni Heliconius,,,,macho,Pitirishca ECD PA,1000,1000,m,1,11,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25217,melpomene,melpomene plesseni Heliconius,,,,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25218,melpomene,melpomene plesseni Heliconius,,,,macho,Llandia Rio ECD PA,1000,1000,m,4,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25219,melpomene,melpomene plesseni Heliconius,,,,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25220,melpomene,melpomene plesseni Heliconius,,,,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+25221,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,1250,1250,m,4,2,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25222,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1250,1250,m,17,1,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25223,melpomene,melpomene plesseni Heliconius,,,,macho,Tigre Rio ECD TU,1250,1250,m,4,2,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25224,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,1200,1200,m,10,3,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25225,melpomene,melpomene plesseni Heliconius,,,,hembra,Mera ECD PA,,,m,29,11,1993,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+25226,melpomene,melpomene plesseni Heliconius,,,,macho,Mera ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+25227,melpomene,melpomene plesseni Heliconius,,,,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25228,melpomene,melpomene plesseni Heliconius,,,,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25229,melpomene,melpomene plesseni Heliconius,,,,macho,Topo ECD TU,,,m,,10,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25230,melpomene,melpomene plesseni Heliconius,,,,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.375261111,-77.94956944,Google Earth
+25231,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25232,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Mera ECD PA,,,m,15,12,1995,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+25233,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1000,1000,m,13,11,1996,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25234,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Macas ECD MS,,,m,,1,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25235,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25236,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25237,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25238,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25239,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Mera ECD PA,,,m,29,11,1993,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+25240,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25241,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25242,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25243,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25244,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25245,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25246,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25247,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25248,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,3,1993,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25249,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25250,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25251,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25252,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.375261111,-77.94956944,Google Earth
+25253,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25254,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25255,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25256,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,6,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25257,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25258,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25259,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25260,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km 8 ECD PA,,,m,20,7,1992,,FLMNH,,Neil Rosser,,-1.536813889,-78.03436667,Google Earth
+25261,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Mera ECD PA,,,m,15,12,1995,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+25262,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25263,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Yantana ECD PA,,,m,20,7,1992,,FLMNH,,Neil Rosser,,-1.752558333,-77.84041944,http://www.tropicos.org/Specimen/1781524 + Google Earth
+25264,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.375261111,-77.94956944,Google Earth
+25265,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25266,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25267,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,10,4,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25268,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,30,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25269,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25270,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25271,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25272,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25273,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25274,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,,,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25275,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25276,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25277,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25278,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25279,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25280,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25281,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25282,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25283,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25284,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,1,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25285,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,29,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25286,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25287,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25288,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25289,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,13,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25290,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25291,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25292,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25293,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25294,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25295,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25296,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25297,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25298,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25299,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,10,9,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25300,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25301,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25302,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25303,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25304,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25305,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,9,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25306,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25307,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25308,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25309,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25310,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25311,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Yantana ECD PA,1000,1000,m,3,3,1992,,FLMNH,,Neil Rosser,,-1.752558333,-77.84041944,http://www.tropicos.org/Specimen/1781524 + Google Earth
+25312,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25313,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25314,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km 8 ECD PA,800,800,m,10,2,1997,"Neild, A.",FLMNH,,Neil Rosser,,-1.536813889,-78.03436667,Google Earth
+25315,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25316,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25317,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Yantana ECD PA,1000,1000,m,10,3,1992,,FLMNH,,Neil Rosser,,-1.752558333,-77.84041944,http://www.tropicos.org/Specimen/1781524 + Google Earth
+25318,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25319,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,6,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25320,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25321,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,31,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25322,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25323,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,28,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25324,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Bobonaza Rio ECD PA,900,900,m,23,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+25325,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25326,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25327,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25328,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25329,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25330,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25331,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25332,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25333,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25334,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25335,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,800,800,m,19,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25336,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25337,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,,,m,13,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25338,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25339,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25340,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25341,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25342,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25343,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25344,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,16,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25345,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25346,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25347,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,30,7,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25348,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,14,6,1973,Vel�stegui.,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25349,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1000,1000,m,,,,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25350,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25351,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+25352,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25353,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,900,900,m,,6,1994,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25354,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 19 ECD PA,,,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25355,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 25 ECD PA,,,m,,,1991,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25356,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25357,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,16,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25358,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+25359,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25360,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25361,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25362,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25363,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,San Jorge ECD PA,,,m,5,4,1991,,FLMNH,,Neil Rosser,,,,unknown
+25364,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25365,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25366,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25367,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25368,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25369,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.375261111,-77.94956944,Google Earth
+25370,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,1,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25371,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,San Jose ECD NA,800,800,m,4,6,1990,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+25372,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Canelos rio Bo ECU PA,,,m,16,1,1937,"Schultze-Rhonhof, A.",FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25373,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,,12,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25374,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,San Jose ECD NA,800,800,m,2,6,1990,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+25375,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25376,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+25377,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+25378,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+25379,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Apuya ECD NA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25380,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25381,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Zarzayacu ECO NAP,550,550,m,20,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25382,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,500,500,m,21,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25383,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,500,500,m,20,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25384,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,San Jose ECD NA,800,800,m,4,6,1990,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+25385,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25386,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25387,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Llandia Rio ECD PA,1100,1100,m,13,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25388,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Canelos rio Bo ECU PA,,,m,24,12,1991,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+25389,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25390,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+25391,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Pitirishca ECD PA,1000,1000,m,,,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25392,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Pitirishca ECD PA,800,800,m,26,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+25393,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25394,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Macas ECD MS,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-2.316666667,-78.11666667,Brown
+25395,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+25396,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,San Francisco ECD TU,,,m,3,5,1991,,FLMNH,,Neil Rosser,,-1.408523,-78.259556,Google Earth + Map from Neuk
+25397,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,San Jose ECD NA,,,m,7,6,1993,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+25398,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,,,m,29,10,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25399,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Apuya ECD NA,,,m,26,5,1993,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25400,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,,12,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25401,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,28,9,1992,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25402,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Pimpilala ECD NA,700,700,m,16,9,1995,,FLMNH,,Neil Rosser,,-1.071666667,-77.935,Map
+25403,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,El Pununo ECD NA,600,600,m,27,6,1990,,FLMNH,,Neil Rosser,,-1.021666667,-77.67,Map
+25404,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Zarzayacu ECO NAP,520,520,m,4,8,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+25405,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,El Capricho ECD NA,850,850,m,26,10,1996,,FLMNH,,Neil Rosser,,-1.186666667,-77.74666667,Map
+25406,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Topo ECD TU,1200,1200,m,2,3,1991,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+25407,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25408,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,18,3,1991,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+25409,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Pimpilala ECD NA,800,800,m,18,5,1991,,FLMNH,,Neil Rosser,,-1.071666667,-77.935,Map
+25410,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,La Vitahua ECD TU,,,m,,,1991,,FLMNH,,Neil Rosser,,-1.45,-78.15,Neuk enq
+25411,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Yanahurco ECD NA,,,m,,9,1978,,FLMNH,,Neil Rosser,,-0.016666667,-77.71666667,range
+25412,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+25413,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+25414,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Hollin Rio ECD NA,1350,1350,m,17,9,1995,,FLMNH,,Neil Rosser,,-0.696666667,-77.7275,Map
+25415,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+25416,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Apuya ECD NA,,,m,11,9,1992,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+25417,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+25418,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,La Vitahua ECD TU,,,m,,,1991,,FLMNH,,Neil Rosser,,-1.45,-78.15,Neuk enq
+25419,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,,,m,,5,1993,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25420,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,macho,Llandia Rio ECD PA,1000,1000,m,16,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+25421,melpomene,melpomene plesseni Heliconius,,,malleti x plesseni,hembra,Mera ECD PA,,,m,,6,1995,,FLMNH,,Neil Rosser,,-1.466666667,-78.1,Brown
+33016,melpomene,melpomene plesseni Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33017,melpomene,melpomene plesseni Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33029,melpomene,melpomene plesseni Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33030,melpomene,melpomene plesseni Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33031,melpomene,melpomene plesseni Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33032,melpomene,melpomene plesseni Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+36978,melpomene,melpomene plesseni Heliconius,,,,desconocido,2-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-77.75,KB 1979
+37355,melpomene,melpomene plesseni Heliconius,,,,desconocido,1-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-78.25,KB 1979
+37370,melpomene,melpomene plesseni Heliconius,,,,desconocido,2-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-78.25,KB 1979
+37846,melpomene,melpomene plesseni Heliconius,,,,desconocido,1-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-77.75,KB 1979
+38712,melpomene,melpomene plesseni Heliconius,,,,desconocido,Topo Rio ECD TU,1300,1300,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+38713,melpomene,melpomene plesseni Heliconius,,,,desconocido,Llandia Rio ECD PA,1200,1200,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.328333333,-77.93333333,Map
+38714,melpomene,melpomene plesseni Heliconius,,,,desconocido,Topo Rio ECD TU,1200,1200,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+38715,melpomene,melpomene plesseni Heliconius,,,,desconocido,Abitagua ECD PA,1300,1300,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.45,-78.15,Brown
+39651,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39652,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39653,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39654,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39655,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39656,melpomene,melpomene plesseni Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39657,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39658,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39659,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39660,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39661,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39662,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39663,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39664,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39665,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39666,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39667,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39668,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39669,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39670,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39671,melpomene,melpomene plesseni Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39672,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39673,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39674,melpomene,melpomene plesseni Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39675,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39676,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39677,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39678,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39679,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39680,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39681,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39682,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39683,melpomene,melpomene plesseni Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,16,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39684,melpomene,melpomene plesseni Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,16,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39685,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,16,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39686,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,16,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39687,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39688,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39689,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39690,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39691,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39692,melpomene,melpomene plesseni Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39693,melpomene,melpomene plesseni Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+39694,melpomene,melpomene plesseni Heliconius,,,,macho,"Puyo Valley, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-1.466666667,-77.98333333,Falling Rain
+39695,melpomene,melpomene plesseni Heliconius,,,,macho,"Puyo Valley, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-1.466666667,-77.98333333,Falling Rain
+39696,melpomene,melpomene plesseni Heliconius,,,,macho,"Puyo Valley, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-1.466666667,-77.98333333,Falling Rain
+39697,melpomene,melpomene plesseni Heliconius,,,,macho,"Puyo Valley, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-1.466666667,-77.98333333,Falling Rain
+39698,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39699,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39700,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39701,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39702,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39703,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39704,melpomene,melpomene plesseni Heliconius,,,,hembra,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39705,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39706,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+39707,melpomene,melpomene plesseni Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+55000,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: Cia Mariscal Sucre, Pastaza",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.383333333,-77.86666667,Parque Nacional Sangay Website
+55041,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: El Corral, Rio Negro, Tung.",,,m,,,,,Parque Nacional Sangay ZZZ,15 mars �,NEIL ROSSER,,-1.416666667,-78.2,Parque Nacional Sangay Website
+55048,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: El Corral, Rio Negro, Tung.",,,m,,,,,Parque Nacional Sangay ZZZ,18 jan �,NEIL ROSSER,,-1.416666667,-78.2,Parque Nacional Sangay Website
+55075,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,24 nov �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55080,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: El Corral, Rio Negro, Tung.",,,m,,,,,Parque Nacional Sangay ZZZ,25 jan �,NEIL ROSSER,,-1.416666667,-78.2,Parque Nacional Sangay Website
+55090,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,28 fev �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55111,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: El Corral, Rio Negro, Tung.",,,m,,,,,Parque Nacional Sangay ZZZ,7 nov �,NEIL ROSSER,,-1.416666667,-78.2,Parque Nacional Sangay Website
+55116,melpomene,melpomene plesseni Heliconius,,,f. plesseni,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,9 dec �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55905,melpomene,melpomene plesseni Heliconius,,,,,R�o Quilo Ecuador Pastaza,1200,1500,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.433333333,-78.13333333,TABD record
+55906,melpomene,melpomene plesseni Heliconius,,,,,"R�o Pindo Grande, Pastaza ECD",1060,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.5,-78.04333333,TABD - online ECD database
+55907,melpomene,melpomene plesseni Heliconius,,,,,R�o Topo Ecuador Tungurahua,1200,1300,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.416666667,-78.16666667,TABD record
+55908,melpomene,melpomene plesseni Heliconius,,,,,"R�o Pindo Grande, Pastaza ECD",1060,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.5,-78.04333333,TABD - online ECD database
+56016,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56017,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56018,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56019,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56020,melpomene,melpomene plesseni Heliconius,,,,,R�o Topo Ecuador Tungurahua,1200,1300,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.416666667,-78.16666667,TABD record
+56021,melpomene,melpomene plesseni Heliconius,,,,,R�o Arajuno Ecuador Napo,400,400,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.233333333,-77.7,TABD record
+56023,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56024,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+56025,melpomene,melpomene plesseni Heliconius,,,,,R�o Topo Ecuador Tungurahua,1200,1300,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.416666667,-78.16666667,TABD record
+56026,melpomene,melpomene plesseni Heliconius,,,,,"R�o Pindo Grande, Pastaza ECD",1050,1050,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.5,-78.04333333,TABD - online ECD database
+56046,melpomene,melpomene plesseni Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"

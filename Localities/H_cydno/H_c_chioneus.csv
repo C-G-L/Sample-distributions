@@ -1,0 +1,308 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+982,cydno,cydno chioneus Heliconius,,,,desconocido,El Valle PAN,,,m,,,,,KB 1979,,NEIL ROSSER,,8.6,-80.13333333,Label
+1005,cydno,cydno chioneus Heliconius,,,,desconocido,Frontino COL AN,,,m,,,,,KB 1979,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+1297,cydno,cydno chioneus Heliconius,,,,desconocido,Santa Fe PAN VE,,,m,,,,,KB 1979,,NEIL ROSSER,,8.516666667,-81.08333333,Brown
+3702,cydno,cydno chioneus Heliconius,,,"f. exornata?. This specimen was originally entered as cydno galanthus Heliconius, but amended in light of form",macho,Turrialba CRI CA,2000,2000,ft,,11,1926,"Hall, A.",BMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+3704,cydno,cydno chioneus Heliconius,,,"f. exornata?. This specimen was originally entered as cydno galanthus Heliconius, but amended in light of form",macho,Limon CRI LI,,,m,,5,,,BMNH,,NEIL ROSSER,,9.983333333,-83.06666667,Brown
+3706,cydno,cydno chioneus Heliconius,,,"f. exornata?. This specimen was originally entered as cydno galanthus Heliconius, but amended in light of form",macho,Estrella Rio CRI LI,,,m,,,,,BMNH,,NEIL ROSSER,,9.713847222,-83.00533056,Google Earth
+3710,cydno,cydno chioneus Heliconius,,,"f. exornata?. This specimen was originally entered as cydno galanthus Heliconius, but amended in light of form",hembra,Turrialba CRI CA,2000,2000,ft,,11,1926,"Hall, A.",BMNH,,NEIL ROSSER,,9.883333333,-83.63333333,Brown
+3712,cydno,cydno chioneus Heliconius,,,"f. exornata?. This specimen was originally entered as cydno galanthus Heliconius, but amended in light of form",hembra,Tucurrique CRI CA,,,m,,,,,BMNH,,NEIL ROSSER,,9.85,-83.71666667,Falling Rain
+3723,cydno,cydno chioneus Heliconius,ST,"exornata Heliconius cydno (Heliconius, H.H. Riffarth 1907)",,macho,Limon CRI LI,,,m,,,1904,"Hall, A.",BMNH,09-Oct,NEIL ROSSER,,9.983333333,-83.06666667,Brown
+3724,cydno,cydno chioneus Heliconius,ST,"exornata Heliconius cydno (Heliconius, H.H. Riffarth 1907)",,macho,Limon CRI LI,,,m,,,1904,"Hall, A.",BMNH,09-Oct,NEIL ROSSER,,9.983333333,-83.06666667,Brown
+3725,cydno,cydno chioneus Heliconius,ST,"exornata Heliconius cydno (Heliconius, H.H. Riffarth 1907)",,macho,Carrillo CRI SJ,,,m,,,,,BMNH,,NEIL ROSSER,,10.15,-83.91666667,Brown
+3726,cydno,cydno chioneus Heliconius,ST,"exornata Heliconius cydno (Heliconius, H.H. Riffarth 1907)",,macho,San Carlos CRI AL,,,m,,,,,BMNH,,NEIL ROSSER,,10.33333,-84.43333,Geonames
+3731,cydno,cydno chioneus Heliconius,,,,macho,Sixaola Rio CRI LI,,,m,,4,,,BMNH,,NEIL ROSSER,,9.556530556,-82.73621389,Google Earth
+3732,cydno,cydno chioneus Heliconius,HT,"chioneus Heliconius cydno (Heliconius, H.W. Bates 1864)",,macho,Lion Hill PAN CN,,,m,,,,McLeannan,BMNH,,NEIL ROSSER,,9.233333333,-79.9,Brown
+3733,cydno,cydno chioneus Heliconius,,,,macho,Lion Hill PAN CN,,,m,,,,McLeannan,BMNH,,NEIL ROSSER,,9.233333333,-79.9,Brown
+3734,cydno,cydno chioneus Heliconius,,,,macho,Santa Fe PAN VE,,,m,,,,Arc�,BMNH,,NEIL ROSSER,,8.516666667,-81.08333333,Brown
+3735,cydno,cydno chioneus Heliconius,,,,macho,Calobre PAN VE,,,m,,,,Arc�,BMNH,,NEIL ROSSER,,8.316666667,-80.85,Brown
+3736,cydno,cydno chioneus Heliconius,,,,hembra,Lion Hill PAN CN,,,m,,,,McLeannan,BMNH,,NEIL ROSSER,,9.233333333,-79.9,Brown
+3738,cydno,cydno chioneus Heliconius,,,,hembra,Veraguas PAN VE,,,m,,,,Bates Coll.,BMNH,,NEIL ROSSER,,8.866666667,-80.9,www.calle.com
+3739,cydno,cydno chioneus Heliconius,,,,macho,Valdivia COL AN,,,m,,,1897,Pratt,BMNH,,NEIL ROSSER,,7.15,-75.45,Brown
+3740,cydno,cydno chioneus Heliconius,,,,macho,Antioquia COL AN,,,m,,,,,BMNH,,NEIL ROSSER,,6.555833333,-75.82361111,NIMA
+3741,cydno,cydno chioneus Heliconius,,,,macho,Crystallina COL AN,1100,1100,ft,,,1920,"Hall, A.",BMNH,06-Jul,NEIL ROSSER,,6.416666667,-74.58333333,Brown
+3742,cydno,cydno chioneus Heliconius,,,,macho,Minas de Muzo COL BY,,,m,,5,1884,,BMNH,,NEIL ROSSER,,5.533333333,-74.1,Brown
+3743,cydno,cydno chioneus Heliconius,,,,macho,Cananche COL BY,,,m,,7,1903,"Mathan, M. de",BMNH,,NEIL ROSSER,,5.588333333,-74.28611111,
+3744,cydno,cydno chioneus Heliconius,,,,macho,El Lumbo COL,,,m,,7,1903,"Mathan, M. de",BMNH,,NEIL ROSSER,,,,unknown
+3746,cydno,cydno chioneus Heliconius,,,,hembra,Valdivia COL AN,,,m,,,1897,Pratt,BMNH,,NEIL ROSSER,,7.15,-75.45,Brown
+3747,cydno,cydno chioneus Heliconius,,,,hembra,Frontino COL AN,,,m,,,,"Salmon, T.K.",BMNH,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+3748,cydno,cydno chioneus Heliconius,,,,hembra,Crystallina COL AN,1100,1100,ft,,,1920,"Hall, A.",BMNH,06-Jul,NEIL ROSSER,,6.416666667,-74.58333333,Brown
+3749,cydno,cydno chioneus Heliconius,,,,hembra,Muzo COL BY,400,800,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,5.533333333,-74.1,Brown
+9221,cydno,cydno chioneus Heliconius,,,"f. exornata. This specimen was originally entered as cydno galanthus Heliconius, but amended given exornata's distrib.",hembra,Moravia CRI CA,,,m,29,7,1965,"Downey, JC",MGCL/FLMNH,,NEIL ROSSER,,9.85,-83.41666667,Brown
+9230,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,26,3,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9231,cydno,cydno chioneus Heliconius,,,,hembra,Pina PAN CZ,200,200,m,11,7,1972,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9232,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,,7,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9233,cydno,cydno chioneus Heliconius,,,,hembra,Campana Cerro PAN PA,,,m,20,6,1972,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9234,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,25,8,1976,Dickel,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9235,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,25,8,1976,Dickel,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9236,cydno,cydno chioneus Heliconius,,,,hembra,Campana Cerro PAN PA,,,m,20,6,1972,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9237,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,25,8,1976,Dickel,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9238,cydno,cydno chioneus Heliconius,,,,hembra,Pina PAN CZ,,,m,19,6,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9239,cydno,cydno chioneus Heliconius,,,,hembra,El Valle PAN CC,,,m,1,10,1984,"Anderson, R.A.",MGCL/FLMNH,,NEIL ROSSER,,8.6,-80.13333333,Label
+9240,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,,3,1971,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9241,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,15,3,1973,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9244,cydno,cydno chioneus Heliconius,,,,hembra,Campana Cerro PAN PA,,,m,21,5,1971,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9245,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,22,5,1971,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9246,cydno,cydno chioneus Heliconius,,,,hembra,Barro Colorado Island PAN PA,,,m,8,2,1968,,MGCL/FLMNH,,NEIL ROSSER,,9.166666667,-79.83333333,Brown
+9247,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,18,2,1968,RP,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9248,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,6,2,1969,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9249,cydno,cydno chioneus Heliconius,,,,macho,Barro Colorado Island PAN PA,,,m,8,2,1968,,MGCL/FLMNH,,NEIL ROSSER,,9.166666667,-79.83333333,Brown
+9250,cydno,cydno chioneus Heliconius,,,,macho,Barro Colorado Island PAN PA,,,m,8,2,1968,,MGCL/FLMNH,,NEIL ROSSER,,9.166666667,-79.83333333,Brown
+9251,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,27,3,1971,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9252,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,25,8,1976,Dickel,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9253,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,2,12,1972,"Miller, L.D.",MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9254,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,10,4,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9255,cydno,cydno chioneus Heliconius,,,,macho,Santa Fe PAN VE,750,750,m,24,10,1975,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,8.516666667,-81.08333333,Brown
+9256,cydno,cydno chioneus Heliconius,,,,macho,Pina PAN CZ,,,m,25,5,1970,"King, H.L.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9257,cydno,cydno chioneus Heliconius,,,,macho,Jefe Cerro PAN PA,2500,2500,ft,,4,1971,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,9.233333333,-79.36666667,Label
+9258,cydno,cydno chioneus Heliconius,,,,hembra,Altos de Pacora PAN PA,2000,2000,ft,15,3,1975,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,9.233333333,-79.33333333,Label
+9259,cydno,cydno chioneus Heliconius,,,,macho,Gatun PAN CN,,,m,2,5,1970,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,9.266666667,-79.91666667,Brown
+9261,cydno,cydno chioneus Heliconius,,,,hembra,Pina PAN CZ,,,m,,7,1972,"Small, G.B.",MGCL/FLMNH,,NEIL ROSSER,,9.25,-79.96666667,Brown
+9262,cydno,cydno chioneus Heliconius,,,,macho,"Sulin Hotel, nr. Cerro Campana PAN",,,m,20,3,1977,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9263,cydno,cydno chioneus Heliconius,,,,macho,"Sulin Hotel, above. Cerro Campana PAN",,,m,19,3,1977,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9264,cydno,cydno chioneus Heliconius,,,,macho,"Sulin Hotel, above. Cerro Campana PAN",,,m,19,3,1977,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9265,cydno,cydno chioneus Heliconius,,,,hembra,"Sulin Hotel, above. Cerro Campana PAN",,,m,19,3,1977,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9267,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,28,5,1953,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9268,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,28,5,1953,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9269,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,28,5,1953,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9270,cydno,cydno chioneus Heliconius,,,,macho,"Sulin Hotel, above. Cerro Campana PAN",,,m,19,3,1977,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9271,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,28,5,1953,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9272,cydno,cydno chioneus Heliconius,,,,macho,Campana Cerro PAN PA,,,m,28,5,1953,,MGCL/FLMNH,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+9362,cydno,cydno chioneus Heliconius,,,,hembra,Muzo COL BY,,,m,,5,1915,,MGCL/FLMNH,,NEIL ROSSER,,5.533333333,-74.1,Brown
+9364,cydno,cydno chioneus Heliconius,,,,hembra,Crystallina COL AN,1100,100,ft,,,1920,"Hall, A.",MGCL/FLMNH,06-Jul,NEIL ROSSER,,6.416666667,-74.58333333,Brown
+9365,cydno,cydno chioneus Heliconius,,,,hembra,La Palma COL CN,,,m,,6,1910,,MGCL/FLMNH,,NEIL ROSSER,,5.366666667,-74.4,Brown
+9368,cydno,cydno chioneus Heliconius,,,,macho,Muzo COL BY,,,m,,5,1915,,MGCL/FLMNH,,NEIL ROSSER,,5.533333333,-74.1,Brown
+9369,cydno,cydno chioneus Heliconius,,,,macho,Crystallina COL AN,1100,100,ft,,,1920,"Hall, A.",MGCL/FLMNH,06-Jul,NEIL ROSSER,,6.416666667,-74.58333333,Brown
+12504,cydno,cydno chioneus Heliconius,,,,Macho,"Talamanca, Suretka CRI",200,200,m,,,,"Chac�n, Isidro",INBio,29/09/1981	 - 	29/09/1981,NEIL ROSSER,,9.597777778,-82.9325,INBio
+16012,cydno,cydno chioneus Heliconius,,,,unknown,Canal Zone PROVINCE,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,9.124094444,-79.75018056,Google Earth
+29043,cydno,cydno chioneus Heliconius,,,,descononcido,Quibdo-acima de 1200m COL CH,,,m,,,,,KB 1979,,NEIL ROSSER,,5.751163889,-76.20749444,Google Earth
+32282,cydno,cydno chioneus Heliconius,,,Appeared as cydno chioneus? Heliconius in Brower database. Assumed to be chioneus - caution,unknown,"5 km e. Jaqu�, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,7.515180556,-78.11664444,Google Earth
+32856,cydno,cydno chioneus Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32857,cydno,cydno chioneus Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32858,cydno,cydno chioneus Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32859,cydno,cydno chioneus Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32860,cydno,cydno chioneus Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+33324,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Camino de las cruces, PAN PA",,,m,27,1,2000,,Jiggins,,NEIL ROSSER,,9.033888889,-79.59305556,Google Earth
+33325,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33326,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33327,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33328,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33329,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33330,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33331,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33332,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33333,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33334,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33335,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33336,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33337,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,24,8,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33338,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,15,9,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33339,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,Campana Cerro PAN PA,,,m,15,9,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33340,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,15,9,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33341,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,Campana Cerro PAN PA,,,m,15,9,2001,,Jiggins,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+33342,cydno,cydno chioneus Heliconius,,,no subspecies assigned assumed on locality - Caution!,macho,El Cope PAN,,,m,24,10,1999,,Jiggins,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+33343,cydno,cydno chioneus Heliconius,,,no subspecies assigned assumed on locality - Caution!,hembra,El Cope PAN,,,m,24,10,1999,,Jiggins,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+33344,cydno,cydno chioneus Heliconius,,,no subspecies assigned assumed on locality - Caution!,hembra,El Cope PAN,,,m,24,10,1999,,Jiggins,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+33345,cydno,cydno chioneus Heliconius,,,no subspecies assigned assumed on locality - Caution!,macho,El Cope PAN,,,m,24,10,1999,,Jiggins,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+33346,cydno,cydno chioneus Heliconius,,,no subspecies assigned assumed on locality - Caution!,macho,El Cope PAN,,,m,24,10,1999,,Jiggins,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+33348,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Forest edge Gamboa near #118, PAN CO",,,m,,,,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+33349,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Forest edge Gamboa, PAN CO",80,80,m,,,,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+33350,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Gamboa #183, PAN CO",,,m,6,2,2000,,Jiggins,,NEIL ROSSER,,9.118888889,-79.69777778,CJ
+33356,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 1.3km, PAN PA",,,m,28,6,1999,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+33357,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,2,4,1999,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33358,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,1,4,1999,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33359,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,22,5,1999,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33360,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,28,6,1999,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33361,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,30,1,2000,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33362,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,30,1,2000,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33363,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 11km, PAN PA",,,m,19,5,2000,,Jiggins,,NEIL ROSSER,,9.183055556,-79.76583333,Google Earth
+33364,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 12.2km, PAN PA",,,m,30,1,2000,,Jiggins,,NEIL ROSSER,,9.188888889,-79.77222222,Google Earth
+33365,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 12.2km, PAN PA",,,m,30,1,2000,,Jiggins,,NEIL ROSSER,,9.188888889,-79.77222222,Google Earth
+33366,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 12.3km, PAN CO",,,m,27,8,1998,,Jiggins,,NEIL ROSSER,,9.191944444,-79.77527778,Google Earth
+33367,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 12.3km, PAN CO",,,m,27,9,1998,,Jiggins,,NEIL ROSSER,,9.191944444,-79.77527778,Google Earth
+33368,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 12.3km, PAN CO",,,m,27,9,1998,,Jiggins,,NEIL ROSSER,,9.191944444,-79.77527778,Google Earth
+33369,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 12km, PAN CO",,,m,25,1,1999,,Jiggins,,NEIL ROSSER,,9.188888889,-79.77222222,Google Earth
+33370,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 13km, PAN PA",,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,9.195277778,-79.77861111,Google Earth
+33371,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 14km, PAN PA",,,m,2,3,2000,,Jiggins,,NEIL ROSSER,,9.200833333,-79.78027778,Google Earth
+33372,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 15km, PAN PA",,,m,9,2,1999,,Jiggins,,NEIL ROSSER,,9.203333333,-79.78694444,Google Earth
+33373,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 1km, PAN PA",,,m,30,1,2000,,Jiggins,,NEIL ROSSER,,9.125555556,-79.71916667,Google Earth
+33374,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 3.2km, PAN PA",,,m,25,11,1999,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33375,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 3.7km, PAN PA",,,m,16,10,1999,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+33376,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 3.7km, PAN PA",,,m,14,11,1999,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+33377,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 3km, PAN CO",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33378,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 3km, PAN CO",,,m,29,5,1999,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33379,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 4.3km, PAN PA",,,m,15,8,1999,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+33380,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 4.5km, PAN PA",,,m,15,8,1999,,Jiggins,,NEIL ROSSER,,9.147222222,-79.72972222,Google Earth
+33381,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.2km, PAN CO",,,m,15,8,1999,,Jiggins,,NEIL ROSSER,,9.149722222,-79.73416667,Google Earth
+33382,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.2km, PAN CO",,,m,15,8,1999,,Jiggins,,NEIL ROSSER,,9.149722222,-79.73416667,Google Earth
+33383,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.2km, PAN CO",,,m,15,8,1999,,Jiggins,,NEIL ROSSER,,9.149722222,-79.73416667,Google Earth
+33384,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.2km, PAN CO",,,m,15,8,1999,,Jiggins,,NEIL ROSSER,,9.149722222,-79.73416667,Google Earth
+33385,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.4km, PAN CO",,,m,30,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33386,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.4km, PAN CO",,,m,30,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33387,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.5km, PAN CO",,,m,4,11,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33388,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.6km, PAN CO",,,m,30,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33389,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.6km, PAN CO",,,m,27,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33390,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.6km, PAN CO",,,m,27,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33391,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.6km, PAN CO",,,m,14,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33392,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.6km, PAN CO",,,m,30,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33393,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.6km, PAN CO",,,m,27,10,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33394,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.6km, PAN CO",,,m,27,9,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33395,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.7km, PAN PA",,,m,25,11,1999,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33396,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.7km, PAN PA",,,m,17,1,2000,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33397,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road 5.7km, PAN PA",,,m,17,1,2000,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33398,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road 5.7km, PAN PA",,,m,17,1,2000,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33399,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road km and nearby, PAN CO",80,80,m,31,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33400,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road, PAN CO",80,80,m,31,1,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33401,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road, PAN CO",80,80,m,25,1,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33402,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,_,"Pipeline road, PAN CO",80,80,m,24,2,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33403,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road, PAN CO",80,80,m,27,2,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33404,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road, PAN CO",80,80,m,27,2,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33405,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road, PAN CO",80,80,m,6,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33406,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road, PAN CO",80,80,m,13,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33407,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road, PAN CO",80,80,m,13,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33408,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road, PAN CO",80,80,m,13,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33409,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road, PAN CO",80,80,m,27,3,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33410,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,hembra,"Pipeline road, PAN CO",80,80,m,3,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33411,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Pipeline road, PAN CO",80,80,m,3,4,1999,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+33418,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Santa Rita ridge, PAN CO",,,m,12,2,1998,,Jiggins,,NEIL ROSSER,,9.32,-79.78,Paper by Jiggins
+33419,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,macho,"Santa Rita ridge, PAN CO",,,m,12,2,1998,,Jiggins,,NEIL ROSSER,,9.32,-79.78,Paper by Jiggins
+33420,cydno,cydno chioneus Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33421,cydno,cydno chioneus Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33422,cydno,cydno chioneus Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33423,cydno,cydno chioneus Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33424,cydno,cydno chioneus Heliconius,,,,hembra,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33425,cydno,cydno chioneus Heliconius,,,,hembra,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33426,cydno,cydno chioneus Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33427,cydno,cydno chioneus Heliconius,,,,macho,"Chiriqui Grande - Almirante 9.5km, PAN BT",,,m,10,9,2000,,Jiggins,,NEIL ROSSER,,8.981111111,-82.24,CJ
+33428,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,4,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33429,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,4,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33430,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,4,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33431,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33432,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33433,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33434,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33435,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33436,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33437,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33438,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33439,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33440,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33441,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,8,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33442,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33443,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33444,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33445,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33446,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33447,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33448,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33449,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33450,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33451,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33452,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33453,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33454,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33455,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33456,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33457,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33458,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33459,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33460,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,16,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33461,cydno,cydno chioneus Heliconius,,,,macho,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,16,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33462,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33463,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33464,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,16,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33465,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,16,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33466,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,16,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33467,cydno,cydno chioneus Heliconius,,,,hembra,"Parcela 33, Villeta - Guaduas 23.6km COL CU",1550,1550,m,18,6,1998,,Jiggins,,NEIL ROSSER,,5.061205,-74.560463,Google Earth
+33468,cydno,cydno chioneus Heliconius,,,,hembra,"Pipeline road 1.4km, PAN PA",,,m,7,9,1998,,Jiggins,,NEIL ROSSER,,9.128055556,-79.72,Google Earth
+33469,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 11.5km, PAN PA",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.186111111,-79.76861111,Google Earth
+33470,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 12.3km, PAN CO",,,m,27,8,1998,,Jiggins,,NEIL ROSSER,,9.191944444,-79.77527778,Google Earth
+33471,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 13km, PAN PA",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.195277778,-79.77861111,Google Earth
+33472,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 13km, PAN PA",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.195277778,-79.77861111,Google Earth
+33473,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 13km, PAN PA",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.195277778,-79.77861111,Google Earth
+33474,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 14km, PAN PA",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.200833333,-79.78027778,Google Earth
+33475,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 14km, PAN PA",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.200833333,-79.78027778,Google Earth
+33476,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 15km, PAN PA",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.203333333,-79.78694444,Google Earth
+33477,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 15km, PAN PA",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.203333333,-79.78694444,Google Earth
+33478,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 1km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.125555556,-79.71916667,Google Earth
+33479,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 1km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.125555556,-79.71916667,Google Earth
+33480,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 1km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.125555556,-79.71916667,Google Earth
+33481,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33482,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33483,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33484,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33485,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33486,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3 km, PAN PA",,,m,4,9,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33487,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3.2km, PAN PA",,,m,31,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33488,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3.3km, PAN PA",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+33489,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+33490,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+33491,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3km, PAN CO",,,m,22,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33492,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 3km, PAN CO",,,m,22,8,1998,,Jiggins,,NEIL ROSSER,,9.135833333,-79.72444444,Google Earth
+33493,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 4km, PAN PA",,,m,16,8,1998,,Jiggins,,NEIL ROSSER,,9.1425,-79.72777778,Google Earth
+33494,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 4km, PAN PA",,,m,16,8,1998,,Jiggins,,NEIL ROSSER,,9.1425,-79.72777778,Google Earth
+33495,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 4km, PAN PA",,,m,22,8,1998,,Jiggins,,NEIL ROSSER,,9.1425,-79.72777778,Google Earth
+33496,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33497,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33498,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,23,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33499,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33500,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33501,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33502,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33503,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5.6km, PAN CO",,,m,28,8,1998,,Jiggins,,NEIL ROSSER,,9.152777778,-79.73694444,Google Earth
+33504,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 5km, PAN CO",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.149722222,-79.73416667,Google Earth
+33505,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 6km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.155833333,-79.74083333,Google Earth
+33506,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 6km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.155833333,-79.74083333,Google Earth
+33507,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 6km, PAN CO",,,m,31,8,1998,,Jiggins,,NEIL ROSSER,,9.155833333,-79.74083333,Google Earth
+33508,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 7km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.161111111,-79.74805556,Google Earth
+33509,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 7km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.161111111,-79.74805556,Google Earth
+33510,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 9km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.171388889,-79.75722222,CJ
+33511,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 9km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.171388889,-79.75722222,CJ
+33512,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 9km, PAN CO",,,m,25,8,1998,,Jiggins,,NEIL ROSSER,,9.171388889,-79.75722222,CJ
+33513,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 9km, PAN CO",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.171388889,-79.75722222,CJ
+33514,cydno,cydno chioneus Heliconius,,,,macho,"Pipeline road 9km, PAN CO",,,m,29,8,1998,,Jiggins,,NEIL ROSSER,,9.171388889,-79.75722222,CJ
+33515,cydno,cydno chioneus Heliconius,,,,hembra,"Pipeline road 9km, PAN CO",,,m,30,8,1998,,Jiggins,,NEIL ROSSER,,9.171388889,-79.75722222,CJ
+33516,cydno,cydno chioneus Heliconius,,,,macho,"Quebrada Hornito Trail, Fortuna, PAN CH",,,m,12,8,2000,,Jiggins,,NEIL ROSSER,,8.692777778,-82.22444444,CJ
+33517,cydno,cydno chioneus Heliconius,,,,macho,"Quebrada Hornito Trail, Fortuna, PAN CH",,,m,12,8,2000,,Jiggins,,NEIL ROSSER,,8.692777778,-82.22444444,CJ
+33518,cydno,cydno chioneus Heliconius,,,,macho,"Quebrada Hornito Trail, Fortuna, PAN CH",,,m,12,8,2000,,Jiggins,,NEIL ROSSER,,8.692777778,-82.22444444,CJ
+33519,cydno,cydno chioneus Heliconius,,,,hembra,"Quebrada Hornito Trail, Fortuna, PAN CH",,,m,,,,,Jiggins,,NEIL ROSSER,,8.692777778,-82.22444444,CJ
+33520,cydno,cydno chioneus Heliconius,,,,hembra,"Rio Piñas, along trail up to Sambu PAN DA",700,700,m,15,6,2003,,Jiggins,,NEIL ROSSER,,7.6732,-78.2641,Jiggins
+34715,cydno,cydno chioneus Heliconius,,,,desconocido,9-82a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-82.25,KB 1979
+34721,cydno,cydno chioneus Heliconius,,,,desconocido,9-79a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-79.25,KB 1979
+34947,cydno,cydno chioneus Heliconius,,,,desconocido,7-75a N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-75.25,KB 1979
+34984,cydno,cydno chioneus Heliconius,,,,desconocido,5-74a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-74.25,KB 1979
+35010,cydno,cydno chioneus Heliconius,,,,desconocido,4-74a N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-74.25,KB 1979
+35155,cydno,cydno chioneus Heliconius,,,,desconocido,10-84b N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-83.75,KB 1979
+35170,cydno,cydno chioneus Heliconius,,,,desconocido,10-80b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.509527,-79.640242,Google Earth
+35178,cydno,cydno chioneus Heliconius,,,,desconocido,9-80b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-79.75,KB 1979
+35189,cydno,cydno chioneus Heliconius,,,,desconocido,9-79b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-78.75,KB 1979
+35218,cydno,cydno chioneus Heliconius,,,,desconocido,8-81b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-80.75,KB 1979
+35228,cydno,cydno chioneus Heliconius,,,,desconocido,8-78b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-77.75,KB 1979
+35421,cydno,cydno chioneus Heliconius,,,,desconocido,7-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-76.75,KB 1979
+35456,cydno,cydno chioneus Heliconius,,,,desconocido,6-75b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-74.75,KB 1979
+35469,cydno,cydno chioneus Heliconius,,,,desconocido,6-74b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-73.75,KB 1979
+35502,cydno,cydno chioneus Heliconius,,,,desconocido,5-75b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-74.75,KB 1979
+35518,cydno,cydno chioneus Heliconius,,,,desconocido,4-75b N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-74.75,KB 1979
+35714,cydno,cydno chioneus Heliconius,,,,desconocido,11-84c N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.75,-84.25,KB 1979
+35756,cydno,cydno chioneus Heliconius,,,,desconocido,9-82c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.716314,-82.31994,KB 1979
+35947,cydno,cydno chioneus Heliconius,,,,desconocido,6-74c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-74.25,KB 1979
+35968,cydno,cydno chioneus Heliconius,,,,desconocido,5-74c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-74.25,KB 1979
+36146,cydno,cydno chioneus Heliconius,,,,desconocido,10-83d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.6769,-82.796558,Google Earth
+36166,cydno,cydno chioneus Heliconius,,,,desconocido,9-80d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-79.75,KB 1979
+36329,cydno,cydno chioneus Heliconius,,,,desconocido,6-75d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-74.75,KB 1979
+36335,cydno,cydno chioneus Heliconius,,,,desconocido,6-74d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-73.75,KB 1979
+38571,cydno,cydno chioneus Heliconius,,,,desconocido,Casabe COL AN,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,7.05,-73.88333333,Brown
+54702,cydno,cydno chioneus Heliconius,,,no subspecies assigned - assumed based on locality,unknown,Barro Colorado Island PAN PA,0,0,m,,,,,Butterfly Wing Colour Patterns and Flying Heights,,NEIL ROSSER,,9.166666667,-79.83333333,Brown
+54727,cydno,cydno chioneus Heliconius,,,,unknown,Pipeline road PAN CN,,,m,,,,,Ecological divergence and speciation in Heliconius,,NEIL ROSSER,,9.187144444,-79.77184444,Google Earth
+59799,cydno,cydno chioneus Heliconius,,,,unknown,Caracoli COL AN,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,6.41194,-74.76056,Geonames
+59800,cydno,cydno chioneus Heliconius,,,,unknown,Don Matias COL AN,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,6.48972,-75.42944,Geonames
+60254,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_315,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.88183,-75.14467,LeCrom
+60255,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_316,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.307157,-75.056468,LeCrom
+60256,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_317,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.640363,-74.848705,LeCrom
+60257,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_318,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.716804,-74.047949,LeCrom
+60258,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_319,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.012769,-74.38483,LeCrom
+60259,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_320,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.057115,-74.84481,LeCrom
+60260,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_321,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.768678,-74.804041,LeCrom
+60261,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_322,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.702946,-73.95691,LeCrom
+60262,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_323,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.643747,-73.463728,LeCrom
+60263,cydno,cydno chioneus Heliconius,,,,unknown,LeCrom_324,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,8.400992,-77.146823,LeCrom

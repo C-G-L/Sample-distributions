@@ -1,0 +1,165 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+4294,timareta,timareta timareta Heliconius,ST,"insolita Heliconius timareta (Heliconius, H.H. Riffarth 1907)",f. insolita,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4295,timareta,timareta timareta Heliconius,ST,"insolita Heliconius timareta (Heliconius, H.H. Riffarth 1907)",f. insolita,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4296,timareta,timareta timareta Heliconius,,,f. strandi,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4297,timareta,timareta timareta Heliconius,,,f. strandi,macho,Alpayacu (=Ashpiyacu) Rio ECD PA,3600,3600,ft,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+4301,timareta,timareta timareta Heliconius,,,ab. richardi,macho,Zamora ECD ZC,3000,4000,ft,,,,"Baron, O.T.",BMNH,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+4304,timareta,timareta timareta Heliconius,,,f.?,macho,Alpayacu (=Ashpiyacu) Rio ECD PA,3600,3600,ft,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+4306,timareta,timareta timareta Heliconius,,,f.?,hembra,D'un envoi fait de Guayaquil...,,,m,,,,"Feyer, E.",BMNH,,NEIL ROSSER,,,,unknown
+4309,timareta,timareta timareta Heliconius,,,f. timareta,macho,Quijos Rio at El Chaco ECD NA,1300,1300,m,28,11,1977,Samson,BMNH,,NEIL ROSSER,,-0.339288889,-77.80506389,
+4310,timareta,timareta timareta Heliconius,,,f. timareta,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4311,timareta,timareta timareta Heliconius,,,f. timareta,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4313,timareta,timareta timareta Heliconius,,,f. timareta,macho,D'un envoi fait de Guayaquil...,,,m,,,,"Feyer, E.",BMNH,,NEIL ROSSER,,,,unknown
+4314,timareta,timareta timareta Heliconius,,,,macho,Hoso Eoche (?) Villa Gomes ECD,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+4319,timareta,timareta timareta Heliconius,,,f. ?,macho,Zamora ECD ZC,3000,4000,ft,,,,,BMNH,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+4320,timareta,timareta timareta Heliconius,,,,macho,El Topo ECD TU,4200,4200,ft,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+4321,timareta,timareta timareta Heliconius,,,,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4322,timareta,timareta timareta Heliconius,ST,"virgata Heliconius timareta (Heliconius, H.F.E.J. Stichel 1902)",f. virgata,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4323,timareta,timareta timareta Heliconius,,,f. virgata,macho,Pastaza Rio Upper ECD,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+4324,timareta,timareta timareta Heliconius,,,f. virgata,macho,Macas ECD MS,,,m,,,,,BMNH,1905-06,NEIL ROSSER,,-2.316666667,-78.11666667,Brown
+4325,timareta,timareta timareta Heliconius,,,f. virgata,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4326,timareta,timareta timareta Heliconius,,,f. virgata,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4329,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Pastaza Rio Upper ECD,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+4330,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Mapoto ECD TU,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-1.4,-78.26666667,http://deepblue.lib.umich.edu/bitstream/2027.42/56356/1/MP112.pdf
+4331,timareta,timareta timareta Heliconius,,,f. contiguus,macho,D'un envoi fait de Guayaquil...,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+4332,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4333,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Topo Rio ECD TU,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+4334,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Pastaza Rio Upper ECD,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+4335,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4336,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Inez ECD TU,,,m,,,,"Simson, A.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4339,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Mapoto ECD TU,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-1.4,-78.26666667,http://deepblue.lib.umich.edu/bitstream/2027.42/56356/1/MP112.pdf
+4340,timareta,timareta timareta Heliconius,,,f. contiguus,macho,El Rosario Rio Pastaza ECD TU,4900,4900,ft,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.403333333,-78.25333333,Map
+4341,timareta,timareta timareta Heliconius,,,f. contiguus,macho,El Topo ECD TU,,,m,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+4342,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Alpayacu (=Ashpiyacu) Rio ECD PA,3600,3600,ft,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+4343,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Zamora ECD ZC,3000,4000,ft,,,,"Baron, O.T.",BMNH,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+4344,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4346,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4347,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Pastaza ECD PA,,,m,,,,Simson,BMNH,,NEIL ROSSER,,-1.583333333,-77.75,www.calle.com
+4348,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4349,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Zamora ECD ZC,3000,4000,ft,,,,"Baron, O.T.",BMNH,,NEIL ROSSER,,-4.066666667,-78.96666667,Brown
+4350,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Julita Rio ECD TU,1400,1400,m,10,2,1973,,BMNH,,NEIL ROSSER,,-1.4,-78.16666667,Label
+4353,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4354,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4355,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4356,timareta,timareta timareta Heliconius,,,f. contiguus,macho,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+4357,timareta,timareta timareta Heliconius,,,f. contiguus,hembra,Santa Jnez?? ECD ??,,,m,,,,"Haensch, R.",BMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+7118,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,13,3,1962,,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+7119,timareta,timareta timareta Heliconius,,,,macho,La Mascota ECD TU,1200,1200,m,,8,1970,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.385,-78.21,Map
+7120,timareta,timareta timareta Heliconius,,,,macho,La Palmera Hacienda ECD TU,,,m,8,12,1938,,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+7121,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,9,3,1962,,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+7123,timareta,timareta timareta Heliconius,,,,macho,Sadzayacu ECD OR,,,m,,11,1967,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-1.183333333,-77.83333333,unrecorded - darwin_ecuador_MECN
+7124,timareta,timareta timareta Heliconius,,,,macho,Rio Suniag ECD ??,,,m,,3,1964,"Lafebre, Mrs.",MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.18333333,Geonames
+7125,timareta,timareta timareta Heliconius,,,,macho,Upano Rio (1100m) ECD MS,1100,1100,m,21,1,1939,,MGCL/FLMNH,,NEIL ROSSER,,-2.278327778,-78.15176667,Google Earth
+7126,timareta,timareta timareta Heliconius,,,,hembra,La Palmera Hacienda ECD TU,1300,1300,m,2,12,1938,,MGCL/FLMNH,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+16099,timareta,timareta timareta Heliconius,,,,unknown,Topo ECD TU,1700,1700,m,,,1983,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16100,timareta,timareta timareta Heliconius,,,,unknown,Juna ECD,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16101,timareta,timareta timareta Heliconius,,,,unknown,Julita Rio ECD TU,1200,1200,m,,,1974,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.4,-78.16666667,Label
+16102,timareta,timareta timareta Heliconius,,,,unknown,Tigre Rio ECD TU,1300,1300,m,,,1974,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16198,timareta,timareta timareta Heliconius,,,,unknown,Negro Rio ECD TU,4000,4000,ft,,,1980,Stevens,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.408333333,-78.21,Map
+16394,timareta,timareta timareta Heliconius,,,,unknown,Runtun ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.415,-78.40833333,Map
+16395,timareta,timareta timareta Heliconius,,,,unknown,Engano Rio ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+16839,timareta,timareta timareta Heliconius,,,f. contigua,unknown,Santa Inez ECD TU,,,m,,,,Buckley,NHM Accesions - draws 9049,,NEIL ROSSER,,-1.416666667,-78.2,Brown
+16840,timareta,timareta timareta Heliconius,,,,unknown,Gualaquiza ECD MS,,,m,,,,,NHM Accesions - draws 9049,,NEIL ROSSER,,-3.416666667,-78.6,Brown
+17013,timareta,timareta timareta Heliconius,,,,unknown,Cashurcu ECD TU,1200,1200,m,,,1974,Samson,NHM Accesions - draws 9054,,NEIL ROSSER,,-1.416666667,-78.16666667,http://www.nhm.ac.uk/research-curation/research/projects/solanaceaesource/taxonomy/specimen-detail.jsp?collection=75
+17110,timareta,timareta timareta Heliconius,,,f. contigua,unknown,Topo Rio (Bristow) ECD,1240,1240,m,17,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.416666667,-78.18333333,label
+17111,timareta,timareta timareta Heliconius,,,f. contigua,unknown,Topo Rio (Bristow) ECD,1240,1240,m,17,2,1975,Bristow,NHM Accesions - draws 9718,,NEIL ROSSER,,-1.416666667,-78.18333333,label
+18283,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,,Aug,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18288,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,,m,,,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18289,timareta,timareta timareta Heliconius,,,,hembra,Santa Inez ECD TU,,,m,29,Apr,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18290,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18291,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18292,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18293,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,,Aug,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18294,timareta,timareta timareta Heliconius,,,,hembra,Tigre Rio ECD TU,,1250,m,,Aug,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18295,timareta,timareta timareta Heliconius,,,,macho,Mera ECD PA,,1400,m,15,Jun,1994,,FLMNH,,Samuel Landrian,,-1.466666667,-78.1,Brown
+18296,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,28,Jan,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18297,timareta,timareta timareta Heliconius,,,,macho,Cashurcu ECD TU,,,m,23,Sep,1995,"Neild, A.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,http://www.nhm.ac.uk/research-curation/research/projects/solanaceaesource/taxonomy/specimen-detail.jsp?collection=75
+18298,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,1,Jun,1991,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18299,timareta,timareta timareta Heliconius,,,,macho,Tigre Rio ECD TU,,,m,2,Jul,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18300,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,9,Jan,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18301,timareta,timareta timareta Heliconius,,,damaged specimen,macho,Tigre Rio ECD TU,,1250,m,12,Feb,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18302,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,1200,m,,Feb,1989,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18303,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,1250,m,13,Apr,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18304,timareta,timareta timareta Heliconius,,,,hembra,Anzu (=Ansu) Rio ECD NA,,700,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18305,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,16,Jun,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18306,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,,m,,,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18307,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,1200,m,,Jul,1989,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18308,timareta,timareta timareta Heliconius,,,,hembra,Santa Inez ECD TU,,1200,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18309,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,1200,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18310,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,,May,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18311,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,28,Jan,1993,"Vel�stegui, D.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18312,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18313,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,,m,,Aug,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18314,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,11,Feb,1992,"Vel�stegui, D.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18315,timareta,timareta timareta Heliconius,,,,hembra,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18316,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,,Jul,1995,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18317,timareta,timareta timareta Heliconius,,,,macho,Cashurco Rio ECD TU,,1300,m,2,Feb,1997,"Neild, A.",FLMNH,,Samuel Landrian,,-1.421666667,-78.17333333,Map
+18318,timareta,timareta timareta Heliconius,,,,hembra,Puyo ECD PA,,,m,6,Jan,1993,,FLMNH,,Samuel Landrian,,-1.466666667,-77.98333333,Brown
+18319,timareta,timareta timareta Heliconius,,,,macho,Anzu (=Ansu) Rio ECD NA,,700,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18320,timareta,timareta timareta Heliconius,,,,hembra,Anzu (=Ansu) Rio ECD NA,,700,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18321,timareta,timareta timareta Heliconius,,,,macho,Anzu (=Ansu) Rio ECD NA,,700,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18322,timareta,timareta timareta Heliconius,,,,hembra,Anzu (=Ansu) Rio ECD NA,,700,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18323,timareta,timareta timareta Heliconius,,,km 20,macho,Macas ECD MS,,1550,m,31,Oct,1996,"Neild, A.",FLMNH,,Samuel Landrian,,-2.316666667,-78.11666667,Brown
+18324,timareta,timareta timareta Heliconius,,,,macho,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18325,timareta,timareta timareta Heliconius,,,,hembra,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18326,timareta,timareta timareta Heliconius,,,,macho,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18327,timareta,timareta timareta Heliconius,,,,macho,Machay Rio ECD TU,,,m,6,Feb,1992,,FLMNH,,Samuel Landrian,,-1.395833333,-78.27166667,Map
+18328,timareta,timareta timareta Heliconius,,,,hembra,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18329,timareta,timareta timareta Heliconius,,,,macho,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18330,timareta,timareta timareta Heliconius,,,,macho,Anzu (=Ansu) Rio ECD NA,,900,m,,,,,FLMNH,,Samuel Landrian,,-1.248841667,-77.88399167,Google Earth
+18331,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18332,timareta,timareta timareta Heliconius,,,,macho,Mexico ECD TU,,,m,,,1991,,FLMNH,,Samuel Landrian,,-1.316666667,-78.2,darwin_ecuador_pinas2
+18333,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,1250,m,,Dec,1989,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18334,timareta,timareta timareta Heliconius,,,,macho,Machay Rio ECD TU,,,m,6,Feb,1992,,FLMNH,,Samuel Landrian,,-1.395833333,-78.27166667,Map
+18335,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18336,timareta,timareta timareta Heliconius,,,,macho,Santa Inez ECD TU,,,m,,Feb,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.2,Brown
+18337,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,1250,m,12,Feb,1992,"Vel�stegui, D.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18338,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,1250,m,28,Jan,1993,"B�che, M.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18339,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,1250,m,,Dec,1989,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18340,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,1250,m,28,Aug,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18341,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,1250,m,28,Jan,1993,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18342,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,1250,m,28,Jan,1993,"B�che, M.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18343,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,1250,m,,,1990,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18345,timareta,timareta timareta Heliconius,,,,hembra,Topo ECD TU,,1250,m,28,Jan,1993,"B�che, M.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18346,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,30,May,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18347,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,25,Sep,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18348,timareta,timareta timareta Heliconius,,,,macho,Tigre Rio ECD TU,,,m,12,Feb,1992,,FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18349,timareta,timareta timareta Heliconius,,,,hembra,Mangayacu ECD PA,,,m,22,Nov,1938,,FLMNH,,Samuel Landrian,,-1.442427778,-78.11698889,Google Earth
+18350,timareta,timareta timareta Heliconius,,,,macho,Llandia Rio ECD PA,,,m,10,Feb,1992,"Vel�stegui, D.",FLMNH,,Samuel Landrian,,-1.328333333,-77.93333333,Map
+18351,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,1250,m,28,Jan,1993,"B�che, M.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18352,timareta,timareta timareta Heliconius,,,km 20,hembra,Macas ECD MS,,,m,31,Oct,1996,"Neild, A.",FLMNH,,Samuel Landrian,,-2.316666667,-78.11666667,Brown
+18353,timareta,timareta timareta Heliconius,,,km 20,hembra,Macas ECD MS,,,m,31,Oct,1996,"Neild, A.",FLMNH,,Samuel Landrian,,-2.316666667,-78.11666667,Brown
+18354,timareta,timareta timareta Heliconius,,,km 20,macho,Topo ECD TU,,,m,28,Jan,1993,"Vel�stegui, D.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+18355,timareta,timareta timareta Heliconius,,,,macho,Topo ECD TU,,,m,28,Jan,1993,"Vel�stegui, D.",FLMNH,,Samuel Landrian,,-1.416666667,-78.16666667,Brown
+36976,timareta,timareta timareta Heliconius,,,,desconocido,2-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-77.75,KB 1979
+37358,timareta,timareta timareta Heliconius,,,,desconocido,1-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-78.25,KB 1979
+37368,timareta,timareta timareta Heliconius,,,,desconocido,2-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-78.25,KB 1979
+37818,timareta,timareta timareta Heliconius,,,,desconocido,0-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-77.75,KB 1979
+37844,timareta,timareta timareta Heliconius,,,,desconocido,1-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-77.75,KB 1979
+38822,timareta,timareta timareta Heliconius,,,,desconocido,Julita Rio ECD TU,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,-1.4,-78.16666667,Label
+38823,timareta,timareta timareta Heliconius,,,,desconocido,Topo ECD TU,1400,1400,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+38824,timareta,timareta timareta Heliconius,,,,desconocido,Abitagua ECD PA,1300,1300,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-1.45,-78.15,Brown
+54969,timareta,timareta timareta Heliconius,,,f. peregrina,macho,"Parque Nacional Sangay: rio San Luis, la Lorena, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.45,-78.13333333,Parque Nacional Sangay Website
+54988,timareta,timareta timareta Heliconius,,,,macho,"Parque Nacional Sangay: Cia Mariscal Sucre, Pastaza",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.383333333,-77.86666667,Parque Nacional Sangay Website
+54993,timareta,timareta timareta Heliconius,,,parecido a f. strandi,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+54994,timareta,timareta timareta Heliconius,,,f. insolita,macho,"Parque Nacional Sangay: el Topo, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+54995,timareta,timareta timareta Heliconius,,,f. contigua,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+54996,timareta,timareta timareta Heliconius,,,f. timareta,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+54997,timareta,timareta timareta Heliconius,,,f. virgata,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,2010 - excat date on website,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55006,timareta,timareta timareta Heliconius,,,f. contigua,macho,"Parque Nacional Sangay: Sardinayacu, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,�,NEIL ROSSER,,-2.15,-78.1,Parque Nacional Sangay Website
+55013,timareta,timareta timareta Heliconius,,,f. timareta,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,05 nov �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55014,timareta,timareta timareta Heliconius,,,f. virgata,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,05 nov �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55032,timareta,timareta timareta Heliconius,,,f. timareta,macho,"Parque Nacional Sangay: Ruta a  de Octubre, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,13 mars �,NEIL ROSSER,,-2.25,-78.18333333,Parque Nacional Sangay Website
+55083,timareta,timareta timareta Heliconius,,,f. timareta,macho,"Parque Nacional Sangay: Sardinayacu, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,25 oct �,NEIL ROSSER,,-2.15,-78.1,Parque Nacional Sangay Website
+55084,timareta,timareta timareta Heliconius,,,f. virgata,macho,"Parque Nacional Sangay: Sardinayacu, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,25 oct �,NEIL ROSSER,,-2.15,-78.1,Parque Nacional Sangay Website
+55092,timareta,timareta timareta Heliconius,,,f. virgata,macho,"Parque Nacional Sangay: Cia Mal Sucre, Pastaza",,,m,,,,,Parque Nacional Sangay ZZZ,28 nov �,NEIL ROSSER,,-1.383333333,-77.86666667,Parque Nacional Sangay Website
+55119,timareta,timareta timareta Heliconius,,,f. contigua,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,XX/05 �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55620,timareta,timareta timareta Heliconius,,,,macho,R�o Quijos Ecuador Sucumb�os,1300,2000,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.375833333,-77.81783333,TABD record
+55621,timareta,timareta timareta Heliconius,,,,,Ba�os Ecuador Tungurahua,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.4,-78.41666667,TABD record
+55894,timareta,timareta timareta Heliconius,,,,,Km 51 v�a Guamote Ecuador Morona-Santiago,1550,1550,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.216666667,-78.2,TABD record
+55895,timareta,timareta timareta Heliconius,,,,,Km 51 v�a Guamote Ecuador Morona-Santiago,1550,1550,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.216666667,-78.2,TABD record
+55896,timareta,timareta timareta Heliconius,,,,,R�o Abanico Ecuador Morona-Santiago,1640,1600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.255,-78.2,GPS
+55897,timareta,timareta timareta Heliconius,,,,,R�o Abanico Ecuador Morona-Santiago,1640,1600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.255,-78.2,GPS
+55899,timareta,timareta timareta Heliconius,,,,,Km 51 v�a Guamote Ecuador Morona-Santiago,1550,1550,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.216666667,-78.2,TABD record
+55900,timareta,timareta timareta Heliconius,,,,,Km 51 v�a Guamote Ecuador Morona-Santiago,1550,1550,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.216666667,-78.2,TABD record
+55901,timareta,timareta timareta Heliconius,,,,,Km 51 v�a Guamote Ecuador Morona-Santiago,1550,1550,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-2.216666667,-78.2,TABD record

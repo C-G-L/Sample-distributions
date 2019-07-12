@@ -1,0 +1,149 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+3886,cydno,cydno weymeri Heliconius,ST,"weymeri Heliconius cydno (Heliconius, O. Staudinger 1897)",,macho,Dagua Rio COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+3888,cydno,cydno weymeri Heliconius,ST,"weymeri Heliconius cydno (Heliconius, O. Staudinger 1897)",,hembra,Dagua Rio COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+3889,cydno,cydno weymeri Heliconius,,,,macho,Tocota COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.525833333,-76.65,Falling Rain
+3890,cydno,cydno weymeri Heliconius,,,,macho,Aguacatal Rio COL VC,1800,1800,m,,4,1909,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3891,cydno,cydno weymeri Heliconius,,,,macho,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3892,cydno,cydno weymeri Heliconius,,,,macho,Villa Eloira COL VC,1800,1800,m,,,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.519444444,-76.59861111,Falling Rain
+3893,cydno,cydno weymeri Heliconius,,,,macho,Popayan COL CC,,,m,,,1895,,BMNH,,NEIL ROSSER,,2.45,-76.6,Brown
+3895,cydno,cydno weymeri Heliconius,,,,hembra,Dagua Rio COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+3896,cydno,cydno weymeri Heliconius,,,,hembra,San Antonio COL VC,1800,1800,m,,5,1909,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.499844444,-76.63273611,Geonames
+3897,cydno,cydno weymeri Heliconius,,,,hembra,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3898,cydno,cydno weymeri Heliconius,,,,hembra,Villa Eloira COL VC,1800,1800,m,4,7,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.519444444,-76.59861111,Falling Rain
+3899,cydno,cydno weymeri Heliconius,ST,"sulphureomaculata Heliconius cydno (Heliconius, A.H. Fassl 1914)",,hembra,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3900,cydno,cydno weymeri Heliconius,,,,macho,Dagua Rio COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+3901,cydno,cydno weymeri Heliconius,ST,"submarginatus Heliconius weymeri (Heliconius, A.H. Fassl 1912)",,macho,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3902,cydno,cydno weymeri Heliconius,ST,"submarginatus Heliconius weymeri (Heliconius, A.H. Fassl 1912)",,macho,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3903,cydno,cydno weymeri Heliconius,ST,"submarginatus Heliconius weymeri (Heliconius, A.H. Fassl 1912)",,macho,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3904,cydno,cydno weymeri Heliconius,ST,"submarginatus Heliconius weymeri (Heliconius, A.H. Fassl 1912)",,hembra,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3905,cydno,cydno weymeri Heliconius,ST,"submarginatus Heliconius weymeri (Heliconius, A.H. Fassl 1912)",,hembra,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3906,cydno,cydno weymeri Heliconius,ST,"submarginatus Heliconius weymeri (Heliconius, A.H. Fassl 1912)",,hembra,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3907,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Coreato COL VC,,,m,,,,Paine & Brinkley,BMNH,,NEIL ROSSER,,3.183333333,-76.25,Brown
+3908,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Coreato COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.183333333,-76.25,Brown
+3909,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3910,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Tocota COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.525833333,-76.65,Falling Rain
+3911,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Dagua Rio COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+3912,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Tocota COL VC,2000,2000,m,2,4,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.525833333,-76.65,Falling Rain
+3913,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Agua Rio COL VC,,,m,29,5,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.527961111,-76.59700833,Google Earth  + internet references
+3914,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,hembra,Pichinde COL VC,,,m,,,,Paine & Brinkley,BMNH,,NEIL ROSSER,,3.433333333,-76.61666667,Brown
+3915,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,hembra,Aguacatal Rio COL VC,2000,2000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3916,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,hembra,Aguacatal Rio COL VC,1600,1600,m,4,9,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.466666667,-76.53333333,Brown
+3917,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,hembra,Tocota COL VC,2000,2000,m,7,9,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.525833333,-76.65,Falling Rain
+3918,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,hembra,Agua Rio COL VC,1400,1400,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.527961111,-76.59700833,Google Earth  + internet references
+3919,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,macho,Cali COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.45,-76.51666667,Brown
+3920,cydno,cydno weymeri Heliconius,ST,"gustavi Heliconius cydno (Heliconius, O. Staudinger 1897)",weymeri ab. gustavi Staudinger 1897,macho,Dagua Rio COL VC,,,m,,,,,BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+3942,cydno,cydno weymeri Heliconius,,,weymeri ab. gustavi Staudinger 1897,hembra,Villa Eloira COL VC,1800,1800,m,4,7,1908,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.519444444,-76.59861111,Falling Rain
+9320,cydno,cydno weymeri Heliconius,,,,hembra,Suarez area COL CC,1700,1700,m,2,10,1974,"Steinhauser, S. & L.",MGCL/FLMNH,,NEIL ROSSER,,2.955277778,-76.69055556,unknown
+16210,cydno,cydno weymeri Heliconius,,,,unknown,El Saladito COL VC,1700,1700,m,,,1981,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.483333333,-76.61666667,Brown
+16211,cydno,cydno weymeri Heliconius,,,,unknown,Pico de Aguila COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.755605556,-76.90161944,Google Earth
+16212,cydno,cydno weymeri Heliconius,,,,unknown,El Saladito COL VC,1500,1500,m,,,1988,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.483333333,-76.61666667,Brown
+16213,cydno,cydno weymeri Heliconius,,,,unknown,Pance COL VC,4000,4000,ft,,,1988,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.333333333,-76.63333333,Brown
+16214,cydno,cydno weymeri Heliconius,,,,unknown,Pico de Aguila COL VC,1500,1500,m,,,1989,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.755605556,-76.90161944,Google Earth
+16215,cydno,cydno weymeri Heliconius,,,,unknown,Bitaco COL VC,1700,1700,m,,,1985,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.766666667,-76.63333333,Brown
+18897,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18898,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18899,cydno,cydno weymeri Heliconius,,,,hembra,Cali COL VC,,,m,15,Oct,1972,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18900,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,,m,11,Jul,1974,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18901,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,,m,3,Jul,1969,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18902,cydno,cydno weymeri Heliconius,,,,macho,Dagua COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.666666667,-76.7,www.calle.com
+18903,cydno,cydno weymeri Heliconius,,,,macho,Dagua COL VC,,,m,8,Jul,1973,,FLMNH,,Samuel Landrian,,3.666666667,-76.7,www.calle.com
+18905,cydno,cydno weymeri Heliconius,,,,macho,Farallones km 55 COL VC,,,m,,Jul,1983,Salazar,FLMNH,,Samuel Landrian,,3.521944444,-76.70694444,estimate
+18906,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,,m,28,Jul,1968,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18907,cydno,cydno weymeri Heliconius,,,,hembra,Pance Rio COL VA,,,m,,Jul,1985,,FLMNH,,Samuel Landrian,,3.318586111,-76.54723333,Google Earth + Geonames
+18908,cydno,cydno weymeri Heliconius,,,,macho,Pance Rio COL VA,,,m,16,Nov,1988,,FLMNH,,Samuel Landrian,,3.318586111,-76.54723333,Google Earth + Geonames
+18909,cydno,cydno weymeri Heliconius,,,,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18910,cydno,cydno weymeri Heliconius,,,,macho,Yumbillo COL VA,,1000,m,31,Oct,1966,,FLMNH,,Samuel Landrian,,3.594722222,-76.53361111,Geonames
+18911,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,1000,m,31,Oct,1966,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18912,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,1000,m,20,Nov,1969,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18913,cydno,cydno weymeri Heliconius,,,,macho,Cali COL VC,,1000,m,6,Nov,1964,,FLMNH,,Samuel Landrian,,3.45,-76.51666667,Brown
+18916,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18917,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18918,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18919,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,27,Jan,1974,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18920,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL VC,,,m,27,Jan,1974,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18921,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,13,May,1971,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18922,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18923,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,hembra,Dagua Rio COL VC,,,m,4,Mar,1974,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18924,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18925,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+18926,cydno,cydno weymeri Heliconius,,,weymeri x cydnides,macho,Dagua Rio COL VC,,,m,,,,,FLMNH,,Samuel Landrian,,3.55,-76.65,Brown
+32273,cydno,cydno weymeri Heliconius,,,f. gustavi,unknown,"2 km w. Saladito, Cali-B'ventura Rd., V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.483333333,-76.61666667,Geonames
+32900,cydno,cydno weymeri Heliconius,,,f. gustavi,unknown,Popayan COL CC,,,m,,,,,Brower,,NEIL ROSSER,,2.45,-76.6,Brown
+32901,cydno,cydno weymeri Heliconius,,,,unknown,Popayan COL CC,,,m,,,,,Brower,,NEIL ROSSER,,2.45,-76.6,Brown
+33530,cydno,cydno weymeri Heliconius,,,,hembra,"El Saladito, near Cali COL VC",,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.483333333,-76.61666667,Falling Rain
+33531,cydno,cydno weymeri Heliconius,,,,macho,"El Saladito, near Cali COL VC",,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.483333333,-76.61666667,Falling Rain
+33532,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33533,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33534,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33535,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33536,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33537,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33538,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33539,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33540,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33541,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33542,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33543,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33544,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33545,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33546,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33547,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33548,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33549,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33550,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33551,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33552,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33553,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33554,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33555,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33556,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33557,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33558,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33559,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33560,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33561,cydno,cydno weymeri Heliconius,,,,macho,"Helechaux, near Popayan COL VC",,,m,,,,,Jiggins,,NEIL ROSSER,,2.513333333,-76.59416667,Geonames
+33562,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33563,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33564,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33565,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33566,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33567,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33568,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33569,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33570,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33571,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33572,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33573,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33574,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33575,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33576,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33577,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33578,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33579,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33580,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33581,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33582,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33583,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33584,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33585,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33586,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33587,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33588,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33589,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33590,cydno,cydno weymeri Heliconius,,,,macho,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+33591,cydno,cydno weymeri Heliconius,,,,hembra,Montañitas COL VC,,,m,,,,,Jiggins,,NEIL ROSSER,,3.684722222,-76.53,Geonames
+35018,cydno,cydno weymeri Heliconius,,,,desconocido,3-76a N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-76.25,KB 1979
+35548,cydno,cydno weymeri Heliconius,,,,desconocido,3-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-76.75,KB 1979
+35569,cydno,cydno weymeri Heliconius,,,,desconocido,2-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-76.75,KB 1979
+36368,cydno,cydno weymeri Heliconius,,,,desconocido,4-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.75,KB 1979
+36400,cydno,cydno weymeri Heliconius,,,,desconocido,3-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-76.75,KB 1979
+38574,cydno,cydno weymeri Heliconius,,,,desconocido,Cali COL VC,1000,1000,m,,,,"Denhez, L.",MHNL PERU ex Peru,,NEIL ROSSER,,3.45,-76.51666667,Brown
+38575,cydno,cydno weymeri Heliconius,,,,desconocido,Saladito COL VC,1650,1650,m,,,,"Small, G.B.",MHNL PERU ex Peru,,NEIL ROSSER,,3.483333333,-76.61666667,Label
+59807,cydno,cydno weymeri Heliconius,,,,unknown,Cali COL VC,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,3.45,-76.51666667,Brown
+59808,cydno,cydno weymeri Heliconius,,,,unknown,Cali COL VC,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,3.45,-76.51666667,Brown
+59812,cydno,cydno weymeri Heliconius,,,,unknown,Popayan COL CC,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,2.45,-76.6,Brown
+59813,cydno,cydno weymeri Heliconius,,,,unknown,Sotara COL CC,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,2.25667,-76.61861,Geonames
+60279,cydno,cydno weymeri Heliconius,,,,unknown,LeCrom_340,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.758255,-76.630461,LeCrom
+60280,cydno,cydno weymeri Heliconius,,,,unknown,LeCrom_341,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.468987,-76.864253,LeCrom
+60296,cydno,cydno weymeri Heliconius,,,In Lecrom as gustavi,unknown,LeCrom_357,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.4127,-76.664101,LeCrom
+60297,cydno,cydno weymeri Heliconius,,,In Lecrom as gustavi,unknown,LeCrom_358,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.421152,-76.926126,LeCrom

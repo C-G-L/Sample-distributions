@@ -1,0 +1,207 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+1149,erato,erato cyrbia Heliconius,,,,desconocido,Naranjal ECD GU,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.65,-79.61666667,Brown
+5882,erato,erato cyrbia Heliconius,,,f. bella,macho,Santa Ana Maria ECD LR,,,m,,,,"Buchwald, L. von",BMNH,,NEIL ROSSER,,-0.966666667,-79.41666667,Brown
+5883,erato,erato cyrbia Heliconius,,,f. bella,macho,Quevedo ECD LR,,,m,,,,"Buchwald, L. von",BMNH,,NEIL ROSSER,,-1.016666667,-79.45,Brown
+5884,erato,erato cyrbia Heliconius,,,f. bella,macho,Angamarca ECD CO,,,m,,,,,BMNH,,NEIL ROSSER,,-1.116666667,-78.92666667,www.calle.com
+5885,erato,erato cyrbia Heliconius,,,f. bella,macho,Cachabe ECD ES,,,m,,1,1897,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,1.05,-78.8,Brown
+5887,erato,erato cyrbia Heliconius,,,f. bella,macho,Babahoyo ECD LR,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-1.816666667,-79.51666667,Brown
+5888,erato,erato cyrbia Heliconius,,,f. bella,macho,La Chima ECD LR,,,m,,,1893,"Mathan, M. de",BMNH,1st sem,NEIL ROSSER,,-1.866666667,-79.16666667,Brown
+5889,erato,erato cyrbia Heliconius,ST,"bella Heliconius erato (Heliconius, H.H. Riffarth 1907)",f. bella,macho,Los Llanos ECD CH,,,m,,,,,BMNH,,NEIL ROSSER,,-2.05,-78.96666667,Brown
+5890,erato,erato cyrbia Heliconius,,,f. bella,hembra,Los Llanos ECD CH,1400,1400,m,,,,,BMNH,,NEIL ROSSER,,-2.05,-78.96666667,Brown
+5891,erato,erato cyrbia Heliconius,,,f. bella,macho,Jorge ECD BO,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,-2.066666667,-79.01666667,Brown
+5892,erato,erato cyrbia Heliconius,,,f. bella,macho,Huigra ECD CH,2500,2500,ft,20,2,1913,"Hall, A.",BMNH,,NEIL ROSSER,,-2.290179,-78.982753,Google Earth
+5894,erato,erato cyrbia Heliconius,,,f. bella,macho,Balzapamba ECD BO,,,m,,,,,BMNH,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+5895,erato,erato cyrbia Heliconius,,,f. bella,macho,Bodegas ECD,,,m,,,,,BMNH,,NEIL ROSSER,,-1.816666667,-79.51666667,Falling Rain
+5896,erato,erato cyrbia Heliconius,,,f. bella,macho,Guayaquil ECD GU,,,m,,,,Hooker,BMNH,,NEIL ROSSER,,-2.166666667,-79.96666667,Brown
+5897,erato,erato cyrbia Heliconius,,,f. bella,macho,Chimbo ECD CH,,,m,,,,"Mathan, M. de",BMNH,1897,NEIL ROSSER,,-2.233333333,-79.11666667,Brown
+5900,erato,erato cyrbia Heliconius,,,f. bella,macho,Arenillas ECD EL,,,m,,,1891,"Mathan, M. de",BMNH,,NEIL ROSSER,,-3.55,-80.06666667,www.calle.com
+6002,erato,erato cyrbia Heliconius,,,f. bella,hembra,Zaruma ECD EL,,,m,,,1891,"Mathan, M. de",BMNH,,NEIL ROSSER,,-3.683333333,-79.61666667,Brown
+6003,erato,erato cyrbia Heliconius,,,f. bella,hembra,Ave Maria Hacienda ECD LR,,,m,,,,"Buchwald, L. von",BMNH,,NEIL ROSSER,,-0.966666667,-79.41666667,Brown
+6068,erato,erato cyrbia Heliconius,,,,macho,Paramba ECD IM,,,m,,,1898,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,0.816666667,-78.35,Brown
+6072,erato,erato cyrbia Heliconius,,,form? -This was marked erato cyrbia? Heliconius aswell as form? I've assumed it to be correct as cyrbia is found in this locality,macho,Paramba ECD IM,,,m,,,,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,0.816666667,-78.35,Brown
+6073,erato,erato cyrbia Heliconius,,,f. bella,macho,Palmar ECD MA,,,m,,,,Haensh,BMNH,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+6074,erato,erato cyrbia Heliconius,,,f. bella,macho,Santo Domingo de los Colorados ECD PI,,,m,,5,1928,"Spillmann, W.",BMNH,,NEIL ROSSER,,-0.25,-79.15,Brown
+14316,erato,erato cyrbia Heliconius,,,,unknown,Santo Domingo ECD PI,900,900,m,,,1969,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-79.15,Brown
+14317,erato,erato cyrbia Heliconius,,,,unknown,Santo Domingo ECD PI,1000,1000,m,,,1969,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-79.15,Brown
+14318,erato,erato cyrbia Heliconius,,,,unknown,Toachi Rio ECD PI,1200,1200,m,,,1969,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+14319,erato,erato cyrbia Heliconius,,,,unknown,Balzapamba ECD BO,630,630,m,,,1938,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+14320,erato,erato cyrbia Heliconius,,,,unknown,Piedras ECD EL,300,300,m,,,1941,DBL,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.633333333,-79.91083333,large map
+14321,erato,erato cyrbia Heliconius,,,,unknown,Palmar ECD MA,200,200,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.166666667,-79.46666667,Brown
+14322,erato,erato cyrbia Heliconius,,,,unknown,Palenque Rio ECD LR,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.6,-79.36666667,Brown
+14323,erato,erato cyrbia Heliconius,,,,unknown,Playones ECD MA,150,150,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.406686111,-79.91194722,http://www.mercuriomanta.com/sistema.php?name=noticias&file=article&sid=27080
+14324,erato,erato cyrbia Heliconius,,,,unknown,Santo Domingo de los Colorados ECD PI,500,500,m,,,1940,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-79.15,Brown
+14325,erato,erato cyrbia Heliconius,,,,unknown,La Lorena ECD PI,550,550,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.265402778,-79.10773611,Google Earth
+14326,erato,erato cyrbia Heliconius,,,,unknown,Lorro nr Pinas ECD EL,1500,1500,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.681497222,-79.68176944,Google Earth
+14327,erato,erato cyrbia Heliconius,,,,unknown,Portovelo ECD EL,600,600,m,,,1941,"Laddey, D.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.716666667,-79.65,Brown
+14329,erato,erato cyrbia Heliconius,,,,unknown,La Puntilla ECD GU,,,m,,,1964,Mrs R deL,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.197255556,-79.85917222,Google Earth
+14330,erato,erato cyrbia Heliconius,,,,unknown,Toachi Rio ECD PI,900,900,m,,,1969,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+14331,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,750,850,m,,,1988,"Austin, G.T.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+14332,erato,erato cyrbia Heliconius,,,,unknown,Toachi Rio ECD PI,800,800,m,,,1939,"Brown, F.M.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+14333,erato,erato cyrbia Heliconius,,,"Possible trans to guarica or something like it - reduced rear white band, thickened FW red band. -Note- duplicate record for guarica removed as this doesn't seem to fit with guaricas distrib.",unknown,Paramba ECD IM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,0.816666667,-78.35,Brown
+14334,erato,erato cyrbia Heliconius,,,,unknown,Piedras ECD EL,300,300,m,,,1941,DBL,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.633333333,-79.91083333,large map
+14335,erato,erato cyrbia Heliconius,,,,unknown,Balzapamba ECD BO,630,630,m,,,1938,"Brown, F.M.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.783333333,-79.16666667,Brown
+14336,erato,erato cyrbia Heliconius,,,,unknown,Toachi Rio ECD PI,700,700,m,,,1969,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+16362,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,750,850,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+16363,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,2800,2800,ft,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+16364,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,2200,2200,ft,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+16365,erato,erato cyrbia Heliconius,,,,unknown,Santo Domingo de los Colorados ECD PI,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.25,-79.15,Brown
+16366,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+16367,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,3400,3400,ft,,,1980,"Stevens, M.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+16368,erato,erato cyrbia Heliconius,,,,unknown,Pichincha ECD PI,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.161841667,-78.68340833,Google Earth
+16369,erato,erato cyrbia Heliconius,,,,unknown,Palenque ECD PI,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.6,-79.36666667,Brown
+16370,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,700,700,m,,,1980,Covell,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+16833,erato,erato cyrbia Heliconius,,,,unknown,Chimbo ECD CH,,,m,,,1892,"Mathan, M. de",NHM Accessions - draw 7986,1st sem.,NEIL ROSSER,,-2.233333333,-79.11666667,Brown
+16909,erato,erato cyrbia Heliconius,,,,unknown,Tandapi ECD PI,1600,1600,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.45,-78.76666667,Brown
+16913,erato,erato cyrbia Heliconius,,,,unknown,San Pablo ECD PI,620,620,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,,,unknown
+17128,erato,erato cyrbia Heliconius,,,f. cyrbia,unknown,Tinalandia (Bristow) ECD PI,700,700,m,29,6,1975,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,-0.25,-79.18333333,label
+17129,erato,erato cyrbia Heliconius,,,f. cyrbia,unknown,Timbre ECD,30,30,m,25,7,1975,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,0.816666667,-79.61666667,label
+17130,erato,erato cyrbia Heliconius,,,f. cyrbia,unknown,Manglaralto 9km E ECD,120,120,m,31,10,1974,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,-1.833333333,-80.66666667,label
+17131,erato,erato cyrbia Heliconius,,,f. cyrbia,unknown,Quininde 10km north ECD ES,100,100,m,20,11,1974,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,0.4,-79.43333333,R. Bristow
+17132,erato,erato cyrbia Heliconius,,,f. cyrbia,unknown,Pichilingue ECD,70,70,m,13,7,1975,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,-1.1,-79.46666667,label
+17133,erato,erato cyrbia Heliconius,,,f. cyrbia,unknown,Diez de Agosto ECD MA,90,90,m,5,6,1975,Bristow,NHM Accesions - draws 9719,,NEIL ROSSER,,-0.133333333,-80.06666667,label
+26155,erato,erato cyrbia Heliconius,,,,macho,Tinalandia ECD PI,600,600,m,,3,1991,"Buche, M.",FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26156,erato,erato cyrbia Heliconius,,,,hembra,Tinalandia ECD PI,750,750,m,19,2,1992,,FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26157,erato,erato cyrbia Heliconius,,,,macho,Tinalandia ECD PI,750,750,m,19,2,1992,,FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26158,erato,erato cyrbia Heliconius,,,,macho,Tinalandia ECD PI,600,600,m,,3,1991,"Buche, M.",FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26159,erato,erato cyrbia Heliconius,,,,hembra,Tinalandia ECD PI,750,750,m,18,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26160,erato,erato cyrbia Heliconius,,,,macho,Tinalandia ECD PI,900,900,m,,4,1989,,FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26161,erato,erato cyrbia Heliconius,,,,macho,Tinalandia ECD PI,600,600,m,,3,1991,"Buche, M.",FLMNH,,Neil Rosser,,-0.3,-79.06666667,Brown
+26162,erato,erato cyrbia Heliconius,,,,macho,Santo Domingo de los Colorados ECD PI,,,m,,4,1989,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+26163,erato,erato cyrbia Heliconius,,,,hembra,Santo Domingo de los Colorados ECD PI,,,m,,4,1989,,FLMNH,,Neil Rosser,,-0.25,-79.15,Brown
+26164,erato,erato cyrbia Heliconius,,,,hembra,San Carlos de los Colorados Hda ECD PI,,,m,30,5,1936,"Schultze-Rhonhof, A.",FLMNH,,Neil Rosser,,-0.419413889,-78.94241389,Studies in the Genus Elaphoglossum - Bell 1955
+26165,erato,erato cyrbia Heliconius,,,,macho,Alluriquin ECD PI,,,m,,6,1994,,FLMNH,,Neil Rosser,,-0.316666667,-78.98333333,Brown
+26166,erato,erato cyrbia Heliconius,,,,hembra,San Pablo ECD PI,1000,1000,m,2,12,1991,,FLMNH,,Neil Rosser,,,,unknown
+26167,erato,erato cyrbia Heliconius,,,,hembra,San Pablo ECD PI,1000,1000,m,22,12,1991,,FLMNH,,Neil Rosser,,,,unknown
+26168,erato,erato cyrbia Heliconius,,,,macho,San Pablo ECD PI,1000,1000,m,23,12,1991,,FLMNH,,Neil Rosser,,,,unknown
+26169,erato,erato cyrbia Heliconius,,,,hembra,Balzapamba ECD BO,,,m,,4,1989,,FLMNH,,Neil Rosser,,-1.783333333,-79.16666667,Brown
+26170,erato,erato cyrbia Heliconius,,,,hembra,Balzapamba ECD BO,,,m,,4,1989,,FLMNH,,Neil Rosser,,-1.783333333,-79.16666667,Brown
+26171,erato,erato cyrbia Heliconius,,,,macho,Chacorita ECU LO,,,m,2,8,1991,,FLMNH,,Neil Rosser,,,,unknown
+26172,erato,erato cyrbia Heliconius,,,,macho,Chacorita ECU LO,,,m,,,1991,,FLMNH,,Neil Rosser,,,,unknown
+26173,erato,erato cyrbia Heliconius,,,,macho,Naranjal ECD GU,,,m,,11,1994,,FLMNH,,Neil Rosser,,-2.65,-79.61666667,Brown
+26174,erato,erato cyrbia Heliconius,,,,hembra,Naranjal ECD GU,,,m,,9,1994,,FLMNH,,Neil Rosser,,-2.65,-79.61666667,Brown
+26175,erato,erato cyrbia Heliconius,,,,macho,Naranjal ECD GU,,,m,,9,1994,,FLMNH,,Neil Rosser,,-2.65,-79.61666667,Brown
+26176,erato,erato cyrbia Heliconius,,,,macho,Naranjal ECD GU,,,m,,9,1994,,FLMNH,,Neil Rosser,,-2.65,-79.61666667,Brown
+26177,erato,erato cyrbia Heliconius,,,,macho,Naranjal ECD GU,,,m,,9,1994,,FLMNH,,Neil Rosser,,-2.65,-79.61666667,Brown
+26178,erato,erato cyrbia Heliconius,,,,macho,Pinas ECD EL,,,m,15,7,1993,,FLMNH,,Neil Rosser,,-3.7,-79.7,Brown
+26179,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26180,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26181,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26182,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26183,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26184,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26185,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26186,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26187,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26188,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26189,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26190,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,17,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26191,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26192,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26193,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,13,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26194,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26195,erato,erato cyrbia Heliconius,,,,macho,Guayquichuma ECD EO,1200,1200,m,30,1,1992,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26196,erato,erato cyrbia Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,,7,1994,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26197,erato,erato cyrbia Heliconius,,,CHRYSALIS,?,San Carlos de los Colorados Hda ECD PI,,,m,8,9,1936,,FLMNH,,Neil Rosser,,-0.419413889,-78.94241389,Studies in the Genus Elaphoglossum - Bell 1955
+26198,erato,erato cyrbia Heliconius,,,CHRYSALIS,?,San Carlos de los Colorados Hda ECD PI,,,m,3,9,1936,,FLMNH,,Neil Rosser,,-0.419413889,-78.94241389,Studies in the Genus Elaphoglossum - Bell 1955
+26199,erato,erato cyrbia Heliconius,,,,macho,Naranjal Rio ECD IM,,,m,,8,1995,,FLMNH,,Neil Rosser,,0.351388889,-78.91694444,http://www.checklist.org.br/getpdf?NGD031-06
+26200,erato,erato cyrbia Heliconius,,,,macho,Naranjal Rio ECD IM,,,m,,8,1995,,FLMNH,,Neil Rosser,,0.351388889,-78.91694444,http://www.checklist.org.br/getpdf?NGD031-06
+26201,erato,erato cyrbia Heliconius,,,,macho,Naranjal Rio ECD IM,,,m,,8,1995,,FLMNH,,Neil Rosser,,0.351388889,-78.91694444,http://www.checklist.org.br/getpdf?NGD031-06
+26202,erato,erato cyrbia Heliconius,,,,hembra,Naranjal Rio ECD IM,,,m,,8,1995,,FLMNH,,Neil Rosser,,0.351388889,-78.91694444,http://www.checklist.org.br/getpdf?NGD031-06
+26203,erato,erato cyrbia Heliconius,,,,macho,La Carolina ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.783333333,-78.3,Geonames
+26204,erato,erato cyrbia Heliconius,,,,hembra,La Carolina ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.783333333,-78.3,Geonames
+26205,erato,erato cyrbia Heliconius,,,,macho,La Carolina ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.783333333,-78.3,Geonames
+26206,erato,erato cyrbia Heliconius,,,,hembra,La Carolina ECD IM,,,m,,7,1995,,FLMNH,,Neil Rosser,,0.783333333,-78.3,Geonames
+33114,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33115,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33116,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33117,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33118,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33119,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33120,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33121,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33122,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33123,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33124,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33125,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33126,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33127,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33128,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33129,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33130,erato,erato cyrbia Heliconius,,,,unknown,Tinalandia ECD PI,,,m,,,,,Brower,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+33852,erato,erato cyrbia Heliconius,,,,macho,"Alluriquin, ECD PI",,,m,,,,,Jiggins,,NEIL ROSSER,,-0.319722222,-79.33694444,CJ
+35028,erato,erato cyrbia Heliconius,,,,desconocido,1-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-78.25,KB 1979
+35057,erato,erato cyrbia Heliconius,,,,desconocido,0-80a N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.242829,-80.015707,Google Earth
+35061,erato,erato cyrbia Heliconius,,,,desconocido,0-79a N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-79.25,KB 1979
+35617,erato,erato cyrbia Heliconius,,,,desconocido,1-79b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-78.75,KB 1979
+36012,erato,erato cyrbia Heliconius,,,,desconocido,2-78c N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.75,-78.25,KB 1979
+36024,erato,erato cyrbia Heliconius,,,,desconocido,1-78c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-78.25,KB 1979
+36443,erato,erato cyrbia Heliconius,,,,desconocido,1-80d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-79.75,KB 1979
+36472,erato,erato cyrbia Heliconius,,,,desconocido,1-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-79.25,KB 1979
+36484,erato,erato cyrbia Heliconius,,,,desconocido,2-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-79.25,KB 1979
+36493,erato,erato cyrbia Heliconius,,,,desconocido,3-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-79.25,KB 1979
+36501,erato,erato cyrbia Heliconius,,,,desconocido,4-80a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-80.25,KB 1979
+36509,erato,erato cyrbia Heliconius,,,,desconocido,4-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-79.25,KB 1979
+36943,erato,erato cyrbia Heliconius,,,,desconocido,2-81b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-80.75,KB 1979
+36946,erato,erato cyrbia Heliconius,,,,desconocido,2-80b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-79.75,KB 1979
+36958,erato,erato cyrbia Heliconius,,,,desconocido,4-80b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-79.75,KB 1979
+37317,erato,erato cyrbia Heliconius,,,,desconocido,0-80c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-80.25,KB 1979
+37323,erato,erato cyrbia Heliconius,,,,desconocido,0-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-79.25,KB 1979
+37333,erato,erato cyrbia Heliconius,,,,desconocido,1-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-79.25,KB 1979
+37341,erato,erato cyrbia Heliconius,,,,desconocido,2-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-79.25,KB 1979
+37792,erato,erato cyrbia Heliconius,,,,desconocido,0-79d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-78.75,KB 1979
+37803,erato,erato cyrbia Heliconius,,,,desconocido,2-80d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-79.75,KB 1979
+38614,erato,erato cyrbia Heliconius,,,,desconocido,Tinalandia ECD PI,800,800,m,,,,"Callegari, C.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.3,-79.06666667,Brown
+38615,erato,erato cyrbia Heliconius,,,,desconocido,Toachi Rio ECD PI,700,700,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.383333333,-78.93333333,Brown
+38616,erato,erato cyrbia Heliconius,,,,desconocido,Taguaza ECD PI,1750,1750,m,,,,"Vel�stegui, D.",MHNL PERU ex Peru,,NEIL ROSSER,,-0.3,-79.03333333,Brown
+43027,erato,erato cyrbia Heliconius,,,,macho,Puesto Campo Verde PER TU,,,m,2123,Mayo,1982,"Lamas, G., E. P�rez",MHNL PERU,21-23.v.82,Lidia Sulca,,-3.85,-80.16666667,Geonames
+43028,erato,erato cyrbia Heliconius,,,,macho,Puesto Campo Verde PER TU,,,m,,Mayo,1982,"Lamas, G., E. P�rez",MHNL PERU,21-23.v.82,Lidia Sulca,,-3.85,-80.16666667,Geonames
+43029,erato,erato cyrbia Heliconius,,,,macho,Puesto Campo Verde PER TU,,,m,,Mayo,1982,"Lamas, G., E. P�rez",MHNL PERU,21-23.v.82,Lidia Sulca,,-3.85,-80.16666667,Geonames
+43030,erato,erato cyrbia Heliconius,,,,macho,Matapalo PER TU,,,m,40134,Junio,1975,"Lamas, G",MHNL PERU,11-17.vi.75,Lidia Sulca,,-3.683333333,-80.2,"Gerardo Lamas, unpub. gazetteer"
+43031,erato,erato cyrbia Heliconius,,,,macho,Faical PER TU,,,m,9,Diciembre,1993,"Grados, J.",MHNL PERU,9.xii.93,Lidia Sulca,,-3.8,-80.21666667,"Gerardo Lamas, unpub. gazetteer"
+43032,erato,erato cyrbia Heliconius,,,,macho,Faical PER TU,,,m,7,Diciembre,1993,"Lamas, G.",MHNL PERU,7.xii.93,Lidia Sulca,,-3.8,-80.21666667,"Gerardo Lamas, unpub. gazetteer"
+43033,erato,erato cyrbia Heliconius,,,,macho,Faical PER TU,,,m,7,Diciembre,1993,"Lamas, G.",MHNL PERU,7.xii.93,Lidia Sulca,,-3.8,-80.21666667,"Gerardo Lamas, unpub. gazetteer"
+43034,erato,erato cyrbia Heliconius,,,,macho,Campo Verde P.V - Los Naranjos Qbda PER TU,,,m,24,Febrero,1996,"Grados, J.",MHNL PERU,24.ii.96,Lidia Sulca,,-3.843433333,-80.19897778,Lamas paper
+43035,erato,erato cyrbia Heliconius,,,,macho,Los Naranjos Qbda PER TU,,,m,20,Febrero,1996,"Grados, J.",MHNL PERU,20.ii.96,Lidia Sulca,,-3.833333333,-80.23333333,Cadle 2005 paper
+43036,erato,erato cyrbia Heliconius,,,,macho,Campo Verde P.V - Los Naranjos Qbda PER TU,,,m,21,Febrero,1996,"Grados, J.",MHNL PERU,21.ii.96,Lidia Sulca,,-3.843433333,-80.19897778,Lamas paper
+43037,erato,erato cyrbia Heliconius,,,,macho,Los Naranjos Qbda PER TU,,,m,20,Febrero,1996,"Grados, J.",MHNL PERU,20.ii.96,Lidia Sulca,,-3.833333333,-80.23333333,Cadle 2005 paper
+43038,erato,erato cyrbia Heliconius,,,,macho,Los Naranjos Qbda PER TU,,,m,20,Febrero,1996,"Grados, J.",MHNL PERU,20.ii.96,Lidia Sulca,,-3.833333333,-80.23333333,Cadle 2005 paper
+43040,erato,erato cyrbia Heliconius,,,,macho,Matapalo PER TU,,,m,40134,Junio,1975,"Lamas, G",MHNL PERU,11-17.vi.75,Lidia Sulca,,-3.683333333,-80.2,"Gerardo Lamas, unpub. gazetteer"
+43041,erato,erato cyrbia Heliconius,,,,macho,Campo Verde P.V - Los Naranjos Qbda PER TU,,,m,21,Febrero,1996,"Grados, J.",MHNL PERU,21.ii.96,Lidia Sulca,,-3.843433333,-80.19897778,Lamas paper
+43042,erato,erato cyrbia Heliconius,,,,macho,Los Naranjos Qbda PER TU,,,m,20,Febrero,1996,"Grados, J.",MHNL PERU,20.ii.96,Lidia Sulca,,-3.833333333,-80.23333333,Cadle 2005 paper
+43043,erato,erato cyrbia Heliconius,,,,macho,Faical PER TU,,,m,27,Febrero,1996,"Grados, J.",MHNL PERU,27.ii.96,Lidia Sulca,,-3.8,-80.21666667,"Gerardo Lamas, unpub. gazetteer"
+53689,erato,erato cyrbia Heliconius,,,,unknown,chaguarpamba Ecuador,1000,1000,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53690,erato,erato cyrbia Heliconius,,,,unknown,chaguarpamba Ecuador,900,900,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53691,erato,erato cyrbia Heliconius,,,,unknown,chaguarpamba Ecuador,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53692,erato,erato cyrbia Heliconius,,,,unknown,chaguarpamba Ecuador,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53693,erato,erato cyrbia Heliconius,,,,unknown,chaguarpamba Ecuador,1275,1275,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53703,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,1150,1150,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53704,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,800,800,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53705,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,1000,1000,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53706,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,950,950,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53707,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,1000,1000,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53708,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,1050,1050,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53709,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53710,erato,erato cyrbia Heliconius,,,,unknown,Guayquichuma ECD LO,1250,1250,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+55604,erato,erato cyrbia Heliconius,,,,,Alluriqu�n Ecuador Pichincha,800,800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.316666667,-78.98333333,TABD record
+55860,erato,erato cyrbia Heliconius,,,,male,R�o Ayampe Ecuador Manab�,190,190,m,23,4,2008,S. Padr�n & R. Aldaz,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.663611111,-80.76666667,GPS
+55861,erato,erato cyrbia Heliconius,,,,male,R�o Ayampe Ecuador Manab�,190,190,m,23,4,2008,S. Padr�n & R. Aldaz,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.663611111,-80.76666667,GPS
+55862,erato,erato cyrbia Heliconius,,,,male,"La Victoria, 3 km W Cascol, Guayaquil-Jipijapa rd. Ecuador Manab�",330,330,m,20,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.679722222,-80.46833333,GPS
+55863,erato,erato cyrbia Heliconius,,,,male,La Avanzada Ecuador El Oro,90,90,m,17,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-3.548611111,-79.95,GPS
+55864,erato,erato cyrbia Heliconius,,,,male,"Cerro de Achi, km 12 Jipijapa-Pto. Cayo rd. Ecuador Manab�",510,510,m,22,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.346944444,-80.65694444,GPS
+55865,erato,erato cyrbia Heliconius,,,,male,Reserva Ecol�gica Manglares-Churute Ecuador Guayas,270,490,m,20,4,2008,S. Padr�n & R. Aldaz,FLMNH TABD ZZZ,,NEIL ROSSER,,-2.444166667,-79.55555556,GPS
+55866,erato,erato cyrbia Heliconius,,,,male,"Las Mercedes, c. 10 km S Naranjal Ecuador Guayas",270,270,m,19,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-2.765555556,-79.66972222,GPS
+55867,erato,erato cyrbia Heliconius,,,,male,"Reserva Lalo Loor, Pedernales-Jama rd. Ecuador Manab�",90,230,m,29,4,2008,S. Padr�n & R. Aldaz,FLMNH TABD ZZZ,,NEIL ROSSER,,-0.091388889,-80.14888889,GPS
+55868,erato,erato cyrbia Heliconius,,,,male,"2 km W La Esperanza, Guayaquil-Jipijapa rd. Ecuador Manab�",300,300,m,20,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.577222222,-80.52,GPS
+55869,erato,erato cyrbia Heliconius,,,,male,R�o Ayampe Ecuador Manab�,190,190,m,23,4,2008,S. Padr�n & R. Aldaz,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.663611111,-80.76666667,GPS
+55870,erato,erato cyrbia Heliconius,,,,female,km 1.5 La Hoyada-El Limo rd. Ecuador Loja,1000,1000,m,15,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-3.993888889,-80.03805556,GPS
+55871,erato,erato cyrbia Heliconius,,,,female,R�o Ayampe Ecuador Manab�,190,190,m,23,4,2008,S. Padr�n & R. Aldaz,FLMNH TABD ZZZ,,NEIL ROSSER,,-1.663611111,-80.76666667,GPS
+55971,erato,erato cyrbia Heliconius,,,,,El Copal Ecuador Cotopaxi,950,950,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.866666667,-79.16666667,large map
+55972,erato,erato cyrbia Heliconius,,,,,Taguaza Ecuador Pichincha,1750,1750,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.3,-79.03333333,TABD record
+55973,erato,erato cyrbia Heliconius,,,,,La Crespa Ecuador Manab�,800,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.866666667,-79.86666667,TABD record
+55974,erato,erato cyrbia Heliconius,,,,,Buenaventura Ecuador El Oro,1200,1200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-3.636333333,-79.74133333,TABD record
+55975,erato,erato cyrbia Heliconius,,,,,"Lita, ridge to east of R�o Baboso Ecuador Carchi",900,1050,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.885833333,-78.43683333,TABD record
+55976,erato,erato cyrbia Heliconius,,,,,Buenaventura Ecuador El Oro,1200,1200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-3.636333333,-79.74133333,TABD record
+55978,erato,erato cyrbia Heliconius,,,,,Bolonia Hda ECD PI,1500,1500,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,0.4,-78.36666667,darwin_ecuador_pinas2
+55979,erato,erato cyrbia Heliconius,,,,,Alluriqu�n Ecuador Pichincha,800,800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.316666667,-78.98333333,TABD record
+55980,erato,erato cyrbia Heliconius,,,,,Buenaventura Ecuador El Oro,1200,1200,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-3.636333333,-79.74133333,TABD record
+55982,erato,erato cyrbia Heliconius,,,,,Taguaza Ecuador Pichincha,1750,1750,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.3,-79.03333333,TABD record

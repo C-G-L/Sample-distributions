@@ -1,0 +1,102 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+814,erato,erato amalfreda Heliconius,,,,desconocido,Berbice River Upper GUY DB,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-58.25,Brown 1979
+1233,erato,erato amalfreda Heliconius,,,,desconocido,"Reserva Campina, Caracayai BRA AM",,,m,,,,,KB 1979,,NEIL ROSSER,,-2.500005556,-60,http://cprek.morphbank.net/Show/?pop=Yes&id=167764
+1449,erato,erato amalfreda Heliconius,,,,descononcido,Manaus - Boa Vista km 153 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.827711111,-60.13267222,Google Earth
+1450,erato,erato amalfreda Heliconius,,,,descononcido,Manaus - Boa Vista km 130 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.995922222,-60.02660833,Google Earth
+1482,erato,erato amalfreda Heliconius,,,,descononcido,Maroni river 60 mi up FRG LM,,,m,,,,,KB 1979,,NEIL ROSSER,,4.807911111,-54.46801389,Google Earth
+6478,erato,erato amalfreda Heliconius,,,,macho,Kutari River upper GUY EB,,,m,15,12,1935,"Hudson, G.A.",BMNH,,NEIL ROSSER,,2.75,-57.75,Brown 1979
+6479,erato,erato amalfreda Heliconius,,,,macho,"Confluence of Orinoque and New River, GUY",,,m,,,1937,"Hudson, G.A.",BMNH,20/8 - 20/9,NEIL ROSSER,,2.741011111,-57.439675,Google Earth
+6524,erato,erato amalfreda Heliconius,ST,"cybelellus Heliconius erato (Heliconius, J.J. Joicey & W.J. Kaye 1917)",,macho,Serpa BRA AM,,,m,,,1914,"Hall, A.",BMNH,01-Mar,NEIL ROSSER,,-3.166666667,-58.26666667,Brown
+6525,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+6528,erato,erato amalfreda Heliconius,,,f. leda,macho,Berg - en - Dal SUR BR,,,m,,,,,BMNH,,NEIL ROSSER,,5.15,-55.06666667,Brown
+6534,erato,erato amalfreda Heliconius,ST,"amalfreda Heliconius erato (Heliconius, H.H. Riffarth 1900)",,macho,Manaus BRA AM,,,m,,,,,BMNH,,NEIL ROSSER,,-3.116666667,-60.03333333,Brown
+6536,erato,erato amalfreda Heliconius,,,f. elimaea,macho,Bas Maroni FRG LM,,,m,,,1921,,BMNH,"2,3",NEIL ROSSER,,5.25,-54.25,Brown 1979
+6537,erato,erato amalfreda Heliconius,,,f. elimaea,hembra,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.55,-53.93333333,Brown
+6538,erato,erato amalfreda Heliconius,,,f. elimaea,hembra,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+6541,erato,erato amalfreda Heliconius,,,f. amalfreda,macho,Juhuty BRA AM,,,m,,4,1905,"Mathan, M. de",BMNH,,NEIL ROSSER,,-3.683333333,-56.56666667,Copied from NIMA
+6542,erato,erato amalfreda Heliconius,,,f. amalfreda,macho,"Frechal, Obidos E., BRA",,,m,,,,"Moss, A.M.",BMNH,,NEIL ROSSER,,-5.333333333,-56.81666667,www.fallingrain.com
+6544,erato,erato amalfreda Heliconius,,,f. amalfreda,hembra,Manaus BRA AM,,,m,,,,"Moss, A.M.",BMNH,,NEIL ROSSER,,-3.116666667,-60.03333333,Brown
+6545,erato,erato amalfreda Heliconius,,,f. elimaea,macho,Faro BRA PA,,,m,,,,,BMNH,,NEIL ROSSER,,-2.133333333,-56.73305556,Falling Rain
+6546,erato,erato amalfreda Heliconius,,,f. elimaea,hembra,Serpa BRA AM,,,m,,,1914,"Hall, A.",BMNH,01-Mar,NEIL ROSSER,,-3.166666667,-58.26666667,Brown
+6547,erato,erato amalfreda Heliconius,,,f. leda,macho,St Laurent du Maroni FRG LM,,,m,,,1915,,BMNH,07-Sep,NEIL ROSSER,,5.5,-54.03333333,Brown
+13919,erato,erato amalfreda Heliconius,,,,unknown,Camp Jaguar (New River Triangle) GUY EB,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.335669444,-57.60504444,http://www.ggmc.gov.gy/PDFs/min_map.pdf
+13920,erato,erato amalfreda Heliconius,,,,unknown,Manaus BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.116666667,-60.03333333,Brown
+13921,erato,erato amalfreda Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+13964,erato,erato amalfreda Heliconius,,,transition amalfreda - vinculata. Ssp NA - amended 1.12.09,unknown,Serpa BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.166666667,-58.26666667,Brown
+13965,erato,erato amalfreda Heliconius,,,transition amalfreda - vinculata. Ssp NA - amended 1.12.09,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+13966,erato,erato amalfreda Heliconius,,,transition amalfreda - vinculata. Ssp NA - amended 1.12.09,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+15889,erato,erato amalfreda Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+15897,erato,erato amalfreda Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+15900,erato,erato amalfreda Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+16142,erato,erato amalfreda Heliconius,,,"hybrid forms elimaea, juanita etc",unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.9,-55.51666667,Brown
+16143,erato,erato amalfreda Heliconius,,,"hybrid forms elimaea, juanita etc",unknown,"Raio, Santarem BRA PA",,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-2.443055556,-54.70833333,Geonames
+16168,erato,erato amalfreda Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.9,-55.51666667,Brown
+16170,erato,erato amalfreda Heliconius,,,,unknown,"Raio, Santarem BRA PA",,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-2.443055556,-54.70833333,Geonames
+16315,erato,erato amalfreda Heliconius,,,f. elimaea,unknown,"Rodagem, nr. Santarem BRA PA",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-2.443055556,-54.70833333,Geonames
+16396,erato,erato amalfreda Heliconius,,,,unknown,Army Engineer Camp BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+16397,erato,erato amalfreda Heliconius,,,,unknown,Manaus BRA AM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-3.116666667,-60.03333333,Brown
+16474,erato,erato amalfreda Heliconius,,,,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.9,-55.51666667,Brown
+16475,erato,erato amalfreda Heliconius,,,,unknown,Alalapadu SUR SI,350,350,m,,,2002,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.533333333,-56.33333333,Geonames
+16496,erato,erato amalfreda Heliconius,,,f. leda,unknown,Entomotech Lodge FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.557838889,-52.20650278,Geonames
+17154,erato,erato amalfreda Heliconius,,,f. juanita,unknown,Apoteri GUY,,,m,,,,Bedford Russell,NHM Accesions - draws 111772,,NEIL ROSSER,,4.033333333,-58.58333333,unknown
+26020,erato,erato amalfreda Heliconius,,,,macho,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,02-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+26021,erato,erato amalfreda Heliconius,,,,hembra,Barcelos- BRA- Amazonas,,,m,,,1993,,FLMNH,02-Mar,Neil Rosser,,-0.974722222,-62.92416667,Geonames
+26022,erato,erato amalfreda Heliconius,,,,macho,Rio Preto de Eva BRA AM,,,m,6,12,1996,,FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26023,erato,erato amalfreda Heliconius,,,,hembra,Rio Preto de Eva BRA AM,,,m,,1,1996,,FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26024,erato,erato amalfreda Heliconius,,,,macho,Rio Preto de Eva BRA AM,,,m,7,12,1996,"Buche, M.",FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26025,erato,erato amalfreda Heliconius,,,,macho,Rio Preto de Eva BRA AM,,,m,3,12,1996,"Buche, M.",FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26026,erato,erato amalfreda Heliconius,,,,hembra,Rio Preto de Eva BRA AM,,,m,30,11,1996,,FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26027,erato,erato amalfreda Heliconius,,,,hembra,Rio Preto de Eva BRA AM,,,m,3,12,1996,,FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26028,erato,erato amalfreda Heliconius,,,,hembra,Rio Preto de Eva BRA AM,,,m,30,11,1996,,FLMNH,,Neil Rosser,,-3.133333333,-59.3,Label (Buche)
+26029,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26030,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,8,1987,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26031,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26032,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26033,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26034,erato,erato amalfreda Heliconius,,,,hembra,Nova Olinda do Norte BRA AM,,,m,,6,1991,,FLMNH,,Neil Rosser,,-3.888055556,-59.09416667,Geonames
+26035,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26036,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+26037,erato,erato amalfreda Heliconius,,,,macho,Obidos BRA PA,,,m,,,1986,,FLMNH,,Neil Rosser,,-1.9,-55.51666667,Brown
+29041,erato,erato amalfreda Heliconius,,,,descononcido,Manaus a Itacoatiara km246 BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.036836111,-58.56075556,Google Earth
+29176,erato,erato amalfreda Heliconius,,,,descononcido,"Apoera, 1 day up Courantyne SUR NI",,,m,,,,,KB 1979,,NEIL ROSSER,,5.2,-57.16666667,Geonames
+29189,erato,erato amalfreda Heliconius,,,,descononcido,Batavia SUR SA,,,m,,,,,KB 1979,,NEIL ROSSER,,5.7,-55.86666667,Geonames
+32332,erato,erato amalfreda Heliconius,,,,unknown,"BR174, Manaus BRA AM",,,m,,,,,Brower,,NEIL ROSSER,,-2.806086111,-60.03689722,Google Earth
+33220,erato,erato amalfreda Heliconius,,,,descononcido,Alenquer BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.941666667,-54.73833333,Geonames
+34366,erato,erato amalfreda Heliconius,,,,descononcido,Floresta BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-61.75,KB 1979
+34393,erato,erato amalfreda Heliconius,,,,descononcido,Jari Rio BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-52.25,KB 1979
+34421,erato,erato amalfreda Heliconius,,,,descononcido,Martim Rio BRA RR,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-60.75,KB 1979
+34434,erato,erato amalfreda Heliconius,,,,descononcido,Martins Pereira - Igarape BRA RR,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-60.25,KB 1979
+34469,erato,erato amalfreda Heliconius,,,,descononcido,Paru Rio BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-52.75,Brown 1979
+34511,erato,erato amalfreda Heliconius,,,,descononcido,Tirios BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-55.75,KB 1979
+34551,erato,erato amalfreda Heliconius,,,,descononcido,Kabalebo Rivier SUR NI,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-57.25,KB 1979
+34562,erato,erato amalfreda Heliconius,,,,descononcido,"Kutari, upper river GUY",,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-56.75,KB 1979
+34564,erato,erato amalfreda Heliconius,,,,descononcido,Kuyuwini River GUY,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-59.25,KB 1979
+34566,erato,erato amalfreda Heliconius,,,,descononcido,"Lucie Rivier, bos SUR NI",,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-57.25,KB 1979
+34583,erato,erato amalfreda Heliconius,,,,descononcido,Shudikar-wau River = Chodikar GUY,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-58.75,KB 1979
+34762,erato,erato amalfreda Heliconius,,,,desconocido,5-54a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.25,KB 1979
+34784,erato,erato amalfreda Heliconius,,,,desconocido,5-55a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-55.25,KB 1979
+34812,erato,erato amalfreda Heliconius,,,,desconocido,6-58a N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-58.25,KB 1979
+35257,erato,erato amalfreda Heliconius,,,,desconocido,5-55b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.75,KB 1979
+35273,erato,erato amalfreda Heliconius,,,,desconocido,6-59b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-58.75,KB 1979
+35292,erato,erato amalfreda Heliconius,,,,desconocido,5-59b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-58.75,KB 1979
+35298,erato,erato amalfreda Heliconius,,,,desconocido,5-58b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-57.75,KB 1979
+35632,erato,erato amalfreda Heliconius,,,,desconocido,0-56b N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-55.75,KB 1979
+35815,erato,erato amalfreda Heliconius,,,,desconocido,6-55c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-55.25,KB 1979
+35837,erato,erato amalfreda Heliconius,,,,desconocido,3-57c N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-57.25,KB 1979
+36049,erato,erato amalfreda Heliconius,,,,desconocido,1-60c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-60.25,KB 1979
+36675,erato,erato amalfreda Heliconius,,,,desconocido,1-56a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-56.25,KB 1979
+36683,erato,erato amalfreda Heliconius,,,,desconocido,2-56a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-56.25,KB 1979
+36697,erato,erato amalfreda Heliconius,,,,desconocido,2-55a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-55.25,KB 1979
+37126,erato,erato amalfreda Heliconius,,,,desconocido,2-56b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-55.75,KB 1979
+37139,erato,erato amalfreda Heliconius,,,,desconocido,3-60b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-59.75,KB 1979
+37525,erato,erato amalfreda Heliconius,,,,desconocido,1-60c  S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-60.25,KB 1979
+37529,erato,erato amalfreda Heliconius,,,,desconocido,1-56c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-56.25,KB 1979
+37567,erato,erato amalfreda Heliconius,,,,desconocido,2-56c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-56.25,KB 1979
+37599,erato,erato amalfreda Heliconius,,,,desconocido,3-60c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-60.25,KB 1979
+37615,erato,erato amalfreda Heliconius,,,,desconocido,3-58c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-58.25,KB 1979
+38045,erato,erato amalfreda Heliconius,,,,desconocido,0-61d  S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.25,-60.75,KB 1979
+38046,erato,erato amalfreda Heliconius,,,,desconocido,1-57d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-56.75,KB 1979
+38067,erato,erato amalfreda Heliconius,,,,desconocido,2-57d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-56.75,KB 1979
+38115,erato,erato amalfreda Heliconius,,,,desconocido,3-60d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-59.75,KB 1979
+38634,erato,erato amalfreda Heliconius,,,,desconocido,Rio Preto de Eva BRA AM,,,m,29,11,1996,"Buche, M.",MHNL PERU ex Peru,,NEIL ROSSER,,-3.133333333,-59.3,Label (Buche)
+51381,erato,erato amalfreda Heliconius,,,Perhaps Hybrid x amalfreda?,unknown,Obidos BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,duplicate,-1.9,-55.51666667,Brown

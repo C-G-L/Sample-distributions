@@ -1,0 +1,77 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+724,melpomene,melpomene burchelli Heliconius,,,,desconocido,Acailandia BRA MA,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.533333333,-47.48333333,NIMA
+795,melpomene,melpomene burchelli Heliconius,,,,desconocido,Barra do Bugres BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.06666667,-57.16666667,Brown
+942,melpomene,melpomene burchelli Heliconius,,,,desconocido,Cuiaba BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.6,-56.08333333,Brown
+1027,melpomene,melpomene burchelli Heliconius,,,,desconocido,Ipora 22 km w BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-16.43333333,-51.31666667,Brown
+1249,melpomene,melpomene burchelli Heliconius,,,,desconocido,Salto Augusto BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.882433333,-58.55410278,Geonames + Google Earth
+1308,melpomene,melpomene burchelli Heliconius,,,,desconocido,Santa Maria de Taguatinga BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.4,-46.43333333,Brown
+1396,melpomene,melpomene burchelli Heliconius,,,,desconocido,17-53c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.25,-53.25,Brown 1979
+1413,melpomene,melpomene burchelli Heliconius,,,,desconocido,Vila Rondon BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.77611,-48.06722,www.calle.com
+1616,melpomene,melpomene burchelli Heliconius,,,,descononcido,"Pau d'Arco Rio, -17km N, - 27km N BRA PA",,,m,,,,,KB 1979,,NEIL ROSSER,,-7.660413889,-50.02026944,Google Earth
+1639,melpomene,melpomene burchelli Heliconius,,,,descononcido,Mirandopolis 3km NW BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.807133333,-48.61757222,Google Earth
+1647,melpomene,melpomene burchelli Heliconius,,,,descononcido,"Bois-Rio dos-18km N, Vila Nova- 12km N Rio Dos Bois BRA GO",,,m,,,,,KB 1979,,NEIL ROSSER,,-9.214522222,-48.54271944,Google Earth
+5716,melpomene,melpomene burchelli Heliconius,,,"Central Brazi ""nanna"" have been called burchelli - KB 1974 - see map notes",macho,Maranham BRA MH,,,m,,,,Orchard,BMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+5717,melpomene,melpomene burchelli Heliconius,,,"Central Brazi ""nanna"" have been called burchelli - KB 1974 - see map notes",macho,Burity BRA MO,,,m,,6,1927,"Collenette, C.L.",BMNH,Nov-16,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+5721,melpomene,melpomene burchelli Heliconius,,,"Central Brazi ""nanna"" have been called burchelli - KB 1974 - see map notes",macho,Melguira BRA MO,2000,2000,ft,,,1927,"Collenette, C.L.",BMNH,23/5 - 3/6.,NEIL ROSSER,,-14.53333333,-56.31666667,Brown
+5722,melpomene,melpomene burchelli Heliconius,,,"Central Brazi ""nanna"" have been called burchelli - KB 1974 - see map notes",macho,Maranhao BRA MH,,,m,4,9,1963,Westminster School Expedition,BMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+5723,melpomene,melpomene burchelli Heliconius,,,"Central Brazi ""nanna"" have been called burchelli - KB 1974 - see map notes",macho,Tombador BRA MO,1500,1500,ft,,8,1927,"Collenette, C.L.",BMNH,Jan-19,NEIL ROSSER,,-14.63333333,-56.25,Brown
+5742,melpomene,melpomene burchelli Heliconius,ST,"burchelli Heliconius melpomene (Heliconius, E.B. Poulton 1910)","Central Brazi ""nanna"" have been called burchelli - KB 1974 - see map notes",macho,Chapada BRA MO,,,m,,3,,"Smith, H.H.",BMNH,,NEIL ROSSER,,-15.45,-55.78333333,Brown
+10332,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",hembra,Buriti BRA MO,,,m,31,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10333,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",hembra,Buriti BRA MO,,,m,31,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10335,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",macho,Buriti BRA MO,,,m,31,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10336,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",macho,Buriti BRA MO,,,m,29,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10337,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",macho,Buriti BRA MO,,,m,31,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10338,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",hembra,Buriti BRA MO,,,m,31,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10344,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",macho,Buriti BRA MO,,,m,28,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10345,melpomene,melpomene burchelli Heliconius,,,"Identified as melpomene nanna Heliconius, however the situation with nanna and burchelli is complicated - see notes by Brown in comentarios",macho,Buriti BRA MO,,,m,28,7,1976,"Callaghan, C.J.",MGCL/FLMNH,,NEIL ROSSER,,-15.43333333,-55.83333333,Brown
+10491,melpomene,melpomene burchelli Heliconius,,,,hembra,Nivac BRA MO,,,m,,11,1904,,MGCL/FLMNH,,NEIL ROSSER,,-21.13333333,-55.8,NIMA
+10492,melpomene,melpomene burchelli Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10493,melpomene,melpomene burchelli Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10494,melpomene,melpomene burchelli Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10495,melpomene,melpomene burchelli Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10496,melpomene,melpomene burchelli Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10497,melpomene,melpomene burchelli Heliconius,,,,macho,Sao Luiz BRA MA,,,m,,,,"Orchard, L.",MGCL/FLMNH,,NEIL ROSSER,,-2.52972,-44.30278,Geonames
+10498,melpomene,melpomene burchelli Heliconius,,,,macho,Miritiba BRA MH,,,m,,6,1910,,MGCL/FLMNH,,NEIL ROSSER,,-2.598333333,-43.46111111,Geonames
+24740,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,macho,Diamantino BRA MO,,,m,23,12,1989,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+24741,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,macho,Diamantino BRA MO,,,m,2,5,1982,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+24742,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,macho,Diamantino BRA MO,,,m,23,10,1984,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+24743,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,hembra,Diamantino BRA MO,,,m,30,10,1977,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+24744,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,macho,Diamantino BRA MO,,,m,7,9,1977,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+24745,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,hembra,Diamantino BRA MO,,,m,7,9,1975,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+24746,melpomene,melpomene burchelli Heliconius,,,burchelli x ???,macho,Diamantino BRA MO,,,m,28,8,1988,,FLMNH,,Neil Rosser,,-14.35,-56.48333333,Brown
+28916,melpomene,melpomene burchelli Heliconius,,,,descononcido,"Macauba, 30km N BRA GO",,,m,,,,,KB 1979,,NEIL ROSSER,,-10.28771111,-50.40462778,Google Earth
+28966,melpomene,melpomene burchelli Heliconius,,,,descononcido,"Gurupi, 5km S BRA GO",,,m,,,,,KB 1979,,NEIL ROSSER,,-11.77219444,-49.10488889,Google Earth
+28974,melpomene,melpomene burchelli Heliconius,,,,descononcido,Posto Culuene BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.96226944,-52.85780278,Google Earth + Geonames
+28988,melpomene,melpomene burchelli Heliconius,,,,descononcido,Novo Planalto 20km SW BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-13.34850278,-49.63622222,Google Earth
+29004,melpomene,melpomene burchelli Heliconius,,,,descononcido,Barra do Bugres a Tangara km 30-35 BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-14.80966667,-57.2469,Google Earth
+29036,melpomene,melpomene burchelli Heliconius,,,,descononcido,Posto Jacare BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-12,-53.36666667,Adis 2007 paper
+33225,melpomene,melpomene burchelli Heliconius,,,,descononcido,Von Martius-Salto BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.05,-52.96666667,Geonames
+33230,melpomene,melpomene burchelli Heliconius,,,,descononcido,Porto Nacional BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-10.70805556,-48.41722222,Geonames
+33263,melpomene,melpomene burchelli Heliconius,,,,descononcido,Xavantina BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-14.66666667,-52.35,Geonames
+33266,melpomene,melpomene burchelli Heliconius,,,,descononcido,Vale dos Sonhos BRA MO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.38444444,-52.20138889,Geonames
+33268,melpomene,melpomene burchelli Heliconius,,,,descononcido,Januaria BRA MG,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.48333333,-44.36666667,Geonames
+34133,melpomene,melpomene burchelli Heliconius,,,,descononcido,Pirenopolis BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.8525,-48.95916667,Geonames
+34137,melpomene,melpomene burchelli Heliconius,,,,descononcido,Goias Velho BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.93444444,-50.14027778,Geonames
+34140,melpomene,melpomene burchelli Heliconius,,,,descononcido,Nova Gloria BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.14305556,-49.57111111,Geonames
+34144,melpomene,melpomene burchelli Heliconius,,,,descononcido,Padre Bernardo BRA GO,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.16027778,-48.28388889,Geonames
+34162,melpomene,melpomene burchelli Heliconius,,,,descononcido,Correntes Rio Gaucho BRA MG,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.61666667,-54.98333333,Geonames
+34196,melpomene,melpomene burchelli Heliconius,,,,descononcido,Sao Luis BRA MA,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.353611111,-42.42638889,NIMA
+34201,melpomene,melpomene burchelli Heliconius,,,,descononcido,Miritiba=Humberto de Campos BRA MA,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.598333333,-43.46111111,Geonames
+34222,melpomene,melpomene burchelli Heliconius,,,,descononcido,Nioaque BRA MS,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.13527778,-55.83,Geonames
+34315,melpomene,melpomene burchelli Heliconius,,,,descononcido,Pedro Afonso BRA TO,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.9675,-48.17472222,Geonames
+34378,melpomene,melpomene burchelli Heliconius,,,,descononcido,Ipiranga - Fazenda BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-48.25,KB 1979
+36751,melpomene,melpomene burchelli Heliconius,,,,desconocido,6-47a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-47.25,KB 1979
+36844,melpomene,melpomene burchelli Heliconius,,,,desconocido,15-56a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-14.75,-56.25,KB 1979
+36854,melpomene,melpomene burchelli Heliconius,,,,desconocido,16-55a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.75,-55.25,KB 1979
+36856,melpomene,melpomene burchelli Heliconius,,,,desconocido,16-52a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.75,-52.25,KB 1979
+37215,melpomene,melpomene burchelli Heliconius,,,,desconocido,12-51b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-11.75,-50.75,KB 1979
+37220,melpomene,melpomene burchelli Heliconius,,,,desconocido,13-52b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.75,-51.75,KB 1979
+37236,melpomene,melpomene burchelli Heliconius,,,,desconocido,16-54b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.75,-53.75,KB 1979
+37242,melpomene,melpomene burchelli Heliconius,,,,desconocido,16-48b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.75,-47.75,KB 1979
+37664,melpomene,melpomene burchelli Heliconius,,,,desconocido,14-56c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-14.25,-56.25,KB 1979
+37666,melpomene,melpomene burchelli Heliconius,,,,desconocido,15-49c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.25,-49.25,KB 1979
+37671,melpomene,melpomene burchelli Heliconius,,,,desconocido,16-48c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-16.25,-48.25,KB 1979
+37673,melpomene,melpomene burchelli Heliconius,,,,desconocido,17-54c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.25,-54.25,KB 1979
+38210,melpomene,melpomene burchelli Heliconius,,,,desconocido,15-56d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.25,-55.75,KB 1979
+38214,melpomene,melpomene burchelli Heliconius,,,,desconocido,15-48d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.25,-47.75,KB 1979
+52414,melpomene,melpomene burchelli Heliconius,,,burchelli x melpomene,macho,Sao Luiz BRA MA,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,duplicate,-2.52972,-44.30278,Geonames

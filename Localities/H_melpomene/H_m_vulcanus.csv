@@ -1,0 +1,90 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+845,melpomene,melpomene vulcanus Heliconius,,,,desconocido,Buenaventura COL VC,,,m,,,,,KB 1979,,NEIL ROSSER,,3.893333333,-77.06972222,Geonames
+971,melpomene,melpomene vulcanus Heliconius,,,,desconocido,El Palmar COL NA,,,m,,,,,KB 1979,,NEIL ROSSER,,1.933333333,-77.38333333,Brown
+1020,melpomene,melpomene vulcanus Heliconius,,,,desconocido,Guisito [Rio] COL CC,,,m,,,,,KB 1979,,NEIL ROSSER,,2.616666667,-77.18333333,NIMA
+5449,melpomene,melpomene vulcanus Heliconius,,,,hembra,San Pablo COL CH,,,m,,,,,BMNH,,NEIL ROSSER,,5.216666667,-76.65,Brown
+5450,melpomene,melpomene vulcanus Heliconius,,,,hembra,Dagua Rio COL VC,,,m,,,,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+5451,melpomene,melpomene vulcanus Heliconius,,,,macho,Condoto Rio COL CH,,,m,18,10,1915,Spurrell,BMNH,,NEIL ROSSER,,5.1,-76.7,approximate - map
+5452,melpomene,melpomene vulcanus Heliconius,,,,macho,El Tigre COL CH,320,320,ft,,2,1909,"Palmer, G.M.",BMNH,,NEIL ROSSER,,4.95,-76.51666667,Brown
+5453,melpomene,melpomene vulcanus Heliconius,,,,macho,Juntas Rio Tamana COL CH,400,400,ft,,2,1909,"Palmer, G.M.",BMNH,,NEIL ROSSER,,4.983333333,-76.4,Brown
+5454,melpomene,melpomene vulcanus Heliconius,,,,macho,Sarza quebrada de la COL CH,800,800,ft,,3,1909,"Palmer, G.M.",BMNH,,NEIL ROSSER,,4.75,-76.75,Brown 1979
+5455,melpomene,melpomene vulcanus Heliconius,,,,macho,Pavarandocito COL AN,,,m,,7,1927,Verteuil,BMNH,,NEIL ROSSER,,7.297222222,-76.52694444,Falling Rain
+5456,melpomene,melpomene vulcanus Heliconius,,,,macho,Juntas Cauca COL VC,,,m,,,,"Mathan, M. de",BMNH,fin 1897 - 1 1898,NEIL ROSSER,,3.783333333,-76.16666667,Brown
+5457,melpomene,melpomene vulcanus Heliconius,,,,macho,Esmeraldas ECD ES,,,m,,,,Lehmann,BMNH,,NEIL ROSSER,,0.983333333,-79.7,Brown
+5582,melpomene,melpomene vulcanus Heliconius,,,f. fumosa part.,macho,San Juan Rio COL CH,,,m,,,,Trotsch,BMNH,,NEIL ROSSER,,5.216666667,-76.65,Brown
+10326,melpomene,melpomene vulcanus Heliconius,,,,macho,Calima Dam COL VC,2000,2000,ft,5,2,1987,"Sullivan, J.B.",MGCL/FLMNH,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+15834,melpomene,melpomene vulcanus Heliconius,,,,unknown,Calima - Tal COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.89205,-76.500779,Brown
+15835,melpomene,melpomene vulcanus Heliconius,,,,unknown,Guarato COL CH,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.3,-76.36666667,www.calle.com
+15836,melpomene,melpomene vulcanus Heliconius,,,,unknown,Cali COL VC,1000,1000,m,,,1969,Coll. Grobar,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.45,-76.51666667,Brown
+16167,melpomene,melpomene vulcanus Heliconius,,,,unknown,Hacienda Bacori COL RI,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.342783333,-76.09760278,google Earth
+24701,melpomene,melpomene vulcanus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+24702,melpomene,melpomene vulcanus Heliconius,,,,hembra,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+24703,melpomene,melpomene vulcanus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+24704,melpomene,melpomene vulcanus Heliconius,,,,hembra,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+24705,melpomene,melpomene vulcanus Heliconius,,,,hembra,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+24706,melpomene,melpomene vulcanus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+24707,melpomene,melpomene vulcanus Heliconius,,,,hembra,Dagua Rio COL VC,,,m,,,,,FLMNH,,Neil Rosser,,3.55,-76.65,Brown
+24708,melpomene,melpomene vulcanus Heliconius,,,,hembra,Bravo Rio COL VC,700,1000,m,,12,1987,,FLMNH,,Neil Rosser,,3.893055556,-76.62166667,NIMA
+24709,melpomene,melpomene vulcanus Heliconius,,,,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+24710,melpomene,melpomene vulcanus Heliconius,,,,hembra,Calima Rio COL VC,,,m,,12,1987,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+24711,melpomene,melpomene vulcanus Heliconius,,,,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+24712,melpomene,melpomene vulcanus Heliconius,,,,hembra,Calima Rio COL VC,,,m,,12,1987,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+24713,melpomene,melpomene vulcanus Heliconius,,,,macho,Calima Rio COL VC,,,m,,3,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+24714,melpomene,melpomene vulcanus Heliconius,,,,hembra,Calima Rio COL VC,,,m,27,10,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+24716,melpomene,melpomene vulcanus Heliconius,,,,macho,El Queremal COL VC,1200,1200,m,4,12,1990,"Salazar, 
+J.",FLMNH,,Neil Rosser,,3.516666667,-76.71666667,Brown
+24717,melpomene,melpomene vulcanus Heliconius,,,,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+24718,melpomene,melpomene vulcanus Heliconius,,,,macho,Calima Rio COL VC,1200,1200,m,15,11,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+29045,melpomene,melpomene vulcanus Heliconius,,,,descononcido,Quibdo-acima de 1200m COL CH,,,m,,,,,KB 1979,,NEIL ROSSER,,5.751163889,-76.20749444,Google Earth
+29172,melpomene,melpomene vulcanus Heliconius,,,,descononcido,Pizarro COL CH,,,m,,,,,KB 1979,,NEIL ROSSER,,4.969141,-77.369081,Google Earth
+29231,melpomene,melpomene vulcanus Heliconius,,,,descononcido,Turbo COL AN,,,m,,,,,KB 1979,,NEIL ROSSER,,8.098055556,-76.73166667,Geonames
+32382,melpomene,melpomene vulcanus Heliconius,,,,unknown,"Ca�azas, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,8.9,-78.21666667,
+32828,melpomene,melpomene vulcanus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32834,melpomene,melpomene vulcanus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 39, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.542427778,-76.76279444,Google Earth
+34410,melpomene,melpomene vulcanus Heliconius,,,,descononcido,"Leon, Rio COL AN",,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-76.75,KB 1979
+34745,melpomene,melpomene vulcanus Heliconius,,,,desconocido,8-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-78.25,KB 1979
+34968,melpomene,melpomene vulcanus Heliconius,,,,desconocido,5-76a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-76.25,KB 1979
+35025,melpomene,melpomene vulcanus Heliconius,,,,desconocido,1-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-78.25,KB 1979
+35422,melpomene,melpomene vulcanus Heliconius,,,,desconocido,7-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-76.75,KB 1979
+35444,melpomene,melpomene vulcanus Heliconius,,,,desconocido,6-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-75.75,KB 1979
+35485,melpomene,melpomene vulcanus Heliconius,,,,desconocido,5-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-76.75,KB 1979
+35495,melpomene,melpomene vulcanus Heliconius,,,,desconocido,5-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-75.75,KB 1979
+35550,melpomene,melpomene vulcanus Heliconius,,,,desconocido,3-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-76.75,KB 1979
+35573,melpomene,melpomene vulcanus Heliconius,,,,desconocido,2-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-76.75,KB 1979
+35588,melpomene,melpomene vulcanus Heliconius,,,,desconocido,1-78b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-77.75,KB 1979
+35961,melpomene,melpomene vulcanus Heliconius,,,,desconocido,5-76c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-76.25,KB 1979
+35997,melpomene,melpomene vulcanus Heliconius,,,,desconocido,3-77c N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-77.25,KB 1979
+36023,melpomene,melpomene vulcanus Heliconius,,,,desconocido,1-78c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-78.25,KB 1979
+36316,melpomene,melpomene vulcanus Heliconius,,,,desconocido,6-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-76.75,KB 1979
+36345,melpomene,melpomene vulcanus Heliconius,,,,desconocido,5-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-76.75,KB 1979
+36370,melpomene,melpomene vulcanus Heliconius,,,,desconocido,4-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.75,KB 1979
+36441,melpomene,melpomene vulcanus Heliconius,,,,desconocido,1-80d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-79.75,KB 1979
+39810,melpomene,melpomene vulcanus Heliconius,,,,macho,"Finca La Delicia, Qbda. La Guinea, on Cali - Buenaventura road past Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.708789,-76.618928,CJ
+39811,melpomene,melpomene vulcanus Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+39812,melpomene,melpomene vulcanus Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+39813,melpomene,melpomene vulcanus Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+39814,melpomene,melpomene vulcanus Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+39815,melpomene,melpomene vulcanus Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+39816,melpomene,melpomene vulcanus Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+39817,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+39818,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+39819,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+39820,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+39821,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+39822,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+39823,melpomene,melpomene vulcanus Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+54732,melpomene,melpomene vulcanus Heliconius,,,,unknown,"Queremal, Valle del Cauca Colombia",1200,1200,m,,,,,Ecological divergence and speciation in Heliconius,,NEIL ROSSER,,3.524444,-76.756944,Naisbit PhD
+54734,melpomene,melpomene vulcanus Heliconius,,,,unknown,"R�o Bravo, Valle del Cauca Colombia",100,100,m,,,,,Ecological divergence and speciation in Heliconius,,NEIL ROSSER,,3.903611,-76.638333,Naisbit PhD
+59832,melpomene,melpomene vulcanus Heliconius,,,,unknown,Taparto COL AN,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,5.70139,-75.96583,Geonames
+59833,melpomene,melpomene vulcanus Heliconius,,,,unknown,Pueblo Rico nr COL RI,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,5.238333333,-76.03638889,Geonames
+60328,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_389,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.318729,-77.317978,LeCrom
+60329,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_390,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.184097,-77.290217,LeCrom
+60330,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_391,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.061217,-76.745077,LeCrom
+60331,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_392,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.35166,-76.611026,LeCrom
+60332,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_393,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.21761,-76.309412,LeCrom
+60333,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_394,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.889186,-76.363033,LeCrom
+60334,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_395,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.846736,-76.526128,LeCrom
+60335,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_396,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.381329,-76.605668,LeCrom
+60336,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_397,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.920739,-76.604202,LeCrom
+60337,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_398,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.834968,-76.902046,LeCrom
+60338,melpomene,melpomene vulcanus Heliconius,,,,unknown,LeCrom_399,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.873871,-76.900773,LeCrom

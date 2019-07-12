@@ -1,0 +1,86 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+786,melpomene,melpomene nanna Heliconius,,,,desconocido,Baixo Guandu BRA ES,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+952,melpomene,melpomene nanna Heliconius,,,,desconocido,Doce rio alto BRA ME,,,m,,,,,KB 1979,,NEIL ROSSER,,-21.02583333,-43.41138889,Geonames
+1070,melpomene,melpomene nanna Heliconius,,,,desconocido,Lajedao BRA BA,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.66666667,-40.28333333,Brown
+1124,melpomene,melpomene nanna Heliconius,,,,desconocido,Mata Velha BRA MH,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.991666667,-43.14111111,NIMA
+1288,melpomene,melpomene nanna Heliconius,,,,desconocido,Santa Cruz BRA ES,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.95,-40.15,Brown
+1291,melpomene,melpomene nanna Heliconius,,,,desconocido,Santa Cruz do Sul BRA RS,,,m,,,,,KB 1979,,NEIL ROSSER,,-29.71666667,-52.42666667,www.calle.com
+5744,melpomene,melpomene nanna Heliconius,,,,macho,Pernambuco (=Recife) BRA PE,,,m,,,,"Moss, A.M.",BMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+5745,melpomene,melpomene nanna Heliconius,,,,macho,Leopoldina BRA ES,,,m,,,,,BMNH,,NEIL ROSSER,,-20.1,-40.53333333,NIMA
+5746,melpomene,melpomene nanna Heliconius,,,,macho,Theophilo Ottoni BRA ME,,,m,,,,"Birch, F.",BMNH,1907-08,NEIL ROSSER,,-17.85,-41.5,NIMA
+5747,melpomene,melpomene nanna Heliconius,,,,macho,Espirito Santo BRA ES,,,m,,,,,BMNH,,NEIL ROSSER,,-20.33333333,-40.28333333,NIMA
+5748,melpomene,melpomene nanna Heliconius,,,,macho,Espirito Santo BRA ES,,,m,,,,,BMNH,,NEIL ROSSER,,-20.33333333,-40.28333333,NIMA
+5749,melpomene,melpomene nanna Heliconius,,,,macho,Theophilo Ottoni BRA ME,,,m,,,,,BMNH,,NEIL ROSSER,,-17.85,-41.5,NIMA
+5750,melpomene,melpomene nanna Heliconius,ST,"burchelli Heliconius melpomene (Heliconius, E.B. Poulton 1910)",Grouped with nanna presumably by Brown - see note for burchelli,macho,Itaparica BRA BA,,,m,13,12,1905,Meade-Waldo,BMNH,,NEIL ROSSER,,-12.88333333,-38.68333333,Brown
+5842,melpomene,melpomene nanna Heliconius,ST,"burchelli Heliconius melpomene (Heliconius, E.B. Poulton 1910)",Grouped with nanna presumably by Brown - see note for burchelli,macho,Pernambuco (=Recife) BRA PE,,,m,,,,"Smith, J.P.G.",BMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+5843,melpomene,melpomene nanna Heliconius,ST,"nanna Heliconius melpomene (Heliconius, H.F.E.J. Stichel 1899)",,macho,Espirito Santo BRA ES,,,m,,,,,BMNH,,NEIL ROSSER,,-20.33333333,-40.28333333,NIMA
+10328,melpomene,melpomene nanna Heliconius,,,,macho,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+10329,melpomene,melpomene nanna Heliconius,,,,macho,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+10330,melpomene,melpomene nanna Heliconius,,,,macho,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+10331,melpomene,melpomene nanna Heliconius,,,,macho,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+10334,melpomene,melpomene nanna Heliconius,,,,macho,Espirito Santo BRA ES,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-20.33333333,-40.28333333,NIMA
+10339,melpomene,melpomene nanna Heliconius,,,,hembra,Rio de Janeiro BRA RJ,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,-22.91666667,-43.23333333,Brown
+10340,melpomene,melpomene nanna Heliconius,,,,hembra,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+10341,melpomene,melpomene nanna Heliconius,,,,hembra,Pernambuco (=Recife) BRA PE,,,m,,,1917,,MGCL/FLMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+10342,melpomene,melpomene nanna Heliconius,,,,hembra,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+10343,melpomene,melpomene nanna Heliconius,,,,macho,Paulista / Recife BRA PE,,,m,,10,1969,JK,MGCL/FLMNH,,NEIL ROSSER,,-8.011297222,-34.87876389,Google Earth
+10346,melpomene,melpomene nanna Heliconius,,,,macho,Linhares BRA ES,,,m,,3,1972,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.38333333,-40.06666667,Brown
+10347,melpomene,melpomene nanna Heliconius,,,,macho,Paulista / Recife BRA PE,,,m,,10,1969,JK,MGCL/FLMNH,,NEIL ROSSER,,-8.011297222,-34.87876389,Google Earth
+10348,melpomene,melpomene nanna Heliconius,,,,macho,Pernambuco (=Recife) BRA PE,,,m,,,1917,,MGCL/FLMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+10349,melpomene,melpomene nanna Heliconius,,,,macho,Pernambuco (=Recife) BRA PE,,,m,,,1917,,MGCL/FLMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+10350,melpomene,melpomene nanna Heliconius,,,,macho,Pernambuco (=Recife) BRA PE,,,m,,,1917,,MGCL/FLMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+10351,melpomene,melpomene nanna Heliconius,,,,macho,Pernambuco (=Recife) BRA PE,,,m,,,1917,,MGCL/FLMNH,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+10352,melpomene,melpomene nanna Heliconius,,,,macho,Baixo Guandu BRA ES,,,m,,10,1971,"Elias, C.",MGCL/FLMNH,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown
+16826,melpomene,melpomene nanna Heliconius,,,,unknown,Pernambuco (=Recife) BRA PE,,,m,,,,,NHM Accessions - draw 7986,,NEIL ROSSER,,-8.783333333,-37.7,Falling Rain
+24747,melpomene,melpomene nanna Heliconius,,,,macho,Joao Pessoa BRA PB,,,m,,9,1978,,FLMNH,,Neil Rosser,,-7.115,-34.86305556,Geonames
+24750,melpomene,melpomene nanna Heliconius,,,,macho,Timbo Forest BRA BA,700,700,m,18,3,1989,,FLMNH,,Neil Rosser,,-13.066667,-39.633333,"A New Species of the Bokermannohyla circumdata Group (Anura: Hylidae) from the Coastal Forests of Bahia, Northeastern Brazil"
+32732,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32733,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32734,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32735,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32736,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32737,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32738,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32739,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32740,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32741,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32742,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32743,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32744,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32745,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+32746,melpomene,melpomene nanna Heliconius,,,,unknown,"Linhares, Espirito Santo BRA",,,m,,,,,Brower,,NEIL ROSSER,,-19.41666667,-40.06666667,Falling Rain
+33250,melpomene,melpomene nanna Heliconius,,,,descononcido,Catu BRA BA,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.35305556,-38.37888889,Geonames
+34170,melpomene,melpomene nanna Heliconius,,,,descononcido,Itamaraju BRA BA,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.08333333,-39.51666667,Brown
+34174,melpomene,melpomene nanna Heliconius,,,,descononcido,Itanhem BRA BA,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.16638889,-40.33,Geonames
+34197,melpomene,melpomene nanna Heliconius,,,,descononcido,Sao Luis BRA MA,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.353611111,-42.42638889,NIMA
+34200,melpomene,melpomene nanna Heliconius,,,,descononcido,Miritiba=Humberto de Campos BRA MA,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.598333333,-43.46111111,Geonames
+34327,melpomene,melpomene nanna Heliconius,,,,descononcido,Araripe-Chapada BRA CE,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.25,-39.75,KB 1979
+36752,melpomene,melpomene nanna Heliconius,,,,desconocido,6-47a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-47.25,KB 1979
+36754,melpomene,melpomene nanna Heliconius,,,,desconocido,6-35a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-35.25,KB 1979
+36770,melpomene,melpomene nanna Heliconius,,,,desconocido,8-35a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.75,-35.25,KB 1979
+36851,melpomene,melpomene nanna Heliconius,,,,desconocido,15-39a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-14.75,-39.25,KB 1979
+36900,melpomene,melpomene nanna Heliconius,,,,desconocido,23-43a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-22.75,-43.25,KB 1979
+36936,melpomene,melpomene nanna Heliconius,,,,desconocido,32-52a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-31.75,-52.25,KB 1979
+37159,melpomene,melpomene nanna Heliconius,,,,desconocido,4-41b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-40.75,KB 1979
+37184,melpomene,melpomene nanna Heliconius,,,,desconocido,8-35b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.754372,-34.899349,Google Earth
+37224,melpomene,melpomene nanna Heliconius,,,,desconocido,13-39b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-12.75,-38.75,KB 1979
+37244,melpomene,melpomene nanna Heliconius,,,,desconocido,16-40b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-15.75,-39.75,KB 1979
+37254,melpomene,melpomene nanna Heliconius,,,,desconocido,18-40b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-17.75,-39.75,KB 1979
+37260,melpomene,melpomene nanna Heliconius,,,,desconocido,19-40b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-18.75,-39.75,KB 1979
+37272,melpomene,melpomene nanna Heliconius,,,,desconocido,20-43b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.75,-42.75,KB 1979
+37280,melpomene,melpomene nanna Heliconius,,,,desconocido,20-41b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.75,-40.75,KB 1979
+37627,melpomene,melpomene nanna Heliconius,,,,desconocido,8-35c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.25,-35.25,KB 1979
+37634,melpomene,melpomene nanna Heliconius,,,,desconocido,9-36c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-9.25,-36.25,KB 1979
+37682,melpomene,melpomene nanna Heliconius,,,,desconocido,19-41c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.25,-41.25,KB 1979
+37689,melpomene,melpomene nanna Heliconius,,,,desconocido,19-40c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.25,-40.25,KB 1979
+37697,melpomene,melpomene nanna Heliconius,,,,desconocido,20-40c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.25,-40.25,KB 1979
+38170,melpomene,melpomene nanna Heliconius,,,,desconocido,7-35d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.256722,-34.888258,Google Earth
+38181,melpomene,melpomene nanna Heliconius,,,,desconocido,8-35d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-8.243027,-34.975462,Google Earth
+38205,melpomene,melpomene nanna Heliconius,,,,desconocido,14-40d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-14.25,-39.75,KB 1979
+38228,melpomene,melpomene nanna Heliconius,,,,desconocido,18-40d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-18.25,-39.75,KB 1979
+38236,melpomene,melpomene nanna Heliconius,,,,desconocido,19-41d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-19.25,-40.75,KB 1979
+38244,melpomene,melpomene nanna Heliconius,,,,desconocido,20-41d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-20.25,-40.75,KB 1979
+38297,melpomene,melpomene nanna Heliconius,,,,desconocido,26-50d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.25,-49.75,KB 1979
+38304,melpomene,melpomene nanna Heliconius,,,,desconocido,26-49d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-26.25,-48.75,KB 1979
+38748,melpomene,melpomene nanna Heliconius,,,,desconocido,Tiuma 6 km nw BRA PE,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,-7.916666667,-35.11666667,relative estimate
+38749,melpomene,melpomene nanna Heliconius,,,,desconocido,Baixo Guandu BRA ES,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,-19.51666667,-41.01666667,Brown

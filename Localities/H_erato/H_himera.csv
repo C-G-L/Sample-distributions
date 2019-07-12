@@ -1,0 +1,180 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+778,himera,himera Heliconius,,,,desconocido,Ayabaca Mountains PER PI,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.666666667,-79.71666667,Brown
+862,himera,himera Heliconius,,,,desconocido,Canchaque PER PI,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.366666667,-79.61666667,"Gerardo Lamas, unpub. gazetteer"
+872,himera,himera Heliconius,,,,desconocido,Chachapoyas PER AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.233333333,-77.88333333,"Gerardo Lamas, unpub. gazetteer"
+1024,himera,himera Heliconius,,,,desconocido,Huamachuco PER LL,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.816666667,-78.06666667,"Gerardo Lamas, unpub. gazetteer"
+1187,himera,himera Heliconius,,,,desconocido,Pedro Ruiz PER AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.95,-77.98333333,"Gerardo Lamas, unpub. gazetteer"
+1209,himera,himera Heliconius,,,,desconocido,Pucara PER CA,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.033333333,-79.13333333,"Gerardo Lamas, unpub. gazetteer"
+9727,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9728,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9729,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9730,himera,himera Heliconius,,,,hembra,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9731,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9732,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9733,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9734,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+9735,himera,himera Heliconius,,,,macho,Malacatos ECD LO,1500,1500,m,23,8,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-4.233333333,-79.28333333,www.calle.com
+9736,himera,himera Heliconius,,,,macho,Malacatos ECD LO,1500,1500,m,18,8,1941,"Laddey, D.B.",MGCL/FLMNH,,NEIL ROSSER,,-4.233333333,-79.28333333,www.calle.com
+9737,himera,himera Heliconius,,,,macho,Vilcabamba ECD LO,1600,1600,m,,5,1974,Lafebre R. de la,MGCL/FLMNH,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+10865,himera,himera Heliconius,,,,macho,Yangana ECD LO,1850,1850,m,24,7,1993,,MGCL/FLMNH,,NEIL ROSSER,,-4.356666667,-79.16666667,Map
+15876,himera,himera Heliconius,,,,unknown,Bagua Grande PER AM,2500,2500,m,,,1971,Grubner,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-5.776111111,-78.43444444,www.calle.com
+15877,himera,himera Heliconius,,,,unknown,Bagua Grande PER AM,,,m,,,1971,Grubner,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-5.776111111,-78.43444444,www.calle.com
+16104,himera,himera Heliconius,,,,unknown,Chanchaque PER PI,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-5.366666667,-79.61666667,"Gerardo Lamas, unpub. gazetteer"
+16780,himera,himera Heliconius,,,,unknown,Loja ECD LO,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-4,-79.21666667,Brown
+16781,himera,himera Heliconius,,,,unknown,El Monje ECD LO,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-4.1,-79.2,www.calle.com
+16783,himera,himera Heliconius,,,,unknown,Vina PER LL,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-7.95,-77.63333333,"Gerardo Lamas, unpub. gazetteer"
+16784,himera,himera Heliconius,,,,unknown,Chachapoyas PER AM,,,m,,,,,NHM (not labelled) -  Supplementary collection,,NEIL ROSSER,,-6.233333333,-77.88333333,"Gerardo Lamas, unpub. gazetteer"
+16966,himera,himera Heliconius,,,,unknown,Ayabaca Mountains PER PI,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,-4.666666667,-79.71666667,Brown
+16967,himera,himera Heliconius,,,,unknown,Ayabaca Mountains PER PI,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,-4.666666667,-79.71666667,Brown
+16972,himera,himera Heliconius,,,,unknown,Ayabaca Mountains PER PI,,,m,,,,,NHM Accesions - draws 9053,,NEIL ROSSER,,-4.666666667,-79.71666667,Brown
+26597,himera,himera Heliconius,,,,macho,Jaen PER CA,,,m,,8,1991,,FLMNH,,Neil Rosser,,-5.705555556,-78.80527778,www.calle.com
+26598,himera,himera Heliconius,,,,macho,Jaen PER CA,,,m,10,5,1994,,FLMNH,,Neil Rosser,,-5.705555556,-78.80527778,www.calle.com
+26599,himera,himera Heliconius,,,,macho,Jaen PER CA,,,m,,8,1991,,FLMNH,,Neil Rosser,,-5.705555556,-78.80527778,www.calle.com
+26600,himera,himera Heliconius,,,,hembra,Huambo PER AM,,,m,,,1989,,FLMNH,,Neil Rosser,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+26601,himera,himera Heliconius,,,,hembra,Huambo PER AM,,,m,,,1987,,FLMNH,,Neil Rosser,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+26602,himera,himera Heliconius,,,,hembra,Huambo PER AM,,,m,,,1987,,FLMNH,,Neil Rosser,,-6.566666667,-77.38333333,"Gerardo Lamas, unpub. gazetteer"
+26603,himera,himera Heliconius,,,,hembra,Muyo PER AM,,,m,10,9,1972,"Konig, F.",FLMNH,,Neil Rosser,,-5.416666667,-78.45,"Gerardo Lamas, unpub. gazetteer"
+26604,himera,himera Heliconius,,,,hembra,Muyo PER AM,,,m,,,,"Konig, F.",FLMNH,,Neil Rosser,,-5.416666667,-78.45,"Gerardo Lamas, unpub. gazetteer"
+26605,himera,himera Heliconius,,,,macho,Bagua [Grande] PER AM,,,m,,1,1989,,FLMNH,,Neil Rosser,,-5.75,-78.43333333,"Gerardo Lamas, unpub. gazetteer"
+26606,himera,himera Heliconius,,,,macho,Bagua [Grande] PER AM,,,m,,1,1989,,FLMNH,,Neil Rosser,,-5.75,-78.43333333,"Gerardo Lamas, unpub. gazetteer"
+26607,himera,himera Heliconius,,,,macho,Yangana ECD LO,2100,2100,m,24,11,1989,,FLMNH,,Neil Rosser,,-4.356666667,-79.16666667,Map
+26608,himera,himera Heliconius,,,,macho,Catamayo - Machala ECD LO,1700,1700,m,9,2,1993,,FLMNH,,Neil Rosser,,-3.982797222,-79.52735833,Google Earth
+26609,himera,himera Heliconius,,,,macho,Guayquichuma ECD EO,,,m,17,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26610,himera,himera Heliconius,,,,macho,Guayquichuma ECD EO,,,m,13,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26611,himera,himera Heliconius,,,,macho,Guayquichuma ECD EO,,,m,14,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26612,himera,himera Heliconius,,,,hembra,Guayquichuma ECD EO,,,m,13,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26613,himera,himera Heliconius,,,,macho,Guayquichuma ECD EO,,,m,13,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26614,himera,himera Heliconius,,,,macho,Guayquichuma ECD EO,,,m,13,7,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26615,himera,himera Heliconius,,,,macho,Guayquichuma ECD EO,900,1200,m,6,12,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26616,himera,himera Heliconius,,,,hembra,Guayquichuma ECD EO,900,1200,m,8,12,1993,,FLMNH,,Neil Rosser,,-3.816666667,-79.55,Geonames
+26617,himera,himera Heliconius,,,,macho,Rodriguez de Mendoza PER SM,,,m,,6,1994,,FLMNH,,Neil Rosser,,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"
+31275,himera,himera Heliconius,,,,macho,Ayabaca Mountains PER PI,,,m,,,,"Pratt, A.E. & F.",BMNH,,Blanca Huertas,,-4.666666667,-79.71666667,Brown
+31276,himera,himera Heliconius,,,,hembra,Vilcabamba ECD LO,1600,1600,m,5,Dec,,"Samson, C.P.J.",BMNH,,Blanca Huertas,,-4.266666667,-79.21666667,Brown
+31279,himera,himera Heliconius,,,,macho,Zaruma ECD EL,1000,1300,m,,,,,BMNH,,Blanca Huertas,,-3.683333333,-79.61666667,Brown
+31281,himera,himera Heliconius,,,,macho,Tabaconas Rio PER CA,1829,1900,m,,,,"Pratt, A.E. & F.",BMNH,,Blanca Huertas,,-5.316666667,-79.28333333,"Gerardo Lamas, unpub. gazetteer"
+31283,himera,himera Heliconius,,,,macho,Vina PER LL,1677,1675,m,,,,"Baron, O.T.",BMNH,,Blanca Huertas,,-7.95,-77.63333333,"Gerardo Lamas, unpub. gazetteer"
+31284,himera,himera Heliconius,,,,macho,Chinchipe Rio PER CA,1829,1900,m,,,,"Pratt, A. & E.",BMNH,,Blanca Huertas,,-5.516666667,-78.55,"Gerardo Lamas, unpub. gazetteer"
+31285,himera,himera Heliconius,,,,macho,Loja ECD LO,,,m,,Dec,,"Dognin, P.",BMNH,,Blanca Huertas,,-4,-79.21666667,Brown
+31286,himera,himera Heliconius,,,,macho,Cajanuma ECD LO,2800,3000,m,,,,,BMNH,,Blanca Huertas,,-4.116666667,-79.17166667,Map
+31287,himera,himera Heliconius,,,,macho,Vina PER LL,1677,1675,m,,,,"Baron, O.T.",BMNH,,Blanca Huertas,,-7.95,-77.63333333,"Gerardo Lamas, unpub. gazetteer"
+31290,himera,himera Heliconius,,,,hembra,Loja ECD LO,,,m,,Dec,,"Dognin, P.",BMNH,,Blanca Huertas,,-4,-79.21666667,Brown
+31291,himera,himera Heliconius,,,,hembra,Malacatos ECD LO,1850,1850,m,,,,,BMNH,,Blanca Huertas,,-4.233333333,-79.28333333,www.calle.com
+31292,himera,himera Heliconius,,,,hembra,Loja environs ECD LO,1800,1800,m,,,,,BMNH,,Blanca Huertas,,-4.066666667,-79.2,Map
+31293,himera,himera Heliconius,,,,macho,Rentema Falls PER AM,305,304,m,,,,"Pratt, A. & E.",BMNH,,Blanca Huertas,,-5.483333333,-78.55,"Gerardo Lamas, unpub. gazetteer"
+31294,himera,himera Heliconius,,,,macho,Loja environs ECD LO,1800,1800,m,,,,"Gaujon, A.",BMNH,,Blanca Huertas,,-4.066666667,-79.2,Map
+31297,himera,himera Heliconius,,,,macho,Chachapoyas PER AM,2345,2345,m,,,,"Mathan, M. de",BMNH,,Blanca Huertas,,-6.233333333,-77.88333333,"Gerardo Lamas, unpub. gazetteer"
+31298,himera,himera Heliconius,,,,macho,Charape PER CA,1200,1200,m,,Jun,,Pratt,BMNH,,Blanca Huertas,,-5.416666667,-78.98333333,"Gerardo Lamas, unpub. gazetteer"
+31299,himera,himera Heliconius,,,,macho,Ayabaca Mountains PER PI,,,m,,,,"Pratt, A.E. & F.",BMNH,,Blanca Huertas,,-4.666666667,-79.71666667,Brown
+31301,himera,himera Heliconius,,,,hembra,Chachapoyas PER AM,2345,2345,m,,,,"Mathan, M. de",BMNH,,Blanca Huertas,,-6.233333333,-77.88333333,"Gerardo Lamas, unpub. gazetteer"
+31302,himera,himera Heliconius,,,,hembra,Chachapoyas PER AM,2345,2345,m,,,,"Mathan, M. de",BMNH,,Blanca Huertas,,-6.233333333,-77.88333333,"Gerardo Lamas, unpub. gazetteer"
+31303,himera,himera Heliconius,,,,macho,Chachapoyas PER AM,2345,2345,m,,,,"Mathan, M. de",BMNH,,Blanca Huertas,,-6.233333333,-77.88333333,"Gerardo Lamas, unpub. gazetteer"
+31305,himera,himera Heliconius,,,,macho,Huamachuco PER LL,3200,3200,m,,Nov,,Simons,BMNH,XI. 99,Blanca Huertas,,-7.816666667,-78.06666667,"Gerardo Lamas, unpub. gazetteer"
+31306,himera,himera Heliconius,,,,macho,Peru n PER ??,1220,,m,,,,Pratt,BMNH,,Blanca Huertas,,-5.416666667,-78.98333333,"Gerardo Lamas, unpub. gazetteer"
+31307,himera,himera Heliconius,,,,hembra,Peru n PER ??,1220,,m,,,,Pratt,BMNH,,Blanca Huertas,,-5.416666667,-78.98333333,"Gerardo Lamas, unpub. gazetteer"
+31308,himera,himera Heliconius,,,,hembra,Ayabaca Mountains PER PI,,,m,,,,"Pratt, A.E. & F.",BMNH,,Blanca Huertas,,-4.666666667,-79.71666667,Brown
+31309,himera,himera Heliconius,,,,hembra,Peru n PER ??,,,m,,,,Krause,BMNH,,Blanca Huertas,,-5.416666667,-78.98333333,"Gerardo Lamas, unpub. gazetteer"
+31310,himera,himera Heliconius,,,,macho,Peru n PER ??,1220,,m,,Jun,,Pratt,BMNH,,Blanca Huertas,,-5.416666667,-78.98333333,"Gerardo Lamas, unpub. gazetteer"
+31311,himera,himera Heliconius,,,,macho,Rentema Falls PER AM,305,304,m,,,,"Pratt, A. & E.",BMNH,,Blanca Huertas,,-5.483333333,-78.55,"Gerardo Lamas, unpub. gazetteer"
+31312,himera,himera Heliconius,,,,hembra,Peru n PER ??,1220,,m,,,,Pratt,BMNH,,Blanca Huertas,,-5.416666667,-78.98333333,"Gerardo Lamas, unpub. gazetteer"
+32387,himera,himera Heliconius,,,,unknown,"Carretera Marginal, km 23.5, Piura PER",,,m,,,,,Brower,,NEIL ROSSER,,,,
+32388,himera,himera Heliconius,,,,unknown,"Carretera Marginal, km 23.5, Piura PER",,,m,,,,,Brower,,NEIL ROSSER,,,,
+34284,himera,himera Heliconius,,,,descononcido,Cariamanga ECD LO,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.333333333,-79.55,Geonames
+36554,himera,himera Heliconius,,,,desconocido,6-78a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-78.25,KB 1979
+36576,himera,himera Heliconius,,,,desconocido,7-79a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.75,-79.25,KB 1979
+36578,himera,himera Heliconius,,,,desconocido,7-78a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-6.75,-78.25,KB 1979
+36959,himera,himera Heliconius,,,,desconocido,4-80b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.75,-79.75,KB 1979
+37005,himera,himera Heliconius,,,,desconocido,6-80b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-79.75,KB 1979
+37007,himera,himera Heliconius,,,,desconocido,6-79b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.75,-78.75,KB 1979
+37347,himera,himera Heliconius,,,,desconocido,4-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-4.25,-79.25,KB 1979
+37384,himera,himera Heliconius,,,,desconocido,5-79c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.25,-79.25,KB 1979
+37882,himera,himera Heliconius,,,,desconocido,5-79d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-5.25,-78.75,KB 1979
+37910,himera,himera Heliconius,,,,desconocido,7-79d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-7.25,-78.75,KB 1979
+38693,himera,himera Heliconius,,,,desconocido,Vilcabamba ECD LO,1600,1600,m,,,,"Mallet, J.",MHNL PERU ex Peru,,NEIL ROSSER,,-4.266666667,-79.21666667,Brown
+39348,himera,himera Heliconius,,,,macho,"San Pedro de la Bendita, Catamayo, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-3.933333333,-79.41666667,Falling Rain
+39349,himera,himera Heliconius,,,,hembra,"San Pedro de la Bendita, Catamayo, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-3.933333333,-79.41666667,Falling Rain
+39350,himera,himera Heliconius,,,,hembra,"San Pedro de la Bendita, Catamayo, ECD",,,m,,,,,Jiggins,,NEIL ROSSER,,-3.933333333,-79.41666667,Falling Rain
+43274,himera,himera Heliconius,,,,macho,San Ramon de Mangas PER PI,,,m,22,Noviembre,1990,Fernandez,MHNL PERU,22.xi.90,Lidia Sulca,,-4.679844444,-79.69257222,Google Earth + http://issuu.com/peru.nutrinet.org/docs/200201_ayabaca
+43275,himera,himera Heliconius,,,,macho,San Ramon de Mangas PER PI,,,m,22,Noviembre,1990,Fernandez,MHNL PERU,22.xi.90,Lidia Sulca,,-4.679844444,-79.69257222,Google Earth + http://issuu.com/peru.nutrinet.org/docs/200201_ayabaca
+43276,himera,himera Heliconius,,,,macho,La Corona PER CA,,,m,40097,Noviembre,1975,"Lamas, G",MHNL PERU,10-11.xi.75,Lidia Sulca,,-5.716666667,-78.86666667,"Gerardo Lamas, unpub. gazetteer"
+43277,himera,himera Heliconius,,,,macho,Jaen PER CA,,,m,6,Noviembre,1978,"Lamas, G.",MHNL PERU,6.xi.78,Lidia Sulca,,-5.705555556,-78.80527778,www.calle.com
+43278,himera,himera Heliconius,,,,macho,Monteseco Hda 2 - 8 km ne PER CA,,,m,22,Noviembre,1978,"Lamas, G.",MHNL PERU,22.xi.78,Lidia Sulca,,-6.855277778,-79.10694444,www.calle.com
+43279,himera,himera Heliconius,,,,macho,La Granja Bosque PER CA,,,m,22,Mayo,1995,"Grados, J.",MHNL PERU,22.v.95,Lidia Sulca,,-5.183333333,-78.9,"Gerardo Lamas, unpub. gazetteer"
+43280,himera,himera Heliconius,,,,macho,La Granja Bosque PER CA,,,m,22,Junio,1995,"Grados, J.",MHNL PERU,22.vi.95,Lidia Sulca,,-5.183333333,-78.9,"Gerardo Lamas, unpub. gazetteer"
+43281,himera,himera Heliconius,,,,macho,La Granja Bosque PER CA,,,m,22,Junio,1995,"Grados, J.",MHNL PERU,22.vi.95,Lidia Sulca,,-5.183333333,-78.9,"Gerardo Lamas, unpub. gazetteer"
+43282,himera,himera Heliconius,,,,macho,La Granja Bosque PER CA,,,m,22,Junio,1995,"Grados, J.",MHNL PERU,22.vi.95,Lidia Sulca,,-5.183333333,-78.9,"Gerardo Lamas, unpub. gazetteer"
+43283,himera,himera Heliconius,,,,macho,Muyo 6 km s PER AM,,,m,8,Julio,1984,"Mallet, J.",MHNL PERU,8.vii.84,Lidia Sulca,,-5.471636111,-78.44956944,Google Earth
+43284,himera,himera Heliconius,,,,macho,Muyo  10.2 km S PER AM,,,m,4,Julio,1986,"Mallet, J., H. Eeley",MHNL PERU,4.vi.86,Lidia Sulca,,-5.509536111,-78.44903056,Google Earth
+43285,himera,himera Heliconius,,,,macho,Balsas - Chachapoyas km 17 PER AM,,,m,28,Junio,1986,"Jaagumagi, R.",MHNL PERU,28.vi.86,Lidia Sulca,,-6.846847222,-77.96994167,Google Earth
+43286,himera,himera Heliconius,,,,macho,Pedro Ruiz nr PER AM,,,m,25,Febrero,1976,"Edblom,G.",MHNL PERU,25.ii.76,Lidia Sulca,,-5.95,-77.98333333,Copied from Lamas unpub.
+43287,himera,himera Heliconius,,,,macho,Muyo  9.7 km s PER AM,,,m,4,Junio,1986,"Mallet, J., H. Eeley",MHNL PERU,4.vi.86,Lidia Sulca,,-5.505338889,-78.44942778,Google Earth
+43288,himera,himera Heliconius,,,,macho,Corontachaca Puente PER AM,,,m,23,Febrero,1976,"Edblom,G.",MHNL PERU,23.ii.76,Lidia Sulca,,-5.916666667,-78,"Gerardo Lamas, unpub. gazetteer"
+43289,himera,himera Heliconius,,,,macho,Corontachaca Puente PER AM,,,m,23,Febrero,1976,"Edblom,G.",MHNL PERU,23.ii.76,Lidia Sulca,,-5.916666667,-78,"Gerardo Lamas, unpub. gazetteer"
+43290,himera,himera Heliconius,,,,macho,La Peca 0 - 5 km E PER AM,,,m,23,Setiembre,1999,"Lamas, G.",MHNL PERU,23.ix.99,Lidia Sulca,,-5.616666667,-78.43333333,"Gerardo Lamas, unpub. gazetteer"
+43295,himera,himera Heliconius,,,,macho,Olmos - Chamaya km 30 PER PI,,,m,4,Noviembre,1998,"Lamas, G",MHNL PERU,4.xi.98,Lidia Sulca,,-5.9,-79.53333333,"Gerardo Lamas, unpub. gazetteer"
+43296,himera,himera Heliconius,,,,macho,Celendin - Llanguat Carretera  km 14,,,m,6,Enero,2002,"Grados, J.",MHNL PERU,6.i.02,Lidia Sulca,,-6.795566667,-78.17367222,Google Earth
+43297,himera,himera Heliconius,,,,macho,La Florida PER CA,,,m,28,Febrero,1952,"Koepcke, H.-W.",MHNL PERU,28.ii.52,Lidia Sulca,,-6.866666667,-79.13333333,"Gerardo Lamas, unpub. gazetteer"
+43298,himera,himera Heliconius,,,,macho,Jaen - La Corona PER CA,,,m,,,,,MHNL PERU,,Lidia Sulca,,-5.719605556,-78.84362222,Google Earth
+43299,himera,himera Heliconius,,,,macho,Jaen - La Corona PER CA,,,m,40097,Noviembre,1975,"Lamas, G.",MHNL PERU,10-11.xi.75,Lidia Sulca,,-5.719605556,-78.84362222,Google Earth
+43300,himera,himera Heliconius,,,,macho,Pucara PER CA,,,m,,,,,MHNL PERU,,Lidia Sulca,,-6.033333333,-79.13333333,"Gerardo Lamas, unpub. gazetteer"
+43301,himera,himera Heliconius,,,,macho,Jaen 5 km w PER CA,,,m,,,,"Lamas, G.",MHNL PERU,10-11.xi.75,Lidia Sulca,,-5.7,-78.83333333,"Gerardo Lamas, unpub. gazetteer"
+43302,himera,himera Heliconius,,,,macho,Bagua [Grande] PER AM,,,m,,,,"Hocking, P.",MHNL PERU,5.ix.75,Lidia Sulca,,-5.75,-78.43333333,"Gerardo Lamas, unpub. gazetteer"
+43303,himera,himera Heliconius,,,,macho,Muyo 8 km s PER AM,,,m,,,,"Mallet, J.",MHNL PERU,5.vii.84,Lidia Sulca,,-5.489588889,-78.44980278,Google Earth
+43304,himera,himera Heliconius,,,,macho,Muyo  10.2 km S PER AM,,,m,,,,"Mallet, J., H. Eeley",MHNL PERU,4.vi.86,Lidia Sulca,,-5.509536111,-78.44903056,Google Earth
+43305,himera,himera Heliconius,,,,macho,Muyo  9.7 km s PER AM,,,m,,,,"Mallet, J., H. Eeley",MHNL PERU,4.vi.86,Lidia Sulca,,-5.505338889,-78.44942778,Google Earth
+43306,himera,himera Heliconius,,,,macho,Alva a Corontachaca PER AM,,,m,1,Mayo,1974,"Mittermeier, R",MHNL PERU,1.v.74,Lidia Sulca,,-5.966666667,-78.05,"Gerardo Lamas, unpub. gazetteer"
+43307,himera,himera Heliconius,,,,macho,Pedro Ruiz nr PER AM,,,m,25,febrero,1976,"Edblom,G.",MHNL PERU,25.ii.76,Lidia Sulca,,-5.95,-77.98333333,Copied from Lamas unpub.
+43308,himera,himera Heliconius,,,,macho,Muyo 8 km s PER AM,,,m,5,Julio,1984,"Mallet, J.",MHNL PERU,5.vii.84,Lidia Sulca,,-5.489588889,-78.44980278,Google Earth
+43309,himera,himera Heliconius,,,,macho,La Iguana nr PER AM,,,m,26,Junio,1995,"Lamas, G.",MHNL PERU,26.vi.95,Lidia Sulca,,-5.683333333,-78.4,Label
+43310,himera,himera Heliconius,,,,macho,Jaen - La Corona PER CA,,,m,,,,"Lamas, G.",MHNL PERU,10-11.xi.75,Lidia Sulca,,-5.719605556,-78.84362222,Google Earth
+43311,himera,himera Heliconius,,,,macho,Jaen - La Corona PER CA,,,m,40097,Noviembre,1975,"Lamas, G.",MHNL PERU,10-11.xi.75,Lidia Sulca,,-5.719605556,-78.84362222,Google Earth
+43312,himera,himera Heliconius,,,,macho,Pucara PER CA,,,m,9,Diciembre,1975,"Lamas, G.",MHNL PERU,9.xii.75,Lidia Sulca,,-6.033333333,-79.13333333,"Gerardo Lamas, unpub. gazetteer"
+53684,himera,himera Heliconius,,,,unknown,chaguarpamba Ecuador,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53685,himera,himera Heliconius,,,,unknown,chaguarpamba Ecuador,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53686,himera,himera Heliconius,,,,unknown,chaguarpamba Ecuador,1350,1350,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53687,himera,himera Heliconius,,,,unknown,chaguarpamba Ecuador,1275,1275,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53688,himera,himera Heliconius,,,,unknown,chaguarpamba Ecuador,1500,1500,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.879432,-79.66762,Coorsinates from Jiggins and Mallet plus Google earth
+53694,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,950,950,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53695,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1000,1000,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53696,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1050,1050,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53697,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53698,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1100,1100,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53699,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1150,1150,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53700,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1250,1250,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53701,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1250,1250,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+53702,himera,himera Heliconius,,,,unknown,Guayquichuma ECD LO,1800,1800,m,,,,,Jiggins Mallet,,NEIL ROSSER,,-3.816666667,-79.54333333,www.calle.com
+55608,himera,himera Heliconius,,,,,Sozoranga Ecuador Loja,,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.33333,-79.78333,Geonames
+55609,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+55610,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+55611,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+55612,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+55816,himera,himera Heliconius,,,,male,R�o Yambala Ecuador Loja,1700,1700,m,27,11,2005,K. Willmott,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+55822,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55823,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55824,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55825,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55826,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55827,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55828,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55829,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55830,himera,himera Heliconius,,,,macho,Vilcabamba Ecuador Loja,1600,1600,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+55831,himera,himera Heliconius,,,,macho,Malacatos Ecuador Loja,1500,1500,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.222666667,-79.26666667,TABD record
+55832,himera,himera Heliconius,,,,macho,Malacatos Ecuador Loja,1500,1500,m,,,,,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.222666667,-79.26666667,TABD record
+55857,himera,himera Heliconius,,,,male,km 24 Loja-Catamayo rd. Ecuador Loja,2010,2010,m,9,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-3.999444444,-79.30722222,GPS
+55858,himera,himera Heliconius,,,,female,"Santuario San Vicente, Quebrada El Sauce, 2 km W San Pedro de la Bendita Ecuador Loja",1720,1720,m,10,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-3.948333333,-79.44833333,GPS
+55859,himera,himera Heliconius,,,,male,"Reserva Jorupe, W Macar� Ecuador Loja",560,560,m,12,5,2008,K.R. Willmott & J.P.W. Hall,FLMNH TABD ZZZ,,NEIL ROSSER,,-4.378888889,-79.90388889,GPS
+55890,himera,himera Heliconius,,,,,Parque Nacional Podocarpus Ecuador Zamora-Chinchipe,1146,1146,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.1,-78.98333333,TABD record
+56061,himera,himera Heliconius,,,,,Catamayo Ecuador Loja,2300,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.066666667,-79.36666667,TABD record
+56062,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+56063,himera,himera Heliconius,,,,,Yamburara Ecuador Loja,1600,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.25,-79.25,Geonames
+56064,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+56065,himera,himera Heliconius,,,,,Yamburara Ecuador Loja,1600,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.25,-79.25,Geonames
+56066,himera,himera Heliconius,,,,,San Pedro Ecuador Loja,600,600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.18333333,TABD record
+56067,himera,himera Heliconius,,,,,San Pedro Ecuador Loja,600,600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.18333333,TABD record
+56068,himera,himera Heliconius,,,,,Vilcabamba Ecuador Loja,1600,1600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+56069,himera,himera Heliconius,,,,,Vilcabamba Ecuador Loja,1600,1600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.21666667,TABD record
+56070,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+56071,himera,himera Heliconius,,,,,Yamburara Ecuador Loja,1600,,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.25,-79.25,Geonames
+56072,himera,himera Heliconius,,,,,San Pedro Ecuador Loja,600,600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.18333333,TABD record
+56073,himera,himera Heliconius,,,,,R�o Yambala Ecuador Loja,1800,1800,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.19166667,Map
+56074,himera,himera Heliconius,,,,,San Pedro Ecuador Loja,600,600,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-4.266666667,-79.18333333,TABD record
+62085,himera,himera Heliconius,,,himera x favorinus,macho,Rodriguez de Mendoza PER AM,,,m,,,,,Konig 1986 paper,,NEIL ROSSER,duplicate,-6.4,-77.48333333,"Gerardo Lamas, unpub. gazetteer"

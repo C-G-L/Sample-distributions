@@ -1,0 +1,52 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+1152,melpomene,melpomene meriana Heliconius,,,,desconocido,New Amsterdam GUY EB,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-57.51666667,Geonames
+1484,melpomene,melpomene meriana Heliconius,,,,descononcido,Maroni river 60 mi up FRG LM,,,m,,,,,KB 1979,,NEIL ROSSER,,4.807911111,-54.46801389,Google Earth
+4853,melpomene,melpomene meriana Heliconius,,,,macho,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.55,-53.93333333,Brown
+4857,melpomene,melpomene meriana Heliconius,,,,macho,Arouang GUY,,,m,16,4,1886,,BMNH,,NEIL ROSSER,,,,unknown
+4858,melpomene,melpomene meriana Heliconius,,,,macho,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.55,-53.93333333,Brown
+4859,melpomene,melpomene meriana Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?). This specimen not assigned subsp - amdended 30.11.09",macho,Bas Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.25,-54.25,Brown 1979
+4860,melpomene,melpomene meriana Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?). This specimen not assigned subsp - amdended 30.11.09",macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+4861,melpomene,melpomene meriana Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?). This specimen not assigned subsp - amdended 30.11.09",macho,St Laurent du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+4862,melpomene,melpomene meriana Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?). This specimen not assigned subsp - amdended 30.11.09",macho,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.55,-53.93333333,Brown
+4863,melpomene,melpomene meriana Heliconius,,,"""faustina + negroida trans. dianides"" (-KB?). This specimen not assigned subsp - amdended 30.11.09",macho,Godebert - Maroni FRG,,,m,,,,,BMNH,,NEIL ROSSER,,5.516666667,-53.96666667,Geonames
+5635,melpomene,melpomene meriana Heliconius,,,,hembra,Aroewarwa Creek SUR MW,,,m,,2,1905,"Klages, S.M.",BMNH,,NEIL ROSSER,,5.233333333,-54.31666667,Brown
+5636,melpomene,melpomene meriana Heliconius,,,,macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+5637,melpomene,melpomene meriana Heliconius,,,,macho,Bas Maroni FRG LM,,,m,,,1920,,BMNH,08-Sep,NEIL ROSSER,,5.25,-54.25,Brown 1979
+5638,melpomene,melpomene meriana Heliconius,,,,macho,St Laurent du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+5639,melpomene,melpomene meriana Heliconius,,,,macho,Godebert - Maroni FRG,,,m,,,,,BMNH,,NEIL ROSSER,,5.516666667,-53.96666667,Geonames
+5640,melpomene,melpomene meriana Heliconius,,,f. faustina,macho,Berg - en - Dal SUR BR,,,m,,,,Michaelis,BMNH,,NEIL ROSSER,,5.15,-55.06666667,Brown
+5642,melpomene,melpomene meriana Heliconius,,,f. fascinatrix,macho,Bas Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.25,-54.25,Brown 1979
+5643,melpomene,melpomene meriana Heliconius,HT,"fascinatrix Heliconius melpomene (Heliconius, A. Seitz 1912)",f. fascinatrix,hembra,Cayenne FRG CY,,,m,,,,,BMNH,,NEIL ROSSER,,4.933333333,-52.33333333,Brown
+10353,melpomene,melpomene meriana Heliconius,,,,macho,Berg - en - Dal SUR BR,,,m,,,,Michael,MGCL/FLMNH,1898-9,NEIL ROSSER,,5.15,-55.06666667,Brown
+10355,melpomene,melpomene meriana Heliconius,,,,macho,St Jean du Maroni FRG GY,,,m,,,,,MGCL/FLMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+16267,melpomene,melpomene meriana Heliconius,,,,unknown,Alalapadu SUR SI,350,350,m,,,2002,"Simon, M.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.533333333,-56.33333333,Geonames
+16823,melpomene,melpomene meriana Heliconius,,,,unknown,Nouveau Chantier FRG GU,,,m,,,,,NHM Accessions - draw 7986,,NEIL ROSSER,,5.55,-53.93333333,Brown
+29158,melpomene,melpomene meriana Heliconius,,,,descononcido,Granbori SUR MA,,,m,,,,,KB 1979,,NEIL ROSSER,,3.8,-54.85,
+34192,melpomene,melpomene meriana Heliconius,,,,descononcido,Tabocas BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-58.76666667,Geonames
+34318,melpomene,melpomene meriana Heliconius,,,,descononcido,Alalau Rio Balsa BRA AM,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-60.75,KB 1979
+34432,melpomene,melpomene meriana Heliconius,,,,descononcido,Martins Pereira - Igarape BRA RR,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-60.25,KB 1979
+34545,melpomene,melpomene meriana Heliconius,,,,descononcido,Gonini River SUR MA,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-54.75,KB 1979
+34552,melpomene,melpomene meriana Heliconius,,,,descononcido,"Kassikaityu, upper river GUY",,,m,,,,,KB 1979,,NEIL ROSSER,,1.75,-59.25,KB 1979
+34582,melpomene,melpomene meriana Heliconius,,,,descononcido,Shudikar-wau River = Chodikar GUY,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-58.75,KB 1979
+34585,melpomene,melpomene meriana Heliconius,,,,descononcido,Tapanahoni Rivier SUR MA,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-54.75,KB 1979
+34759,melpomene,melpomene meriana Heliconius,,,,desconocido,5-54a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.25,KB 1979
+34781,melpomene,melpomene meriana Heliconius,,,,desconocido,5-55a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-55.25,KB 1979
+35237,melpomene,melpomene meriana Heliconius,,,,desconocido,5-54b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-53.75,KB 1979
+35247,melpomene,melpomene meriana Heliconius,,,,desconocido,5-53b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-52.75,KB 1979
+35255,melpomene,melpomene meriana Heliconius,,,,desconocido,5-55b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.75,KB 1979
+35289,melpomene,melpomene meriana Heliconius,,,,desconocido,5-59b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-58.75,KB 1979
+35631,melpomene,melpomene meriana Heliconius,,,,desconocido,0-56b N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-55.75,KB 1979
+35780,melpomene,melpomene meriana Heliconius,,,,desconocido,6-54c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-54.25,KB 1979
+35803,melpomene,melpomene meriana Heliconius,,,,desconocido,4-54c N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-54.25,KB 1979
+35812,melpomene,melpomene meriana Heliconius,,,,desconocido,6-55c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-55.25,KB 1979
+36185,melpomene,melpomene meriana Heliconius,,,,desconocido,6-54d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-53.75,KB 1979
+36192,melpomene,melpomene meriana Heliconius,,,,desconocido,4-54d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-53.75,KB 1979
+36201,melpomene,melpomene meriana Heliconius,,,,desconocido,4-52d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-51.75,KB 1979
+36460,melpomene,melpomene meriana Heliconius,,,,desconocido,1-52d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-51.75,KB 1979
+36695,melpomene,melpomene meriana Heliconius,,,,desconocido,2-55a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-55.25,KB 1979
+36703,melpomene,melpomene meriana Heliconius,,,,desconocido,3-55a S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.75,-55.25,KB 1979
+37124,melpomene,melpomene meriana Heliconius,,,,desconocido,2-56b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-55.75,KB 1979
+37528,melpomene,melpomene meriana Heliconius,,,,desconocido,1-56c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-56.25,KB 1979
+37612,melpomene,melpomene meriana Heliconius,,,,desconocido,3-58c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-3.25,-58.25,KB 1979
+52371,melpomene,melpomene meriana Heliconius,,,melpomene x meriana,desconocido,St Georges saut Maripa FRG IN,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,duplicate,3.798438889,-51.88059722,Google Earth
+52372,melpomene,melpomene meriana Heliconius,,,melpomene x meriana,desconocido,St Georges FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,duplicate,3.883333333,-51.81666667,Brown

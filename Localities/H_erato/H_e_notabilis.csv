@@ -1,0 +1,312 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+6027,erato,erato notabilis Heliconius,,,,macho,Ashpiyaco ECD,,,m,,,,"Buckley, C.",BMNH,,NEIL ROSSER,,,,unknown
+6031,erato,erato notabilis Heliconius,,,,macho,La Victoria ECD TU,3500,3500,ft,,,,"Palmer, M.G.",BMNH,,NEIL ROSSER,,-1.408333333,-78.225,Map
+6032,erato,erato notabilis Heliconius,,,f. radiata,macho,Pastaza Rio Upper ECD,1000,1000,m,,,,Niepelt,BMNH,,NEIL ROSSER,,-1.25,-78.25,Brown 1979
+6033,erato,erato notabilis Heliconius,,,f. radiata,macho,Jibaria ECD,900,900,m,,,,,BMNH,,NEIL ROSSER,,-1.933333333,-77.78333333,Geonames
+14026,erato,erato notabilis Heliconius,,,,unknown,Arajuno Rio ECD NA,1000,1000,m,,,1941,"McIntyre, W.C.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.233333333,-77.7,Brown
+14028,erato,erato notabilis Heliconius,,,,unknown,Huagrayacu Rio ECD PA,900,900,m,,,1941,"McIntyre, W.C.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.01666667,Brown
+14029,erato,erato notabilis Heliconius,,,,unknown,Huagrayacu Rio ECD PA,900,900,m,,,1941,"McIntyre, W.C.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.01666667,Brown
+14030,erato,erato notabilis Heliconius,,,,unknown,Blanco Rio ECD TU,,,m,,,,Lafebre R. de la,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.383333333,-78.33333333,Brown
+14031,erato,erato notabilis Heliconius,,,,unknown,Alpayacu ECD PA,3600,3600,ft,,,1910,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.466666667,-78.11666667,Brown
+16150,erato,erato notabilis Heliconius,,,,unknown,Topo ECD TU,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16151,erato,erato notabilis Heliconius,,,,unknown,Pununo ECD NA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.021666667,-77.67,Map
+16152,erato,erato notabilis Heliconius,,,,unknown,Cumaneta ECD OR,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16153,erato,erato notabilis Heliconius,,,,unknown,Topo ECD TU,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16300,erato,erato notabilis Heliconius,,,,unknown,Topo Rio ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16301,erato,erato notabilis Heliconius,,,,unknown,Puyo 18 km n ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.390486111,-77.96516389,Google Earth
+16303,erato,erato notabilis Heliconius,,,,unknown,Tena ECD NA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-0.983333333,-77.81666667,www.calle.com
+16328,erato,erato notabilis Heliconius,,,,unknown,Puyo ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+16329,erato,erato notabilis Heliconius,,,,unknown,Puyo 30km E ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.479319444,-77.76686389,Google Earth
+16330,erato,erato notabilis Heliconius,,,,unknown,Topo Rio ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16331,erato,erato notabilis Heliconius,,,,unknown,Topo Rio ECD TU,1200,1200,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16332,erato,erato notabilis Heliconius,,,,unknown,Chico Rio ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.456666667,-78.11083333,Pinas db
+16333,erato,erato notabilis Heliconius,,,,unknown,Topo Rio ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.416666667,-78.16666667,Brown
+16335,erato,erato notabilis Heliconius,,,,unknown,Shell ECD TU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.5,-78.05,Geonames
+16403,erato,erato notabilis Heliconius,,,f. radiata or beata,unknown,Puyo 18 km n ECD PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.390486111,-77.96516389,Google Earth
+16404,erato,erato notabilis Heliconius,,,f. radiata or beata,unknown,Puyo 27 km N of ECD PA,1000,1000,m,,,1987,Mciniss,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.325208333,-77.90243889,Google Earth
+16405,erato,erato notabilis Heliconius,,,f. radiata or beata,unknown,"Puyo 50km S, Vera Cruz ECD TU",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,-1.899336111,-77.95621389,Google Earth
+16908,erato,erato notabilis Heliconius,,,,unknown,El Chaco 8km N ECD NA,1800,1800,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.286911111,-77.76866111,Google Earth
+16933,erato,erato notabilis Heliconius,,,,unknown,Antisana Rio lower ECD CO,2000,2000,m,,,1977,Samson,NHM Accesions - draws 9052,,NEIL ROSSER,,-0.760902778,-78.08759722,Google Earth
+26255,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jose ECD NA,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+26256,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26257,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26258,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26259,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26260,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26261,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26262,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26263,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,5,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26264,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26265,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,11,4,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26266,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26267,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,9,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26268,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,3,1988,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26269,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26270,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jorge ECD PA,500,500,m,3,6,1991,,FLMNH,,Neil Rosser,,,,unknown
+26271,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Zarzayacu ECO NAP,550,550,m,20,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+26272,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Latas ECD NA,420,420,m,10,8,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.73333333,Geonames
+26273,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pano ECD NA,550,550,m,24,12,1991,,FLMNH,,Neil Rosser,,-1.033333333,-77.86666667,Brown
+26274,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pimpilala ECD NA,700,700,m,16,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.071666667,-77.935,Map
+26275,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26276,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,San Jose ECD NA,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+26277,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26278,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Zarzayacu ECO NAP,,,m,19,10,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+26279,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 31 ECD PA,,,m,,3,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26280,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26281,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26282,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26283,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26284,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26285,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26286,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Tena ECD NA,,,m,13,5,1995,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26287,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Zarzayacu ECO NAP,,,m,8,10,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+26288,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Zarzayacu ECO NAP,,,m,24,10,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+26289,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pano ECD NA,500,500,m,14,6,1991,,FLMNH,,Neil Rosser,,-1.033333333,-77.86666667,Brown
+26290,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jose ECD NA,800,800,m,24,12,1991,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+26291,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26292,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,El Capricho ECD NA,900,900,m,15,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.186666667,-77.74666667,Map
+26293,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Zarzayacu ECO NAP,,,m,31,10,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+26294,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26295,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26296,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26297,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,2,9,1992,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26298,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26299,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Zarzayacu ECO NAP,520,520,m,7,10,1991,,FLMNH,,Neil Rosser,,-1.163333333,-77.83333333,Map
+26300,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,6,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26301,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26302,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26303,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26304,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26305,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26306,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26307,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26308,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo ECD PA,,,m,,,,,FLMNH,,Neil Rosser,,-1.466666667,-77.98333333,Brown
+26309,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26310,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Santa Clara ECD PA,,,m,,8,1994,,FLMNH,,Neil Rosser,,-1.258333333,-77.88333333,Map
+26311,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26312,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26313,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26314,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26315,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26316,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26317,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26318,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Canelos rio Bo ECU PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+26319,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,,,1991,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26320,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,1,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26321,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26322,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,11,11,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26323,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,16,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26324,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26325,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,15,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26326,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26327,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 31 ECD PA,,,m,,9,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26328,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Llandia Rio ECD PA,1100,1100,m,14,2,1992,"Vel�stegui, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26329,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,9,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26330,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26331,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26332,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26333,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26334,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26335,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,El Capricho ECD NA,850,850,m,26,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.186666667,-77.74666667,Map
+26336,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26337,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Carlo Finca ECD NA,,,m,25,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.0875,-77.77833333,Map
+26338,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26339,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+26340,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Talag ECD NA,,,m,5,6,1993,,FLMNH,,Neil Rosser,,-1.063333333,-77.90666667,Map
+26341,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26342,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26343,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26344,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26345,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,13,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26346,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26347,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pimpilala ECD NA,,,m,,,1991,,FLMNH,,Neil Rosser,,-1.071666667,-77.935,Map
+26348,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jorge ECD PA,800,800,m,2,7,1990,,FLMNH,,Neil Rosser,,,,unknown
+26349,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26350,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26351,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,23,1,1993,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26352,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26353,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26354,erato,erato notabilis Heliconius,,,,macho,Topo ECD TU,,,m,17,1,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26355,erato,erato notabilis Heliconius,,,,macho,Topo ECD TU,1250,1250,m,4,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26356,erato,erato notabilis Heliconius,,,,macho,Topo ECD TU,1400,1400,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26357,erato,erato notabilis Heliconius,,,,macho,Tigre Rio ECD TU,,,m,,12,1995,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26358,erato,erato notabilis Heliconius,,,,macho,Topo ECD TU,,,m,,10,1992,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26359,erato,erato notabilis Heliconius,,,,hembra,Topo ECD TU,,,m,20,6,1989,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26360,erato,erato notabilis Heliconius,,,,hembra,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+26361,erato,erato notabilis Heliconius,,,,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26362,erato,erato notabilis Heliconius,,,,hembra,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+26363,erato,erato notabilis Heliconius,,,,macho,Llandia Rio ECD PA,1000,1000,m,13,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26364,erato,erato notabilis Heliconius,,,,macho,Llandia Rio ECD PA,1000,1000,m,16,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26365,erato,erato notabilis Heliconius,,,,macho,Llandia Rio ECD PA,900,900,m,10,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26366,erato,erato notabilis Heliconius,,,,macho,Tena ECD NA,,,m,,,1989,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26367,erato,erato notabilis Heliconius,,,,hembra,Puyo - Tena rd km 19 ECD PA,1100,1100,m,14,2,1991,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26368,erato,erato notabilis Heliconius,,,,macho,Tena ECD NA,,,m,,,1989,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26369,erato,erato notabilis Heliconius,,,,hembra,Mexico ECD TU,1800,1800,m,,,1992,,FLMNH,,Neil Rosser,,-1.316666667,-78.2,darwin_ecuador_pinas2
+26370,erato,erato notabilis Heliconius,,,,hembra,Mexico ECD TU,1800,1800,m,,,1992,,FLMNH,,Neil Rosser,,-1.316666667,-78.2,darwin_ecuador_pinas2
+26371,erato,erato notabilis Heliconius,,,,hembra,Mexico ECD TU,1800,1800,m,,,1992,,FLMNH,,Neil Rosser,,-1.316666667,-78.2,darwin_ecuador_pinas2
+26372,erato,erato notabilis Heliconius,,,,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26373,erato,erato notabilis Heliconius,,,,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26374,erato,erato notabilis Heliconius,,,,macho,Pitirishca ECD PA,800,800,m,29,10,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26375,erato,erato notabilis Heliconius,,,,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26376,erato,erato notabilis Heliconius,,,,hembra,Llandia Rio ECD PA,1100,1100,m,15,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26377,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+26378,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26379,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 18 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.375261111,-77.94956944,Google Earth
+26380,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26381,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26382,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 25 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26383,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26384,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 25 ECD PA,1000,1000,m,10,10,1997,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26385,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26386,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26387,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 19 ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26388,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Canelos rio Bo ECU PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+26389,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+26390,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,15,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26391,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26392,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,17,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26393,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,13,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26394,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26395,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,13,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26396,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, C.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26397,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Vel�stegui, D.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26398,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1100,1100,m,10,2,1992,"Buche, M.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26399,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 19 ECD PA,1100,1100,m,14,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26400,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+26401,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Llandia Rio ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26402,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 31 ECD PA,,,m,,8,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26403,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 19 ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26404,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 19 ECD PA,1100,1100,m,15,2,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26405,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26406,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+26407,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Bobonaza Rio ECD PA,900,900,m,28,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+26408,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Bobonaza Rio ECD PA,900,900,m,22,9,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+26409,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26410,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26411,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26412,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26413,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26414,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26415,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,4,1,1990,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26416,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26417,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,26,5,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26418,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26419,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,2,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26420,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,18,11,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26421,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 25 ECD PA,1100,1100,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.328333333,-77.93333333,Map
+26422,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26423,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Tena rd km 19 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26424,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,10,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26425,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,15,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26426,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26427,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Bobonaza Rio ECD PA,,,m,24,6,1985,,FLMNH,,Neil Rosser,,-1.45525,-77.83318333,Google Earth
+26428,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,30,7,1991,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26429,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26430,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,18,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26431,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Canelos rio Bo ECU PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+26432,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,28,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26433,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Canelos rio Bo ECU PA,,,m,,5,1995,,FLMNH,,Neil Rosser,,-1.583333333,-77.75,Brown
+26434,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,800,800,m,12,6,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26435,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Macas km15-30 ECD PA,,,m,,,1992,,FLMNH,05-Jun,Neil Rosser,,-1.66415,-78.00938889,Google Earth
+26436,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,1000,1000,m,,,,Vel�stegui.,FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26437,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Pitirishca ECD PA,1000,1000,m,,12,1991,,FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26438,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pitirishca ECD PA,1000,1000,m,2,1,1990,"Buche, M.",FLMNH,,Neil Rosser,,-1.805,-77.82083333,Map
+26439,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26440,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26441,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jorge ECD PA,,,m,15,4,1991,,FLMNH,,Neil Rosser,,,,unknown
+26442,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jorge ECD PA,,,m,19,4,1991,,FLMNH,,Neil Rosser,,,,unknown
+26443,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Latas ECD NA,,,m,17,7,1988,,FLMNH,,Neil Rosser,,-1.033333333,-77.73333333,Geonames
+26444,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo ECD PA,,,m,,,1990,,FLMNH,,Neil Rosser,,-1.466666667,-77.98333333,Brown
+26445,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Topo ECD TU,1200,1200,m,,6,1994,,FLMNH,,Neil Rosser,,-1.416666667,-78.16666667,Brown
+26446,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26447,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Latas ECD NA,,,m,7,8,1992,,FLMNH,,Neil Rosser,,-1.033333333,-77.73333333,Geonames
+26448,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Latas ECD NA,,,m,31,1,1993,,FLMNH,,Neil Rosser,,-1.033333333,-77.73333333,Geonames
+26449,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,18,8,1988,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26450,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Llandia Rio ECD PA,900,900,m,6,10,1995,"Neild, A.",FLMNH,,Neil Rosser,,-1.328333333,-77.93333333,Map
+26451,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,10,6,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26452,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26453,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Diez de Agosto ECD PA,,,m,26,2,1991,,FLMNH,,Neil Rosser,,-1.45,-77.9,Geonames
+26454,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Jose ECD NA,600,600,m,4,3,1991,,FLMNH,,Neil Rosser,,-0.5,-77.28333333,Geonames
+26455,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26456,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26457,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,8,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26458,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26459,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26460,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26461,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26462,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 31 ECD PA,,,m,,11,1995,,FLMNH,,Neil Rosser,,-1.316666667,-77.9,Map
+26463,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,8,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26464,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26465,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puyo - Macas km 1 ECD PA,,,m,30,3,1993,,FLMNH,,Neil Rosser,,-1.495947222,-78.02071111,Google Earth
+26466,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26467,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26468,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,7,1995,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26469,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26470,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,El Capricho ECD NA,900,900,m,15,11,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.186666667,-77.74666667,Map
+26471,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Francisco ECD TU,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.408523,-78.259556,Google Earth + Map from Neuk
+26472,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26473,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Tena ECD NA,,,m,,4,1995,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26474,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26475,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Tena ECD NA,,,m,,,1990,,FLMNH,,Neil Rosser,,-0.983333333,-77.81666667,www.calle.com
+26476,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26477,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26478,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,5,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26479,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Puerto Misahualli ECD NA,500,500,m,,,1990,,FLMNH,,Neil Rosser,,-1.033333333,-77.66666667,www.calle.com
+26480,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Pano ECD NA,,,m,22,10,1992,,FLMNH,,Neil Rosser,,-1.033333333,-77.86666667,Brown
+26481,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Puyo - Tena rd km 19 ECD PA,,,m,,8,1992,,FLMNH,,Neil Rosser,,-1.370394444,-77.94076111,Google Earth
+26482,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,Apuya ECD NA,,,m,13,3,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+26483,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,macho,San Carlo Finca ECD NA,,,m,25,10,1996,"Neild, A.",FLMNH,,Neil Rosser,,-1.0875,-77.77833333,Map
+26484,erato,erato notabilis Heliconius,,,notabilis x n. subsp. EC,hembra,Apuya ECD NA,,,m,4,5,1991,,FLMNH,,Neil Rosser,,-1.105,-77.77833333,Map
+33009,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33010,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33011,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33012,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33013,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33014,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33015,erato,erato notabilis Heliconius,,,,unknown,Puyo Rio ECD PA,,,m,,,,,Brower,,NEIL ROSSER,,-1.466666667,-77.98333333,Brown
+33018,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33019,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33020,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33021,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33022,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33023,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33024,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33025,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33026,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33027,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+33028,erato,erato notabilis Heliconius,,,,unknown,"Rio Sucio, Puyo, Pastaza Prov. ECD",,,m,,,,,Brower,,NEIL ROSSER,,-1.488202778,-78.002175,Geonames
+34072,erato,erato notabilis Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,20,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34073,erato,erato notabilis Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34074,erato,erato notabilis Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34075,erato,erato notabilis Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34076,erato,erato notabilis Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,13,12,2007,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34077,erato,erato notabilis Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,16,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34078,erato,erato notabilis Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,16,2,2002,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34079,erato,erato notabilis Heliconius,,,,hembra,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34080,erato,erato notabilis Heliconius,,,,macho,"El Topo, Baños - Puyo road ECD TU",1300,1300,m,,,,,Jiggins,,NEIL ROSSER,,-1.464,-78.1851,Jiggins
+34081,erato,erato notabilis Heliconius,,,,hembra,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+34082,erato,erato notabilis Heliconius,,,,hembra,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+34083,erato,erato notabilis Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+34084,erato,erato notabilis Heliconius,,,,macho,"Rio Anso, near Mera ECD",,,m,14,12,2006,,Jiggins,,NEIL ROSSER,,-1.466666667,-78.13333333,Jiggins
+34085,erato,erato notabilis Heliconius,,,,hembra,Shell ECD PA,,,m,12,12,2006,,Jiggins,,NEIL ROSSER,,-1.5,-78.04333333,www.calle.com
+36969,erato,erato notabilis Heliconius,,,,desconocido,1-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.75,-77.75,KB 1979
+36979,erato,erato notabilis Heliconius,,,,desconocido,2-78b S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.75,-77.75,KB 1979
+37357,erato,erato notabilis Heliconius,,,,desconocido,1-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-78.25,KB 1979
+37372,erato,erato notabilis Heliconius,,,,desconocido,2-78c S,,,m,,,,,KB 1979,,NEIL ROSSER,,-2.25,-78.25,KB 1979
+37848,erato,erato notabilis Heliconius,,,,desconocido,1-78d S,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-77.75,KB 1979
+55051,erato,erato notabilis Heliconius,,,,macho,"Parque Nacional Sangay: Rio San Luis, la Lorena, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,19_jan �,NEIL ROSSER,,-1.45,-78.13333333,Parque Nacional Sangay Website
+55060,erato,erato notabilis Heliconius,,,,macho,"Parque Nacional Sangay: Mera, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,22_nov �,NEIL ROSSER,,-1.45,-78.11666667,Parque Nacional Sangay Website
+55069,erato,erato notabilis Heliconius,,,,macho,"Parque Nacional Sangay: Rio San Luis, la Lorena, Morona Santiago",,,m,,,,,Parque Nacional Sangay ZZZ,23_fev,NEIL ROSSER,,-1.45,-78.13333333,Parque Nacional Sangay Website
+55079,erato,erato notabilis Heliconius,,,,macho,"Parque Nacional Sangay: Topo, Rio Negro, Tungurahua",,,m,,,,,Parque Nacional Sangay ZZZ,24_nov �,NEIL ROSSER,,-1.4,-78.18333333,Parque Nacional Sangay Website
+55983,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55984,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55985,erato,erato notabilis Heliconius,,,,,R�o Topo Ecuador Tungurahua,1200,1300,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.416666667,-78.16666667,TABD record
+55986,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55987,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55988,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55989,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55990,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55991,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55992,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55993,erato,erato notabilis Heliconius,,,,,Orito Yacu Rio ECO NA,0,0,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-0.498808333,-77.87440556,"Zool J Linn Soc, Volume 146 Issue 4 Page 453"
+55994,erato,erato notabilis Heliconius,,,,,Shell Ecuador Pastaza,1050,1050,m,,,,,MECN TABD ZZZ,,NEIL ROSSER,,-1.494444444,-78.06111111,google earth

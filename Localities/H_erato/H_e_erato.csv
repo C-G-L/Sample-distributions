@@ -1,0 +1,330 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+1062,erato,erato erato Heliconius,,,,desconocido,Karisparu GUY POT,,,m,,,,,KB 1979,,NEIL ROSSER,,4.916666667,-59.45,source not recorded
+1473,erato,erato erato Heliconius,,,,descononcido,"Maroni, 100mi up FRG",,,m,,,,,KB 1979,,NEIL ROSSER,,4.542886111,-54.43608889,Google Earth
+1483,erato,erato erato Heliconius,,,,descononcido,Maroni river 60 mi up FRG LM,,,m,,,,,KB 1979,,NEIL ROSSER,,4.807911111,-54.46801389,Google Earth
+6512,erato,erato erato Heliconius,,,f. andremona,macho,Bas Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.25,-54.25,Brown 1979
+6513,erato,erato erato Heliconius,,,f. andremona,macho,Nouveau Chantier FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.55,-53.93333333,Brown
+6514,erato,erato erato Heliconius,,,f. andremona,macho,St Jean du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.4,-54.08333333,Brown
+6515,erato,erato erato Heliconius,,,f. andremona,macho,St Laurent du Maroni FRG LM,,,m,,,,,BMNH,,NEIL ROSSER,,5.5,-54.03333333,Brown
+6516,erato,erato erato Heliconius,,,f. andremona,macho,Godebert - Maroni FRG,,,m,,,,,BMNH,,NEIL ROSSER,,5.516666667,-53.96666667,Geonames
+6517,erato,erato erato Heliconius,,,f. uldarica,hembra,Courdonville FRG,,,m,,,,,BMNH,,NEIL ROSSER,,5.016666667,-52.65,Google Earth
+6526,erato,erato erato Heliconius,,,f. oberthuri,macho,Berg - en - Dal SUR BR,,,m,,4,1982,"Ellacombe, G.W.",BMNH,,NEIL ROSSER,,5.15,-55.06666667,Brown
+6529,erato,erato erato Heliconius,ST,"fuliginosa Heliconius erato (Heliconius, H.H. Riffarth 1907)",,macho,Berg - en - Dal SUR BR,,,m,,,,Michaelis,BMNH,,NEIL ROSSER,,5.15,-55.06666667,Brown
+6530,erato,erato erato Heliconius,,,form?,macho,Saramacca River SUR BR,,,m,,,,Dyer,BMNH,,NEIL ROSSER,,5.25,-55.25,Brown 1979
+6531,erato,erato erato Heliconius,,,f. erato,macho,Berg - en - Dal SUR BR,,,m,,5,1892,"Ellacombe, G.W.",BMNH,,NEIL ROSSER,,5.15,-55.06666667,Brown
+6532,erato,erato erato Heliconius,,,f. erato,macho,Aroewarwa Creek SUR MW,,,m,,2,1905,"Klages, S.M.",BMNH,,NEIL ROSSER,,5.233333333,-54.31666667,Brown
+6548,erato,erato erato Heliconius,,,f. latiflava,macho,St. Marguent? FRG,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+6549,erato,erato erato Heliconius,,,f. tellus,macho,Roches de Kourou FRG,,,m,,10,,,BMNH,,NEIL ROSSER,,5.109236111,-52.60560278,Geonames + adjusted using Google Earth
+6550,erato,erato erato Heliconius,HT,"tellus Heliconius erato (Heliconia, C. Oberth�r 1902)",f. tellus,macho,Cayenne FRG CY,,,m,,,,,BMNH,,NEIL ROSSER,,4.933333333,-52.33333333,Brown
+6594,erato,erato erato Heliconius,,,f. andremona,macho,Santarem BRA PA,,,m,,1,1878,"Mathan, M. de",BMNH,,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+14246,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,St Jean du Maroni FRG GY,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.5,-54.03333333,Brown
+14247,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.5,-54.03333333,Brown
+14248,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,Cayenne FRG CY,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.933333333,-52.33333333,Brown
+14249,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,Nouveau Chantier FRG GU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.55,-53.93333333,Brown
+14250,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,Roches de Kourou FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.109236111,-52.60560278,Geonames + adjusted using Google Earth
+14251,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,Orapu River FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.65,-52.33333333,Geonames
+14254,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,Berg - en - Dal SUR BR,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.15,-55.06666667,Brown
+14255,erato,erato erato Heliconius,,,HYBRIDS erato x hydara. Subsp NA - amended 30.11.09,unknown,Guatimala FRG CY,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.15,-52.63333333,Brown
+14256,erato,erato erato Heliconius,,,,unknown,St Laurent du Maroni FRG LM,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.5,-54.03333333,Brown
+14257,erato,erato erato Heliconius,,,,unknown,St Jean du Maroni FRG GY,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.5,-54.03333333,Brown
+14258,erato,erato erato Heliconius,,,,unknown,Berg - en - Dal SUR BR,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.15,-55.06666667,Brown
+16144,erato,erato erato Heliconius,,,"hybrid forms andremona, erythrea etc",unknown,Santarem BRA PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-2.433333333,-54.71666667,Brown
+16145,erato,erato erato Heliconius,,,"hybrid forms andremona, erythrea etc",unknown,"Raio, Santarem BRA PA",,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-2.443055556,-54.70833333,Geonames
+16146,erato,erato erato Heliconius,,,"hybrid forms andremona, erythrea etc",unknown,Arapiuns Rio BRA PA,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,-2.3,-55,NIMA
+16398,erato,erato erato Heliconius,,,,unknown,Army Engineer Camp BRA PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+16477,erato,erato erato Heliconius,,,,unknown,Cacao 25km se FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.407347222,-52.31717222,Google Earth
+16478,erato,erato erato Heliconius,,,,unknown,"Cacao 5km from, on road to Cayenne FRG",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.588363889,-52.43622778,Google Earth
+16479,erato,erato erato Heliconius,,,,unknown,Cacao FRG CY,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.583333333,-52.46666667,Label
+16480,erato,erato erato Heliconius,,,,unknown,Cacao 20km N FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.750675,-52.46368333,Google Earth
+16481,erato,erato erato Heliconius,,,,unknown,Mariposula FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.633333333,-54.03333333,Geonames
+16482,erato,erato erato Heliconius,,,,unknown,Cacao 10km NE FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.638144444,-52.41194444,Google Earth
+16483,erato,erato erato Heliconius,,,,unknown,River Compte Bridg on rt 2 FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.659638889,-52.35480833,Google Earth
+16484,erato,erato erato Heliconius,,,,unknown,Cacao 25km se FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.407347222,-52.31717222,Google Earth
+16495,erato,erato erato Heliconius,,,,unknown,Kaw mountains 46-62km E of Matoury FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.55,-52.16666667,Geonames
+16497,erato,erato erato Heliconius,,,ab constricta,unknown,Saramacca River SUR,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.25,-55.25,Brown 1979
+16514,erato,erato erato Heliconius,,,Hybrid form udalrica,unknown,Bronsweg SUR BR,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,5.016666667,-55.16666667,Geonames
+16516,erato,erato erato Heliconius,,,Hybrid form udalrica,unknown,Kaw mountains FRG,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.55,-52.16666667,Geonames
+17059,erato,erato erato Heliconius,,,,unknown,Cayenne FRG CY,,,m,,,,,NHM Accesions - draws 9062,,NEIL ROSSER,,4.933333333,-52.33333333,Brown
+25971,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25972,erato,erato erato Heliconius,,,,hembra,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25973,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25974,erato,erato erato Heliconius,,,,hembra,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25975,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25976,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25977,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25978,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,24,7,1995,"Jongerling, E.",FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25979,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,26,7,1984,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+25980,erato,erato erato Heliconius,,,,hembra,St Jean du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.4,-54.08333333,Brown
+25981,erato,erato erato Heliconius,,,,hembra,Elysee FRI SL,,,m,23,12,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+25982,erato,erato erato Heliconius,,,,macho,Elysee FRI SL,,,m,30,12,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+25983,erato,erato erato Heliconius,,,,hembra,Elysee FRI SL,,,m,23,12,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+25984,erato,erato erato Heliconius,,,,macho,Placer Tresor FRG CA,,,m,13,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+25985,erato,erato erato Heliconius,,,,hembra,Placer Tresor FRG CA,,,m,11,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+25986,erato,erato erato Heliconius,,,,macho,Placer Tresor FRG CA,,,m,9,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+25987,erato,erato erato Heliconius,,,,macho,Placer Tresor FRG CA,,,m,11,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+25988,erato,erato erato Heliconius,,,,macho,Placer Tresor FRG CA,,,m,11,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+25989,erato,erato erato Heliconius,,,,macho,Placer Tresor FRG CA,,,m,11,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+25990,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,4,6,1988,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25991,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,16,8,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25992,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,12,1,1992,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25993,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,,9,1990,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25994,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,13,7,1992,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25995,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,,7,1984,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25996,erato,erato erato Heliconius,,,,macho,Cacao FRG CY,,,m,16,9,1992,,FLMNH,,Neil Rosser,,4.583333333,-52.46666667,Label
+25997,erato,erato erato Heliconius,,,,macho,Boulanger FRG CA,,,m,16,9,1992,,FLMNH,,Neil Rosser,,4.566666667,-52.41666667,Geonames
+25998,erato,erato erato Heliconius,,,,macho,Boulanger FRG CA,,,m,16,9,1992,,FLMNH,,Neil Rosser,,4.566666667,-52.41666667,Geonames
+25999,erato,erato erato Heliconius,,,,macho,Montsinery FRG CY,,,m,7,9,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.9,-52.5,Geonames
+26000,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26001,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26002,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26003,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26004,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26005,erato,erato erato Heliconius,,,erato x hydara,hembra,Elysee FRI SL,,,m,23,12,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26006,erato,erato erato Heliconius,,,erato x hydara,hembra,St Laurent du Maroni FRG LM,,,m,,,1935,"Lambert, P.",FLMNH,,Neil Rosser,,5.5,-54.03333333,Brown
+26007,erato,erato erato Heliconius,,,erato x hydara,hembra,Kourou FRG CY,,,m,,11,1991,"Bleuzen, P.",FLMNH,,Neil Rosser,,5.15,-52.65,Geonames
+26008,erato,erato erato Heliconius,,,erato x hydara,macho,Elysee FRI SL,,,m,23,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26009,erato,erato erato Heliconius,,,erato x hydara,macho,Elysee FRI SL,,,m,23,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26010,erato,erato erato Heliconius,,,erato x hydara,hembra,Rio Inini FRG LM,,,m,15,1,1980,,FLMNH,,Neil Rosser,,3.75,-53.75,Brown 1979
+26011,erato,erato erato Heliconius,,,erato x hydara,macho,Piste de Kaw km 27 FRG CA,,,m,2,8,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.568827778,-52.21055556,Google Earth
+26012,erato,erato erato Heliconius,,,erato x hydara,macho,Kabalebo Zandkreek SUR SI,,,m,17,8,1978,,FLMNH,,Neil Rosser,,4.591325,-57.39451944,Google Earth
+26013,erato,erato erato Heliconius,,,erato x hydara,macho,Kabalebo Dam SUR NI,,,m,17,8,1973,,FLMNH,,Neil Rosser,,4.591325,-57.39451944,Google Earth
+26014,erato,erato erato Heliconius,,,erato x hydara,macho,Lelydorp SUR WA,,,m,,9,1993,,FLMNH,,Neil Rosser,,5.7,-55.23333333,Geonames
+26015,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26016,erato,erato erato Heliconius,,,erato x hydara,macho,Anavera Dam SUR NI,,,m,21,8,1973,,FLMNH,,Neil Rosser,,4.591325,-57.39451944,Google Earth
+26017,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26018,erato,erato erato Heliconius,,,erato x hydara,hembra,Brownsberg SUR BRO,,,m,23,7,1995,"Jongerling, E.",FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26019,erato,erato erato Heliconius,,,erato x hydara,hembra,Montsinery km8 FRG CY,,,m,,11,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.803708333,-52.47717222,Google Earth
+26872,erato,erato erato Heliconius,,,erato x hydara,macho,St Laurent du Maroni FRG LM,,,m,,,1935,,FLMNH,,Neil Rosser,,5.5,-54.03333333,Brown
+26873,erato,erato erato Heliconius,,,erato x hydara,hembra,St Laurent du Maroni FRG LM,,,m,,,1935,,FLMNH,,Neil Rosser,,5.5,-54.03333333,Brown
+26874,erato,erato erato Heliconius,,,erato x hydara,macho,Nouveau Chantier FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.55,-53.93333333,Brown
+26875,erato,erato erato Heliconius,,,erato x hydara,hembra,Godebert FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.516666667,-53.96666667,Geonames
+26876,erato,erato erato Heliconius,,,erato x hydara,macho,Godebert FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.516666667,-53.96666667,Geonames
+26877,erato,erato erato Heliconius,,,erato x hydara,macho,St Jean du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.4,-54.08333333,Brown
+26878,erato,erato erato Heliconius,,,erato x hydara,hembra,St Jean du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.4,-54.08333333,Brown
+26879,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26880,erato,erato erato Heliconius,,,erato x hydara,macho,Godebert FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.516666667,-53.96666667,Geonames
+26881,erato,erato erato Heliconius,,,erato x hydara,macho,Guatimala FRG CY,,,m,,,,,FLMNH,,Neil Rosser,,5.15,-52.63333333,Brown
+26882,erato,erato erato Heliconius,,,erato x hydara,macho,Pariacabo FRG,,,m,,,,,FLMNH,,Neil Rosser,,5.15,-52.68333333,Geonames
+26883,erato,erato erato Heliconius,,,erato x hydara,macho,St Jean du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.4,-54.08333333,Brown
+26884,erato,erato erato Heliconius,,,erato x hydara,macho,Nouveau Chantier FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.55,-53.93333333,Brown
+26885,erato,erato erato Heliconius,,,erato x hydara,macho,Pariacabo FRG,,,m,,,,,FLMNH,,Neil Rosser,,5.15,-52.68333333,Geonames
+26886,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26887,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26888,erato,erato erato Heliconius,,,erato x hydara,macho,Nouveau Chantier FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.55,-53.93333333,Brown
+26889,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26890,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery km8 FRG CY,,,m,28,8,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.803708333,-52.47717222,Google Earth
+26891,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery km8 FRG CY,,,m,8,9,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.803708333,-52.47717222,Google Earth
+26892,erato,erato erato Heliconius,,,erato x hydara,macho,Kaw FRG CY,,,m,,1,1989,,FLMNH,,Neil Rosser,,4.483333333,-52.03333333,Geonames
+26893,erato,erato erato Heliconius,,,erato x hydara,macho,Fourgassie FRG CY,,,m,2,8,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.616666667,-52.31666667,Geonames
+26894,erato,erato erato Heliconius,,,erato x hydara,macho,Elysee FRI SL,,,m,23,12,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26895,erato,erato erato Heliconius,,,erato x hydara,macho,Kourou FRG CY,,,m,,2,1986,,FLMNH,,Neil Rosser,,5.15,-52.65,Geonames
+26896,erato,erato erato Heliconius,,,erato x hydara,macho,St Jean du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.4,-54.08333333,Brown
+26897,erato,erato erato Heliconius,,,erato x hydara,macho,St Laurent du Maroni FRG LM,,,m,,,1935,,FLMNH,,Neil Rosser,,5.5,-54.03333333,Brown
+26898,erato,erato erato Heliconius,,,erato x hydara,macho,Kourou FRG CY,,,m,,9,1990,"Bleuzen, P.",FLMNH,,Neil Rosser,,5.15,-52.65,Geonames
+26899,erato,erato erato Heliconius,,,erato x hydara,macho,Elysee FRI SL,,,m,22,12,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26900,erato,erato erato Heliconius,,,erato x hydara,macho,Nouveau Chantier FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.55,-53.93333333,Brown
+26901,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26902,erato,erato erato Heliconius,,,erato x hydara,macho,Guatimala FRG CY,,,m,,,,,FLMNH,,Neil Rosser,,5.15,-52.63333333,Brown
+26903,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26904,erato,erato erato Heliconius,,,erato x hydara,macho,Guatimala FRG CY,,,m,,,,,FLMNH,,Neil Rosser,,5.15,-52.63333333,Brown
+26905,erato,erato erato Heliconius,,,erato x hydara,macho,Piste de Kaw km 26 FRG CY,,,m,9,8,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.568827778,-52.21055556,Google Earth
+26906,erato,erato erato Heliconius,,,erato x hydara,hembra,Kaw FRG CY,,,m,,8,1990,,FLMNH,,Neil Rosser,,4.483333333,-52.03333333,Geonames
+26907,erato,erato erato Heliconius,,,erato x hydara,macho,Piste de Kaw km 6 FRG CA,,,m,15,6,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.568827778,-52.21055556,Google Earth
+26908,erato,erato erato Heliconius,,,erato x hydara,macho,Kaw FRG CY,,,m,,9,1991,"Bleuzen, P.",FLMNH,,Neil Rosser,,4.483333333,-52.03333333,Geonames
+26909,erato,erato erato Heliconius,,,erato x hydara,hembra,St Jean du Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.4,-54.08333333,Brown
+26910,erato,erato erato Heliconius,,,erato x hydara,macho,Les Mornes de Macouria FRG,,,m,13,11,1988,"Juriens, A.",FLMNH,,Neil Rosser,,4.983333333,-52.48333333,Geonames
+26911,erato,erato erato Heliconius,,,erato x hydara,macho,Kourou FRG CY,,,m,10,12,1988,,FLMNH,,Neil Rosser,,5.15,-52.65,Geonames
+26912,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26913,erato,erato erato Heliconius,,,erato x hydara,macho,Elysee FRI SL,,,m,1,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26914,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26915,erato,erato erato Heliconius,,,erato x hydara,macho,Nouveau Chantier FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.55,-53.93333333,Brown
+26916,erato,erato erato Heliconius,,,erato x hydara,macho,Bas Maroni FRG LM,,,m,,,,,FLMNH,,Neil Rosser,,5.25,-54.25,Brown 1979
+26917,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery FRG CY,,,m,14,10,1995,"Brevignon, C.",FLMNH,,Neil Rosser,,4.9,-52.5,Geonames
+26918,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery FRG CY,,,m,29,10,1992,"Brevignon, C.",FLMNH,,Neil Rosser,,4.9,-52.5,Geonames
+26919,erato,erato erato Heliconius,,,erato x hydara,macho,Piste de Kaw km 27 FRG CA,,,m,2,8,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.568827778,-52.21055556,Google Earth
+26920,erato,erato erato Heliconius,,,erato x hydara,macho,Piste de Kaw km 6 FRG CA,,,m,24,6,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.568827778,-52.21055556,Google Earth
+26921,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery FRG CY,,,m,4,4,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.9,-52.5,Geonames
+26922,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery FRG CY,,,m,4,3,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.9,-52.5,Geonames
+26923,erato,erato erato Heliconius,,,erato x hydara,macho,Kourou FRG CY,,,m,10,12,1988,,FLMNH,,Neil Rosser,,5.15,-52.65,Geonames
+26924,erato,erato erato Heliconius,,,erato x hydara,hembra,Placer Tresor FRG CA,,,m,16,6,1991,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+26925,erato,erato erato Heliconius,,,erato x hydara,macho,Brownsberg SUR BRO,,,m,27,7,1996,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26926,erato,erato erato Heliconius,,,erato x hydara,hembra,Montagne des Singes FRG CY,,,m,,9,1990,,FLMNH,,Neil Rosser,,5.066666667,-52.71666667,Geonames
+26927,erato,erato erato Heliconius,,,erato x hydara,macho,Montsinery km8 FRG CY,,,m,25,10,1995,"Brevignon, C.",FLMNH,,Neil Rosser,,4.803708333,-52.47717222,Google Earth
+26928,erato,erato erato Heliconius,,,erato x hydara,macho,Piste de Kaw km 6 FRG CA,,,m,15,6,1996,"Brevignon, C.",FLMNH,,Neil Rosser,,4.568827778,-52.21055556,Google Earth
+26929,erato,erato erato Heliconius,,,erato x hydara,macho,Elysee FRI SL,,,m,,9,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26930,erato,erato erato Heliconius,,,erato x hydara,hembra,Montagne des Singes FRG CY,,,m,16,11,1989,,FLMNH,,Neil Rosser,,5.066666667,-52.71666667,Geonames
+26931,erato,erato erato Heliconius,,,erato x hydara,macho,Apoera SUR SI,,,m,,9,1993,,FLMNH,,Neil Rosser,,5.2,-57.16666667,Geonames
+26932,erato,erato erato Heliconius,,,erato x hydara,hembra,Apoera SUR SI,,,m,,9,1993,,FLMNH,,Neil Rosser,,5.2,-57.16666667,Geonames
+26933,erato,erato erato Heliconius,,,erato x hydara,macho,Essequibo River GUY Ess,,,m,,5,1997,,FLMNH,,Neil Rosser,,6.25,-58.75,Brown 1979
+26934,erato,erato erato Heliconius,,,erato x hydara,macho,Essequibo River GUY Ess,,,m,,5,1997,,FLMNH,,Neil Rosser,,6.25,-58.75,Brown 1979
+26935,erato,erato erato Heliconius,,,erato x hydara,macho,Essequibo River GUY Ess,,,m,,5,1997,,FLMNH,,Neil Rosser,,6.25,-58.75,Brown 1979
+26942,erato,erato erato Heliconius,,,,hembra,Apoera SUR SI,,,m,,9,1993,,FLMNH,,Neil Rosser,,5.2,-57.16666667,Geonames
+26943,erato,erato erato Heliconius,,,,macho,Elysee FRI SL,,,m,1,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26944,erato,erato erato Heliconius,,,,macho,Brownsberg SUR BRO,,,m,26,7,1984,,FLMNH,,Neil Rosser,,4.883333333,-55.21666667,Geonames
+26945,erato,erato erato Heliconius,,,,macho,Elysee FRI SL,,,m,23,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26946,erato,erato erato Heliconius,,,,hembra,Kourou FRG CY,,,m,10,12,1988,,FLMNH,,Neil Rosser,,5.15,-52.65,Geonames
+26947,erato,erato erato Heliconius,,,,macho,Elysee FRI SL,,,m,22,12,1988,,FLMNH,,Neil Rosser,,4.75,-54.05,Geonames
+26948,erato,erato erato Heliconius,,,,hembra,Placer Tresor FRG CA,,,m,20,11,1988,,FLMNH,,Neil Rosser,,4.583333333,-52.28333333,Geonames
+29123,erato,erato erato Heliconius,,,,descononcido,Utu BRA AP,,,m,,,,,KB 1979,,NEIL ROSSER,,2.45,-51.4,KS Brown Jr - 1980
+29154,erato,erato erato Heliconius,,,,descononcido,Saul FRG IN,,,m,,,,,KB 1979,,NEIL ROSSER,,3.616666667,-53.2,Geonames
+29166,erato,erato erato Heliconius,,,,descononcido,Nassaugebergte SUR MA,,,m,,,,,KB 1979,,NEIL ROSSER,,4.8,-54.6,Geonames
+29267,erato,erato erato Heliconius,,,,descononcido,Monte Dourado,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.866666667,-52.52833333,Geonames
+29269,erato,erato erato Heliconius,,,,descononcido,Preto-Rio-Mazagao BRA AP,,,m,,,,,KB 1979,,NEIL ROSSER,,-0.115,-51.28944444,Geonames
+32408,erato,erato erato Heliconius,,,,unknown,"CD 5, PK 8 FRG",,,m,,,,,Brower,,NEIL ROSSER,,4.803708333,-52.47717222,Google Earth
+32460,erato,erato erato Heliconius,,,,unknown,Devez FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.516666667,-52.43333333,Geonames
+32461,erato,erato erato Heliconius,,,,unknown,Devez FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.516666667,-52.43333333,Geonames
+32462,erato,erato erato Heliconius,,,,unknown,Devez FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.516666667,-52.43333333,Geonames
+32545,erato,erato erato Heliconius,,,,unknown,Fourgassi� FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.616666667,-52.31666667,Geonames
+32549,erato,erato erato Heliconius,,,,unknown,Fourgassi� FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.616666667,-52.31666667,Geonames
+32654,erato,erato erato Heliconius,,,,unknown,Kaw FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.483333333,-52.03333333,Geonames
+32657,erato,erato erato Heliconius,,,,unknown,Kaw FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.483333333,-52.03333333,Geonames
+32664,erato,erato erato Heliconius,,,,unknown,Km 14 on D8 FRG,,,m,,,,,Brower,,NEIL ROSSER,,5.590016667,-53.62351389,Google Earth
+32876,erato,erato erato Heliconius,,,,unknown,Piste Coralie FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.510080556,-52.39461667,Geonames
+32877,erato,erato erato Heliconius,,,,unknown,Piste Coralie FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.510080556,-52.39461667,Geonames
+32879,erato,erato erato Heliconius,,,,unknown,Piste Inini FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.8267,-52.50103611,Geonames
+32880,erato,erato erato Heliconius,,,,unknown,Piste Inini FRG,,,m,,,,,Brower,,NEIL ROSSER,,4.8267,-52.50103611,Geonames
+32883,erato,erato erato Heliconius,,,,unknown,Plateau des Cascades FRG,,,m,,,,,Brower,,NEIL ROSSER,,5.333333333,-54.1,Geonames
+32884,erato,erato erato Heliconius,,,,unknown,Plateau des Cascades FRG,,,m,,,,,Brower,,NEIL ROSSER,,5.333333333,-54.1,Geonames
+32885,erato,erato erato Heliconius,,,,unknown,Plateau des Cascades FRG,,,m,,,,,Brower,,NEIL ROSSER,,5.333333333,-54.1,Geonames
+32886,erato,erato erato Heliconius,,,,unknown,Plateau des Cascades FRG,,,m,,,,,Brower,,NEIL ROSSER,,5.333333333,-54.1,Geonames
+33055,erato,erato erato Heliconius,,,,unknown,"Rte. N2, pk 57 FRG",,,m,,,,,Brower,,NEIL ROSSER,,4.539591,-52.379796,Google Earth
+33056,erato,erato erato Heliconius,,,,unknown,"Rte. N2, pk 57 FRG",,,m,,,,,Brower,,NEIL ROSSER,,4.539591,-52.379796,Google Earth
+33087,erato,erato erato Heliconius,,,,unknown,St. Laurent du Maroni FRG,,,m,,,,,Brower,,NEIL ROSSER,,5.5,-54.03333333,Geonames
+33854,erato,erato erato Heliconius,,,,hembra,"Cacao - Cayenne, 9.9km, FRG FRG",,,m,21,5,1998,,Jiggins,,NEIL ROSSER,,4.563716667,-52.41770278,Google Earth
+33855,erato,erato erato Heliconius,,,,macho,"Cacao - Cayenne, 9.9km, FRG FRG",,,m,21,5,1998,,Jiggins,,NEIL ROSSER,,4.563716667,-52.41770278,Google Earth
+33856,erato,erato erato Heliconius,,,,macho,"Cacao - Cayenne, 9.9km, FRG FRG",,,m,21,5,1998,,Jiggins,,NEIL ROSSER,,4.563716667,-52.41770278,Google Earth
+33857,erato,erato erato Heliconius,,,,macho,"Cacao - Cayenne, 9.9km, FRG FRG",,,m,21,5,1998,,Jiggins,,NEIL ROSSER,,4.563716667,-52.41770278,Google Earth
+33858,erato,erato erato Heliconius,,,,hembra,"near Cacao, coll. Phillipe Souleur, FRG FRG",,,m,21,5,1998,,Jiggins,,NEIL ROSSER,,4.583333333,-52.46666667,Falling Rain
+33859,erato,erato erato Heliconius,,,,macho,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,,4.613611111,-52.27916667,CJ
+34394,erato,erato erato Heliconius,,,,descononcido,Jari Rio BRA PA,,,m,,,,,KB 1979,,NEIL ROSSER,,-1.25,-52.25,KB 1979
+34763,erato,erato erato Heliconius,,,,desconocido,5-54a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.25,KB 1979
+34767,erato,erato erato Heliconius,,,,desconocido,5-53a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-53.25,KB 1979
+34771,erato,erato erato Heliconius,,,,desconocido,4-52a N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-52.25,KB 1979
+34785,erato,erato erato Heliconius,,,,desconocido,5-55a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-55.25,KB 1979
+34787,erato,erato erato Heliconius,,,,desconocido,4-55a N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-55.25,KB 1979
+34793,erato,erato erato Heliconius,,,,desconocido,3-54a N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-54.25,KB 1979
+35240,erato,erato erato Heliconius,,,,desconocido,5-54b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-53.75,KB 1979
+35250,erato,erato erato Heliconius,,,,desconocido,5-53b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-52.75,KB 1979
+35251,erato,erato erato Heliconius,,,,desconocido,3-54b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-53.75,KB 1979
+35258,erato,erato erato Heliconius,,,,desconocido,5-55b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-54.75,KB 1979
+35628,erato,erato erato Heliconius,,,,desconocido,2-52b N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-51.75,KB 1979
+35634,erato,erato erato Heliconius,,,,desconocido,0-52b N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.25,-51.75,KB 1979
+35783,erato,erato erato Heliconius,,,,desconocido,6-54c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-54.25,KB 1979
+35799,erato,erato erato Heliconius,,,,desconocido,5-52c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-52.25,KB 1979
+35805,erato,erato erato Heliconius,,,,desconocido,4-54c N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-54.25,KB 1979
+35816,erato,erato erato Heliconius,,,,desconocido,6-55c N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-55.25,KB 1979
+35818,erato,erato erato Heliconius,,,,desconocido,5-55c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-55.25,KB 1979
+36055,erato,erato erato Heliconius,,,,desconocido,1-52c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-52.25,KB 1979
+36061,erato,erato erato Heliconius,,,,desconocido,1-51c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-51.25,KB 1979
+36188,erato,erato erato Heliconius,,,,desconocido,6-54d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-53.75,KB 1979
+36194,erato,erato erato Heliconius,,,,desconocido,4-54d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-53.75,KB 1979
+36204,erato,erato erato Heliconius,,,,desconocido,4-52d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-51.75,KB 1979
+36213,erato,erato erato Heliconius,,,,desconocido,6-59d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-58.75,KB 1979
+36461,erato,erato erato Heliconius,,,,desconocido,1-52d N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-51.75,KB 1979
+38628,erato,erato erato Heliconius,,,,desconocido,Anapaika SUR MW,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.416666667,-54.02666667,www.calle.com
+38629,erato,erato erato Heliconius,,,,desconocido,Saul FRG IN,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.616666667,-53.2,Geonames
+38630,erato,erato erato Heliconius,,,,desconocido,Serra do Navio BRA AP,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,0.895555556,-52.00222222,Geonames
+38631,erato,erato erato Heliconius,,,,desconocido,Cacao FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,4.583333333,-52.46666667,Label
+38632,erato,erato erato Heliconius,,,"erato x hydara. Subsp not assigned, amended 30.11.09",desconocido,St Georges FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.883333333,-51.81666667,Brown
+38633,erato,erato erato Heliconius,,,"erato x hydara. Subsp not assigned, amended 30.11.09",desconocido,Roura Galion FRG CY,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,4.716666667,-52.33333333,Brown
+51235,erato,erato erato Heliconius,,,hydara x erato,macho,"6.8km towards Degrad Saramaka, FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.082036,-52.693381,Google Earth
+51236,erato,erato erato Heliconius,,,hydara x erato,macho,"6.8km towards Degrad Saramaka, FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.082036,-52.693381,Google Earth
+51237,erato,erato erato Heliconius,,,hydara x erato,macho,"6.8km towards Degrad Saramaka, FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.082036,-52.693381,Google Earth
+51238,erato,erato erato Heliconius,,,hydara x erato,macho,"6.8km towards Degrad Saramaka, FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.082036,-52.693381,Google Earth
+51239,erato,erato erato Heliconius,,,hydara x erato,macho,"6.8km towards Degrad Saramaka, FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.082036,-52.693381,Google Earth
+51240,erato,erato erato Heliconius,,,hydara x erato,hembra,"6.8km towards Degrad Saramaka, FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.082036,-52.693381,Google Earth
+51241,erato,erato erato Heliconius,,,hydara x erato,macho,"between Kourou and Sinnamary, a small side road running towards the space station FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.237777778,-52.97611111,CJ
+51242,erato,erato erato Heliconius,,,hydara x erato,macho,"between Kourou and Sinnamary, a small side road running towards the space station FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.237777778,-52.97611111,CJ
+51243,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51244,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51245,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51246,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51247,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51248,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51249,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51250,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51251,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51252,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51253,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51254,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51255,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51256,erato,erato erato Heliconius,,,hydara x erato,hembra,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51257,erato,erato erato Heliconius,,,hydara x erato,macho,"Camp Caiman, Kaw Mountains, FRG",200,200,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.569722222,-52.21944444,CJ
+51258,erato,erato erato Heliconius,,,hydara x erato,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.423888889,-53.63194444,CJ
+51259,erato,erato erato Heliconius,,,hydara x erato,hembra,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.423888889,-53.63194444,CJ
+51260,erato,erato erato Heliconius,,,hydara x erato,hembra,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.423888889,-53.63194444,CJ
+51261,erato,erato erato Heliconius,,,hydara x erato,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.423888889,-53.63194444,CJ
+51262,erato,erato erato Heliconius,,,hydara x erato,macho,"Crique Yiyi, Kourou - St Laurent FRG FRG",,,m,23,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.423888889,-53.63194444,CJ
+51263,erato,erato erato Heliconius,,,hydara x erato,macho,"Eskol village, FRG FRG",,,m,26,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.716666667,-52.28333333,www.mycologia.org
+51264,erato,erato erato Heliconius,,,hydara x erato,hembra,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51265,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51266,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51267,erato,erato erato Heliconius,,,hydara x erato,hembra,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51268,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51269,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51270,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51271,erato,erato erato Heliconius,,,hydara x erato,hembra,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51272,erato,erato erato Heliconius,,,hydara x erato,hembra,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51273,erato,erato erato Heliconius,,,hydara x erato,hembra,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51274,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51275,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51276,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51277,erato,erato erato Heliconius,,,hydara x erato,hembra,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51278,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51279,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51280,erato,erato erato Heliconius,,,hydara x erato,macho,"Kourou - Cayenne, 5.4km, along road to gun club FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.115833333,-52.64805556,CJ
+51281,erato,erato erato Heliconius,,,hydara x erato,macho,"La Desiree, near Cayenne FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.85,-52.33333333,Travel Journals
+51282,erato,erato erato Heliconius,,,hydara x erato,macho,"La Desiree, near Cayenne FRG FRG",,,m,22,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.85,-52.33333333,Travel Journals
+51283,erato,erato erato Heliconius,,,hydara x erato,macho,"La Desiree, near Cayenne FRG FRG",,,m,22,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.85,-52.33333333,Travel Journals
+51284,erato,erato erato Heliconius,,,hydara x erato,macho,"Mt de Matoury, Cayenne, Reservoir near water treatment plant FRG FRG",,,m,26,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.85,-52.33333333,Falling Rain
+51285,erato,erato erato Heliconius,,,hydara x erato,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51286,erato,erato erato Heliconius,,,hydara x erato,hembra,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51287,erato,erato erato Heliconius,,,hydara x erato,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51288,erato,erato erato Heliconius,,,hydara x erato,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51289,erato,erato erato Heliconius,,,hydara x erato,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51290,erato,erato erato Heliconius,,,hydara x erato,macho,"Pointe Macouria, FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51291,erato,erato erato Heliconius,,,hydara x erato,macho,"Pointe Macouria, FRG FRG",,,m,29,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.913888889,-52.35944444,CJ
+51292,erato,erato erato Heliconius,,,hydara x erato,hembra,Reserve Botanique de Singes FRG,,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.066666667,-52.71666667,Geonames
+51293,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51294,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51295,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51296,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51297,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51298,erato,erato erato Heliconius,,,hydara x erato,hembra,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51299,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51300,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51301,erato,erato erato Heliconius,,,hydara x erato,macho,"Risquetout, near Montsinery FRG FRG",,,m,20,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.943055556,-52.52888889,CJ
+51302,erato,erato erato Heliconius,,,hydara x erato,macho,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.613611111,-52.27916667,CJ
+51303,erato,erato erato Heliconius,,,hydara x erato,macho,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.613611111,-52.27916667,CJ
+51304,erato,erato erato Heliconius,,,hydara x erato,hembra,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.613611111,-52.27916667,CJ
+51305,erato,erato erato Heliconius,,,hydara x erato,macho,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.613611111,-52.27916667,CJ
+51306,erato,erato erato Heliconius,,,hydara x erato,hembra,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.613611111,-52.27916667,CJ
+51307,erato,erato erato Heliconius,,,hydara x erato,hembra,"Roura to Kaw Mountains, 18.3km, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.613611111,-52.27916667,CJ
+51308,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51309,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51310,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51311,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51312,erato,erato erato Heliconius,,,hydara x erato,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51313,erato,erato erato Heliconius,,,hydara x erato,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51314,erato,erato erato Heliconius,,,hydara x erato,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51315,erato,erato erato Heliconius,,,hydara x erato,hembra,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51316,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,28,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51317,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51318,erato,erato erato Heliconius,,,hydara x erato,macho,"Sablance (La Victoire), Route N1, km 19 FRG FRG",,,m,30,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.963333333,-52.42,CJ
+51319,erato,erato erato Heliconius,,,hydara x erato,hembra,"Space station road, at turnoff from Kourou - Sinnamary FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.333888889,-52.915,CJ
+51320,erato,erato erato Heliconius,,,hydara x erato,hembra,"Space station road, at turnoff from Kourou - Sinnamary FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.333888889,-52.915,CJ
+51321,erato,erato erato Heliconius,,,hydara x erato,macho,"Space station road, at turnoff from Kourou - Sinnamary FRG FRG",,,m,27,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.333888889,-52.915,CJ
+51322,erato,erato erato Heliconius,,,hydara x erato,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.46667,-54.01667,Geonames
+51323,erato,erato erato Heliconius,,,hydara x erato,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.46667,-54.01667,Geonames
+51324,erato,erato erato Heliconius,,,hydara x erato,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.46667,-54.01667,Geonames
+51325,erato,erato erato Heliconius,,,hydara x erato,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,24,5,1998,,Jiggins,,NEIL ROSSER,duplicate,5.46667,-54.01667,Geonames
+51326,erato,erato erato Heliconius,,,hydara x erato,macho,"St Maurice, just outside St Laurent on road to Apatou FRG FRG",,,m,,,,,Jiggins,,NEIL ROSSER,duplicate,5.46667,-54.01667,Geonames
+51327,erato,erato erato Heliconius,,,hydara x erato,macho,"Turnoff to Eskol from Roura, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51328,erato,erato erato Heliconius,,,hydara x erato,hembra,"Turnoff to Eskol from Roura, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51329,erato,erato erato Heliconius,,,hydara x erato,macho,"Turnoff to Eskol from Roura, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51330,erato,erato erato Heliconius,,,hydara x erato,hembra,"Turnoff to Eskol from Roura, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51331,erato,erato erato Heliconius,,,hydara x erato,hembra,"Turnoff to Eskol from Roura, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51332,erato,erato erato Heliconius,,,hydara x erato,macho,"Turnoff to Eskol from Roura, FRG FRG",,,m,26,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51333,erato,erato erato Heliconius,,,hydara x erato,hembra,"Turnoff to Eskol from Roura, FRG FRG",,,m,26,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51334,erato,erato erato Heliconius,,,hydara x erato,macho,"Turnoff to Eskol from Roura, FRG FRG",,,m,26,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ
+51335,erato,erato erato Heliconius,,,hydara x erato,hembra,"Turnoff to Eskol from Roura, FRG FRG",,,m,25,5,1998,,Jiggins,,NEIL ROSSER,duplicate,4.7175,-52.33111111,CJ

@@ -1,0 +1,311 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+983,erato,erato cf demophoon Heliconius,,,Appears in KB as erato ca. petiverana Heliconius.,desconocido,El Valle PAN,,,m,,,,,KB 1979,,NEIL ROSSER,,8.6,-80.13333333,Label
+1235,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,Rey Isla del PAN PA,,,m,,,,,KB 1979,,NEIL ROSSER,,8.355436111,-78.90127778,Google Earth
+1299,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,Santa Fe PAN VE,,,m,,,,,KB 1979,,NEIL ROSSER,,8.516666667,-81.08333333,Brown
+1632,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,descononcido,Rincon - Osa - Camino al Mar,,,m,,,,,KB 1979,,NEIL ROSSER,,8.707263889,-83.48579167,Google Earth
+5914,erato,erato cf demophoon Heliconius,,,,macho,Pozo Azul de Pirris CRI SJ,,,m,,8,1927,,BMNH,,NEIL ROSSER,,9.583333333,-84.33333333,Brown
+5916,erato,erato cf demophoon Heliconius,,,,hembra,Caldera CRI PU,250,250,ft,,10,1926,"Hall, A.",BMNH,,NEIL ROSSER,,9.933333333,-84.71666667,Brown
+5924,erato,erato cf demophoon Heliconius,,,,macho,Poas Volcan CRI AL,,,m,,12,,,BMNH,,NEIL ROSSER,,10.18333333,-84.21666667,Brown
+5925,erato,erato cf demophoon Heliconius,,,,macho,Piedras Negras CRI SJ,,,m,,,,,BMNH,,NEIL ROSSER,,9.916666667,-84.31666667,Geonames
+5926,erato,erato cf demophoon Heliconius,,,,hembra,Pozo Azul de Pirris CRI SJ,,,m,,3,1929,,BMNH,,NEIL ROSSER,,9.583333333,-84.33333333,Brown
+5928,erato,erato cf demophoon Heliconius,,,,hembra,Escazu CRI SJ,,,m,,10,1903,,BMNH,,NEIL ROSSER,,9.916666667,-84.13333333,Brown
+5930,erato,erato cf demophoon Heliconius,,,,macho,V de Chiriqui PAN CQ,4000,6000,ft,,,,"Champion, G.C.",BMNH,,NEIL ROSSER,,8.583333333,-82.58333333,Brown
+5931,erato,erato cf demophoon Heliconius,,,,macho,Bugaba PAN CQ,,,m,,,,Arce,BMNH,,NEIL ROSSER,,8.483333333,-82.61666667,Brown
+5932,erato,erato cf demophoon Heliconius,,,,macho,Calobre PAN VE,,,m,,,,Arce,BMNH,,NEIL ROSSER,,8.316666667,-80.85,Brown
+5933,erato,erato cf demophoon Heliconius,,,,macho,Sabanas PAN CZ,,,m,16,6,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.566666667,-80.68333333,Falling Rain
+5934,erato,erato cf demophoon Heliconius,,,,macho,Veraguas PAN VE,,,m,,,,,BMNH,,NEIL ROSSER,,8.866666667,-80.9,www.calle.com
+5935,erato,erato cf demophoon Heliconius,,,,macho,Pedro Miguel PAN CZ,,,m,,,,,BMNH,,NEIL ROSSER,,9.016666667,-79.61666667,Falling Rain
+5936,erato,erato cf demophoon Heliconius,,,,macho,Gatun PAN CN,,,m,21,1,1925,"Bateson, G.",BMNH,,NEIL ROSSER,,9.266666667,-79.91666667,Brown
+5937,erato,erato cf demophoon Heliconius,,,,macho,Taboga Isla PAN PA,,,m,10,9,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.783333333,-79.55,Brown
+5938,erato,erato cf demophoon Heliconius,,,,macho,Balboa PAN PA,,,m,14,6,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.95,-79.56666667,Brown
+5939,erato,erato cf demophoon Heliconius,,,,macho,Rey Isla del PAN PA,,,m,26,6,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.355436111,-78.90127778,Google Earth
+5940,erato,erato cf demophoon Heliconius,,,,macho,Coiba Isla PAN VE,,,m,3,9,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,7.516666667,-81.71666667,Brown
+5941,erato,erato cf demophoon Heliconius,,,,hembra,Chiriqui PAN CQ,,,m,,,,Arce,BMNH,,NEIL ROSSER,,8.383333333,-82.33333333,Brown
+5942,erato,erato cf demophoon Heliconius,,,,hembra,Lion Hill PAN CN,,,m,,,,McLeannan,BMNH,,NEIL ROSSER,,9.233333333,-79.9,Brown
+5943,erato,erato cf demophoon Heliconius,,,,hembra,Colon PAN CN,,,m,,,,,BMNH,,NEIL ROSSER,,9.366666667,-79.9,Brown
+5944,erato,erato cf demophoon Heliconius,,,,hembra,Veraguas PAN VE,,,m,,,,,BMNH,,NEIL ROSSER,,8.866666667,-80.9,www.calle.com
+5945,erato,erato cf demophoon Heliconius,,,,hembra,Colon PAN CN,,,m,3,2,1925,"Bateson, G.",BMNH,,NEIL ROSSER,,9.366666667,-79.9,Brown
+5946,erato,erato cf demophoon Heliconius,,,,hembra,Matachin PAN CN,,,m,,7,1877,"Schunke, J.M.",BMNH,,NEIL ROSSER,,9.116666667,-79.7,Brown
+5947,erato,erato cf demophoon Heliconius,,,,hembra,Sabanas PAN CZ,,,m,16,6,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.566666667,-80.68333333,Falling Rain
+5948,erato,erato cf demophoon Heliconius,,,,macho,Monte Lirio PAN CZ,,,m,9,3,1913,"Hall, A.",BMNH,,NEIL ROSSER,,9.233333333,-79.85,Label
+5949,erato,erato cf demophoon Heliconius,,,,macho,Empire PAN CZ,,,m,1,2,1913,"Hall, A.",BMNH,,NEIL ROSSER,,9.066666667,-79.66666667,Geonames
+5950,erato,erato cf demophoon Heliconius,,,,macho,Sevilla Isla PAN CQ,,,m,,1,1902,Batty,BMNH,20-23,NEIL ROSSER,,8.249916667,-82.37594722,Geonames + Google Earth
+5951,erato,erato cf demophoon Heliconius,,,,macho,Cebaco Isla PAN VE,,,m,,2,1902,Batty,BMNH,03-Jun,NEIL ROSSER,,7.533333333,-81.15,Brown
+5952,erato,erato cf demophoon Heliconius,,,,hembra,Insolita Isla PAN CQ,,,m,,1,1902,Batty,BMNH,,NEIL ROSSER,,8.116666667,-81.73333333,Brown
+6042,erato,erato cf demophoon Heliconius,,,,hembra,Rey Isla del PAN PA,,,m,26,6,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.355436111,-78.90127778,Google Earth
+6043,erato,erato cf demophoon Heliconius,,,,macho,Matachin PAN CN,,,m,,7,1877,"Thieme, O.",BMNH,,NEIL ROSSER,,9.116666667,-79.7,Brown
+6044,erato,erato cf demophoon Heliconius,,,,hembra,Coiba Isla PAN VE,,,m,1,9,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,7.516666667,-81.71666667,Brown
+6045,erato,erato cf demophoon Heliconius,,,,hembra,Sevilla Isla PAN CQ,,,m,,1,1902,"Batty, J.H.",BMNH,20-23,NEIL ROSSER,,8.249916667,-82.37594722,Geonames + Google Earth
+6046,erato,erato cf demophoon Heliconius,,,,hembra,Cebaco Isla PAN VE,,,m,,2,1902,"Batty, J.H.",BMNH,03-Jun,NEIL ROSSER,,7.533333333,-81.15,Brown
+6472,erato,erato cf demophoon Heliconius,,,,hembra,Balboa PAN PA,,,m,15,6,1924,"Collenette, C.L.",BMNH,,NEIL ROSSER,,8.95,-79.56666667,Brown
+12148,erato,erato cf demophoon Heliconius,,,,Hembra,Est. San Miguel. Send. Maven CRI,300,300,m,,,,"Alvarado, Francisco",INBio,29/09/1997	 - 	29/09/1997,NEIL ROSSER,,9.594722222,-85.12583333,INBio
+12149,erato,erato cf demophoon Heliconius,,,,Macho,Est. San Miguel. Send. Maven CRI,300,300,m,,,,"Alvarado, Francisco",INBio,29/09/1997	 - 	29/09/1997,NEIL ROSSER,,9.594722222,-85.12583333,INBio
+12249,erato,erato cf demophoon Heliconius,,,,Macho,"Golfito, Jim�nez, Estaci�n el Tigre, Area Administrativa CRI",0,100,m,,,,"Azofeifa Zu�iga, Jose Antonio",INBio,24/07/2007	 - 	24/07/2007,NEIL ROSSER,,8.546111111,-83.39777778,INBio
+12267,erato,erato cf demophoon Heliconius,,,,Macho,"Puesto Esquinas, Quebrada Seca CRI",20,20,m,,,,"Azofeifa Zu�iga, Jose Antonio",INBio,07/03/2008	 - 	07/03/2008,NEIL ROSSER,,8.706111111,-83.28,INBio
+12299,erato,erato cf demophoon Heliconius,,,,Macho,"Golfito, Jim�nez, Estaci�n el Tigre, Area Administrativa CRI",47,47,m,,,,"Azofeifa Zu�iga, Jose Antonio",INBio,06/12/2007	 - 	06/12/2007,NEIL ROSSER,,8.546111111,-83.39777778,INBio
+12320,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.O. Golfito, Reserva Ftal Golfo Dulce, Est Agujas CRI",375,375,m,,,,"Azofeifa Z��iga, Alejandro",INBio,15/04/1996	 - 	22/04/1996,NEIL ROSSER,,8.534722222,-83.42666667,INBio
+12321,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O. Golfito, Reserva Ftal Golfo Dulce, Est Agujas CRI",375,375,m,,,,"Azofeifa Z��iga, Alejandro",INBio,15/04/1996	 - 	22/04/1996,NEIL ROSSER,,8.534722222,-83.42666667,INBio
+12354,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Bello, Erick",INBio,01/07/1990	 - 	31/07/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+12369,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Bello, Erick",INBio,01/07/1990	 - 	31/07/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+12390,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Blanco, Roger",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12405,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Blanco, Roger",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12406,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Blanco, Roger",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12412,erato,erato cf demophoon Heliconius,,,,Hembra,"Lepanto, Karen Mogensen, Sendero Principal. CRI",315,315,m,,,,"Brice�o, Duvalier",INBio,06/10/2003	 - 	06/10/2003,NEIL ROSSER,,9.867222222,-85.06,INBio
+12413,erato,erato cf demophoon Heliconius,,,,Macho,"Lepanto, Karen Mogensen, Sendero Principal. CRI",315,315,m,,,,"Brice�o, Duvalier",INBio,06/10/2003	 - 	06/10/2003,NEIL ROSSER,,9.867222222,-85.06,INBio
+12567,erato,erato cf demophoon Heliconius,,,,Macho,"Finca Cafrosa, 1 Km NNE. de Escuela Progreso CRI",1200,1200,m,,,,"Chinchilla, Mario",INBio,01/01/1996	 - 	01/01/1996,NEIL ROSSER,,8.912222222,-82.80194444,INBio
+12580,erato,erato cf demophoon Heliconius,,,,Macho,"C�bano, Estaci�n Cabo Blanco. CRI",0,3000,m,,,,"Corrales, Jorge",INBio,04/10/1995	 - 	04/10/1995,NEIL ROSSER,,9.591666667,-85.09583333,INBio
+12689,erato,erato cf demophoon Heliconius,,,,Macho,"Sect. Los Patos, Golfo Dulce CRI",140,140,m,,,,"Fletes, Eida",INBio,06/01/1996	 - 	06/01/1996,NEIL ROSSER,,8.570555556,-83.50944444,INBio
+12816,erato,erato cf demophoon Heliconius,,,,Macho,"Reserva R�ospara�so, Albergue Pecar� CRI",405,405,m,,,,"Gamboa R., Billen",INBio,01/05/2006	 - 	04/05/2006,NEIL ROSSER,,9.565,-84.12583333,INBio
+12817,erato,erato cf demophoon Heliconius,,,,Macho,"Nandayure, Bejuco, Camino Bajos de Ario. CRI",10,10,m,,,,"Gamboa R., Billen",INBio,09/07/2005	 - 	12/07/2005,NEIL ROSSER,,9.761666667,-85.22638889,INBio
+12819,erato,erato cf demophoon Heliconius,,,,Hembra,"R.V.S. R�o Piro, Estaci�n Tuva CRI",40,40,m,,,,"Gamboa R., Billen",INBio,15/09/2004	 - 	22/09/2004,NEIL ROSSER,,8.405833333,-83.34222222,INBio
+12820,erato,erato cf demophoon Heliconius,,,,Macho,Cerro Cangreja. CRI,1305,1305,m,,,,"Gamboa R., Billen",INBio,15/07/2004	 - 	15/07/2004,NEIL ROSSER,,9.725,-84.36944444,INBio
+12822,erato,erato cf demophoon Heliconius,,,,Macho,Cerro Cangreja. CRI,1305,1305,m,,,,"Gamboa R., Billen",INBio,15/07/2004	 - 	15/07/2004,NEIL ROSSER,,9.725,-84.36944444,INBio
+12824,erato,erato cf demophoon Heliconius,,,,Hembra,"R.V.S. R�o Piro, Estaci�n Tuva CRI",40,40,m,,,,"Gamboa R., Billen",INBio,15/09/2004	 - 	22/09/2004,NEIL ROSSER,,8.405833333,-83.34222222,INBio
+12871,erato,erato cf demophoon Heliconius,,,,Macho,"R.V.S. R�o Piro, Estaci�n Tuva CRI",40,40,m,,,,"Gamboa R., Billen",INBio,15/09/2004	 - 	22/09/2004,NEIL ROSSER,,8.405833333,-83.34222222,INBio
+12901,erato,erato cf demophoon Heliconius,,,,Hembra,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Guti�rrez, Ana",INBio,19/08/1993	 - 	27/08/1993,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+12904,erato,erato cf demophoon Heliconius,,,,Macho,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Guti�rrez, Ana",INBio,14/07/1993	 - 	28/07/1993,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+12905,erato,erato cf demophoon Heliconius,,,,Macho,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Guti�rrez, Ana",INBio,14/07/1993	 - 	28/07/1993,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+12910,erato,erato cf demophoon Heliconius,,,,Macho,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Guti�rrez, Ana",INBio,19/08/1993	 - 	27/08/1993,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+12911,erato,erato cf demophoon Heliconius,,,,Hembra,"Osa, Sierpe, Rancho Quemado. CRI",200,200,m,,,,"Guti�rrez, Ana",INBio,14/07/1993	 - 	28/07/1993,NEIL ROSSER,,8.679166667,-83.56666667,INBio
+12942,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Janzen, Daniel H.",INBio,23/03/1982	 - 	27/03/1982,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+12984,erato,erato cf demophoon Heliconius,,,,Macho,"Sirena, Corcovado Nat. Pk., Osa Peninsula CRI",20,20,m,,,,"Janzen, Daniel H.",INBio,04/07/1977	 - 	14/07/1977,NEIL ROSSER,,8.479166667,-83.58861111,INBio
+13003,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Maass, Gustavo",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13004,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Maass, Gustavo",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13076,erato,erato cf demophoon Heliconius,,,,Desconocido,"El Rodeo, fila Diamante CRI",900,1000,m,,,,"Mata, Juan",INBio,06/08/2005	 - 	06/08/2005,NEIL ROSSER,,9.901388889,-84.26944444,INBio
+13126,erato,erato cf demophoon Heliconius,,,,Macho,"C�bano, R.N.A. Cabo Blanco, Estaci�n Cabuya, Sendero Sueco. CRI",10,200,m,,,,"Mendez, Henry",INBio,12/03/2002	 - 	13/03/2002,NEIL ROSSER,,9.576666667,-85.10305556,INBio
+13127,erato,erato cf demophoon Heliconius,,,,Macho,"Monte Alto, Sector Mirador CRI",800,800,m,,,,"Mendez, Henry",INBio,01/12/2002	 - 	31/12/2002,NEIL ROSSER,,10.00305556,-85.39638889,INBio
+13128,erato,erato cf demophoon Heliconius,,,,Hembra,"Monte Alto, Sector Mirador CRI",800,800,m,,,,"Mendez, Henry",INBio,01/12/2002	 - 	31/12/2002,NEIL ROSSER,,10.00305556,-85.39638889,INBio
+13138,erato,erato cf demophoon Heliconius,,,,Macho,"Ciudad Cort�s, R�o Balsar. CRI",0,100,m,,,,"Montero, Jos�",INBio,01/01/2003	 - 	01/01/2003,NEIL ROSSER,,8.991944444,-83.52666667,INBio
+13139,erato,erato cf demophoon Heliconius,,,,Macho,"Ciudad Pto Cort�s, Balsar, La Tigra. CRI",77,77,m,,,,"Montero, Jos�",INBio,07/06/2005	 - 	07/06/2005,NEIL ROSSER,,8.995833333,-83.51583333,INBio
+13140,erato,erato cf demophoon Heliconius,,,,Macho,"Osa, Ciudad Pto Cort�s, Camino a Cuesta del Burro. CRI",200,200,m,,,,"Montero, Jos�",INBio,04/06/2005	 - 	04/06/2005,NEIL ROSSER,,9.011111111,-83.52444444,INBio
+13177,erato,erato cf demophoon Heliconius,,,,Macho,"Fca. Cafrosa, Est. Las Mellizas, P. N. Amistad CRI",1300,1300,m,,,,"Mora, Gerardo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,8.891388889,-82.76472222,INBio
+13228,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Refugio de Vida Silvestre Golfito, Proyecto Zamia, Playa Cacao CRI",130,130,m,,,,"Moraga, Marcos",INBio,12/09/1999	 - 	12/09/1999,NEIL ROSSER,,8.625555556,-83.18416667,INBio
+13229,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Refugio de Vida Silvestre Golfito, Proyecto Zamia, Playa Cacao CRI",130,130,m,,,,"Moraga, Marcos",INBio,12/09/1999	 - 	12/09/1999,NEIL ROSSER,,8.625555556,-83.18416667,INBio
+13230,erato,erato cf demophoon Heliconius,,,,Macho,"Osa, Sierpe, L�mite P.N. Piedras Blancas, Riyito. CRI",10,10,m,,,,"Moraga, Marcos",INBio,19/02/2001	 - 	19/02/2001,NEIL ROSSER,,8.760277778,-83.28944444,INBio
+13231,erato,erato cf demophoon Heliconius,,,,Hembra,"Ciudad Pto Cort�s, Quebrada Rey. CRI",0,100,m,,,,"Moraga, Marcos",INBio,15/08/2005	 - 	15/08/2005,NEIL ROSSER,,8.964722222,-83.55111111,INBio
+13232,erato,erato cf demophoon Heliconius,,,,Macho,P.N. Piedras Blancas. Estaci�n R�o Bonito. CRI,100,100,m,,,,"Moraga, Marcos",INBio,25/02/1999	 - 	27/02/1999,NEIL ROSSER,,8.684166667,-83.22833333,INBio
+13234,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Piedras Blancas, Est R�o Bonito CRI",100,100,m,,,,"Moraga, Marcos",INBio,13/03/2000	 - 	18/03/2000,NEIL ROSSER,,8.690555556,-83.23222222,INBio
+13235,erato,erato cf demophoon Heliconius,,,,Macho,P.N. Piedras Blancas. Estaci�n R�o Bonito. CRI,100,100,m,,,,"Moraga, Marcos",INBio,25/02/1999	 - 	27/02/1999,NEIL ROSSER,,8.684166667,-83.22833333,INBio
+13236,erato,erato cf demophoon Heliconius,,,,Macho,Las Verijas CRI,1500,1600,m,,,,"Moraga, Marcos",INBio,20/02/2008	 - 	25/02/2008,NEIL ROSSER,,9.115833333,-83.095,INBio
+13382,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Obando, Norman",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13383,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",0,100,m,,,,"Obando, Norman",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13457,erato,erato cf demophoon Heliconius,,,,Macho,"P.N. Carara, Send. Principal. CRI",0,100,m,,,,"Porras Vega, Wendy",INBio,18/07/2004	 - 	18/07/2004,NEIL ROSSER,,9.778333333,-84.605,INBio
+13459,erato,erato cf demophoon Heliconius,,,,Macho,"Garabito, Altos Pochote, limite S. camino a Bijagual. CRI",400,400,m,,,,"Porras Vega, Wendy",INBio,21/07/2004	 - 	21/07/2004,NEIL ROSSER,,9.7625,-84.6,INBio
+13500,erato,erato cf demophoon Heliconius,,,,Macho,"Lepanto, Karen Mogensen, Sendero Principal. CRI",300,400,m,,,,"Porras Vega, Wendy",INBio,24/09/2003	 - 	08/10/2003,NEIL ROSSER,,9.867222222,-85.06,INBio
+13503,erato,erato cf demophoon Heliconius,,,,Macho,"P.N. Carara, Send. Principal. CRI",0,100,m,,,,"Porras Vega, Wendy",INBio,18/07/2004	 - 	18/07/2004,NEIL ROSSER,,9.778333333,-84.605,INBio
+13518,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Quesada, Eddie",INBio,05/11/1990	 - 	13/12/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+13552,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Quesada, Freddy A.",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13553,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.O, Golfito, Pque Nal Corcovado, Est Sirena, Playa Sirena CRI",1,100,m,,,,"Quesada, Freddy A.",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,8.480277778,-83.59138889,INBio
+13610,erato,erato cf demophoon Heliconius,,,,Macho,"Est. San Miguel, 3 Km. NW. de Cabo Blanco CRI",50,150,m,,,,"Ramirez, Marvin",INBio,01/09/1993	 - 	30/09/1993,NEIL ROSSER,,9.581111111,-85.13666667,INBio
+13644,erato,erato cf demophoon Heliconius,,,Amended from petiverana see map notes,Hembra,"3 km NO de Nacaome, P. N. Barra Honda CRI",100,100,m,,,,"Reyes, Marielos",INBio,03/08/1992	 - 	25/08/1992,NEIL ROSSER,,10.16833333,-85.37361111,INBio
+13688,erato,erato cf demophoon Heliconius,,,,Hembra,"Sector Las Pailas, 4.5 Km SW del Volc�n Rinc�n de la Vieja CRI",800,800,m,,,,"Rodriguez, Gladys",INBio,03/10/1993	 - 	14/10/1993,NEIL ROSSER,,10.77666667,-85.35194444,INBio
+13717,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.P.C, Garabito, Tarcoles, Estaci�n Quebrada Bonita CRI",50,50,m,,,,"Rojas, Elias",INBio,01/06/1990	 - 	30/06/1990,NEIL ROSSER,,9.7675,-84.60805556,INBio
+13719,erato,erato cf demophoon Heliconius,,,,Hembra,"Vuelta Campana, Rio Terraba, Rey Curre. CRI",100,500,m,,,,"Rojas, Sary",INBio,04/12/1992	 - 	16/12/1992,NEIL ROSSER,,8.979166667,-83.26388889,INBio
+13766,erato,erato cf demophoon Heliconius,,,,Macho,"Sector Las Pailas, 4.5 Km SW del Volc�n Rinc�n de la Vieja CRI",800,800,m,,,,"Taylor, Karla",INBio,24/06/1995	 - 	10/07/1995,NEIL ROSSER,,10.77666667,-85.35194444,INBio
+13783,erato,erato cf demophoon Heliconius,,,,Macho,"Aguirre, Quepos, P. N. Manuel Antonio.  CRI",80,80,m,,,,"Varela, Gerardo",INBio,01/06/1991	 - 	30/06/1991,NEIL ROSSER,,9.387777778,-84.13277778,INBio
+13818,erato,erato cf demophoon Heliconius,,,,Macho,"Estaci�n Altamira, 1 Km S del Cerro Biolley CRI",1340,1340,m,,,,"Villalobos, Ronald",INBio,28/07/1995	 - 	07/08/1995,NEIL ROSSER,,9.033055556,-83.01083333,INBio
+13874,erato,erato cf demophoon Heliconius,,,,Macho,La Fila CRI,100,150,m,,,,"Zumbado, Manuel Angel",INBio,23/11/2008	 - 	27/11/2008,NEIL ROSSER,,9.571944444,-84.59694444,INBio
+13901,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.L.A.P, Garabito, Reserva Biol Carara, Est Quebrada Bonita CRI",100,100,m,,,,"Z��iga, Rodolfo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,9.776388889,-84.60805556,INBio
+13902,erato,erato cf demophoon Heliconius,,,,Hembra,"A.C.L.A.P, Garabito, Reserva Biol Carara, Est Quebrada Bonita CRI",100,100,m,,,,"Z��iga, Rodolfo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,9.776388889,-84.60805556,INBio
+13903,erato,erato cf demophoon Heliconius,,,,Macho,"A.C.L.A.P, Garabito, Reserva Biol Carara, Est Quebrada Bonita CRI",100,100,m,,,,"Z��iga, Rodolfo",INBio,01/04/1989	 - 	30/04/1989,NEIL ROSSER,,9.776388889,-84.60805556,INBio
+14032,erato,erato cf demophoon Heliconius,,,,unknown,Palmar Norte 17 mi N CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.069397222,-83.65391667,Google Earth
+14041,erato,erato cf demophoon Heliconius,,,,unknown,Atenas 6.8 km w CRI AL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+14043,erato,erato cf demophoon Heliconius,,,,unknown,San Antonio CRI SJ,3500,3500,ft,,,1926,"Kaye, W.J.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.916666667,-84.13333333,Brown
+14046,erato,erato cf demophoon Heliconius,,,,unknown,Farfan PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+14047,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline road PAN CN,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.187144444,-79.77184444,Google Earth
+14048,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN CN,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.116666667,-79.7,www.calle.com
+14055,erato,erato cf demophoon Heliconius,,,,unknown,Desamparados CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.9,-84.06666667,De Vries 1987
+14066,erato,erato cf demophoon Heliconius,,,,unknown,Rodman Naval Base PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.95,-79.58333333,Geonames
+14069,erato,erato cf demophoon Heliconius,,,,unknown,Farfan Trail PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+14080,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN CN,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.116666667,-79.7,www.calle.com
+14089,erato,erato cf demophoon Heliconius,,,,unknown,Albrook (Field) PAN PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.983333333,-79.55,Label
+14090,erato,erato cf demophoon Heliconius,,,,unknown,Panama Canal PAN,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.109727778,-79.760975,Google Earth
+14091,erato,erato cf demophoon Heliconius,,,,unknown,Madden Forest PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.1,-79.61666667,Geonames
+14092,erato,erato cf demophoon Heliconius,,,,unknown,Barro Colorado Island PAN PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.166666667,-79.83333333,Brown
+14093,erato,erato cf demophoon Heliconius,,,,unknown,San Jose CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.933333333,-84.08333333,Brown
+14094,erato,erato cf demophoon Heliconius,,,,unknown,Campana Cerro PAN PA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+14095,erato,erato cf demophoon Heliconius,,,,unknown,Atenas 6.8 km w CRI AL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+14097,erato,erato cf demophoon Heliconius,,,,unknown,Pina PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.25,-79.96666667,Brown
+14108,erato,erato cf demophoon Heliconius,,,,unknown,"Rio Lagarta, 1km W of Rio Claro CRI PU",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.681391667,-83.07580556,Google Earth
+14110,erato,erato cf demophoon Heliconius,,,,unknown,Las Cruces (Finca) 5km S of San Vito CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.7,-83,Label
+14112,erato,erato cf demophoon Heliconius,,,,unknown,San Vito CRI PU,3150,3150,ft,,,,"Emmel,t",FLMNH (not labelled) - Basement,1969,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+14113,erato,erato cf demophoon Heliconius,,,,unknown,San Vito 6 km s CRI PU,4000,4000,ft,,,,"Emmel, T.C.",FLMNH (not labelled) - Basement,1967,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+14114,erato,erato cf demophoon Heliconius,,,,unknown,Rincon CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.7,-83.48333333,NIMA
+14116,erato,erato cf demophoon Heliconius,,,,unknown,"Waterfall, Rincon CRI PU",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.7,-83.48333333,Geonames
+14117,erato,erato cf demophoon Heliconius,,,,unknown,San Vito 6 km s CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+14118,erato,erato cf demophoon Heliconius,,,,unknown,"Rincon, 2.5 miles SW, CRI PU",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.678508333,-83.47796667,Google Earth
+14119,erato,erato cf demophoon Heliconius,,,,unknown,San Vito 6 km s CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+14121,erato,erato cf demophoon Heliconius,,,,unknown,San Vito 6 km s CRI PU,4000,4000,ft,,,,,FLMNH (not labelled) - Basement,1967,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+14125,erato,erato cf demophoon Heliconius,,,,unknown,"Calle Fallas, Desamparados CRI SJ",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883005556,-84.05894722,Google Earth
+14128,erato,erato cf demophoon Heliconius,,,,unknown,Paso Ancho CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.916666667,-84.06666667,www.calle.com/world
+14129,erato,erato cf demophoon Heliconius,,,,unknown,Patarra CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883333333,-84.03333333,Geonames
+14130,erato,erato cf demophoon Heliconius,,,,unknown,Paso Ancho CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.916666667,-84.06666667,www.calle.com/world
+14132,erato,erato cf demophoon Heliconius,,,,unknown,Paso Ancho CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.916666667,-84.06666667,www.calle.com/world
+14135,erato,erato cf demophoon Heliconius,,,,unknown,"Calle Fallas, Desamparados CRI SJ",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883005556,-84.05894722,Google Earth
+14138,erato,erato cf demophoon Heliconius,,,,unknown,"Calle Fallas, Desamparados CRI SJ",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883005556,-84.05894722,Google Earth
+14139,erato,erato cf demophoon Heliconius,,,,unknown,Osa CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.433333333,-83.31666667,www.calle.com/world
+14144,erato,erato cf demophoon Heliconius,,,,unknown,Osa CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.433333333,-83.31666667,www.calle.com/world
+14146,erato,erato cf demophoon Heliconius,,,,unknown,San Vito 6 km s CRI PU,3800,3800,ft,,,,"Emmel, T.C.",FLMNH (not labelled) - Basement,1966,NEIL ROSSER,,8.783913889,-82.96693056,Google Earth
+14147,erato,erato cf demophoon Heliconius,,,,unknown,San Vito CRI PU,4000,4000,ft,,,,,FLMNH (not labelled) - Basement,1967,NEIL ROSSER,,8.833333333,-82.96666667,www.calle.com/world
+14152,erato,erato cf demophoon Heliconius,,,,unknown,Patarra cerro w of CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883333333,-84.03333333,www.calle.com/world
+14160,erato,erato cf demophoon Heliconius,,,,unknown,Patarra CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883333333,-84.03333333,Geonames
+14161,erato,erato cf demophoon Heliconius,,,,unknown,Desamparados CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.9,-84.06666667,De Vries 1987
+14166,erato,erato cf demophoon Heliconius,,,,unknown,Heredia 4km S CRI HE,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.975158333,-84.11745278,Google Earth
+14167,erato,erato cf demophoon Heliconius,,,,unknown,Paso Ancho CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.916666667,-84.06666667,www.calle.com/world
+14169,erato,erato cf demophoon Heliconius,,,,unknown,"Charcarita 9.2km SW, CRI PU",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.927369444,-84.70243056,Google Earth
+14396,erato,erato cf demophoon Heliconius,,,,unknown,Atenas 6.8 km w CRI AL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.964180556,-84.43580556,Google Earth
+14397,erato,erato cf demophoon Heliconius,,,,unknown,San Miguel de Llano CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,,,unknown
+14398,erato,erato cf demophoon Heliconius,,,,unknown,Paso Ancho CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.916666667,-84.06666667,www.calle.com/world
+14399,erato,erato cf demophoon Heliconius,,,,unknown,"Buenos Aires 3-6km north, CRI PU",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.207488889,-83.32150556,Google Earth
+14400,erato,erato cf demophoon Heliconius,,,,unknown,"Rio Chirripo Pacifico, 5km W of Rivas CRI SJ",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.441625,-83.62113333,Google Earth
+14401,erato,erato cf demophoon Heliconius,,,,unknown,Osa CRI PU,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.433333333,-83.31666667,www.calle.com/world
+14402,erato,erato cf demophoon Heliconius,,,,unknown,Campana Cerro PAN PA,800,800,m,,,1971,"Pliske, T.E.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.683333333,-79.91666667,Label
+14403,erato,erato cf demophoon Heliconius,,,,unknown,Kobbe Ft PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.912222222,-79.58916667,Geonames
+14404,erato,erato cf demophoon Heliconius,,,,unknown,Farfan PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+14405,erato,erato cf demophoon Heliconius,,,,unknown,Madden Forest PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.1,-79.61666667,Geonames
+14406,erato,erato cf demophoon Heliconius,,,,unknown,Potrerillos PAN CQ,3600,3600,ft,,,1971,"King, H.L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.8,-82.5,Label
+14407,erato,erato cf demophoon Heliconius,,,,unknown,Farfan Trail PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.933333333,-79.58333333,Geonames
+14408,erato,erato cf demophoon Heliconius,,,,unknown,Rodman Naval Base PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.95,-79.58333333,Geonames
+14409,erato,erato cf demophoon Heliconius,,,,unknown,Pina PAN CN,200,200,m,,,1972,"King, H.L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.25,-79.96666667,Brown
+14410,erato,erato cf demophoon Heliconius,,,,unknown,"Monte Claro, Desamparados CRI SJ",,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.9,-84.06666667,De Vries 1987
+14412,erato,erato cf demophoon Heliconius,,,,unknown,Patarra CRI SJ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.883333333,-84.03333333,Geonames
+16126,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN PA,800,800,m,,,1978,Mainier,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,8.516666667,-80.54333333,www.calle.com
+16338,erato,erato cf demophoon Heliconius,,,,unknown,Los frijoles PAN CZ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.1528,-79.78315,Geonames
+16339,erato,erato cf demophoon Heliconius,,,,unknown,Gorgas Bayano Sta PAN DA,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.166666667,-78.8,http://fulltextt10.fcla.edu/DLData/SN/SN0022300X/0013_001/81_15.pdf
+16340,erato,erato cf demophoon Heliconius,,,,unknown,David PAN CQ,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,8.416666667,-82.45,Brown
+16342,erato,erato cf demophoon Heliconius,,,,unknown,Atenas CRI AL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.981341667,-84.380575,Google Earth
+16354,erato,erato cf demophoon Heliconius,,,,unknown,Atenas CRI AL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,9.981341667,-84.380575,Google Earth
+17032,erato,erato cf demophoon Heliconius,,,,unknown,Alajuela CRI AL,,,m,,,,,NHM Accesions - draws 9060,,NEIL ROSSER,,10.01666667,-84.21666667,Geonames
+29227,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,descononcido,Puerto Obaldia PAN DA,,,m,,,,,KB 1979,,NEIL ROSSER,,8.666666667,-77.41666667,Geonames
+31712,erato,erato cf demophoon Heliconius,,,,unknown,Marenco biological station CRI PU,,,m,,7,1994,,Hoskins - Observation,,NEIL ROSSER,,8.67,-83.7,tropicos.org
+31967,erato,erato cf demophoon Heliconius,,,,unknown,Esparza CRI PU,,,m,,,,,"Paper by Lopez and Ibrahim, CATIE 2007",,NEIL ROSSER,,9.983333333,-84.66666667,Geonames
+32223,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32224,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32226,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32228,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32230,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32231,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32232,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32233,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32234,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32236,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32238,erato,erato cf demophoon Heliconius,,,Entered as erato petiverana Heliconius - amended to demophoon -see map notes,unknown,10.2 Km e. Bayano Br. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.164133333,-78.70941667,Google Earth
+32399,erato,erato cf demophoon Heliconius,,,,unknown,"Carti, San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.452142,-78.978319,Google Earth
+32400,erato,erato cf demophoon Heliconius,,,,unknown,"Carti, San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.452142,-78.978319,Google Earth
+32401,erato,erato cf demophoon Heliconius,,,,unknown,"Carti, San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.452142,-78.978319,Google Earth
+32402,erato,erato cf demophoon Heliconius,,,,unknown,"Carti, San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.452142,-78.978319,Google Earth
+32403,erato,erato cf demophoon Heliconius,,,,unknown,"Carti, San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.452142,-78.978319,Google Earth
+32405,erato,erato cf demophoon Heliconius,,,,unknown,"Carti, San Blas PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.452142,-78.978319,Google Earth
+32427,erato,erato cf demophoon Heliconius,,,,unknown,Chiva Chiva PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.033333333,-79.58333333,Geonames
+32428,erato,erato cf demophoon Heliconius,,,,unknown,Chiva Chiva PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.033333333,-79.58333333,Geonames
+32437,erato,erato cf demophoon Heliconius,,,,unknown,Corcovado N.P. CRI,,,m,,,,,Brower,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+32438,erato,erato cf demophoon Heliconius,,,,unknown,Corcovado N.P. CRI,,,m,,,,,Brower,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+32439,erato,erato cf demophoon Heliconius,,,,unknown,Corcovado N.P. CRI,,,m,,,,,Brower,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+32440,erato,erato cf demophoon Heliconius,,,,unknown,Corcovado N.P. CRI,,,m,,,,,Brower,,NEIL ROSSER,,8.55,-83.58333333,costa-rica-guide.com
+32443,erato,erato cf demophoon Heliconius,,,,unknown,Corp. Bayano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.168586111,-78.79657778,Google Earth
+32444,erato,erato cf demophoon Heliconius,,,,unknown,Corp. Bayano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.168586111,-78.79657778,Google Earth
+32445,erato,erato cf demophoon Heliconius,,,,unknown,Corp. Bayano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.168586111,-78.79657778,Google Earth
+32499,erato,erato cf demophoon Heliconius,,,,unknown,El Cope PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+32500,erato,erato cf demophoon Heliconius,,,,unknown,El Cope PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+32501,erato,erato cf demophoon Heliconius,,,,unknown,El Cope PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.616666667,-80.6,Google Earth
+32502,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32503,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32504,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32505,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32506,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32507,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32508,erato,erato cf demophoon Heliconius,,,,unknown,El Llano PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212222222,-78.96416667,Geonames
+32509,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32510,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32511,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32512,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32514,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32515,erato,erato cf demophoon Heliconius,,,,unknown,El Valle PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.6,-80.13333333,Label
+32517,erato,erato cf demophoon Heliconius,,,,unknown,"Escobal Rd.,Canal Zone PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.147222222,-79.96194444,Geonames
+32615,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32616,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32617,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32618,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32619,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32620,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32621,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32622,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32623,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32624,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32625,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32626,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32627,erato,erato cf demophoon Heliconius,,,,unknown,Gamboa PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.116666667,-79.7,Geonames
+32629,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32630,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32631,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32632,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32634,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32635,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32636,erato,erato cf demophoon Heliconius,,,,unknown,Gatun Locks PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.270555556,-79.92333333,Geonames
+32760,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32761,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32762,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32763,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32764,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32765,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32766,erato,erato cf demophoon Heliconius,,,,unknown,"Loma del Naranjo, Lago Bayano PAN",,,m,,,,,Brower,,NEIL ROSSER,,9.1625,-78.88861111,Geonames + http://dx.doi.org/10.1111/j.0014-3820.2002.tb00125.x
+32768,erato,erato cf demophoon Heliconius,,,,unknown,Madden Dam PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212508333,-79.61655278,Google Earth
+32769,erato,erato cf demophoon Heliconius,,,,unknown,Madden Dam PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212508333,-79.61655278,Google Earth
+32770,erato,erato cf demophoon Heliconius,,,,unknown,Madden Dam PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212508333,-79.61655278,Google Earth
+32771,erato,erato cf demophoon Heliconius,,,,unknown,Madden Dam PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.212508333,-79.61655278,Google Earth
+32805,erato,erato cf demophoon Heliconius,,,,unknown,Naos I. PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.915117,-79.53256,Google Earth
+32806,erato,erato cf demophoon Heliconius,,,,unknown,Naos I. PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.915117,-79.53256,Google Earth
+32807,erato,erato cf demophoon Heliconius,,,,unknown,Naos I. PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.915117,-79.53256,Google Earth
+32808,erato,erato cf demophoon Heliconius,,,,unknown,Naos I. PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.915117,-79.53256,Google Earth
+32809,erato,erato cf demophoon Heliconius,,,,unknown,Naos I. PAN,,,m,,,,,Brower,,NEIL ROSSER,,8.915117,-79.53256,Google Earth
+32844,erato,erato cf demophoon Heliconius,,,,unknown,Parque Metropolitana PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.003494444,-79.55249722,Geonames
+32845,erato,erato cf demophoon Heliconius,,,,unknown,Parque Metropolitana PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.003494444,-79.55249722,Geonames
+32846,erato,erato cf demophoon Heliconius,,,,unknown,Parque Metropolitana PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.003494444,-79.55249722,Geonames
+32847,erato,erato cf demophoon Heliconius,,,,unknown,Parque Metropolitana PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.003494444,-79.55249722,Geonames
+32848,erato,erato cf demophoon Heliconius,,,,unknown,Parque Metropolitana PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.003494444,-79.55249722,Geonames
+32861,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32862,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32863,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32864,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32865,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32866,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32867,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32868,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32869,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32870,erato,erato cf demophoon Heliconius,,,,unknown,Pipeline Rd. PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.186144444,-79.76817778,Google Earth
+32970,erato,erato cf demophoon Heliconius,,,,unknown,Punta San Blas PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.566666667,-78.96666667,Geonames
+32971,erato,erato cf demophoon Heliconius,,,,unknown,Punta San Blas PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.566666667,-78.96666667,Geonames
+32972,erato,erato cf demophoon Heliconius,,,,unknown,Punta San Blas PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.566666667,-78.96666667,Geonames
+32973,erato,erato cf demophoon Heliconius,,,,unknown,Punta San Blas PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.566666667,-78.96666667,Geonames
+32974,erato,erato cf demophoon Heliconius,,,,unknown,Punta San Blas PAN,,,m,,,,,Brower,,NEIL ROSSER,,9.566666667,-78.96666667,Geonames
+33074,erato,erato cf demophoon Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33075,erato,erato cf demophoon Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33076,erato,erato cf demophoon Heliconius,,,,unknown,Sirena CRI PU,,,m,,,,,Brower,,NEIL ROSSER,,8.480030556,-83.58941389,Google Earth
+33169,erato,erato cf demophoon Heliconius,,,,unknown,Villa Colon CRI,,,m,,,,,Brower,,NEIL ROSSER,,9.914722222,-84.24166667,Google Earth
+33170,erato,erato cf demophoon Heliconius,,,,unknown,Villa Colon CRI,,,m,,,,,Brower,,NEIL ROSSER,,9.914722222,-84.24166667,Google Earth
+33171,erato,erato cf demophoon Heliconius,,,,unknown,Villa Colon CRI,,,m,,,,,Brower,,NEIL ROSSER,,9.914722222,-84.24166667,Google Earth
+34086,erato,erato cf demophoon Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,23,7,2000,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+34087,erato,erato cf demophoon Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,23,7,2000,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+34088,erato,erato cf demophoon Heliconius,,,,macho,"Pipeline road 3.7km, PAN PA",,,m,23,7,2000,,Jiggins,,NEIL ROSSER,,9.138888889,-79.72583333,Google Earth
+34089,erato,erato cf demophoon Heliconius,,,,Unknown,"Pipeline road, PAN CO",80,80,m,21,8,1998,,Jiggins,,NEIL ROSSER,,9.122222222,-79.715,Google Earth
+34697,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB- note amended from petiverana to demophoon - see map notes.,desconocido,10-85a N,,,m,,,,,KB 1979,,NEIL ROSSER,,10.25,-85.25,KB 1979
+34723,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-79a N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-79.25,KB 1979
+34736,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon,desconocido,8-82a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-82.25,KB 1979
+34746,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon,desconocido,8-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-78.25,KB 1979
+35165,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-84b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-83.75,KB 1979
+35171,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon.,desconocido,10-80b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.509527,-79.640242,Google Earth
+35181,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-80b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-79.75,KB 1979
+35192,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-79b N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.25,-78.75,KB 1979
+35201,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon,desconocido,8-82b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-81.75,KB 1979
+35209,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon,desconocido,8-83b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.323848,-82.767923,Google Earth
+35222,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon,desconocido,8-81b N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.25,-80.75,KB 1979
+35731,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - note amended from petiverana to demophoon - see map notes.,desconocido,10-84c N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.75,-84.25,KB 1979
+35747,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-83c N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-83.25,KB 1979
+35768,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - amended to demophoon,desconocido,8-80c N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.75,-80.25,KB 1979
+36126,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB - note amended from petiverana to demophoon - see map notes.,desconocido,10-85d N,,,m,,,,,KB 1979,,NEIL ROSSER,,9.834057,-84.666639,Google Earth
+36156,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-83d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-82.75,KB 1979
+36169,erato,erato cf demophoon Heliconius,,,Appears as erato ca. petiverana Heliconius in KB,desconocido,9-80d N,,,m,,,,,KB 1979,,NEIL ROSSER,,8.75,-79.75,KB 1979
+38608,erato,erato cf demophoon Heliconius,,,,desconocido,San Jose CRI SJ,1000,1000,m,,,,Serrano,MHNL PERU ex Peru,,NEIL ROSSER,,9.933333333,-84.08333333,Brown
+38611,erato,erato cf demophoon Heliconius,,,,desconocido,Santa Rosa CRI GU,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,10.83333333,-85.61666667,Brown
+51336,erato,erato cf demophoon Heliconius,,,hydara x petiverana,hembra,"Santa Fe, by the river just past village PAN DA",,,m,15,6,2000,,Jiggins,,NEIL ROSSER,duplicate,8.651944444,-78.14916667,CJ
+54380,erato,erato cf demophoon Heliconius,,,,unknown,Ujarras CRI PU,,,m,,May,2002,,www.neutron.phys.ethz.ch/Lepidoptera,,NEIL ROSSER,,9.25,-83.28333,Geonames

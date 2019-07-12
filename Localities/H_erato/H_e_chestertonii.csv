@@ -1,0 +1,237 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+1008,erato,erato chestertonii Heliconius,,,,desconocido,Frontino COL AN,,,m,,,,,KB 1979,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+5967,erato,erato chestertonii Heliconius,,,,macho,Felidia s of COL VC,2000,2000,m,14,8,1979,Adams/Hardy,BMNH,,NEIL ROSSER,,3.466666667,-76.61666667,Brown
+5968,erato,erato chestertonii Heliconius,,,,macho,Felidia s of COL VC,2000,2000,m,14,8,1979,Adams/Hardy,BMNH,,NEIL ROSSER,,3.466666667,-76.61666667,Brown
+5970,erato,erato chestertonii Heliconius,,,,macho,Caloto COL CC,,,m,,,,,BMNH,,NEIL ROSSER,,3.036944444,-76.41166667,Geonames
+5971,erato,erato chestertonii Heliconius,,,,macho,Coreato COL VC,,,m,,,,Paine & Brinkley,BMNH,,NEIL ROSSER,,3.183333333,-76.25,Brown
+5972,erato,erato chestertonii Heliconius,,,,macho,Torne COL,,,m,,,,,BMNH,,NEIL ROSSER,,,,unknown
+5973,erato,erato chestertonii Heliconius,,,,macho,Pereira distrito de COL RI,,,m,,,1886,"Valencia, G.",BMNH,,NEIL ROSSER,,4.816666667,-75.71666667,Brown
+5974,erato,erato chestertonii Heliconius,,,,macho,Juntas Cauca COL VC,,,m,,,,"Mathan, M. de",BMNH,fin 1897 - 1/1898,NEIL ROSSER,,3.783333333,-76.16666667,Brown
+5976,erato,erato chestertonii Heliconius,,,,macho,Dagua Rio COL VC,,,m,,,,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+5977,erato,erato chestertonii Heliconius,,,,hembra,Antioquia COL AN,,,m,,,,,BMNH,,NEIL ROSSER,,6.555833333,-75.82361111,NIMA
+5978,erato,erato chestertonii Heliconius,,,,hembra,Piedecuesta COL AN,8000,8000,ft,,7,1920,"Hall, A.",BMNH,,NEIL ROSSER,,6.882463889,-75.68124722,Geonames
+5980,erato,erato chestertonii Heliconius,,,,hembra,Juntas Cauca COL VC,,,m,,,,,BMNH,fin 1897 - 1/1898,NEIL ROSSER,,3.783333333,-76.16666667,Brown
+5982,erato,erato chestertonii Heliconius,,,,hembra,Felidia s of COL VC,2000,2000,m,14,8,1979,Adams/Hardy,BMNH,,NEIL ROSSER,,3.466666667,-76.61666667,Brown
+5983,erato,erato chestertonii Heliconius,,,,macho,Frontino COL AN,,,m,,,,"Salmon, T.K.",BMNH,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+5984,erato,erato chestertonii Heliconius,,,,macho,Espejuelo COL VC,,,m,,,1906,Paine & Brinkley,BMNH,03-Apr,NEIL ROSSER,,4.416666667,-75.95,Brown
+5985,erato,erato chestertonii Heliconius,,,,macho,Cali COL VC,,,m,,,1894,"Rosenberg, W.F.H.",BMNH,09-Dec,NEIL ROSSER,,3.45,-76.51666667,Brown
+5986,erato,erato chestertonii Heliconius,,,,macho,Matagang COL VC,1000,1000,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.45,-76.53333333,Brown
+5988,erato,erato chestertonii Heliconius,,,,macho,Manizales COL CD,,,m,,,,"Pati�o, A.M.",BMNH,,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+5990,erato,erato chestertonii Heliconius,,,,macho,Colorado Rio COL,2500,2500,ft,,,,Watkins,BMNH,,NEIL ROSSER,,,,unknown
+5991,erato,erato chestertonii Heliconius,,,,macho,Dagua Rio COL VC,,,m,,,,"Rosenberg, W.F.H.",BMNH,,NEIL ROSSER,,3.55,-76.65,Brown
+5992,erato,erato chestertonii Heliconius,,,,macho,Popayan COL CC,,,m,,,1897,,BMNH,,NEIL ROSSER,,2.45,-76.6,Brown
+5993,erato,erato chestertonii Heliconius,,,,macho,Valdivia COL AN,,,m,,,1897,Pratt,BMNH,,NEIL ROSSER,,7.15,-75.45,Brown
+5994,erato,erato chestertonii Heliconius,,,f. molina,macho,Santa Elena COL AN,8000,8000,ft,,7,1920,"Hall, A.",BMNH,,NEIL ROSSER,,6.216666667,-75.5,Geonames
+9321,erato,erato chestertonii Heliconius,,,,hembra,Calima COL VC,,,m,,4,1993,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.933333333,-76.51666667,www.calle.com
+9322,erato,erato chestertonii Heliconius,,,,macho,Calima COL VC,,,m,,4,1993,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.933333333,-76.51666667,www.calle.com
+9323,erato,erato chestertonii Heliconius,,,hybrid,macho,Calima Valley 45km w of Buga COL VC,,,m,25,4,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9324,erato,erato chestertonii Heliconius,,,hybrid,macho,Calima alto COL VC,,,m,20,7,1984,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.883333333,-76.6,Brown
+9325,erato,erato chestertonii Heliconius,,,hybrid,macho,Calima Valley 45km w of Buga COL VC,1200,1200,m,3,1,,,MGCL/FLMNH,1990?,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9326,erato,erato chestertonii Heliconius,,,hybrid,macho,Calima Valley 45km w of Buga COL VC,1200,1200,m,20,8,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9335,erato,erato chestertonii Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,9,4,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9336,erato,erato chestertonii Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,,2,1989,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9337,erato,erato chestertonii Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,3,1,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9338,erato,erato chestertonii Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,25,5,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9339,erato,erato chestertonii Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,5,4,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9340,erato,erato chestertonii Heliconius,,,,hembra,Calima Valley 45km w of Buga COL VC,1200,1200,m,30,7,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9342,erato,erato chestertonii Heliconius,,,,macho,Calima Valley 45km w of Buga COL VC,1200,1200,m,23,5,1990,,MGCL/FLMNH,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+9343,erato,erato chestertonii Heliconius,,,,macho,Calima COL VC,,,m,,4,1993,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.933333333,-76.51666667,www.calle.com
+9344,erato,erato chestertonii Heliconius,,,,macho,Calima COL VC,,,m,,4,1993,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.933333333,-76.51666667,www.calle.com
+9345,erato,erato chestertonii Heliconius,,,,macho,Calima COL VC,,,m,,4,1993,"Simon, M.",MGCL/FLMNH,,NEIL ROSSER,,3.933333333,-76.51666667,www.calle.com
+14203,erato,erato chestertonii Heliconius,,,,unknown,Calima rio below dam COL VC,1300,1300,m,,,1976,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.883333333,-76.6,Brown
+14204,erato,erato chestertonii Heliconius,,,,unknown,Pescador COL CC,1450,1450,m,,,1975,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.783333333,-76.55,Brown
+14205,erato,erato chestertonii Heliconius,,,,unknown,Pescador on road to Popoyan COL CC,1450,1450,m,,,1973,"Callaghan, C.J.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.783333333,-76.55,Brown
+14206,erato,erato chestertonii Heliconius,,,,unknown,Canas Gordas Cali COL VC,1000,1000,m,,,1973,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.883333333,-76.6,Brown
+14207,erato,erato chestertonii Heliconius,,,,unknown,Timba COL CC,1000,1000,m,,,1973,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.116666667,-76.61666667,www.calle.com
+14208,erato,erato chestertonii Heliconius,,,,unknown,Cali COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.45,-76.51666667,Brown
+14209,erato,erato chestertonii Heliconius,,,,unknown,Calima Dam COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+14210,erato,erato chestertonii Heliconius,,,,unknown,Santander COL CC,950,950,m,,,1973,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.013055556,-76.48666667,Geonames
+14212,erato,erato chestertonii Heliconius,,,,unknown,Cali COL VC,1000,1000,m,,,1961,LD,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.45,-76.51666667,Brown
+16079,erato,erato chestertonii Heliconius,,,,unknown,Calima - Tal COL VC,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,3.89205,-76.500779,Brown
+16080,erato,erato chestertonii Heliconius,,,,unknown,Rio Campo Alegre COL CA,1000,1000,m,,,1982,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16081,erato,erato chestertonii Heliconius,,,,unknown,Cosumbo River x Pital River COL VC,900,900,m,,,1984,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16083,erato,erato chestertonii Heliconius,,,,unknown,Quebrada El Aguila COL CA,1900,1900,m,,,1982,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.040413889,-75.49885833,Google Earth
+16084,erato,erato chestertonii Heliconius,,,,unknown,Dagua COL VC,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,3.666666667,-76.7,www.calle.com
+16086,erato,erato chestertonii Heliconius,,,Hybrid - chestertonii x venus. Subsp not assigned - amended 30.11.09,unknown,Cosumbo River x Pital River COL VC,900,900,m,,,1984,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16087,erato,erato chestertonii Heliconius,,,Hybrid - chestertonii x venus. Subsp not assigned - amended 30.11.09,unknown,Calima - Tal COL VC,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,3.89205,-76.500779,Brown
+16088,erato,erato chestertonii Heliconius,,,Hybrid - chestertonii x venus. Subsp not assigned - amended 30.11.09,unknown,Hacienda Bacori COL RI,450,450,m,,,1982,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.342783333,-76.09760278,google Earth
+16371,erato,erato chestertonii Heliconius,,,,unknown,Cali - Buenaventura (old road) km 22 COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.580383333,-76.68057222,Google Earth
+16372,erato,erato chestertonii Heliconius,,,,unknown,Dapa COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.533333333,-76.51666667,www.calle.com
+16373,erato,erato chestertonii Heliconius,,,,unknown,Bitaco COL VC,1500,1500,m,,,1982,"Hutchings, R.W.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.766666667,-76.63333333,Brown
+16374,erato,erato chestertonii Heliconius,,,,unknown,Pico de Aguila COL VC,1500,1500,m,,,1986,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.755605556,-76.90161944,Google Earth
+16375,erato,erato chestertonii Heliconius,,,,unknown,Saladito COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.483333333,-76.61666667,Label
+16376,erato,erato chestertonii Heliconius,,,,unknown,Calima Lago COL VC,1400,1400,m,,,1975,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.883333333,-76.6,Brown
+16377,erato,erato chestertonii Heliconius,,,,unknown,Hormiguero COL VC,1000,1000,m,,,1986,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.316666667,-76.48333333,Geonames
+16378,erato,erato chestertonii Heliconius,,,,unknown,Saladito COL VC,1600,1600,m,,,1975,GBS,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.483333333,-76.61666667,Label
+16379,erato,erato chestertonii Heliconius,,,,unknown,San Antonio COl VC,1900,1900,m,,,1988,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.499844444,-76.63273611,Geonames
+16380,erato,erato chestertonii Heliconius,,,,unknown,Darien 5km N COL VC,1500,1500,m,,,1988,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.965738889,-76.45571389,Google Earth
+16381,erato,erato chestertonii Heliconius,,,,unknown,Calima Dam COL VC,5000,5000,ft,,,1975,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+16382,erato,erato chestertonii Heliconius,,,,unknown,Calima Dam COL VC,1400,1400,m,,,1981,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+16383,erato,erato chestertonii Heliconius,,,,unknown,Uribe 5km E COL VC,1000,1000,m,,,1986,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,4.261519444,-76.08700278,Google Earth
+16384,erato,erato chestertonii Heliconius,,,,unknown,Cali COL VC,3000,3000,m,,,1986,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.45,-76.51666667,Brown
+16385,erato,erato chestertonii Heliconius,,,,unknown,El Saladito COL VC,1700,1700,m,,,1987,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.483333333,-76.61666667,Brown
+16386,erato,erato chestertonii Heliconius,,,,unknown,Queremal 3km S COL VC,,,m,,,,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.497894444,-76.71225,Google Earth
+16387,erato,erato chestertonii Heliconius,,,,unknown,Calima Dam COL VC,2000,2000,ft,,,1987,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+16388,erato,erato chestertonii Heliconius,,,HYBRID FORM x hydara or venus?,unknown,Calima Valley 45km w of Buga COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.899233333,-76.62986944,Google Earth
+16389,erato,erato chestertonii Heliconius,,,HYBRID FORM x hydara or venus?,unknown,Bravo Rio COL,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.893055556,-76.62166667,NIMA
+16390,erato,erato chestertonii Heliconius,,,,unknown,Bitaco COL VC,1700,1700,m,,,,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.766666667,-76.63333333,Brown
+16391,erato,erato chestertonii Heliconius,,,,unknown,San Antonio COL VC,1900,1900,m,,,,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.499844444,-76.63273611,Geonames
+16392,erato,erato chestertonii Heliconius,,,,unknown,Pico de Aguila COL VC,1500,1500,m,,,,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.755605556,-76.90161944,Google Earth
+16393,erato,erato chestertonii Heliconius,,,,unknown,Calima Dam COL VC,3000,3000,ft,,,,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.89205,-76.500779,Google Earth
+26485,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,,,m,,,,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26486,erato,erato chestertonii Heliconius,,,,hembra,Calima Rio COL VC,,,m,,,,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26487,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,,,m,20,4,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26488,erato,erato chestertonii Heliconius,,,,hembra,Manizales COL CD,2000,2000,m,,8,1993,"Salazar, J.",FLMNH,,Neil Rosser,,5.083333333,-75.53333333,Brown
+26489,erato,erato chestertonii Heliconius,,,,macho,Neira COL CD,1800,1800,m,,8,1993,"Salazar, J.",FLMNH,,Neil Rosser,,5.15,-75.53333333,Google Earth
+26490,erato,erato chestertonii Heliconius,,,,hembra,El Aguila COL VA,1700,1700,m,,8,1986,"Salazar, J.",FLMNH,,Neil Rosser,,4.909166667,-76.04305556,Geonames
+26491,erato,erato chestertonii Heliconius,,,,hembra,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+26492,erato,erato chestertonii Heliconius,,,venus x chestertonii,macho,Calima Rio COL VC,1200,1200,m,12,19,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26493,erato,erato chestertonii Heliconius,,,venus x chestertonii,hembra,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+26494,erato,erato chestertonii Heliconius,,,venus x chestertonii,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+26495,erato,erato chestertonii Heliconius,,,venus x chestertonii,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+26496,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,1300,1300,m,,,,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26497,erato,erato chestertonii Heliconius,,,,macho,Bravo Rio COL VC,900,1100,m,,4,1986,,FLMNH,Oct-20,Neil Rosser,,3.893055556,-76.62166667,NIMA
+26498,erato,erato chestertonii Heliconius,,,,macho,Bravo Rio COL VC,900,1100,m,,4,1986,,FLMNH,Oct-20,Neil Rosser,,3.893055556,-76.62166667,NIMA
+26499,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,,,m,19,12,1987,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26500,erato,erato chestertonii Heliconius,,,,macho,Bravo Rio COL VC,900,1100,m,,4,1986,,FLMNH,Oct-20,Neil Rosser,,3.893055556,-76.62166667,NIMA
+26501,erato,erato chestertonii Heliconius,,,,hembra,Calima Rio COL VC,1200,1200,m,21,5,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26502,erato,erato chestertonii Heliconius,,,,macho,Bravo Rio COL VC,900,1100,m,,4,1986,,FLMNH,Oct-20,Neil Rosser,,3.893055556,-76.62166667,NIMA
+26503,erato,erato chestertonii Heliconius,,,,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,,3.907455556,-76.62491111,Geonames + Google Earth
+26504,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,,,m,25,11,1984,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26505,erato,erato chestertonii Heliconius,,,,hembra,Calima Rio COL VC,,,m,25,11,1984,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26506,erato,erato chestertonii Heliconius,,,,hembra,Bravo Rio COL VC,900,1100,m,,4,1986,,FLMNH,Oct-20,Neil Rosser,,3.893055556,-76.62166667,NIMA
+26507,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,1200,1200,m,4,10,1991,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26508,erato,erato chestertonii Heliconius,,,,hembra,Calima Rio COL VC,1200,1200,m,11,9,1991,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26509,erato,erato chestertonii Heliconius,,,,hembra,Calima Rio COL VC,,,m,,11,1985,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26510,erato,erato chestertonii Heliconius,,,,hembra,Bravo Rio COL VC,900,1100,m,,4,1986,,FLMNH,Oct-20,Neil Rosser,,3.893055556,-76.62166667,NIMA
+26511,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,1200,1200,m,16,10,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26512,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,1200,1200,m,1,10,1991,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26513,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,,,m,7,11,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26514,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,1200,1200,m,15,9,1991,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26515,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,1200,1200,m,15,9,1991,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+26516,erato,erato chestertonii Heliconius,,,,macho,Calima Rio COL VC,,,m,15,3,1988,,FLMNH,,Neil Rosser,,3.933333333,-76.51666667,Brown
+29165,erato,erato chestertonii Heliconius,,,,descononcido,Roldanillo COL VC,,,m,,,,,KB 1979,,NEIL ROSSER,,4.414722222,-76.15472222,Geonames
+32274,erato,erato chestertonii Heliconius,,,,unknown,"2 km w. Saladito, Cali-B'ventura Rd., V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.483333333,-76.61666667,Geonames
+32275,erato,erato chestertonii Heliconius,,,,unknown,"2 km w. Saladito, Cali-B'ventura Rd., V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.483333333,-76.61666667,Geonames
+32701,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32702,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32703,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32704,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32705,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32706,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32707,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32708,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32709,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32710,erato,erato chestertonii Heliconius,,,,unknown,"La Moralia, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,4.070069444,-76.11021944,Google Earth
+32712,erato,erato chestertonii Heliconius,,,,unknown,"La Pradera-el Retiro rd km 6, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,,,
+32713,erato,erato chestertonii Heliconius,,,,unknown,"La Pradera-el Retiro rd km 6, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,,,
+32714,erato,erato chestertonii Heliconius,,,,unknown,"La Pradera-el Retiro rd km 6, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,,,
+32715,erato,erato chestertonii Heliconius,,,,unknown,"La Pradera-el Retiro rd km 6, Valle del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,,,
+32816,erato,erato chestertonii Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 26, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.556319444,-76.69455556,Google Earth
+32817,erato,erato chestertonii Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 26, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.556319444,-76.69455556,Google Earth
+32818,erato,erato chestertonii Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 26, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.556319444,-76.69455556,Google Earth
+33780,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33781,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33782,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33783,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33784,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33785,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33786,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33787,erato,erato chestertonii Heliconius,,,,macho,Alto los Cedros COL VC,,,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.843055556,-76.55111111,CJ
+33788,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33789,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33790,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33791,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33792,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33793,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33794,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33795,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33796,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33797,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33798,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33799,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33800,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33801,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,3,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33802,erato,erato chestertonii Heliconius,,,,hembra,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33803,erato,erato chestertonii Heliconius,,,,hembra,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33804,erato,erato chestertonii Heliconius,,,,hembra,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33805,erato,erato chestertonii Heliconius,,,,hembra,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33806,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33807,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33808,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33809,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33810,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33811,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33812,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33813,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33814,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33815,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33816,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33817,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33818,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33819,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33820,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33821,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33822,erato,erato chestertonii Heliconius,,,,macho,Atuncela COL VC,,,m,4,4,1998,,Jiggins,,NEIL ROSSER,,3.733888889,-76.68555556,Brown
+33823,erato,erato chestertonii Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+33824,erato,erato chestertonii Heliconius,,,,macho,"La Gloria, Cali - Buenaventura road at Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.7825,-76.72111111,CJ
+33825,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33826,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33827,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33828,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33829,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33830,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33831,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33832,erato,erato chestertonii Heliconius,,,,hembra,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33833,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33834,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33835,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33836,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33837,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33838,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33839,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33840,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33841,erato,erato chestertonii Heliconius,,,,macho,"Rio Bravo (along road), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33842,erato,erato chestertonii Heliconius,,,,hembra,"Rio Bravo (Canyon), COL VC",,,m,6,4,1998,,Jiggins,,NEIL ROSSER,,3.895833333,-76.62138889,CJ
+33843,erato,erato chestertonii Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33844,erato,erato chestertonii Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33845,erato,erato chestertonii Heliconius,,,,hembra,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33846,erato,erato chestertonii Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33847,erato,erato chestertonii Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33848,erato,erato chestertonii Heliconius,,,,hembra,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33849,erato,erato chestertonii Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33850,erato,erato chestertonii Heliconius,,,,macho,"Yotoco (just outside the reserve), COL VC",1640,1640,m,7,4,1998,,Jiggins,,NEIL ROSSER,,3.888888889,-76.43305556,CJ
+33851,erato,erato chestertonii Heliconius,,,"chestertonii x venus. Subsp NA, amended 30.11.09",macho,"Finca La Delicia, Qbda. La Guinea, on Cali - Buenaventura road past Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,,3.708789,-76.618928,CJ
+34951,erato,erato chestertonii Heliconius,,,,desconocido,7-75a N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-75.25,KB 1979
+34970,erato,erato chestertonii Heliconius,,,,desconocido,5-76a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-76.25,KB 1979
+35019,erato,erato chestertonii Heliconius,,,,desconocido,3-76a N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-76.25,KB 1979
+35036,erato,erato chestertonii Heliconius,,,,desconocido,1-77a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-77.25,KB 1979
+35447,erato,erato chestertonii Heliconius,,,,desconocido,6-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.25,-75.75,KB 1979
+35496,erato,erato chestertonii Heliconius,,,,desconocido,5-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-75.75,KB 1979
+35515,erato,erato chestertonii Heliconius,,,,desconocido,4-76b N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.25,-75.75,KB 1979
+35551,erato,erato chestertonii Heliconius,,,,desconocido,3-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.25,-76.75,KB 1979
+35576,erato,erato chestertonii Heliconius,,,,desconocido,2-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.25,-76.75,KB 1979
+35590,erato,erato chestertonii Heliconius,,,,desconocido,1-78b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-77.75,KB 1979
+35932,erato,erato chestertonii Heliconius,,,,desconocido,7-75c N,,,m,,,,,KB 1979,,NEIL ROSSER,,6.75,-75.25,KB 1979
+35992,erato,erato chestertonii Heliconius,,,,desconocido,4-76c N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.25,KB 1979
+36006,erato,erato chestertonii Heliconius,,,,desconocido,3-76c N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-76.25,KB 1979
+36324,erato,erato chestertonii Heliconius,,,,desconocido,6-76d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-75.75,KB 1979
+36354,erato,erato chestertonii Heliconius,,,,desconocido,5-76d N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-75.75,KB 1979
+36372,erato,erato chestertonii Heliconius,,,,desconocido,4-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.75,KB 1979
+36401,erato,erato chestertonii Heliconius,,,,desconocido,3-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-76.75,KB 1979
+38617,erato,erato chestertonii Heliconius,,,,desconocido,"Quebrada Las Dantas, Vereda Canta Delicia, Neira COL CD",1550,1550,m,,,1984,Velez,MHNL PERU ex Peru,,NEIL ROSSER,,5.15,-75.53333333,Geonames
+38618,erato,erato chestertonii Heliconius,,,,desconocido,El Saladito COL VC,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,3.483333333,-76.61666667,Brown
+38619,erato,erato chestertonii Heliconius,,,,desconocido,Saladito COL VC,1650,1650,m,,,,"Small, G.B.",MHNL PERU ex Peru,,NEIL ROSSER,,3.483333333,-76.61666667,Label
+59861,erato,erato chestertonii Heliconius,,,,unknown,Manizales COL CD,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,5.083333333,-75.53333333,Brown
+59862,erato,erato chestertonii Heliconius,,,,unknown,Marmato COL CD,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,5.47889,-75.5975,Geonames
+60465,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_526,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.169499,-75.316931,LeCrom
+60466,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_527,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.755584,-75.696892,LeCrom
+60467,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_528,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.791373,-76.065791,LeCrom
+60468,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_529,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.453875,-76.023464,LeCrom
+60469,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_530,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.247058,-75.727433,LeCrom
+60470,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_531,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.453692,-75.393044,LeCrom
+60471,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_532,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.696693,-75.726085,LeCrom
+60472,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_533,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.198175,-76.359958,LeCrom
+60473,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_534,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.735977,-76.525416,LeCrom
+60474,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_535,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.4002,-76.65259,LeCrom
+60475,erato,erato chestertonii Heliconius,,,,unknown,LeCrom_536,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.148996,-76.651009,LeCrom

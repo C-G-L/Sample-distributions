@@ -1,0 +1,97 @@
+unique_registros_ID,species,taxon_nombre,status_type,nombre_type,comentarios,sexo,localidad_codigo,elev_min_etiq,elev_max_etiq,elev_unidad,dia,mes,ano,colector,coleccion,fecha,digitador,duplicate,lat_dec,lon_dec,latlong_fuente
+846,erato,erato venus Heliconius,,,,desconocido,Buenaventura COL VC,,,m,,,,,KB 1979,,NEIL ROSSER,,3.893333333,-77.06972222,Geonames
+1006,erato,erato venus Heliconius,,,,desconocido,Frontino COL AN,,,m,,,,,KB 1979,,NEIL ROSSER,,6.766666667,-76.13333333,Brown
+1021,erato,erato venus Heliconius,,,,desconocido,Guisito [Rio] COL CC,,,m,,,,,KB 1979,,NEIL ROSSER,,2.616666667,-77.18333333,NIMA
+5997,erato,erato venus Heliconius,,,,macho,Bella Vista COL CH,,,m,,8,1927,,BMNH,,NEIL ROSSER,,6.523611111,-76.97444444,Geonames
+5998,erato,erato venus Heliconius,,,,macho,El Tigre COL CH,320,320,ft,,2,1909,,BMNH,,NEIL ROSSER,,4.95,-76.51666667,Brown
+5999,erato,erato venus Heliconius,,,,macho,Juntas Rio Tamana COL CH,405,405,ft,,2,1909,,BMNH,,NEIL ROSSER,,4.983333333,-76.4,Brown
+6000,erato,erato venus Heliconius,,,,macho,Dagua COL VC,200,200,m,,,,"Fassl, A.H.",BMNH,,NEIL ROSSER,,3.666666667,-76.7,www.calle.com
+6062,erato,erato venus Heliconius,,,,macho,San Pablo COL CH,,,m,,,,,BMNH,,NEIL ROSSER,,5.216666667,-76.65,Brown
+6064,erato,erato venus Heliconius,,,,hembra,Choco COL CC,,,m,26,4,1913,Spurrell,BMNH,,NEIL ROSSER,,3.5,-77.33333333,Geonames
+6065,erato,erato venus Heliconius,,,,hembra,Luebrada (?) de dia (?) Sanza Rio Yamana COL,800,800,ft,,3,1904,Palma,BMNH,,NEIL ROSSER,,,,unknown
+14182,erato,erato venus Heliconius,,,,unknown,Junction Old Buenaventura rd and Rio Tatabro COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.7,-76.96666667,Google Earth
+14183,erato,erato venus Heliconius,,,,unknown,Calima bajo COL VC,300,300,ft,,,1988,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.996388889,-76.97444444,Geonames
+14184,erato,erato venus Heliconius,,,,unknown,"Rodea, Iscuande COL NA",30,30,ft,,,1977,"Hutchings, R.W.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.444983333,-77.97110278,Google Earth
+14185,erato,erato venus Heliconius,,,,unknown,Guapi COL CC,0,0,m,,,1985,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.553888889,-77.85833333,NIMA
+14186,erato,erato venus Heliconius,,,,unknown,Old Buenaventura rd km 55 -65 COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.606944444,-76.87888889,Google Earth
+14213,erato,erato venus Heliconius,,,,unknown,"Rodea, Iscuande COL NA",30,30,ft,,,1977,"Hutchings, R.W.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.444983333,-77.97110278,Google Earth
+14214,erato,erato venus Heliconius,,,,unknown,Guapi COL CC,0,0,m,,,1985,"Sullivan, J.B.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,2.553888889,-77.85833333,NIMA
+14215,erato,erato venus Heliconius,,,,unknown,Junction Old Buenaventura rd and Rio Tatabro COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.7,-76.96666667,Google Earth
+14216,erato,erato venus Heliconius,,,,unknown,Cali - Buenaventura (old road) km 45 COL VC,,,m,,,,,FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.559694444,-76.80255833,Google Earth
+14217,erato,erato venus Heliconius,,,,unknown,"Carton Colombia Camp, bajo Calima Valle COL VC",50,50,m,,,1983,"Hutchings, R.W.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.975183333,-76.75370278,google Earth
+14218,erato,erato venus Heliconius,,,,unknown,Buenaventura COL VC,50,50,m,,,1973,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.893333333,-77.06972222,Geonames
+14219,erato,erato venus Heliconius,,,,unknown,Anchicaya Rio COL VC,500,500,m,,,1973,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.716666667,-76.95,Brown
+14220,erato,erato venus Heliconius,,,,unknown,Buenaventura COL VC,30,30,m,,,1973,"Steinhauser, S. & L.",FLMNH (not labelled) - Basement,,NEIL ROSSER,,3.893333333,-77.06972222,Geonames
+16089,erato,erato venus Heliconius,,,,unknown,Guarato COL CH,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.3,-76.36666667,www.calle.com
+16090,erato,erato venus Heliconius,,,,unknown,Hacienda Bacori COL RI,450,450,m,,,1983,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.342783333,-76.09760278,google Earth
+16091,erato,erato venus Heliconius,,,,unknown,Pueblo Rico nr COL RI,450,450,m,,,1982,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,5.238333333,-76.03638889,Geonames
+16092,erato,erato venus Heliconius,,,,unknown,Cosumbo River x Pital River COL VC,900,900,m,,,1984,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,unknown
+16093,erato,erato venus Heliconius,,,,unknown,San Isidro COL ??,,,m,,,1960,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,,,,
+26519,erato,erato venus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26520,erato,erato venus Heliconius,,,,hembra,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26521,erato,erato venus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26522,erato,erato venus Heliconius,,,,hembra,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26523,erato,erato venus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26524,erato,erato venus Heliconius,,,,hembra,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26525,erato,erato venus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26526,erato,erato venus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+26527,erato,erato venus Heliconius,,,,macho,Palestina 3km downstream-Choco COL,,,m,,8,1988,,FLMNH,,Neil Rosser,,4.179363889,-77.13299167,Geonames + Google Earth
+29047,erato,erato venus Heliconius,,,,descononcido,Quibdo-acima de 1200m COL CH,,,m,,,,,KB 1979,,NEIL ROSSER,,5.751163889,-76.20749444,Google Earth
+29173,erato,erato venus Heliconius,,,,descononcido,Pizarro COL CH,,,m,,,,,KB 1979,,NEIL ROSSER,,4.969141,-77.369081,Google Earth
+29202,erato,erato venus Heliconius,,,,descononcido,Bella Vista COL CH,,,m,,,,,KB 1979,,NEIL ROSSER,,6.523611111,-76.97444444,Geonames
+32291,erato,erato venus Heliconius,,,,unknown,"5 km e. Jaqu�, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,7.515180556,-78.11664444,Google Earth
+32353,erato,erato venus Heliconius,,,,unknown,"Cana, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,7.850241667,-77.64060556,Google Earth
+32821,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32822,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32823,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32824,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32825,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32826,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32827,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 32, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.515716667,-76.70960556,Google Earth
+32833,erato,erato venus Heliconius,,,,unknown,"old Cali-Buenaventura Rd. km 39, V. del Cauca COL",,,m,,,,,Brower,,NEIL ROSSER,,3.542427778,-76.76279444,Google Earth
+33165,erato,erato venus Heliconius,,,,unknown,"Valle Alegre, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,7.970280556,-78.19974167,Google Earth + Brower paper
+33168,erato,erato venus Heliconius,,,,unknown,"Valle Alegre, Darien PAN",,,m,,,,,Brower,,NEIL ROSSER,,7.970280556,-78.19974167,Google Earth + Brower paper
+34090,erato,erato venus Heliconius,,,,hembra,"Rio Piñas, Campsite PAN DA",50,50,m,11,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34091,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34092,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34093,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34094,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34095,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34096,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34097,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34098,erato,erato venus Heliconius,,,,macho,"Rio Piñas, Campsite PAN DA",50,50,m,12,5,2003,,Jiggins,,NEIL ROSSER,,7.6362,-78.1897,Jiggins
+34969,erato,erato venus Heliconius,,,,desconocido,5-76a N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-76.25,KB 1979
+35027,erato,erato venus Heliconius,,,,desconocido,1-78a N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-78.25,KB 1979
+35424,erato,erato venus Heliconius,,,,desconocido,7-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,7.25,-76.75,KB 1979
+35487,erato,erato venus Heliconius,,,,desconocido,5-77b N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.25,-76.75,KB 1979
+35589,erato,erato venus Heliconius,,,,desconocido,1-78b N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.25,-77.75,KB 1979
+35962,erato,erato venus Heliconius,,,,desconocido,5-76c N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-76.25,KB 1979
+35998,erato,erato venus Heliconius,,,,desconocido,3-77c N,,,m,,,,,KB 1979,,NEIL ROSSER,,2.75,-77.25,KB 1979
+36011,erato,erato venus Heliconius,,,,desconocido,2-78c N,,,m,,,,,KB 1979,,NEIL ROSSER,,1.75,-78.25,KB 1979
+36025,erato,erato venus Heliconius,,,,desconocido,1-78c N,,,m,,,,,KB 1979,,NEIL ROSSER,,0.75,-78.25,KB 1979
+36317,erato,erato venus Heliconius,,,,desconocido,6-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,5.75,-76.75,KB 1979
+36347,erato,erato venus Heliconius,,,,desconocido,5-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,4.75,-76.75,KB 1979
+36371,erato,erato venus Heliconius,,,,desconocido,4-77d N,,,m,,,,,KB 1979,,NEIL ROSSER,,3.75,-76.75,KB 1979
+38612,erato,erato venus Heliconius,,,,desconocido,Quibdo COL CH,,,m,,,,,MHNL PERU ex Peru,,NEIL ROSSER,,5.7,-76.66666667,Label
+38613,erato,erato venus Heliconius,,,,desconocido,Cali COL VC,1000,1000,m,,,,"Denhez, L.",MHNL PERU ex Peru,,NEIL ROSSER,,3.45,-76.51666667,Brown
+51072,erato,erato venus Heliconius,,,venus x chestertonii,macho,Calima Rio COL VC,1200,1200,m,12,19,1988,,FLMNH,,Neil Rosser,duplicate,3.933333333,-76.51666667,Brown
+51073,erato,erato venus Heliconius,,,venus x chestertonii,hembra,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+51074,erato,erato venus Heliconius,,,venus x chestertonii,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+51075,erato,erato venus Heliconius,,,venus x chestertonii,macho,Rio Calima Near Rio Bravo COL VC,1200,1200,m,,,1988,,FLMNH,05-Aug,Neil Rosser,duplicate,3.907455556,-76.62491111,Geonames + Google Earth
+51186,erato,erato venus Heliconius,,,chestertonii x venus,macho,"Finca La Delicia, Qbda. La Guinea, on Cali - Buenaventura road past Tunel#3 COL VC",,,m,5,4,1998,,Jiggins,,NEIL ROSSER,duplicate,3.708789,-76.618928,CJ
+51222,erato,erato venus Heliconius,,,Hybrid - chestertonii x venus,unknown,Cosumbo River x Pital River COL VC,900,900,m,,,1984,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,duplicate,,,unknown
+51223,erato,erato venus Heliconius,,,Hybrid - chestertonii x venus,unknown,Calima - Tal COL VC,,,m,,,,,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,duplicate,3.89205,-76.500779,Brown
+51224,erato,erato venus Heliconius,,,Hybrid - chestertonii x venus,unknown,Hacienda Bacori COL RI,450,450,m,,,1982,Velez,FLMNH (not labelled) - Accessions (2nd floor),,NEIL ROSSER,duplicate,5.342783333,-76.09760278,google Earth
+59859,erato,erato venus Heliconius,,,,unknown,El Dovio COL CH,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,4.5125,-76.24111,
+59860,erato,erato venus Heliconius,,,,unknown,San Jose del Palmar COL CH,,,m,,,,,LeCrom Point localities,,NEIL ROSSER,,4.866666667,-76.29333333,www.calle.com
+60494,erato,erato venus Heliconius,,,,unknown,LeCrom_555,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,6.310497,-77.268539,LeCrom
+60495,erato,erato venus Heliconius,,,,unknown,LeCrom_556,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.886231,-76.553574,LeCrom
+60496,erato,erato venus Heliconius,,,,unknown,LeCrom_557,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.551238,-76.466511,LeCrom
+60497,erato,erato venus Heliconius,,,,unknown,LeCrom_558,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.383189,-76.129419,LeCrom
+60498,erato,erato venus Heliconius,,,,unknown,LeCrom_559,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.047976,-76.551806,LeCrom
+60499,erato,erato venus Heliconius,,,,unknown,LeCrom_560,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,5.133084,-77.308861,LeCrom
+60500,erato,erato venus Heliconius,,,,unknown,LeCrom_561,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,4.459583,-76.424299,LeCrom
+60501,erato,erato venus Heliconius,,,,unknown,LeCrom_562,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.789987,-76.63367,LeCrom
+60502,erato,erato venus Heliconius,,,,unknown,LeCrom_563,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,3.829495,-76.971949,LeCrom
+60503,erato,erato venus Heliconius,,,,unknown,LeCrom_564,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.489124,-76.967492,LeCrom
+60504,erato,erato venus Heliconius,,,,unknown,LeCrom_565,,,m,,,,,LeCrom Book Georeferenced,,NEIL ROSSER,,2.196106,-78.015901,LeCrom

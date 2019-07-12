@@ -2,7 +2,7 @@
 
 This function allows you to plot a sample distributions with convex hull polygon (alpha shape).
 
-<img src="https://github.com/StevenVB12/Sample-distributions/issues/1#issue-467579325" alt="workflow" width="500" align="center"></p>
+<img src="https://user-images.githubusercontent.com/6349171/61155294-898d6f80-a4be-11e9-974c-39ce5193f958.png" alt="workflow" width="500" align="center"></p>
 
 
 The function is written to use distribution data obtained from: 
